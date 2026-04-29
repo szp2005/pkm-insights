@@ -1,0 +1,62 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  canonicalURL?: string;
+  pubDate?: string;
+  isArticle?: boolean;
+}
+const {
+  title = 'PKM Insights',
+  description = 'Master your knowledge with personal knowledge management guides, second brain methods, and digital organization strategies.',
+  canonicalURL = Astro.url.href,
+  pubDate,
+  isArticle = false,
+} = Astro.props;
+const siteName = 'PKM Insights';
+const siteURL = 'https://pkm-insights.pages.dev';
+const ogImage = `${siteURL}/og-default.jpg`;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="sitemap" href="/sitemap.xml" />
+    <meta property="og:type" content={isArticle ? 'article' : 'website'} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:site_name" content={siteName} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    {isArticle && (
+      <script type="application/ld+json" set:html={JSON.stringify({
+        "@context":"https://schema.org","@type":"Article",
+        "headline":title,"description":description,
+        "datePublished":pubDate,
+        "publisher":{"@type":"Organization","name":siteName,"url":siteURL}
+      })} />
+    )}
+    <link rel="stylesheet" href="/styles/global.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">PKM Insights</a>
+      <nav>
+        <a href="/posts/">Guides</a>
+        <a href="/about/">About</a>
+      </nav>
+    </header>
+    <main><slot /></main>
+    <footer class="site-footer">
+      <p>Independent guides to personal knowledge management and building your second brain.</p>
+    </footer>
+  </body>
+</html>
