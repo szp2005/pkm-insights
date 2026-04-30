@@ -16,7 +16,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://pkm-insights.pages.dev/posts/best-apps-for-personal-knowledge-management/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/digital-note-taking-strategies-for-productivity/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm-insights.pages.dev/posts/how-to-build-a-second-brain/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/how-to-organize-digital-files-efficiently/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -27,6 +42,16 @@
   </url>
   <url>
     <loc>https://pkm-insights.pages.dev/posts/para-method-for-digital-organization/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/second-brain-vs-zettelkasten-method/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/steps-to-building-a-second-brain/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
