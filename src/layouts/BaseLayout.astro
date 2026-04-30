@@ -83,31 +83,12 @@ const ogImage = `${siteURL}/og-default.png`;
     {isArticle && (
       <script type="application/ld+json" set:html={JSON.stringify({
         "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": title,
-        "description": description,
-        "datePublished": pubDate,
-        "dateModified": dateModified ?? pubDate,
-        "image": articleImage ?? ogImage,
-        "inLanguage": "en",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": canonicalURL
-        },
-        "author": {
-          "@type": "Person",
-          "name": author ?? "Editorial Team",
-          "url": `${siteURL}/about/`
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": siteName,
-          "url": siteURL,
-          "logo": {
-            "@type": "ImageObject",
-            "url": ogImage
-          }
-        }
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": siteURL },
+          { "@type": "ListItem", "position": 2, "name": "Posts", "item": `${siteURL}/posts/` },
+          { "@type": "ListItem", "position": 3, "name": title, "item": canonicalURL }
+        ]
       })} />
     )}
     
