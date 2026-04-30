@@ -119,3 +119,12 @@ Sönke Ahrens' *How to Take Smart Notes* is more than a book about productivity;
 By breaking down the artificial barriers between reading, thinking, and writing, the Zettelkasten transforms knowledge work from an exhausting chore into a compounding process of discovery. It requires an initial investment of time and a shift in mindset, but the return on investment—a lifelong, ever-growing engine of ideas—is immeasurable.
 
 Stop letting your hard-earned knowledge slip away. Grab a pen, start capturing your fleeting thoughts, translate them into your own words, and begin building your second brain today.
+
+---
+
+## Related Reading
+
+- [Evergreen Notes: Definition, Principles, and Practical Examples](/posts/evergreen-notes-definition-and-examples/)
+- [Effective Note Taking Techniques for Learning: A Comprehensive Guide](/posts/effective-note-taking-techniques-for-learning/)
+- [The PARA Method for Digital Organization: A Comprehensive Expert Guide](/posts/para-method-for-digital-organization/)
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
