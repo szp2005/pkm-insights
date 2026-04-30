@@ -123,3 +123,12 @@ The "Roam vs. Obsidian" debate often mirrors the "iOS vs. Android" debate. Roam 
 
 There is no objectively "better" tool—only the tool that best maps to the contours of your own mind. If possible, try both for a week. Start with Obsidian since it is free, and see if the file-based approach resonates. If you find yourself frustrated by the friction of organizing files and crave the fluidity of block-level outlining, the investment in Roam Research may be exactly what your workflow demands.
 ```
+
+---
+
+## Related Reading
+
+- [Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison](/posts/logseq-vs-obsidian-for-second-brain/)
+- [Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain](/posts/personal-knowledge-management-tools-comparison/)
+- [The Ultimate Guide: Building a PKM System from Scratch](/posts/building-a-pkm-system-from-scratch/)
+- [Notion vs Obsidian for PKM: The Definitive Expert Guide](/posts/notion-vs-obsidian-for-pkm/)
