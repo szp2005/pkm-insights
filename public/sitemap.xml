@@ -16,6 +16,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://pkm-insights.pages.dev/posts/atomic-notes-writing-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/benefits-of-a-personal-knowledge-management-system/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm-insights.pages.dev/posts/best-apps-for-personal-knowledge-management/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -26,7 +36,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm-insights.pages.dev/posts/evergreen-notes-definition-and-examples/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm-insights.pages.dev/posts/how-to-build-a-second-brain/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/how-to-connect-ideas-in-obsidian-notes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -42,6 +62,11 @@
   </url>
   <url>
     <loc>https://pkm-insights.pages.dev/posts/para-method-for-digital-organization/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/personal-knowledge-management-tools-comparison/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
