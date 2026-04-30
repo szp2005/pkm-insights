@@ -121,6 +121,21 @@ Coupling these cognitive techniques with robust external systems—such as the Z
 Knowledge is only potential power; retained and synthesized knowledge is the actual catalyst for genuine insight, creativity, and lasting success. By implementing these best practices, you can fundamentally transform your relationship with information, ensuring that the valuable lessons you learn today remain accessible, compound over time, and serve as a lifelong asset.
 ```
 
+## Frequently Asked Questions
+
+### What is spaced repetition and how does it improve memory?
+Spaced repetition is a learning technique that involves reviewing information at gradually increasing intervals. This method leverages the psychological spacing effect, helping to transfer knowledge from short-term to long-term memory more efficiently than cramming.
+
+### How does sleep affect our ability to retain new information?
+Sleep plays a critical role in memory consolidation, which is the process of stabilizing a memory trace after initial acquisition. Getting adequate, high-quality sleep helps the brain reorganize and integrate new knowledge, making it easier to recall later.
+
+### Can physical exercise actually help me remember things better?
+Yes, regular physical exercise has been shown to boost memory and cognitive function. Aerobic exercise increases blood flow to the brain and stimulates the release of growth factors that promote the health and survival of new brain cells.
+
+### What is the Feynman Technique and why is it effective for retention?
+The Feynman Technique involves explaining a concept in simple terms, as if you were teaching it to a beginner. This process helps identify gaps in your understanding and reinforces the material by forcing you to break it down into fundamental, easily digestible components.
+
+
 ---
 
 ## Related Reading
