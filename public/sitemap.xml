@@ -31,7 +31,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm-insights.pages.dev/posts/best-practices-for-knowledge-retention/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/building-a-pkm-system-from-scratch/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm-insights.pages.dev/posts/digital-decluttering-for-information-overload/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/digital-garden-vs-second-brain-difference/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -76,7 +91,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm-insights.pages.dev/posts/how-to-take-smart-notes-summary/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm-insights.pages.dev/posts/knowledge-management-strategies-for-students/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/logseq-vs-obsidian-for-second-brain/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/managing-digital-information-overload-tips/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/notion-vs-obsidian-for-pkm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -86,7 +121,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm-insights.pages.dev/posts/personal-information-management-system-setup/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm-insights.pages.dev/posts/personal-knowledge-management-tools-comparison/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/roam-research-vs-obsidian-comparison/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -102,6 +147,11 @@
   </url>
   <url>
     <loc>https://pkm-insights.pages.dev/posts/steps-to-building-a-second-brain/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/tiago-forte-building-a-second-brain-review/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
