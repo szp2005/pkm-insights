@@ -161,3 +161,11 @@ As you begin building your evergreen note system, watch out for these common tra
 Adopting an evergreen notes workflow is a paradigm shift. It moves you away from the stressful, Sisyphean task of trying to memorize everything you consume, and toward a system of gradual, compounding knowledge creation. 
 
 By ensuring your notes are atomic, concept-oriented, densely linked, and written in your own words, you are building an intellectual asset that will pay dividends for years to come. You are no longer just an archivist of other people's ideas; you are an active cultivator of your own insights. Start small, write one evergreen note today, connect it tomorrow, and watch your personal knowledge base flourish.
+
+---
+
+## Related Reading
+
+- [How to Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
+- [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)
