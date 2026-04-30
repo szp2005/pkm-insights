@@ -117,6 +117,21 @@ Getting Things Done is not an application you install; it is an operating system
 For the modern knowledge worker, adopting a customized GTD methodology is the difference between operating in a constant state of reactive firefighting and achieving a state of proactive, focused execution. By systematically offloading cognitive storage to a trusted external system, you reclaim your brain for its highest and best use: thinking, synthesizing, and creating deep value. Start small, focus on the Weekly Review, and aggressively protect your attention.
 ```
 
+## Frequently Asked Questions
+
+### How does the Getting Things Done (GTD) method specifically help modern knowledge workers?
+The GTD method helps knowledge workers by providing a systematic approach to capturing, clarifying, and organizing an overwhelming influx of digital information. By externalizing tasks into a trusted system, it reduces mental clutter and allows workers to focus completely on deep, high-value cognitive work rather than just trying to remember what to do next.
+
+### What is the most common mistake people make when adopting GTD for the first time?
+The most common mistake is skipping the Weekly Review, which is the critical maintenance phase that keeps the system reliable and up-to-date. Without this regular recalibration, your productivity system quickly becomes outdated and untrusted, leading you back to managing tasks by crisis and memory.
+
+### Can GTD be effectively integrated with modern digital tools and task managers?
+Yes, GTD is highly adaptable and pairs exceptionally well with modern task managers like Todoist, Notion, or OmniFocus. The core principles of capturing and organizing remain the same regardless of the medium, though specialized apps can automate context sorting and streamline the review process significantly.
+
+### How does GTD address the problem of constant digital interruptions and notification fatigue?
+GTD addresses interruptions by emphasizing the "capture" habit, allowing you to quickly log incoming requests or ideas and immediately return to your current task. This means you don't have to react to every notification instantly; instead, you process these captured items later during a dedicated time, protecting your deep work sessions.
+
+
 ---
 
 ## Related Reading
