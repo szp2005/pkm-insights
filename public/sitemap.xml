@@ -31,12 +31,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm-insights.pages.dev/posts/digital-decluttering-for-information-overload/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm-insights.pages.dev/posts/digital-note-taking-strategies-for-productivity/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm-insights.pages.dev/posts/effective-note-taking-techniques-for-learning/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm-insights.pages.dev/posts/evergreen-notes-definition-and-examples/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/getting-things-done-for-knowledge-workers/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -61,12 +76,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm-insights.pages.dev/posts/knowledge-management-strategies-for-students/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm-insights.pages.dev/posts/para-method-for-digital-organization/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm-insights.pages.dev/posts/personal-knowledge-management-tools-comparison/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm-insights.pages.dev/posts/second-brain-for-boosting-creativity/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
