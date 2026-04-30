@@ -5,6 +5,7 @@ interface Props {
   canonicalURL?: string;
   pubDate?: string;
   isArticle?: boolean;
+  noindex?: boolean;
 }
 const {
   title = 'PKM Insights',
@@ -12,6 +13,7 @@ const {
   canonicalURL = Astro.url.href,
   pubDate,
   isArticle = false,
+  noindex = false,
 } = Astro.props;
 const siteName = 'PKM Insights';
 const siteURL = 'https://pkm.notes-automate.com';
@@ -25,6 +27,7 @@ const ogImage = `${siteURL}/og-default.png`;
     <meta name="google-site-verification" content="jVpIV2uq9S09WBugGVvxDvLrP3FDSoDdjGssxfJTN5M" />
     <meta name="description" content={description} />
     <title>{title}</title>
+    {noindex && (<meta name="robots" content="noindex,follow" />)}
     <link rel="canonical" href={canonicalURL} />
     <link rel="sitemap" href="/sitemap.xml" />
     <link rel="alternate" type="application/rss+xml" title="PKM Insights RSS Feed" href="/rss.xml" />
