@@ -4,6 +4,7 @@ description: "Combat cognitive fatigue and reclaim your productivity with expert
 pubDate: "2026-04-30"
 author: "Productivity Engineering Team"
 tags: ["digital decluttering", "information overload", "productivity", "personal knowledge management", "focus"]
+type: "informational"
 ---
 
 # Digital Decluttering for Information Overload: A Comprehensive Guide to Reclaiming Your Focus
