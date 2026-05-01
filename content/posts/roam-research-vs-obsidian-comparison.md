@@ -2,13 +2,12 @@
 title: "Roam Research vs Obsidian: The Ultimate Comparison for Networked Thought"
 description: "An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the best Personal Knowledge Management (PKM) tool."
 pubDate: "2026-04-30"
-author: "Knowledge Management Architect"
+author: "Alex Chen"
 tags: ["pkm", "obsidian", "roam research", "productivity", "note-taking", "tools"]
 type: "review"
 ---
 
 > **Quick Answer:** Roam Research vs Obsidian matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the best Personal Knowledge Management (PKM) tool.
-
 
 The landscape of Personal Knowledge Management (PKM) has undergone a seismic shift over the last few years. Moving away from rigid, folder-based hierarchies, the vanguard of note-taking now embraces "networked thought." At the epicenter of this revolution are two titans: **Roam Research** and **Obsidian**. 
 
@@ -128,22 +127,23 @@ The "Roam vs. Obsidian" debate often mirrors the "iOS vs. Android" debate. Roam 
 There is no objectively "better" tool—only the tool that best maps to the contours of your own mind. If possible, try both for a week. Start with Obsidian since it is free, and see if the file-based approach resonates. If you find yourself frustrated by the friction of organizing files and crave the fluidity of block-level outlining, the investment in Roam Research may be exactly what your workflow demands.
 ```
 
-
 ## Frequently Asked Questions
 
 ### What is the main benefit of Roam Research vs Obsidian?
+
 An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the best Personal Knowledge Management (PKM) tool. The real benefit is that it turns a vague problem into a clearer decision, workflow, or setup that knowledge workers, students, and creators can act on immediately.
 
 ### Who is Roam Research vs Obsidian best for?
+
 Roam Research vs Obsidian is best for knowledge workers, students, and creators who want a practical personal knowledge management improvement without adding unnecessary complexity. It is especially useful when you need repeatable results rather than another isolated tip.
 
 ### How should I get started with Roam Research vs Obsidian?
+
 Start by identifying the specific outcome you want, then apply the smallest useful version of the advice in this article. After that, review what worked and adjust the setup, tool, or process before expanding it.
 
 ### What mistakes should I avoid with Roam Research vs Obsidian?
-Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
----
+Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
 ## Related Reading
 
