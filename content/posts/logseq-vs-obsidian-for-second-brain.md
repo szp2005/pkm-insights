@@ -4,6 +4,7 @@ description: "An expert deep dive into Logseq and Obsidian. Discover which tool 
 pubDate: "2026-04-30"
 author: "PKM Expert"
 tags: ["second brain", "logseq", "obsidian", "pkm", "knowledge management"]
+type: "review"
 ---
 
 > **Quick Answer:** Logseq vs Obsidian for Second Brain matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. An expert deep dive into Logseq and Obsidian. Discover which tool is best suited for building your second brain, from outliners and bi-directional linking to extreme customizability.
