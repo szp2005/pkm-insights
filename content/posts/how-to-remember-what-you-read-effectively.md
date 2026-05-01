@@ -4,6 +4,7 @@ description: "Stop forgetting the books and articles you read. Discover science-
 pubDate: "2026-04-30"
 author: "Expert Researcher"
 tags: ["productivity", "learning", "memory", "PKM"]
+type: "informational"
 ---
 
 > **Quick Answer:** Remember What You Read Effectively matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Stop forgetting the books and articles you read. Discover science-backed strategies, from active reading to spaced repetition, to transform information into permanent knowledge.
