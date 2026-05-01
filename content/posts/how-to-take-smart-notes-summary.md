@@ -4,6 +4,7 @@ description: "Master the Zettelkasten method with our in-depth summary of 'How t
 pubDate: "2026-04-30"
 author: "Knowledge Management Expert"
 tags: ["PKM", "Zettelkasten", "Note-Taking", "Productivity", "Book Summary"]
+type: "informational"
 ---
 
 # How to Take Smart Notes Summary: Master the Zettelkasten Method
