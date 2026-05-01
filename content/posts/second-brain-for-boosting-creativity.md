@@ -5,6 +5,7 @@ pubDate: "2026-04-30"
 author: "System"
 tags: ["PKM", "Second Brain", "Creativity", "Productivity"]
 category: "Knowledge Management"
+type: "informational"
 ---
 
 # The Ultimate Guide to Using a Second Brain for Boosting Creativity
