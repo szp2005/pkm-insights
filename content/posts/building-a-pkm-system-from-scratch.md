@@ -5,6 +5,7 @@ pubDate: "2026-04-30"
 author: "Knowledge Architect"
 tags: ["PKM", "Productivity", "Second Brain", "Note-taking"]
 slug: "building-a-pkm-system-from-scratch"
+type: "informational"
 ---
 
 # The Ultimate Guide: Building a PKM System from Scratch
