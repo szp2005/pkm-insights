@@ -4,6 +4,7 @@ description: "Discover how to adapt David Allen's Getting Things Done (GTD) meth
 pubDate: "2026-04-30"
 author: "Productivity Engineering Team"
 tags: ["productivity", "gtd", "knowledge-management", "deep-work", "workflows"]
+type: "informational"
 ---
 
 > **Quick Answer:** Getting Things Done for Knowledge Workers matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover how to adapt David Allen's Getting Things Done (GTD) methodology specifically for the unique challenges of modern knowledge work, information overload, and continuous context switching.
