@@ -4,6 +4,7 @@ description: "An in-depth, expert comparison of Roam Research and Obsidian. Disc
 pubDate: "2026-04-30"
 author: "Knowledge Management Architect"
 tags: ["pkm", "obsidian", "roam research", "productivity", "note-taking", "tools"]
+type: "review"
 ---
 
 > **Quick Answer:** Roam Research vs Obsidian matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the best Personal Knowledge Management (PKM) tool.
