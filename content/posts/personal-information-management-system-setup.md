@@ -4,6 +4,7 @@ description: "Discover how to design, implement, and optimize a Personal Informa
 pubDate: "2026-04-30"
 author: "System Architect"
 tags: ["productivity", "knowledge-management", "PIM", "organization"]
+type: "informational"
 ---
 
 # The Ultimate Guide to Personal Information Management System Setup
