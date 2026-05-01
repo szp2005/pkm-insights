@@ -169,6 +169,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/posts/knowledge-retention-techniques-for-researchers/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/knowledge-retrieval-using-semantic-search/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-for-academic-literature-reviews/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -182,6 +194,12 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/managing-digital-information-overload-tips/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/note-taking-for-lifelong-learners-2026/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -217,6 +235,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/posts/personal-information-management-system-setup-guide/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/posts/personal-information-management-system-setup/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -230,6 +254,12 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/personal-knowledge-management-tools-comparison/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/pkm-for-software-engineers-best-practices/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -403,13 +433,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pkm.notes-automate.com/tags/logseq/</loc>
+    <loc>https://pkm.notes-automate.com/tags/academic-writing/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pkm.notes-automate.com/tags/academic-writing/</loc>
+    <loc>https://pkm.notes-automate.com/tags/logseq/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
