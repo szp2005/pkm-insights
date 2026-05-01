@@ -4,6 +4,7 @@ description: "Discover practical, expert-level knowledge management strategies f
 pubDate: "2026-04-30"
 author: "Expert Educator"
 tags: ["knowledge management", "PKM", "student success", "study strategies", "productivity"]
+type: "informational"
 ---
 
 # Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence
