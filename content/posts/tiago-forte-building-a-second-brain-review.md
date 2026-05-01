@@ -5,6 +5,7 @@ author: "PKM Insights"
 description: "A comprehensive, expert review of Tiago Forte's Building a Second Brain (BASB) methodology. We analyze its core principles, practical application, and whether it truly revolutionizes personal knowledge management."
 tags: ["PKM", "Second Brain", "Tiago Forte", "Productivity", "Note-taking"]
 slug: "tiago-forte-building-a-second-brain-review"
+type: "review"
 ---
 
 > **Quick Answer:** Tiago Forte's Building a Second Brain Review matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. A comprehensive, expert review of Tiago Forte's Building a Second Brain (BASB) methodology. We analyze its core principles, practical application, and whether it truly revolutionizes personal knowledge management.
