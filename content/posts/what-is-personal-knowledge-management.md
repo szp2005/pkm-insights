@@ -4,6 +4,7 @@ description: "Discover the definition of Personal Knowledge Management (PKM), ex
 pubDate: "2026-04-30"
 author: "Knowledge Architect"
 tags: ["PKM", "Personal Knowledge Management", "Productivity", "Second Brain", "Zettelkasten", "Notion", "Obsidian"]
+type: "informational"
 ---
 
 > **Quick Answer:** Personal Knowledge Management (PKM) matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the definition of Personal Knowledge Management (PKM), explore core methodologies like Zettelkasten and PARA, and learn practical steps to build a digital second brain.
