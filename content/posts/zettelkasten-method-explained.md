@@ -4,6 +4,7 @@ description: "Discover the principles, history, and practical applications of th
 pubDate: "2026-04-30"
 author: "PKM Expert"
 tags: ["zettelkasten", "pkm", "note-taking", "productivity", "knowledge-management"]
+type: "informational"
 ---
 
 # The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management
