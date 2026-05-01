@@ -4,6 +4,7 @@ description: "Discover the expert framework for crafting perfect atomic notes. L
 pubDate: "2026-04-30"
 author: "Knowledge Architect"
 tags: ["pkm", "zettelkasten", "productivity", "writing", "atomic notes"]
+type: "informational"
 ---
 
 # The Ultimate Atomic Notes Writing Guide: Mastering Personal Knowledge Management
