@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/posts/atomic-notes-writing-guide-for-zettelkasten/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/posts/atomic-notes-writing-guide/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -74,6 +80,12 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/capacities-vs-notion-object-based-pkm/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/connecting-ideas-in-obsidian-best-methods/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -199,6 +211,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/posts/managing-digital-information-overload-with-ai/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/posts/note-taking-for-lifelong-learners-2026/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -277,6 +295,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/posts/second-brain-for-boosting-creativity-in-2026/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/posts/second-brain-for-boosting-creativity/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -296,6 +320,12 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/semantic-layers-in-personal-knowledge-management/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/steps-to-building-a-second-brain-for-productivity/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -373,7 +403,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pkm.notes-automate.com/tags/learning/</loc>
+    <loc>https://pkm.notes-automate.com/tags/personal-knowledge-management/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -385,13 +415,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/tags/learning/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/tags/notion/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://pkm.notes-automate.com/tags/personal-knowledge-management/</loc>
+    <loc>https://pkm.notes-automate.com/tags/obsidian/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -410,12 +446,6 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/tags/tools/</loc>
-    <lastmod>2026-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://pkm.notes-automate.com/tags/obsidian/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -445,7 +475,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/tags/artificial-intelligence/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/tags/research-tools/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/tags/creativity/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
