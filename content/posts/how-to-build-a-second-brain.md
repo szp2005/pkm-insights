@@ -4,6 +4,7 @@ description: "Discover how to build a Second Brain to organize your digital life
 pubDate: 2026-04-30
 author: "Knowledge Management Expert"
 tags: ["productivity", "pkm", "second-brain", "knowledge-management", "tools"]
+type: "informational"
 ---
 
 > **Quick Answer:** Build a Second Brain matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover how to build a Second Brain to organize your digital life, boost productivity, and unlock your creative potential using proven PKM frameworks like CODE and PARA.
