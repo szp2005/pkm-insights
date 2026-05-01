@@ -4,6 +4,7 @@ description: "Discover the comprehensive definition of evergreen notes, explore 
 pubDate: "2026-04-30"
 author: "PKM Expert"
 tags: ["pkm", "evergreen notes", "zettelkasten", "note-taking", "productivity"]
+type: "informational"
 ---
 
 > **Quick Answer:** Evergreen Notes matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the comprehensive definition of evergreen notes, explore their core principles, and analyze practical examples that will revolutionize your personal knowledge management (PKM) workflow.
