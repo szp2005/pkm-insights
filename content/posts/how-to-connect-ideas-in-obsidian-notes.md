@@ -4,6 +4,7 @@ description: "Discover expert strategies for connecting ideas in Obsidian notes.
 pubDate: 2026-04-30
 author: "PKM Expert"
 tags: ["obsidian", "pkm", "knowledge-management", "productivity"]
+type: "informational"
 ---
 
 # How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management
