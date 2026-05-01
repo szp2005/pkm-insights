@@ -4,6 +4,7 @@ description: "Master digital decluttering with our comprehensive guide on how to
 pubDate: "2026-04-30"
 author: "Digital Organization Expert"
 tags: ["productivity", "digital minimalism", "file management", "organization"]
+type: "informational"
 ---
 
 # How to Organize Digital Files Efficiently: The Ultimate Expert Guide
