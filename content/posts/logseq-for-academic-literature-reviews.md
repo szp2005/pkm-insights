@@ -2,7 +2,7 @@
 title: "Logseq for Academic Literature Reviews: Complete 2026 Review"
 description: "Discover how to optimize Logseq for academic literature reviews. We evaluate its outliner capabilities, Zotero integration, and compare top alternatives."
 pubDate: "2026-05-01"
-author: "Knowledge Architect"
+author: "Alex Chen"
 tags: ["logseq", "literature review", "academic research", "pkm", "zotero"]
 slug: "logseq-for-academic-literature-reviews"
 type: "review"

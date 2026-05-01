@@ -2,7 +2,7 @@
 title: "Personal Knowledge Asset Management 2026: Complete Guide"
 description: "Master personal knowledge asset management in 2026. Discover practical systems to organize, connect, and retrieve your digital information effectively."
 pubDate: "2026-05-01"
-author: "Knowledge Architect"
+author: "Alex Chen"
 tags: ["knowledge management", "pkm", "productivity", "digital assets"]
 slug: "personal-knowledge-asset-management-2026"
 type: "informational"

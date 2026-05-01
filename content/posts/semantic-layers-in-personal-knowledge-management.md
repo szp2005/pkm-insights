@@ -2,7 +2,7 @@
 title: "Semantic Layers in Personal Knowledge Management: Complete Guide"
 description: "Discover how semantic layers in personal knowledge management transform scattered notes into an interconnected, queryable database. Complete implementation framework."
 pubDate: "2026-05-01"
-author: "Knowledge Architect"
+author: "Alex Chen"
 tags: ["pkm", "knowledge management", "semantic web", "productivity"]
 slug: "semantic-layers-in-personal-knowledge-management"
 type: "informational"

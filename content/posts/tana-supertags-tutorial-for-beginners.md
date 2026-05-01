@@ -2,7 +2,7 @@
 title: "Tana Supertags Tutorial for Beginners: A Step-by-Step Guide"
 description: "Follow this Tana Supertags tutorial for beginners to master node-based knowledge management, build custom workflows, and organize your digital workspace fast."
 pubDate: "2026-05-01"
-author: "Knowledge Architect"
+author: "Alex Chen"
 tags: ["tana", "knowledge management", "productivity workflows", "pkm beginners"]
 slug: "tana-supertags-tutorial-for-beginners"
 type: "informational"

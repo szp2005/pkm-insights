@@ -2,7 +2,7 @@
 title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
 description: "Master the Obsidian academic workflow for thesis 2026. Discover the exact setup, plugins, and folder structures to organize research and write faster."
 pubDate: "2026-05-01"
-author: "Knowledge Architect"
+author: "Alex Chen"
 tags: ["Obsidian", "Academic Writing", "Knowledge Management", "Thesis"]
 slug: "obsidian-academic-workflow-for-thesis-2026"
 type: "informational"

@@ -2,7 +2,7 @@
 title: "Self-Healing Knowledge Base Principles: Complete Guide to Automation"
 description: "Discover the core self-healing knowledge base principles to automate documentation updates, eliminate stale data, and maintain system accuracy effortlessly."
 pubDate: "2026-05-01"
-author: "Knowledge Architect"
+author: "Alex Chen"
 tags: ["knowledge management", "automation", "documentation", "artificial intelligence"]
 slug: "self-healing-knowledge-base-principles"
 type: "informational"

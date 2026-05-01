@@ -2,7 +2,7 @@
 title: "Capacities vs Notion: Which Is Better for Object-Based PKM?"
 description: "Compare Capacities and Notion for object-based personal knowledge management. Discover which tool fits your note-taking workflow and database needs in 2026."
 pubDate: "2026-05-01"
-author: "Knowledge Architect"
+author: "Alex Chen"
 tags: ["pkm", "notion", "capacities", "note-taking"]
 slug: "capacities-vs-notion-object-based-pkm"
 type: "review"
