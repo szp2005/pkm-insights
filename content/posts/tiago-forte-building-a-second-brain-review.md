@@ -1,4 +1,5 @@
 ---
+image: "/og/tiago-forte-building-a-second-brain-review.png"
 title: "Tiago Forte's Building a Second Brain Review: Is It Worth the Hype?"
 date: 2026-04-30
 author: "Alex Chen"

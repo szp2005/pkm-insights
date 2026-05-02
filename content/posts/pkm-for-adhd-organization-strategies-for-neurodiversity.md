@@ -1,4 +1,5 @@
 ---
+image: "/og/pkm-for-adhd-organization-strategies-neurodiversity.png"
 title: "PKM for ADHD: Organization Strategies for Neurodiversity"
 description: "Discover effective PKM for ADHD workflows. Learn organization strategies for neurodiversity that reduce overwhelm and turn scattered thoughts into action."
 pubDate: "2026-05-02"
@@ -113,3 +114,10 @@ A task manager (like Todoist or TickTick) tracks actionable items with deadlines
 
 ### Can a PKM help with ADHD object permanence?
 Yes. Because individuals with ADHD often forget things that are out of sight, deeply nested folders effectively hide information. A PKM solves this by using bidirectional links, visual graph views, and robust search functions to resurface connected ideas organically, keeping your past thoughts visible and accessible.
+
+---
+
+## Related Reading
+
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
+- [How to Avoid the Collector's Fallacy in PKM: 5-Step Guide](/posts/how-to-avoid-the-collectors-fallacy-in-pkm/)

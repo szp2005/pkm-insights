@@ -1,4 +1,5 @@
 ---
+image: "/og/heptabase-vs-scrintal-visual-sense-making-comparison.png"
 title: "Heptabase vs Scrintal: Best Visual Sense-Making Tool in 2026?"
 description: "Comparing Heptabase vs Scrintal for visual sense-making. Discover which spatial canvas tool is best for researchers, students, and visual thinkers."
 pubDate: "2026-05-02"
@@ -132,3 +133,10 @@ Both platforms support importing standard Markdown files, which allows you to br
 
 ### Which tool is better for collaborative team projects?
 Scrintal has an edge in collaboration, offering smoother sharing features and real-time multiplayer editing capabilities that make it easier for small teams to brainstorm on a shared canvas. Heptabase is currently optimized primarily for single-player personal knowledge management.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)

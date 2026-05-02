@@ -165,3 +165,10 @@ While the Daily Note is the default opening screen and the philosophical core of
 
 ### How does the offline mode work?
 Because Reflect is built with a local-first architecture, a full copy of your graph is stored on your device. You can open the app, read your notes, search your entire database, and create new entries without an internet connection. Changes will silently sync once you reconnect to the network.
+
+---
+
+## Related Reading
+
+- [Effective Note Taking Techniques for Learning: A Comprehensive Guide](/posts/effective-note-taking-techniques-for-learning/)
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

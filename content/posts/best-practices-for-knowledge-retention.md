@@ -1,4 +1,5 @@
 ---
+image: "/og/best-practices-for-knowledge-retention.png"
 title: "Mastering Memory: Best Practices for Knowledge Retention"
 description: "Discover scientifically proven techniques and practical frameworks to dramatically improve your knowledge retention."
 pubDate: "2026-04-30"

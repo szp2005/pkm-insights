@@ -1,4 +1,5 @@
 ---
+image: "/og/notion-vs-obsidian-for-pkm.png"
 title: "Notion vs Obsidian for PKM: The Definitive Expert Guide"
 description: "A comprehensive, deep-dive comparison between Notion and Obsidian for Personal Knowledge Management (PKM)."
 pubDate: "2026-04-30"

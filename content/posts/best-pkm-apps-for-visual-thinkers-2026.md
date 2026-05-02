@@ -1,4 +1,5 @@
 ---
+image: "/og/best-pkm-apps-for-visual-thinkers-2026.png"
 title: "Best PKM Apps for Visual Thinkers in 2026"
 description: "Discover the best PKM apps for visual thinkers in 2026. Compare top tools like Obsidian, Heptabase, and Scrintal to organize ideas and boost productivity."
 pubDate: "2026-05-01"

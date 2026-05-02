@@ -1,4 +1,5 @@
 ---
+image: "/og/digital-note-taking-strategies-for-productivity.png"
 title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
 date: 2026-04-30T12:00:00Z
 description: "Discover expert digital note-taking strategies to boost your productivity. Learn how to organize, link, and review your notes to build a powerful second."

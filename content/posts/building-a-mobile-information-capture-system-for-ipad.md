@@ -1,4 +1,5 @@
 ---
+image: "/og/building-a-mobile-information-capture-system-for-ipad.png"
 title: "Building a Mobile Information Capture System for iPad: Complete Guide"
 description: "Learn how to build a powerful mobile information capture system for iPad. Discover the best hardware, software, and workflows to turn your tablet into a."
 pubDate: "2026-05-02"
@@ -144,3 +145,10 @@ Yes, absolutely. If your primary capture mode is text, a good keyboard case and 
 
 ### How often should I process my iPad capture inbox?
 This depends on your volume of capture, but processing should be done at least weekly, and ideally daily. Spending 15 minutes at the end of the workday to review, tag, and file the raw notes and clippings you captured on your iPad prevents the inbox from becoming an overwhelming dumping ground.
+
+---
+
+## Related Reading
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

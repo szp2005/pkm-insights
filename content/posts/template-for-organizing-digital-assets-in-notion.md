@@ -111,3 +111,10 @@ Notion natively tracks page history, but it does not have traditional asset vers
 
 ### Can I search for text inside documents stored in Notion?
 Notion's search function indexes text directly written on Notion pages. However, it does not reliably perform Optical Character Recognition (OCR) or deep searching inside attached PDFs, Word documents, or image files. If text searchability is critical, you should extract the key text and place it in a text property or directly on the Notion page containing the asset.
+
+---
+
+## Related Reading
+
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
+- [The Transformative Benefits of a Personal Knowledge Management System](/posts/benefits-of-a-personal-knowledge-management-system/)

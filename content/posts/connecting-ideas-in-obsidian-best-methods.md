@@ -1,4 +1,5 @@
 ---
+image: "/og/connecting-ideas-in-obsidian-best-methods.png"
 title: "Connecting Ideas in Obsidian: Best Methods Complete Guide"
 description: "Discover the most effective workflows for connecting ideas in Obsidian. Master links, tags, and MOCs to build a powerful personal knowledge management system."
 pubDate: "2026-05-01"

@@ -1,4 +1,5 @@
 ---
+image: "/og/para-method-vs-zettelkasten-for-students.png"
 title: "PARA Method vs Zettelkasten: Which Is Better for Students?"
 description: "Compare the PARA method vs Zettelkasten for students. Discover which note-taking system best fits your study habits, research needs, and daily workflow."
 pubDate: "2026-05-01"

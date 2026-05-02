@@ -188,3 +188,10 @@ An ideal MOC contains between 10 and 30 links. If an MOC has fewer than 5 links,
 
 ### Should MOCs be in a specific folder?
 This depends on your preference. Many users keep all their MOC files in a dedicated `00 - MOCs` or `System` folder at the root of their vault to keep them separate from standard notes. Others leave them scattered in their respective project folders. A dedicated folder is generally recommended to prevent accidental deletion and keep structural files organized.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

@@ -107,3 +107,10 @@ Yes, highly safe. Because Obsidian operates on local files, your data never has 
 
 ### Can I export my team's data from Supernotes?
 Yes. Supernotes allows you to export your entire database as standard markdown files, JSON, or HTML, ensuring you are not locked into their ecosystem if your team decides to migrate in the future.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

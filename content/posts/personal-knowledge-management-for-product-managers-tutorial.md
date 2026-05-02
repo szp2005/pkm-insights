@@ -1,4 +1,5 @@
 ---
+image: "/og/personal-knowledge-management-for-product-managers-tutorial.png"
 title: "How to Set Up Personal Knowledge Management for Product Managers: 5-Step Guide"
 description: "Master personal knowledge management for product managers with this step-by-step tutorial. Build a scalable system to organize research, specs, and roadmaps."
 pubDate: "2026-05-02"
@@ -117,3 +118,10 @@ If you are using a cloud-based tool like Notion or Roam, ensure you review your 
 
 ### Is it worth transferring my old notes into a new PKM system?
 No. Attempting a massive migration of legacy notes usually causes project abandonment. Start fresh today. Only move old documents into the new system organically, pulling them over one by one as they become directly relevant to your current, active projects.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)

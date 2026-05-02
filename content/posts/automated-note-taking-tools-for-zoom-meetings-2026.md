@@ -148,3 +148,10 @@ While Zoom's native tool is excellent for basic summaries and security complianc
 
 ### Do I need to pay for a premium subscription to get good AI notes?
 Not necessarily. Tools like Fathom offer incredibly generous free tiers that include unlimited recording, transcription, and basic summaries. However, if you require team collaboration features, advanced analytics, or deep CRM integrations, you will need to upgrade to a paid organizational tier.
+
+---
+
+## Related Reading
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

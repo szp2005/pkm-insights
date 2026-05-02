@@ -1,4 +1,5 @@
 ---
+image: "/og/four-layer-stack-for-pkm-optimization.png"
 title: "Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain"
 description: "Discover the definitive four-layer stack for PKM optimization. Learn how to strategically capture, organize, distill, and express knowledge to boost deep work."
 pubDate: "2026-05-01"

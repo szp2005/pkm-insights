@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-use-anki-for-professional-skill-development.png"
 title: "How to Use Anki for Professional Skill Development: 5-Step Guide"
 description: "Discover how to use Anki for professional skill development. Master complex concepts, learn new languages, and accelerate your career with spaced repetition."
 pubDate: "2026-05-02"
@@ -87,3 +88,10 @@ While Anki excels at technical facts, it can be adapted for soft skills. You can
 
 ### How do I handle code snippets or complex diagrams in Anki?
 Anki supports images and basic code formatting. For diagrams, you can use the Image Occlusion Enhanced add-on to hide specific parts of a flowchart or architectural diagram. For code, keep snippets extremely short—focus on testing the logic or syntax of a specific line rather than asking yourself to reproduce a 50-line function from memory.
+
+---
+
+## Related Reading
+
+- [How to Integrate Spaced Repetition into Your Daily Writing Workflow: 5-Step Guide](/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/)
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

@@ -159,3 +159,10 @@ Yes. While Dataview can query checkboxes, Obsidian Tasks provides the necessary 
 
 ### What should I do with projects I want to pause?
 Change the YAML frontmatter status from `active` to `on-hold` or `someday`. Update your Dataview dashboard queries to exclude files with the `on-hold` status. This removes the project from your daily view without losing any of your linked notes or previous progress.
+
+---
+
+## Related Reading
+
+- [Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity](/posts/getting-things-done-for-knowledge-workers/)
+- [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)

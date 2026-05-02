@@ -122,3 +122,10 @@ No coding is required to use Obsidian effectively. While it uses Markdown—a si
 
 ### How much time does it take to maintain a legal PKM?
 Maintaining a PKM system requires a shift in *how* you spend your time, not necessarily an increase in total time spent. Instead of spending two hours passively reading and highlighting a PDF, you spend two hours extracting the holdings and typing brief summaries into your system. This upfront synthesis saves dozens of hours of redundant research during the drafting phase.
+
+---
+
+## Related Reading
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)

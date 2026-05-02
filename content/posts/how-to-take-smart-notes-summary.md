@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-take-smart-notes-summary.png"
 title: "How to Take Smart Notes: A Comprehensive Summary and Practical Guide"
 description: "Master the Zettelkasten method with our in-depth summary of 'How to Take Smart Notes'. Learn practical techniques for better knowledge management and writing."
 pubDate: "2026-04-30"

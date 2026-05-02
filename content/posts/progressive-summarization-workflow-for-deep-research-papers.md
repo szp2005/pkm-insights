@@ -1,4 +1,5 @@
 ---
+image: "/og/progressive-summarization-workflow-for-deep-research-papers.png"
 title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
 description: "Master the progressive summarization workflow for deep research papers. Learn how to distill complex academic literature into actionable insights efficiently."
 pubDate: "2026-05-02"
@@ -101,3 +102,10 @@ Keep margin notes for temporary thoughts while reading, but your formal progress
 
 ### What if I realize my Layer 1 capture missed important context?
 This is a normal part of the process. If you reach Layer 2 and realize the quotes you saved don't make sense without surrounding context, return to the original PDF, extract the missing paragraphs, and add them to your note. The workflow is iterative, not rigid.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

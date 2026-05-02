@@ -1,4 +1,5 @@
 ---
+image: "/og/personal-knowledge-asset-management-2026.png"
 title: "Personal Knowledge Asset Management 2026: Complete Guide"
 description: "Master personal knowledge asset management in 2026. Discover practical systems to organize, connect, and retrieve your digital information effectively."
 pubDate: "2026-05-01"

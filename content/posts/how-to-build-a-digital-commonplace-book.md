@@ -125,3 +125,10 @@ Yes, and it is generally recommended. Keeping one centralized database allows un
 
 ### What should I do if my inbox gets overwhelming with unread clips?
 Declare a temporary freeze on capturing new information and schedule brief, daily 15-minute sessions to clear the backlog. If a note sits in your inbox for months and no longer seems interesting, delete it without guilt; a commonplace book should only contain information that genuinely resonates with you.
+
+---
+
+## Related Reading
+
+- [Digital Garden vs Second Brain for Creatives: Which Is Better?](/posts/digital-garden-vs-second-brain-for-creatives/)
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)

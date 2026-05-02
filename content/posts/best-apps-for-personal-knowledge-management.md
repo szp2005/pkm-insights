@@ -1,4 +1,5 @@
 ---
+image: "/og/best-apps-for-personal-knowledge-management.png"
 title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
 description: "An expert, in-depth guide to the best apps for personal knowledge management (PKM). Discover how tools like Obsidian, Notion, and Logseq can transform."
 pubDate: "2026-04-30"

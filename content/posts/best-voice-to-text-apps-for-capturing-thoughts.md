@@ -167,3 +167,10 @@ A standard voice memo app simply records the raw audio file for you to listen to
 
 ### Do I need to dictate punctuation?
 With older dictation engines, you had to explicitly say "comma" or "period." Modern AI-powered transcription tools automatically inject punctuation based on the cadence of your speech, pauses, and grammatical context. While saying punctuation explicitly can still improve accuracy in strict dictation apps, tools like Whisper Memos and AudioPen format the text perfectly without it.
+
+---
+
+## Related Reading
+
+- [Effective Note Taking Techniques for Learning: A Comprehensive Guide](/posts/effective-note-taking-techniques-for-learning/)
+- [How to Migrate from Evernote to Obsidian 2026: 5-Step Guide](/posts/how-to-migrate-from-evernote-to-obsidian-2026/)

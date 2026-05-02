@@ -1,4 +1,5 @@
 ---
+image: "/og/building-a-pkm-system-from-scratch.png"
 title: "The Ultimate Guide: Building a PKM System from Scratch"
 description: "Discover how to build a robust Personal Knowledge Management (PKM) system from scratch. Learn expert methodologies, select the right tools, and organize."
 pubDate: "2026-04-30"

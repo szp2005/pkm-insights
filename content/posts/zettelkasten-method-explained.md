@@ -1,4 +1,5 @@
 ---
+image: "/og/zettelkasten-method-explained.png"
 title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
 description: "Discover the principles, history, and practical applications of the Zettelkasten method to build a second brain and supercharge your note-taking and."
 pubDate: "2026-04-30"

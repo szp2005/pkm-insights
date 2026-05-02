@@ -1,4 +1,5 @@
 ---
+image: "/og/atomic-notes-writing-guide.png"
 title: "The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten"
 description: "Discover the expert framework for crafting perfect atomic notes. Learn how to distill complex ideas, build a Zettelkasten, and unlock the compound."
 pubDate: "2026-04-30"

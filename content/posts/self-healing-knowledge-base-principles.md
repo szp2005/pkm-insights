@@ -1,4 +1,5 @@
 ---
+image: "/og/self-healing-knowledge-base-principles.png"
 title: "Self-Healing Knowledge Base Principles: Complete Guide to Automation"
 description: "Discover the core self-healing knowledge base principles to automate documentation updates, eliminate stale data, and maintain system accuracy effortlessly."
 pubDate: "2026-05-01"

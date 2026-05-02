@@ -152,3 +152,10 @@ A reference manager (like Zotero or Mendeley) is designed to store files, fetch 
 
 ### Do I have to pay for a tool to get a good academic workflow?
 No. A combination of Zotero (for PDF storage and reading) and Obsidian or Logseq (for knowledge management) is entirely free and represents one of the most powerful academic setups available. Costs only arise if you require specialized visual tools like LiquidText or premium cloud syncing services.
+
+---
+
+## Related Reading
+
+- [Connecting Ideas in Obsidian: Best Methods Complete Guide](/posts/connecting-ideas-in-obsidian-best-methods/)
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)

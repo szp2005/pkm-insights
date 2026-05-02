@@ -1,4 +1,5 @@
 ---
+image: "/og/best-privacy-focused-note-taking-apps-with-encryption.png"
 title: "Best Privacy-Focused Note Taking Apps with Encryption in 2026"
 description: "Compare the best privacy-focused note taking apps with encryption. Secure your sensitive data with end-to-end encryption, local-first architecture, and."
 pubDate: "2026-05-02"
@@ -178,3 +179,10 @@ Generally, yes. Open-source code allows independent security researchers and cry
 
 ### How do I safely sync local-first apps without paying for their cloud service?
 For apps like Obsidian, you can sync your local vault using third-party, end-to-end encrypted cloud storage like Proton Drive or Tresorit. Alternatively, you can use peer-to-peer syncing software like Syncthing, which syncs files directly between your devices over your local network or a secure tunnel without storing them on a central server.
+
+---
+
+## Related Reading
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Digital Garden vs Second Brain: What's the Difference and Which is Right for You?](/posts/digital-garden-vs-second-brain-difference/)

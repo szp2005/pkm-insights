@@ -149,3 +149,10 @@ It depends on your goal. If you need to memorize thousands of isolated facts (li
 
 ### How do I apply active recall to math or coding subjects?
 For procedural subjects like mathematics or programming, standard Q&A toggles are less effective. Instead, your "question" should be a specific problem or coding prompt, and the "answer" toggle should contain the step-by-step solution. Active recall here means attempting to solve the problem on a scratchpad before revealing the correct procedure.
+
+---
+
+## Related Reading
+
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
+- [Effective Note Taking Techniques for Learning: A Comprehensive Guide](/posts/effective-note-taking-techniques-for-learning/)

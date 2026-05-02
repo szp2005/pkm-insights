@@ -1,4 +1,5 @@
 ---
+image: "/og/second-brain-for-boosting-creativity-in-2026.png"
 title: "Second Brain for Boosting Creativity in 2026: Complete Guide"
 description: "Discover how building a second brain for boosting creativity in 2026 can organize your ideas, reduce cognitive load, and supercharge your creative output."
 pubDate: "2026-05-01"

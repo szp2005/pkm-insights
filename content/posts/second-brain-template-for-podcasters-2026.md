@@ -98,3 +98,10 @@ Create a dedicated "Sponsorships" database linked to your main episode pipeline.
 
 ### Is Notion or Obsidian better for a video podcast workflow?
 Notion generally handles video workflows better due to its superior embedding capabilities for frame.io links, YouTube drafts, and visual asset tracking. Obsidian is superior for text-heavy research but lacks native video workflow integrations.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

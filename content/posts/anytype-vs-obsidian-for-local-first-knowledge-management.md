@@ -124,3 +124,10 @@ Obsidian is generally better suited for traditional Zettelkasten and academic re
 
 ### How large can my vaults or spaces grow before performance drops?
 Obsidian is known to comfortably handle vaults exceeding 50,000 plaintext files without significant lag, provided you are not running heavy, unoptimized plugins. Anytype's performance is also excellent due to its underlying local database architecture, but users with massively dense graph structures may experience slightly longer load times on older mobile devices compared to raw text parsing.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

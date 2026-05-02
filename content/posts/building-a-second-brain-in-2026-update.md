@@ -1,4 +1,5 @@
 ---
+image: "/og/building-a-second-brain-in-2026-update.png"
 title: "Building a Second Brain in 2026 Update: Complete Setup Guide"
 description: "Discover the latest strategies and tools for Building a Second Brain in our 2026 update. Master knowledge management with local AI, spatial thinking, and."
 pubDate: "2026-05-01"

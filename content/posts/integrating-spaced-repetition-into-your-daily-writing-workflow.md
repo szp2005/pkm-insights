@@ -1,4 +1,5 @@
 ---
+image: "/og/integrating-spaced-repetition-into-your-daily-writing-workflow.png"
 title: "How to Integrate Spaced Repetition into Your Daily Writing Workflow: 5-Step Guide"
 description: "Discover how integrating spaced repetition into your daily writing workflow boosts long-term retention, sharpens ideas, and improves your creative output."
 pubDate: "2026-05-02"
@@ -133,3 +134,10 @@ Fiction writers benefit immensely from this system. You can use spaced repetitio
 
 ### What should I do when a note keeps showing up but I can't remember it?
 If a card is flagged as "hard" repeatedly, it is usually poorly written. You must reformat the prompt. Break the concept down into even smaller, atomic pieces, or rewrite the question so it is clearer and more closely aligned with how your brain naturally categorizes that specific information.
+
+---
+
+## Related Reading
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

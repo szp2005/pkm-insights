@@ -1,4 +1,5 @@
 ---
+image: "/og/pkm-for-software-engineers-best-practices.png"
 title: "PKM for Software Engineers: Best Practices & Complete Guide"
 description: "Master personal knowledge management (PKM) for software engineers. Learn the best practices to organize code snippets, system designs, and technical research."
 pubDate: "2026-05-01"

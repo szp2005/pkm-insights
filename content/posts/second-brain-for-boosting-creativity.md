@@ -1,4 +1,5 @@
 ---
+image: "/og/second-brain-for-boosting-creativity.png"
 title: "The Ultimate Guide to Using a Second Brain for Boosting Creativity"
 description: "Discover how a Second Brain can transform your creative workflow. Learn practical strategies to capture ideas, connect concepts, and overcome the blank."
 pubDate: "2026-04-30"

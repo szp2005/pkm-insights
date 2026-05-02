@@ -1,4 +1,5 @@
 ---
+image: "/og/effective-note-taking-techniques-for-learning.png"
 title: "Effective Note Taking Techniques for Learning: A Comprehensive Guide"
 description: "Master the art of effective note taking techniques for learning. Discover proven methods, expert strategies, and the best frameworks to enhance retention."
 pubDate: "2026-04-30"

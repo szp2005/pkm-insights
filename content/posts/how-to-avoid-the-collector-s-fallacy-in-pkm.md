@@ -120,3 +120,10 @@ Keep them as atomic as possible. A good synthesized note (often called a Zettel)
 
 ### I just deleted my backlog of 800 articles and I feel anxious. What should I do?
 Recognize that the anxiety is the FOMO speaking. You did not lose 800 pieces of knowledge; you lost 800 bookmarks. The cognitive load you freed up by eliminating that guilt will allow you to actually read and process the next five high-quality articles you encounter.
+
+---
+
+## Related Reading
+
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)

@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-migrate-from-evernote-to-obsidian-2026.png"
 title: "How to Migrate from Evernote to Obsidian 2026: 5-Step Guide"
 description: "Learn how to migrate from Evernote to Obsidian in 2026 with zero data loss. Follow our step-by-step guide to export ENEX files and set up your local vault."
 pubDate: "2026-05-02"
@@ -156,3 +157,10 @@ Web clippings are saved in Evernote as complex HTML structures. During the impor
 
 ### Can I run Evernote and Obsidian at the same time?
 Yes, but maintaining two active knowledge bases leads to fragmentation. It is recommended to keep Evernote installed as a read-only archive for a few weeks to verify your imported data, but you should commit to entering all new information exclusively into Obsidian.
+
+---
+
+## Related Reading
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

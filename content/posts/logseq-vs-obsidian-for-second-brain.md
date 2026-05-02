@@ -1,4 +1,5 @@
 ---
+image: "/og/logseq-vs-obsidian-for-second-brain.png"
 title: "Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison"
 description: "An expert deep dive into Logseq and Obsidian. Discover which tool is best suited for building your second brain, from outliners and bi-directional linking."
 pubDate: "2026-04-30"

@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-build-a-second-brain.png"
 title: "How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management"
 description: "Discover how to build a Second Brain to organize your digital life, boost productivity, and unlock your creative potential using proven PKM frameworks."
 pubDate: 2026-04-30

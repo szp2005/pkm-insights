@@ -150,3 +150,10 @@ Extreme transparency is required. Investors are experienced in startup volatilit
 
 ### Can I delegate the investor update to my Chief of Staff?
 You can delegate data collection and initial drafting, but the founder must own the narrative synthesis. Investors invest in the founder's vision and strategic execution; outsourcing the entire update process risks presenting a disconnected or purely administrative view of the company's progress.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

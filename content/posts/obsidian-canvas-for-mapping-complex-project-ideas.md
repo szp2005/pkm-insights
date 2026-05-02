@@ -115,3 +115,10 @@ You can drag a `.canvas` file from your file explorer directly onto an open boar
 
 ### Is Obsidian Canvas available on mobile devices?
 Yes, Canvas is fully supported on the Obsidian iOS and Android apps. You can pan, zoom, add nodes, and draw connections using touch gestures, making it entirely possible to review or edit complex project maps while away from your desk.
+
+---
+
+## Related Reading
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+- [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)

@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-ai-features-for-structured-data-entry.png"
 title: "Tana AI Features for Structured Data Entry: Complete Guide"
 description: "Master Tana AI features for structured data entry. Learn how automated supertags, AI commands, and semantic linking can transform your knowledge management."
 pubDate: "2026-05-01"

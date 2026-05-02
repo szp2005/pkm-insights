@@ -1,4 +1,5 @@
 ---
+image: "/og/knowledge-retention-techniques-for-researchers.png"
 title: "Knowledge Retention Techniques for Researchers: A 7-Step Guide"
 description: "Master knowledge retention techniques for researchers. Learn how to process literature, overcome the forgetting curve, and build a reliable personal."
 pubDate: "2026-05-01"

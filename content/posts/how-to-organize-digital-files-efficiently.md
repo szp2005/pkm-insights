@@ -1,6 +1,7 @@
 ---
+image: "/og/how-to-organize-digital-files-efficiently.png"
 title: "How to Organize Digital Files Efficiently: The Ultimate Expert Guide"
-description: "Master digital decluttering with our comprehensive guide on how to organize digital files efficiently."
+description: "Master digital decluttering with our expert guide on how to organize digital files efficiently."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["productivity", "digital minimalism", "file management", "organization"]

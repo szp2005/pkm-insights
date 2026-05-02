@@ -116,3 +116,10 @@ Keep information about living relatives entirely private. If you publish your kn
 
 ### What naming convention should I use for genealogy files?
 Use a standardized format that forces chronological and alphabetical sorting. The most effective convention is Year-Month-Day, followed by the Surname, First Name, and the type of record (e.g., `1940-04-12_Smith_John_Census.jpg`). Consistency in this naming convention is more important than the specific format you choose.
+
+---
+
+## Related Reading
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

@@ -114,3 +114,10 @@ Because the Zotero Integration plugin uses standard URIs (e.g., `zotero://`) to 
 
 ### Does this method work with mobile devices like an iPad?
 Zotero's iOS app allows you to read and highlight PDFs on the go, which will sync back to your desktop. However, the Obsidian Zotero Integration plugin requires a desktop environment to execute the data extraction. You must perform the actual import step on a Mac or PC.
+
+---
+
+## Related Reading
+
+- [How to use MOCs in Obsidian for organization: 5-Step Guide](/posts/how-to-use-mocs-in-obsidian-for-organization/)
+- [Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison](/posts/logseq-vs-obsidian-for-second-brain/)

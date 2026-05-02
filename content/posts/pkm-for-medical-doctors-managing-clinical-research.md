@@ -142,3 +142,10 @@ The initial technical setup of downloading the software, configuring Zotero, and
 
 ### What is the Zettelkasten method for clinical research?
 The Zettelkasten (slip-box) method is a decentralized note-taking system focused on interconnected, atomic ideas. For clinical research, this means breaking down complex medical papers into single, distinct concepts (e.g., one note detailing a specific drug mechanism, another note for a specific adverse event profile). These atomic notes are then heavily linked together, allowing researchers to organically discover relationships between different physiological pathways and treatment outcomes when drafting papers.
+
+---
+
+## Related Reading
+
+- [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)
+- [How to use MOCs in Obsidian for organization: 5-Step Guide](/posts/how-to-use-mocs-in-obsidian-for-organization/)

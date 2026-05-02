@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-local-llm-integration-for-privacy.png"
 title: "Obsidian Local LLM Integration for Privacy: Complete Setup Guide"
 description: "Learn how to set up Obsidian local LLM integration for privacy. This complete guide covers the best plugins, local models, and hardware requirements."
 pubDate: "2026-05-01"

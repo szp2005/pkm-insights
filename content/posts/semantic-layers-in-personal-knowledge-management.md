@@ -1,4 +1,5 @@
 ---
+image: "/og/semantic-layers-in-personal-knowledge-management.png"
 title: "Semantic Layers in Personal Knowledge Management: Complete Guide"
 description: "Discover how semantic layers in personal knowledge management transform scattered notes into an interconnected, queryable database."
 pubDate: "2026-05-01"

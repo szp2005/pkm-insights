@@ -1,4 +1,5 @@
 ---
+image: "/og/personal-information-management-system-setup.png"
 title: "The Ultimate Guide to Personal Information Management System Setup"
 description: "Discover how to design, implement, and optimize a Personal Information Management (PIM) system tailored to your workflow."
 pubDate: "2026-04-30"

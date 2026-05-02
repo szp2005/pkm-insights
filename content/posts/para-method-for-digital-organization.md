@@ -1,4 +1,5 @@
 ---
+image: "/og/para-method-for-digital-organization.png"
 title: "The PARA Method for Digital Organization: A Comprehensive Expert Guide"
 description: "Discover how the PARA method for digital organization can transform your productivity. Learn practical steps to implement Projects, Areas, Resources, and Archives."
 pubDate: "2026-04-30"

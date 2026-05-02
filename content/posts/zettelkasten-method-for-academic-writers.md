@@ -1,4 +1,5 @@
 ---
+image: "/og/zettelkasten-method-for-academic-writers.png"
 title: "Zettelkasten Method for Academic Writers: A Complete 5-Step Guide"
 description: "Master the Zettelkasten method for academic writers. Learn how to connect ideas, avoid writer's block, and build a networked knowledge base for research."
 pubDate: "2026-05-01"
