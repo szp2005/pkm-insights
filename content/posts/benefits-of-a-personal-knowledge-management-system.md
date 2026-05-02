@@ -1,5 +1,5 @@
 ---
-image: "/og/benefits-of-a-personal-knowledge-management-system.png"
+image: "/og/benefits-of-a-personal-knowledge-management-system.webp"
 title: "The Transformative Benefits of a Personal Knowledge Management System"
 description: "Discover the profound advantages of building a Personal Knowledge Management (PKM) system. Learn how it boosts productivity, enhances creativity, reduces."
 pubDate: "2026-04-30"

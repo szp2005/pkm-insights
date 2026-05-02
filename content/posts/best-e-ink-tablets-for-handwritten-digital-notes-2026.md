@@ -1,5 +1,5 @@
 ---
-image: "/og/best-e-ink-tablets-for-handwritten-digital-notes-2026.png"
+image: "/og/best-e-ink-tablets-for-handwritten-digital-notes-2026.webp"
 title: "Best E-Ink Tablets for Handwritten Digital Notes 2026"
 description: "Compare the best e-ink tablets for handwritten digital notes in 2026. Discover top picks from reMarkable, Boox, Supernote, and Amazon for students and pros."
 pubDate: "2026-05-02"

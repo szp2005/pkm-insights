@@ -1,5 +1,5 @@
 ---
-image: "/og/obsidian-academic-workflow-for-thesis-2026.png"
+image: "/og/obsidian-academic-workflow-for-thesis-2026.webp"
 title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
 description: "Master the Obsidian academic workflow for thesis 2026. Discover the exact setup, plugins, and folder structures to organize research and write faster."
 pubDate: "2026-05-01"

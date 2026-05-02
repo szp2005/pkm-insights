@@ -1,5 +1,5 @@
 ---
-image: "/og/atomic-notes-writing-guide-for-zettelkasten.png"
+image: "/og/atomic-notes-writing-guide-for-zettelkasten.webp"
 title: "Atomic Notes Writing Guide for Zettelkasten: 5-Step System"
 description: "Master personal knowledge management with our complete atomic notes writing guide for Zettelkasten. Learn how to craft focused, linkable notes for your second brain."
 pubDate: "2026-05-01"

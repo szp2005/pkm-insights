@@ -1,5 +1,5 @@
 ---
-image: "/og/knowledge-management-strategies-for-students.png"
+image: "/og/knowledge-management-strategies-for-students.webp"
 title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
 description: "Discover practical, expert-level knowledge management strategies for students. Learn how to build a Second Brain, utilize Zettelkasten, and master."
 pubDate: "2026-04-30"

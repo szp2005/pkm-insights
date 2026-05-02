@@ -1,5 +1,5 @@
 ---
-image: "/og/how-to-organize-digital-files-efficiently.png"
+image: "/og/how-to-organize-digital-files-efficiently.webp"
 title: "How to Organize Digital Files Efficiently: The Ultimate Expert Guide"
 description: "Master digital decluttering with our expert guide on how to organize digital files efficiently."
 pubDate: "2026-04-30"

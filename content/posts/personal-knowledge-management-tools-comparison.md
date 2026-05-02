@@ -1,5 +1,5 @@
 ---
-image: "/og/personal-knowledge-management-tools-comparison.png"
+image: "/og/personal-knowledge-management-tools-comparison.webp"
 title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
 description: "An expert, in-depth comparison of the top personal knowledge management (PKM) tools including Obsidian, Notion, Roam, and Logseq."
 pubDate: "2026-04-30"

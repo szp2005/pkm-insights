@@ -1,5 +1,5 @@
 ---
-image: "/og/tiago-forte-building-a-second-brain-review-2026.png"
+image: "/og/tiago-forte-building-a-second-brain-review-2026.webp"
 title: "Tiago Forte Building a Second Brain Review 2026: Still Worth It?"
 description: "An in-depth review of Tiago Forte's Building a Second Brain in 2026. Discover if the PARA method and BASB framework actually improve your productivity."
 pubDate: "2026-05-02"

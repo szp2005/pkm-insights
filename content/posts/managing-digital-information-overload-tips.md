@@ -1,5 +1,5 @@
 ---
-image: "/og/managing-digital-information-overload-tips.png"
+image: "/og/managing-digital-information-overload-tips.webp"
 title: "Managing Digital Information Overload: Expert Tips for Reclaiming Focus"
 description: "Master your digital environment with expert tips for managing digital information overload. Proven strategies for reclaiming focus and boosting."
 pubDate: 2026-04-30

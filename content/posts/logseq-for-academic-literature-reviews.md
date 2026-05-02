@@ -1,5 +1,5 @@
 ---
-image: "/og/logseq-for-academic-literature-reviews.png"
+image: "/og/logseq-for-academic-literature-reviews.webp"
 title: "Logseq for Academic Literature Reviews: Complete 2026 Review"
 description: "Discover how to optimize Logseq for academic literature reviews. We evaluate its outliner capabilities, Zotero integration, and compare top alternatives."
 pubDate: "2026-05-01"

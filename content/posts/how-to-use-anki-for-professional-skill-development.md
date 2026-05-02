@@ -1,5 +1,5 @@
 ---
-image: "/og/how-to-use-anki-for-professional-skill-development.png"
+image: "/og/how-to-use-anki-for-professional-skill-development.webp"
 title: "How to Use Anki for Professional Skill Development: 5-Step Guide"
 description: "Discover how to use Anki for professional skill development. Master complex concepts, learn new languages, and accelerate your career with spaced repetition."
 pubDate: "2026-05-02"

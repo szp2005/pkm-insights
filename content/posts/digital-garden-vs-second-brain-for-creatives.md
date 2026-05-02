@@ -1,5 +1,5 @@
 ---
-image: "/og/digital-garden-vs-second-brain-for-creatives.png"
+image: "/og/digital-garden-vs-second-brain-for-creatives.webp"
 title: "Digital Garden vs Second Brain for Creatives: Which Is Better?"
 description: "Confused between a digital garden and a second brain for creatives? Compare these knowledge management systems to find the perfect fit for your workflow."
 pubDate: "2026-05-01"

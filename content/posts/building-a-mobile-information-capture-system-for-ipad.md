@@ -1,5 +1,5 @@
 ---
-image: "/og/building-a-mobile-information-capture-system-for-ipad.png"
+image: "/og/building-a-mobile-information-capture-system-for-ipad.webp"
 title: "Building a Mobile Information Capture System for iPad: Complete Guide"
 description: "Learn how to build a powerful mobile information capture system for iPad. Discover the best hardware, software, and workflows to turn your tablet into a."
 pubDate: "2026-05-02"

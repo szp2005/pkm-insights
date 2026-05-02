@@ -1,5 +1,5 @@
 ---
-image: "/og/steps-to-building-a-second-brain-for-productivity.png"
+image: "/og/steps-to-building-a-second-brain-for-productivity.webp"
 title: "Steps to Building a Second Brain for Productivity: 6-Step Guide"
 description: "Discover the exact steps to building a second brain for productivity. Learn how to capture, organize, and retrieve information to overcome digital overwhelm."
 pubDate: "2026-05-01"

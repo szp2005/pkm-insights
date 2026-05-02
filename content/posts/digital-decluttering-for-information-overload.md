@@ -1,5 +1,5 @@
 ---
-image: "/og/digital-decluttering-for-information-overload.png"
+image: "/og/digital-decluttering-for-information-overload.webp"
 title: "Digital Decluttering for Information Overload: A Comprehensive Guide to Reclaiming Your Focus"
 description: "Combat cognitive fatigue and reclaim your productivity with expert strategies for digital decluttering. Learn how to systematically overcome information overload."
 pubDate: "2026-04-30"

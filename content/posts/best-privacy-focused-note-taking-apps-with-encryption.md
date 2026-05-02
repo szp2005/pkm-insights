@@ -1,5 +1,5 @@
 ---
-image: "/og/best-privacy-focused-note-taking-apps-with-encryption.png"
+image: "/og/best-privacy-focused-note-taking-apps-with-encryption.webp"
 title: "Best Privacy-Focused Note Taking Apps with Encryption in 2026"
 description: "Compare the best privacy-focused note taking apps with encryption. Secure your sensitive data with end-to-end encryption, local-first architecture, and."
 pubDate: "2026-05-02"

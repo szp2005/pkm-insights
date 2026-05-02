@@ -1,5 +1,5 @@
 ---
-image: "/og/evergreen-notes-definition-and-examples.png"
+image: "/og/evergreen-notes-definition-and-examples.webp"
 title: "Evergreen Notes: Definition, Principles, and Practical Examples"
 description: "Discover the comprehensive definition of evergreen notes, explore their core principles, and analyze practical examples that will revolutionize your."
 pubDate: "2026-04-30"

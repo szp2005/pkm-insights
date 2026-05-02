@@ -1,5 +1,5 @@
 ---
-image: "/og/digital-garden-vs-second-brain-difference.png"
+image: "/og/digital-garden-vs-second-brain-difference.webp"
 title: "Digital Garden vs Second Brain: What's the Difference and Which is Right for You?"
 description: "Discover the key differences between a Digital Garden and a Second Brain. Learn which personal knowledge management (PKM) approach suits your workflow."
 pubDate: "2026-04-30"

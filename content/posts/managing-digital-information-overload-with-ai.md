@@ -1,5 +1,5 @@
 ---
-image: "/og/managing-digital-information-overload-with-ai.png"
+image: "/og/managing-digital-information-overload-with-ai.webp"
 title: "Managing Digital Information Overload With AI: Complete Guide"
 description: "Learn how managing digital information overload with AI can reduce context switching and improve focus using automated summarization and triage workflows."
 pubDate: "2026-05-01"

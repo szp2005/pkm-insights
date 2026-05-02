@@ -1,5 +1,5 @@
 ---
-image: "/og/note-taking-for-lifelong-learners-2026.png"
+image: "/og/note-taking-for-lifelong-learners-2026.webp"
 title: "Note-Taking for Lifelong Learners 2026: Complete Guide"
 description: "Master note-taking for lifelong learners in 2026. Discover modern systems, digital tools, and cognitive strategies to build your personal knowledge base."
 pubDate: "2026-05-01"

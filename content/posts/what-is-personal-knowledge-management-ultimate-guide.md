@@ -1,5 +1,5 @@
 ---
-image: "/og/what-is-personal-knowledge-management-ultimate-guide.png"
+image: "/og/what-is-personal-knowledge-management-ultimate-guide.webp"
 title: "What Is Personal Knowledge Management: Ultimate Guide (2026)"
 description: "Discover what personal knowledge management is and how to build a system that organizes your ideas, eliminates information overload, and boosts focus."
 pubDate: "2026-05-02"

@@ -1,5 +1,5 @@
 ---
-image: "/og/knowledge-retrieval-using-semantic-search.png"
+image: "/og/knowledge-retrieval-using-semantic-search.webp"
 title: "Knowledge Retrieval Using Semantic Search: Complete 2026 Guide"
 description: "Master knowledge retrieval using semantic search to build smarter applications. Learn the underlying mechanics, vector databases, and implementation steps."
 pubDate: "2026-05-01"

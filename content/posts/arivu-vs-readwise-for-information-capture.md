@@ -1,5 +1,5 @@
 ---
-image: "/og/arivu-vs-readwise-for-information-capture.png"
+image: "/og/arivu-vs-readwise-for-information-capture.webp"
 title: "Arivu vs Readwise for Information Capture: Which Is Better?"
 description: "Compare Arivu and Readwise for information capture. Discover which second brain tool handles highlights, AI summaries, and knowledge management best."
 pubDate: "2026-05-01"

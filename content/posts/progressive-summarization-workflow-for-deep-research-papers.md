@@ -1,5 +1,5 @@
 ---
-image: "/og/progressive-summarization-workflow-for-deep-research-papers.png"
+image: "/og/progressive-summarization-workflow-for-deep-research-papers.webp"
 title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
 description: "Master the progressive summarization workflow for deep research papers. Learn how to distill complex academic literature into actionable insights efficiently."
 pubDate: "2026-05-02"

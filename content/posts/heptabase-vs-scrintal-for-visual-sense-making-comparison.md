@@ -1,5 +1,5 @@
 ---
-image: "/og/heptabase-vs-scrintal-visual-sense-making-comparison.png"
+image: "/og/heptabase-vs-scrintal-visual-sense-making-comparison.webp"
 title: "Heptabase vs Scrintal: Best Visual Sense-Making Tool in 2026?"
 description: "Comparing Heptabase vs Scrintal for visual sense-making. Discover which spatial canvas tool is best for researchers, students, and visual thinkers."
 pubDate: "2026-05-02"

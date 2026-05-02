@@ -1,5 +1,5 @@
 ---
-image: "/og/personal-knowledge-management-for-product-managers-tutorial.png"
+image: "/og/personal-knowledge-management-for-product-managers-tutorial.webp"
 title: "How to Set Up Personal Knowledge Management for Product Managers: 5-Step Guide"
 description: "Master personal knowledge management for product managers with this step-by-step tutorial. Build a scalable system to organize research, specs, and roadmaps."
 pubDate: "2026-05-02"

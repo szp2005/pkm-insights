@@ -1,5 +1,5 @@
 ---
-image: "/og/steps-to-building-a-second-brain.png"
+image: "/og/steps-to-building-a-second-brain.webp"
 title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
 description: "Discover the essential steps to building a second brain. Learn how to capture, organize, distill, and express your knowledge using proven personal."
 pubDate: "2026-04-30"

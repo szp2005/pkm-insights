@@ -1,5 +1,5 @@
 ---
-image: "/og/integrating-spaced-repetition-into-your-daily-writing-workflow.png"
+image: "/og/integrating-spaced-repetition-into-your-daily-writing-workflow.webp"
 title: "How to Integrate Spaced Repetition into Your Daily Writing Workflow: 5-Step Guide"
 description: "Discover how integrating spaced repetition into your daily writing workflow boosts long-term retention, sharpens ideas, and improves your creative output."
 pubDate: "2026-05-02"

@@ -1,5 +1,5 @@
 ---
-image: "/og/second-brain-vs-zettelkasten-method.png"
+image: "/og/second-brain-vs-zettelkasten-method.webp"
 title: "Second Brain vs Zettelkasten Method: The Ultimate Guide to Personal Knowledge Management"
 description: "An expert comparison of the Second Brain and Zettelkasten methods. Discover which Personal Knowledge Management (PKM) system aligns best with your."
 pubDate: "2026-04-30"

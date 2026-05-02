@@ -1,5 +1,5 @@
 ---
-image: "/og/personal-information-management-system-setup-guide.png"
+image: "/og/personal-information-management-system-setup-guide.webp"
 title: "Personal Information Management System Setup Guide: 5 Steps"
 description: "Build a reliable system to organize notes, files, and tasks. Our personal information management system setup guide shows you exactly how to start in 2026."
 pubDate: "2026-05-01"

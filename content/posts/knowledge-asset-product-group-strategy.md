@@ -1,5 +1,5 @@
 ---
-image: "/og/knowledge-asset-product-group-strategy.png"
+image: "/og/knowledge-asset-product-group-strategy.webp"
 title: "Knowledge Asset Product Group Strategy: Complete Guide to Monetization"
 description: "Master the Knowledge Asset Product Group strategy. Learn how to structure, package, and monetize intellectual property for scalable revenue in 2026."
 pubDate: "2026-05-01"

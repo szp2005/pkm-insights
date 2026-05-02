@@ -1,5 +1,5 @@
 ---
-image: "/og/readwise-reader-for-deep-engagement-research.png"
+image: "/og/readwise-reader-for-deep-engagement-research.webp"
 title: "Readwise Reader for Deep Engagement Research: A Complete Guide"
 description: "Master Readwise Reader for deep engagement research. Discover proven workflows, advanced annotation strategies, and system integrations for better retention."
 pubDate: "2026-05-01"

@@ -1,5 +1,5 @@
 ---
-image: "/og/pkm-for-adhd-organization-strategies-neurodiversity.png"
+image: "/og/pkm-for-adhd-organization-strategies-neurodiversity.webp"
 title: "PKM for ADHD: Organization Strategies for Neurodiversity"
 description: "Discover effective PKM for ADHD workflows. Learn organization strategies for neurodiversity that reduce overwhelm and turn scattered thoughts into action."
 pubDate: "2026-05-02"

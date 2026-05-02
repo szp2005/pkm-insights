@@ -1,5 +1,5 @@
 ---
-image: "/og/getting-things-done-for-knowledge-workers.png"
+image: "/og/getting-things-done-for-knowledge-workers.webp"
 title: "Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity"
 description: "Discover how to adapt David Allen's Getting Things Done (GTD) methodology specifically for the unique challenges of modern knowledge work, information."
 pubDate: "2026-04-30"
