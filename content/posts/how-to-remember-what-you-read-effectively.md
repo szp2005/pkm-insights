@@ -1,6 +1,6 @@
 ---
 title: "How to Remember What You Read Effectively: A Masterclass in Knowledge Retention"
-description: "Stop forgetting the books and articles you read. Discover science-backed strategies, from active reading to spaced repetition, to transform information into permanent knowledge."
+description: "Stop forgetting the books and articles you read. Discover science-backed strategies, from active reading to spaced repetition, to transform information."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["productivity", "learning", "memory", "PKM"]

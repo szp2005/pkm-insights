@@ -105,3 +105,10 @@ Handwriting remains highly effective for cognitive retention and initial concept
 
 ### What is the collector's fallacy in note-taking?
 The collector's fallacy is the false sense of accomplishment derived from merely saving articles, bookmarking videos, or copying quotes without actually reading, processing, or understanding them. Effective learning requires moving beyond accumulation to active synthesis and application of the material.
+
+---
+
+## Related Reading
+
+- [Digital Decluttering for Information Overload: A Comprehensive Guide to Reclaiming Your Focus](/posts/digital-decluttering-for-information-overload/)
+- [Digital Garden vs Second Brain: What's the Difference and Which is Right for You?](/posts/digital-garden-vs-second-brain-difference/)

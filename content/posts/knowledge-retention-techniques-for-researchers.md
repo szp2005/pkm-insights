@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Retention Techniques for Researchers: A 7-Step Guide"
-description: "Master knowledge retention techniques for researchers. Learn how to process literature, overcome the forgetting curve, and build a reliable personal knowledge system."
+description: "Master knowledge retention techniques for researchers. Learn how to process literature, overcome the forgetting curve, and build a reliable personal."
 pubDate: "2026-05-01"
 author: "Alex Chen"
 tags: ["knowledge management", "research methods", "productivity", "academic writing"]
@@ -129,3 +129,10 @@ A reference manager (like Zotero or Mendeley) is designed to store metadata, gen
 
 ### How do I start using these techniques if I already have thousands of unread PDFs?
 Declare "PDF bankruptcy" on your old files. Do not retroactively process years of accumulated literature; doing so will paralyze your current work. Begin applying these retention techniques exclusively to the papers you are reading for your current, active projects. You can search your old PDF archive if a specific need arises, but focus your processing energy purely on new intake.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

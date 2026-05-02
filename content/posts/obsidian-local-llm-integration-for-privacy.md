@@ -134,3 +134,10 @@ Yes. Once you have downloaded the inference engine (like Ollama) and the model w
 
 ### Can local models search my entire Obsidian vault?
 Local models cannot natively "read" your entire vault due to memory constraints. To search across all notes, you must use a plugin that supports Retrieval-Augmented Generation (RAG), which converts your notes into searchable vector embeddings. This allows the system to find relevant notes and feed only those specific chunks into the local model's context window.
+
+---
+
+## Related Reading
+
+- [Notion vs Obsidian for PKM: The Definitive Expert Guide](/posts/notion-vs-obsidian-for-pkm/)
+- [Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide](/posts/obsidian-academic-workflow-for-thesis-2026/)

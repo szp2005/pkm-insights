@@ -1,6 +1,6 @@
 ---
 title: "Digital Garden vs Second Brain: What's the Difference and Which is Right for You?"
-description: "Discover the key differences between a Digital Garden and a Second Brain. Learn which personal knowledge management (PKM) approach suits your workflow, creativity, and productivity needs."
+description: "Discover the key differences between a Digital Garden and a Second Brain. Learn which personal knowledge management (PKM) approach suits your workflow."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["pkm", "productivity", "digital-garden", "second-brain", "note-taking"]

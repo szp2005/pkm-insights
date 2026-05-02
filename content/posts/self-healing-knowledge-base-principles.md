@@ -122,3 +122,10 @@ Yes, but it requires an auditing and structuring phase. Existing documents must 
 
 ### What role does artificial intelligence play in knowledge base maintenance?
 AI primarily handles semantic analysis. It identifies when two differently-worded articles cover the same topic, analyzes user search intent to identify missing documentation, and drafts proposed corrections based on context gathered from other updated systems or documents within the organization.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

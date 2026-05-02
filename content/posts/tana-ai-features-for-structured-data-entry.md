@@ -102,3 +102,10 @@ The accuracy depends heavily on the clarity of your Supertags and the specificit
 
 ### Is my data used to train Tana's AI models?
 Tana states that they do not use customer data to train their models. When you use Tana AI features, your data is sent to their AI partners (like OpenAI) via APIs with zero-data retention policies, meaning the providers do not store or learn from your specific graph content.
+
+---
+
+## Related Reading
+
+- [Tana Supertags Tutorial for Beginners: A Step-by-Step Guide](/posts/tana-supertags-tutorial-for-beginners/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

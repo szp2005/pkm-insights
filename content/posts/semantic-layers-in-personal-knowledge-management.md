@@ -1,6 +1,6 @@
 ---
 title: "Semantic Layers in Personal Knowledge Management: Complete Guide"
-description: "Discover how semantic layers in personal knowledge management transform scattered notes into an interconnected, queryable database. Complete implementation framework."
+description: "Discover how semantic layers in personal knowledge management transform scattered notes into an interconnected, queryable database."
 pubDate: "2026-05-01"
 author: "Alex Chen"
 tags: ["pkm", "knowledge management", "semantic web", "productivity"]
@@ -119,3 +119,10 @@ Yes, provided you use standard YAML frontmatter in plain text Markdown files. Be
 
 ### What is a typed link in practical terms?
 Instead of a standard link that merely connects two files, a typed link uses inline syntax to declare the nature of the connection (e.g., `employer:: [[Company X]]`). This tells the software exactly how the current note relates to the linked entity, enabling relationship-specific filtering.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

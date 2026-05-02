@@ -1,6 +1,6 @@
 ---
 title: "Roam Research vs Obsidian: The Ultimate Comparison for Networked Thought"
-description: "An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the best Personal Knowledge Management (PKM) tool."
+description: "An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["pkm", "obsidian", "roam research", "productivity", "note-taking", "tools"]

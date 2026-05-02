@@ -146,3 +146,10 @@ Once the initial setup is complete, maintaining the system should take no more t
 
 ### Can I build a Second Brain if I have ADHD?
 Many individuals with ADHD report that the BASB system is life-changing because it provides an external, reliable structure that compensates for executive dysfunction and working memory challenges. The key is to keep the setup as frictionless and visually simple as possible, avoiding complex linking structures that can become a distraction themselves.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

@@ -2,7 +2,7 @@
 title: "Tiago Forte's Building a Second Brain Review: Is It Worth the Hype?"
 date: 2026-04-30
 author: "Alex Chen"
-description: "A comprehensive, expert review of Tiago Forte's Building a Second Brain (BASB) methodology. We analyze its core principles, practical application, and whether it truly revolutionizes personal knowledge management."
+description: "A comprehensive, expert review of Tiago Forte's Building a Second Brain (BASB) methodology. We analyze its core principles, practical application, and."
 tags: ["PKM", "Second Brain", "Tiago Forte", "Productivity", "Note-taking"]
 slug: "tiago-forte-building-a-second-brain-review"
 type: "review"

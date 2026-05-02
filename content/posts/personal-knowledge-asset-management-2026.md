@@ -110,3 +110,10 @@ Do not attempt a massive, one-time migration. Start by exporting your existing d
 
 ### What happens if my vault grows to tens of thousands of notes?
 Plain-text markdown systems handle scale exceptionally well. Because the files are lightweight text, modern text editors and knowledge applications can instantly search and query vaults containing over 100,000 files without performance degradation, especially when utilizing local semantic indexing.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

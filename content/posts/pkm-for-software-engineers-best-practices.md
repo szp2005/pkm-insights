@@ -143,3 +143,10 @@ Yes. Storing a folder of Markdown files in a private GitHub repository is a high
 
 ### How much time should I spend maintaining my notes?
 Maintenance should take no more than 10-15 minutes per day. The majority of your note-taking should happen inline during your daily work (capturing in the daily note). Use a small block of time on Friday afternoons to refactor messy notes, add links, and extract reusable concepts. If maintenance takes longer, your system is too complex.
+
+---
+
+## Related Reading
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)

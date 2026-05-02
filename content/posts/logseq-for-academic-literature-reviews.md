@@ -173,3 +173,10 @@ Because Logseq utilizes local Markdown files, you can sync your graph folder usi
 
 ### Will Logseq delete my annotations if the PDF is moved?
 Logseq binds PDF highlights to the specific file path in the `assets` folder. If you manually rename or move the PDF outside of Logseq, the software will lose the connection to the highlights. Always manage your PDFs through Logseq's interface or maintain a strict, unchanging folder structure via Zotero.
+
+---
+
+## Related Reading
+
+- [Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison](/posts/logseq-vs-obsidian-for-second-brain/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

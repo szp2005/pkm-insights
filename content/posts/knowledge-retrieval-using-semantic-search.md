@@ -163,3 +163,10 @@ The optimal chunk size for semantic knowledge retrieval generally falls between 
 
 ### Can I run semantic search locally without external APIs?
 Yes. You can implement entirely private knowledge retrieval using open-source embedding models running on local hardware (via libraries like HuggingFace Transformers or Ollama) and storing the vectors in a self-hosted database instance like Milvus, Qdrant, or PostgreSQL with pgvector.
+
+---
+
+## Related Reading
+
+- [How to Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)
+- [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)

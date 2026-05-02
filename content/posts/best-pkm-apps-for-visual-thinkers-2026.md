@@ -147,3 +147,10 @@ This depends entirely on the architecture. Obsidian is local-first and works per
 
 ### Do I need a stylus or tablet to use visual PKM apps?
 While a stylus enhances tools specifically built for touch (like Muse), it is not required for most spatial PKM apps. Heptabase, Obsidian Canvas, and Scrintal are heavily optimized for keyboard and mouse workflows, relying on drag-and-drop mechanics rather than freehand drawing.
+
+---
+
+## Related Reading
+
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
+- [Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence](/posts/knowledge-management-strategies-for-students/)

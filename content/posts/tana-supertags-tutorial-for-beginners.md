@@ -109,3 +109,10 @@ Beginners should start with 3 to 5 core Supertags, such as `@task`, `@meeting`, 
 
 ### Why use Tana over Notion for database management?
 Notion forces you to create data within specific tables, leading to context switching. Tana allows you to capture structured data anywhere—like the middle of a meeting note on your daily page—and automatically aggregates it using Supertags and live searches.
+
+---
+
+## Related Reading
+
+- [Tana AI Features for Structured Data Entry: Complete Guide](/posts/tana-ai-features-for-structured-data-entry/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

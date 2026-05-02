@@ -1,6 +1,6 @@
 ---
 title: "Evergreen Notes: Definition, Principles, and Practical Examples"
-description: "Discover the comprehensive definition of evergreen notes, explore their core principles, and analyze practical examples that will revolutionize your personal knowledge management (PKM) workflow."
+description: "Discover the comprehensive definition of evergreen notes, explore their core principles, and analyze practical examples that will revolutionize your."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["pkm", "evergreen notes", "zettelkasten", "note-taking", "productivity"]

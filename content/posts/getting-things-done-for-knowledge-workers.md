@@ -1,6 +1,6 @@
 ---
 title: "Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity"
-description: "Discover how to adapt David Allen's Getting Things Done (GTD) methodology specifically for the unique challenges of modern knowledge work, information overload, and continuous context switching."
+description: "Discover how to adapt David Allen's Getting Things Done (GTD) methodology specifically for the unique challenges of modern knowledge work, information."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["productivity", "gtd", "knowledge-management", "deep-work", "workflows"]

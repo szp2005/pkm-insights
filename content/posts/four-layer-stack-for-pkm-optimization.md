@@ -91,3 +91,10 @@ Your organization layer is too complex if you frequently hesitate when deciding 
 
 ### How often should I review the information in my capture inbox?
 You should aim to clear your primary capture inbox at least every 48 hours. Allowing raw, unprocessed notes to accumulate for longer periods severs the mental context you had when you originally captured the idea, making it difficult to accurately organize and distill later.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

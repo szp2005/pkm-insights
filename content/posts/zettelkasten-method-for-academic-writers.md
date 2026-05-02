@@ -172,3 +172,10 @@ Yes. Treat experimental results or statistical findings as Literature Notes. The
 
 ### How many permanent notes do I need before the system becomes useful?
 Most users report experiencing the "compound interest" effect of a Zettelkasten around the 100 to 200 permanent note mark. At this critical mass, you will begin to see unexpected connections between disparate readings, and the system will actively start feeding you ideas.
+
+---
+
+## Related Reading
+
+- [Knowledge Retention Techniques for Researchers: A 7-Step Guide](/posts/knowledge-retention-techniques-for-researchers/)
+- [Readwise Reader for Deep Engagement Research: A Complete Guide](/posts/readwise-reader-for-deep-engagement-research/)

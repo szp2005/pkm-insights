@@ -144,3 +144,10 @@ The standard Readwise application (which syncs directly with Reader) includes a 
 
 ### How do I prevent my knowledge base from becoming cluttered with disconnected highlights?
 The key is the `highlight_note` variable. If you only export raw highlights without adding your own synthesis or context in the note field, your Obsidian or Notion vault will quickly become a graveyard of other people's words. Make it a strict rule to never highlight a passage without immediately typing a note explaining why it matters to your research.
+
+---
+
+## Related Reading
+
+- [Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain](/posts/four-layer-stack-for-pkm-optimization/)
+- [Zettelkasten Method for Academic Writers: A Complete 5-Step Guide](/posts/zettelkasten-method-for-academic-writers/)

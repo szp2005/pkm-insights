@@ -1,7 +1,7 @@
 ---
 title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
 date: 2026-04-30T12:00:00Z
-description: "Discover expert digital note-taking strategies to boost your productivity. Learn how to organize, link, and review your notes to build a powerful second brain and streamline your workflow."
+description: "Discover expert digital note-taking strategies to boost your productivity. Learn how to organize, link, and review your notes to build a powerful second."
 tags: ["productivity", "note-taking", "PKM", "knowledge management", "second brain"]
 author: "Alex Chen"
 type: "informational"

@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide: Building a PKM System from Scratch"
-description: "Discover how to build a robust Personal Knowledge Management (PKM) system from scratch. Learn expert methodologies, select the right tools, and organize your digital mind effectively."
+description: "Discover how to build a robust Personal Knowledge Management (PKM) system from scratch. Learn expert methodologies, select the right tools, and organize."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["PKM", "Productivity", "Second Brain", "Note-taking"]

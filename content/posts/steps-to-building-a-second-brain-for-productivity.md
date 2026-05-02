@@ -161,3 +161,10 @@ PARA is generally better for project-driven professionals who need to execute ta
 
 ### How do I handle physical books and paper notes?
 For physical books, use a service like Readwise to capture highlights via your phone's camera, or manually type out the most critical 3-5 insights into your system. For paper notes, scan them using a document scanner app and send the PDF directly to your digital inbox for processing.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

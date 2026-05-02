@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
-description: "Discover the essential steps to building a second brain. Learn how to capture, organize, distill, and express your knowledge using proven personal knowledge management frameworks."
+description: "Discover the essential steps to building a second brain. Learn how to capture, organize, distill, and express your knowledge using proven personal."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["second-brain", "productivity", "knowledge-management", "PKM", "organization"]

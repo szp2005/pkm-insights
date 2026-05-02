@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten"
-description: "Discover the expert framework for crafting perfect atomic notes. Learn how to distill complex ideas, build a Zettelkasten, and unlock the compound interest of your personal knowledge."
+description: "Discover the expert framework for crafting perfect atomic notes. Learn how to distill complex ideas, build a Zettelkasten, and unlock the compound."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["pkm", "zettelkasten", "productivity", "writing", "atomic notes"]

@@ -1,6 +1,6 @@
 ---
 title: "How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management"
-description: "Discover expert strategies for connecting ideas in Obsidian notes. Learn how to leverage bidirectional links, tags, and MOCs to build a powerful personal knowledge management system."
+description: "Discover expert strategies for connecting ideas in Obsidian notes. Learn how to leverage bidirectional links, tags, and MOCs to build a powerful personal."
 pubDate: 2026-04-30
 author: "Alex Chen"
 tags: ["obsidian", "pkm", "knowledge-management", "productivity"]

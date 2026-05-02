@@ -1,6 +1,6 @@
 ---
 title: "Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison"
-description: "An expert deep dive into Logseq and Obsidian. Discover which tool is best suited for building your second brain, from outliners and bi-directional linking to extreme customizability."
+description: "An expert deep dive into Logseq and Obsidian. Discover which tool is best suited for building your second brain, from outliners and bi-directional linking."
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["second brain", "logseq", "obsidian", "pkm", "knowledge management"]

@@ -1,6 +1,6 @@
 ---
 title: "Managing Digital Information Overload: Expert Tips for Reclaiming Focus"
-description: "Master your digital environment with proven, expert strategies for managing digital information overload. Learn to streamline workflows, build a Personal Knowledge Management system, and regain deep focus."
+description: "Master your digital environment with proven, expert strategies for managing digital information overload."
 pubDate: 2026-04-30
 author: "Alex Chen"
 tags: ["digital wellness", "productivity", "information management", "focus", "PKM"]

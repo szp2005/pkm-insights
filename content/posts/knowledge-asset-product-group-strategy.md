@@ -112,3 +112,10 @@ While standard copyright notices and terms of service are necessary, you cannot 
 
 ### Which team should own the Knowledge Asset Product Group?
 In smaller organizations, this is typically driven by the founder or a principal consultant. In larger organizations, it requires a dedicated Product Manager who liaises between subject matter experts (who hold the knowledge) and marketing/sales teams (who will position the asset).
+
+---
+
+## Related Reading
+
+- [Personal Knowledge Asset Management 2026: Complete Guide](/posts/personal-knowledge-asset-management-2026/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

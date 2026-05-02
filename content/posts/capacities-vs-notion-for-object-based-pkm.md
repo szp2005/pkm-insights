@@ -130,3 +130,10 @@ Capacities relies on heavy local caching for speed and allows for some offline w
 
 ### Which tool is better for academic research?
 Capacities is generally better suited for academic research due to its frictionless linking, automatic backlink generation, and native integration of tags and object types, which makes synthesizing large volumes of disparate literature significantly more intuitive than managing Notion databases.
+
+---
+
+## Related Reading
+
+- [Digital Garden vs Second Brain: What's the Difference and Which is Right for You?](/posts/digital-garden-vs-second-brain-difference/)
+- [Evergreen Notes: Definition, Principles, and Practical Examples](/posts/evergreen-notes-definition-and-examples/)

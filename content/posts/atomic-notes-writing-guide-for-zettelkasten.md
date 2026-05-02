@@ -147,3 +147,10 @@ If clicking a tag returns more than 30 or 40 notes, the tag has become too broad
 
 ### What do I do when two atomic notes contradict each other?
 Contradictions are highly valuable in a Zettelkasten. Do not delete one note to resolve the conflict. Instead, create a third atomic note that acts as a synthesis or a bridge, explaining *why* the two previous notes contradict each other and exploring which context makes each concept true. Link this new note directly to the two conflicting ideas.
+
+---
+
+## Related Reading
+
+- [How to Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)
+- [What is Personal Knowledge Management (PKM)? The Ultimate Guide to Building Your Second Brain](/posts/what-is-personal-knowledge-management/)

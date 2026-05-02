@@ -134,3 +134,10 @@ A well-designed system saves time rather than consumes it. Daily capture takes s
 
 ### Should I migrate all my old Evernote or Google Doc files into my new PKM?
 No. Bulk migrating old data overwhelms new systems and brings disorganized clutter into a clean environment. Keep your old files where they are as a searchable archive, and only move individual notes into your new PKM system when you actively need them for a current project.
+
+---
+
+## Related Reading
+
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

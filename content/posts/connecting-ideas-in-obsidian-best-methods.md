@@ -144,3 +144,10 @@ Begin by creating broad Maps of Content (MOCs) for your core interests and manua
 
 ### Should I use folders or links for organization?
 You should use a minimal folder structure for high-level categorization (such as separating attachments, templates, and core notes) to keep the file system clean. Rely on bidirectional links and Maps of Content for the actual intellectual organization and categorization of your ideas.
+
+---
+
+## Related Reading
+
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)

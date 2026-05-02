@@ -120,3 +120,10 @@ Obsidian is primarily designed for individual knowledge management. For collabor
 
 ### What happens if I have thousands of PDFs, will Obsidian slow down?
 Obsidian handles thousands of text files effortlessly. However, storing thousands of large PDFs directly within the Obsidian vault can increase sync times and backup sizes. It is highly recommended to store your PDFs externally in a designated Zotero folder and use Obsidian purely for your markdown notes, utilizing URI links to open the external PDFs when needed.
+
+---
+
+## Related Reading
+
+- [Notion vs Obsidian for PKM: The Definitive Expert Guide](/posts/notion-vs-obsidian-for-pkm/)
+- [Obsidian Local LLM Integration for Privacy: Complete Setup Guide](/posts/obsidian-local-llm-integration-for-privacy/)
