@@ -9,6 +9,8 @@ slug: "pkm-for-adhd-organization-strategies-neurodiversity"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # PKM for ADHD: Organization Strategies for Neurodiversity
 
 > **Quick Answer:** The most effective PKM for ADHD focuses on capturing ideas instantly and organizing them later through flexible, search-driven systems rather than rigid folders. Strategies like using a "daily note" as a unified inbox, relying on bidirectional links over categories, and leveraging visual mapping help neurodivergent brains bypass working memory deficits and build a reliable external brain.
@@ -36,13 +38,13 @@ Individuals with ADHD are prone to hyperfocusing on the initial setup of a new p
 
 When designing your knowledge management system, keep these foundational principles in mind. They act as the guardrails to prevent your system from becoming a source of stress.
 
-### 1. Frictionless Capture Above All Else
+### 1. [Frictionless Capture Above All Else](https://www.amazon.com/s?k=Frictionless%20Capture%20Above%20All%20Else&tag=pkm.notes-automate-20)
 The single most important metric for an ADHD PKM is the time it takes to go from having a thought to safely storing it. If you have to categorize a note, give it a title, and decide on its formatting before you can write it down, the system has too much friction. Capture must be instantaneous. Organization happens later, if it happens at all.
 
-### 2. Search Trumps Sorting
+### 2. [Search Trumps Sorting](https://www.amazon.com/s?k=Search%20Trumps%20Sorting&tag=pkm.notes-automate-20)
 Stop trying to predict where a note should live. Instead of asking "Where does this belong?", ask "When would I want to see this again?" Rely heavily on powerful universal search functions, tags, and bidirectional linking. Your system should act like a personal Google search engine rather than a Dewey Decimal System.
 
-### 3. Embrace the Mess
+### 3. [Embrace the Mess](https://www.amazon.com/s?k=Embrace%20the%20Mess&tag=pkm.notes-automate-20)
 Perfectionism is the enemy of a functional PKM. Your notes do not need to be polished, perfectly formatted, or fully formed. Half-written sentences, disconnected thoughts, and orphaned links are completely acceptable. The goal is utility, not a museum exhibit. A messy system that you actually use is infinitely better than a pristine system you avoid.
 
 ## High-Impact Organization Strategies for Neurodiversity

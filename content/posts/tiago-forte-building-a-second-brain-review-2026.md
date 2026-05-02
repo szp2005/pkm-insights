@@ -9,6 +9,8 @@ slug: "tiago-forte-building-a-second-brain-review-2026"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Tiago Forte Building a Second Brain Review 2026: Still Worth It?
 
 > **Quick Answer:** Tiago Forte's Building a Second Brain (BASB) remains a highly effective foundational framework in 2026 for organizing digital information. While the core concepts like PARA and CODE are brilliant and the book is a must-read, the expensive premium courses are only necessary for professionals who require structured accountability and community support to overhaul their personal knowledge management workflows.
@@ -54,7 +56,7 @@ The brilliance of PARA lies in its focus on actionability. By keeping active pro
 
 Tiago Forte offers his methodology in several formats, ranging from a relatively inexpensive book to high-ticket cohort-based courses. Below, we break down each option to help you determine which provides the best value for your specific needs.
 
-### 1. Building a Second Brain (The Book)
+### 1. [Building a Second Brain (The Book)](https://www.amazon.com/s?k=Building%20a%20Second%20Brain%20%28The%20Book%29&tag=pkm.notes-automate-20)
 
 **Best for:** Beginners to personal knowledge management and self-starters
 **Price:** $15-$25
@@ -71,7 +73,7 @@ The foundational text that introduced the BASB methodology to a mass audience. P
 - Lacks interactive feedback or community support
 - Requires high self-discipline to actually implement the steps
 
-### 2. The BASB Foundation Course
+### 2. [The BASB Foundation Course](https://www.amazon.com/s?k=The%20BASB%20Foundation%20Course&tag=pkm.notes-automate-20)
 
 **Best for:** Professionals who need structured video content and templates
 **Price:** $499-$599
@@ -88,7 +90,7 @@ The Foundation Course is a self-paced, video-driven curriculum designed to walk 
 - Significant price jump from the book for the same core information
 - The community forums can sometimes feel overwhelming with app-switching debates
 
-### 3. The BASB Executive Program (Cohort)
+### 3. [The BASB Executive Program (Cohort)](https://www.amazon.com/s?k=The%20BASB%20Executive%20Program%20%28Cohort%29&tag=pkm.notes-automate-20)
 
 **Best for:** Executives, founders, and those who require strict accountability
 **Price:** $1,500-$2,000
