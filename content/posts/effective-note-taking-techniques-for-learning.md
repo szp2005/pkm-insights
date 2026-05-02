@@ -171,6 +171,8 @@ Follow a "spaced repetition" schedule: review your notes within 24 hours to clar
 
 ## Related Reading
 
+- [Reflect Notes App Review for Minimalist Users (2026)](/posts/reflect-notes-app-review-for-minimalist-users/)
+
 - [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
 - [How to Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)
 - [The PARA Method for Digital Organization: A Comprehensive Expert Guide](/posts/para-method-for-digital-organization/)

@@ -155,5 +155,7 @@ You can delegate data collection and initial drafting, but the founder must own 
 
 ## Related Reading
 
+- [Setting Up a Family Knowledge Base for Genealogy: 5-Step Guide](/posts/setting-up-a-family-knowledge-base-for-genealogy/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

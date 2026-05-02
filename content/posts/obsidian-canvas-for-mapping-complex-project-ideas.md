@@ -120,5 +120,7 @@ Yes, Canvas is fully supported on the Obsidian iOS and Android apps. You can pan
 
 ## Related Reading
 
+- [How to Implement a GTD System Within Obsidian: 5-Step Guide](/posts/implementing-a-gtd-system-within-obsidian/)
+
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
 - [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)

@@ -162,5 +162,7 @@ Yes, but maintaining two active knowledge bases leads to fragmentation. It is re
 
 ## Related Reading
 
+- [Building a Mobile Information Capture System for iPad: Complete Guide](/posts/building-a-mobile-information-capture-system-for-ipad/)
+
 - [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

@@ -167,5 +167,9 @@ For physical books, use a service like Readwise to capture highlights via your p
 
 ## Related Reading
 
+- [What Is Personal Knowledge Management: Ultimate Guide (2026)](/posts/what-is-personal-knowledge-management-ultimate-guide/)
+
+- [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

@@ -139,5 +139,7 @@ If a card is flagged as "hard" repeatedly, it is usually poorly written. You mus
 
 ## Related Reading
 
+- [How to Use Anki for Professional Skill Development: 5-Step Guide](/posts/how-to-use-anki-for-professional-skill-development/)
+
 - [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

@@ -129,5 +129,7 @@ Obsidian is known to comfortably handle vaults exceeding 50,000 plaintext files 
 
 ## Related Reading
 
+- [Knowledge Retrieval Using Semantic Search: Complete 2026 Guide](/posts/knowledge-retrieval-using-semantic-search/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

@@ -125,5 +125,9 @@ While the core philosophy of externalizing memory applies to paper, a true secon
 
 ## Related Reading
 
+- [Tiago Forte Building a Second Brain Review 2026: Still Worth It?](/posts/tiago-forte-building-a-second-brain-review-2026/)
+
+- [Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide](/posts/progressive-summarization-workflow-for-deep-research-papers/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

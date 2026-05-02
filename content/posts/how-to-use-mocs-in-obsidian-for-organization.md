@@ -193,5 +193,9 @@ This depends on your preference. Many users keep all their MOC files in a dedica
 
 ## Related Reading
 
+- [PKM for Medical Doctors: Managing Clinical Research Guide](/posts/pkm-for-medical-doctors-managing-clinical-research/)
+
+- [How to Organize Research Papers Using Zotero and Obsidian: 5-Step Guide](/posts/how-to-organize-research-papers-using-zotero-and-obsidian/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

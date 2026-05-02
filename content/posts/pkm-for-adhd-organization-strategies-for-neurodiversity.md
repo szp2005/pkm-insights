@@ -119,5 +119,7 @@ Yes. Because individuals with ADHD often forget things that are out of sight, de
 
 ## Related Reading
 
+- [PKM for Software Engineers: Best Practices & Complete Guide](/posts/pkm-for-software-engineers-best-practices/)
+
 - [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
 - [How to Avoid the Collector's Fallacy in PKM: 5-Step Guide](/posts/how-to-avoid-the-collectors-fallacy-in-pkm/)

@@ -97,5 +97,7 @@ You should aim to clear your primary capture inbox at least every 48 hours. Allo
 
 ## Related Reading
 
+- [Heptabase vs Scrintal: Best Visual Sense-Making Tool in 2026?](/posts/heptabase-vs-scrintal-visual-sense-making-comparison/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

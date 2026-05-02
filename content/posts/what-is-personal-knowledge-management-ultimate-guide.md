@@ -140,5 +140,7 @@ No. Bulk migrating old data overwhelms new systems and brings disorganized clutt
 
 ## Related Reading
 
+- [Best Second Brain Template for Podcasters in 2026](/posts/second-brain-template-for-podcasters-2026/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

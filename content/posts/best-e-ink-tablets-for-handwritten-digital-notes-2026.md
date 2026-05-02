@@ -174,5 +174,7 @@ Tablets running a full Android OS, like the Onyx Boox series, feature standard w
 
 ## Related Reading
 
+- [How to Practice Active Recall Using Digital Notes: 5-Step Guide](/posts/how-to-practice-active-recall-using-digital-notes/)
+
 - [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

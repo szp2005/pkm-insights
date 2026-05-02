@@ -190,6 +190,8 @@ Networked thought tools like Obsidian, Logseq, and Roam Research are ideal becau
 
 ## Related Reading
 
+- [Capacities vs Notion: Which Is Better for Object-Based PKM?](/posts/capacities-vs-notion-object-based-pkm/)
+
 - [How to Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
 - [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)

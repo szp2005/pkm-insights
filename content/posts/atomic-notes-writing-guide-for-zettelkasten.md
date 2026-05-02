@@ -153,5 +153,7 @@ Contradictions are highly valuable in a Zettelkasten. Do not delete one note to 
 
 ## Related Reading
 
+- [Template for Organizing Digital Assets in Notion (2026 Guide)](/posts/template-for-organizing-digital-assets-in-notion/)
+
 - [How to Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)
 - [What is Personal Knowledge Management (PKM)? The Ultimate Guide to Building Your Second Brain](/posts/what-is-personal-knowledge-management/)

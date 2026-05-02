@@ -131,5 +131,9 @@ Neither tool is designed to be a complete replacement for a robust note-taking e
 
 ## Related Reading
 
+- [Supernotes vs Obsidian: Best for Collaborative Knowledge Sharing](/posts/supernotes-vs-obsidian-for-collaborative-knowledge-sharing/)
+
+- [Mem.ai Review 2026: Is the AI Tagging Worth It?](/posts/mem-ai-review-is-the-ai-tagging-worth-it/)
+
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
 - [Steps to Building a Second Brain for Productivity: 6-Step Guide](/posts/steps-to-building-a-second-brain-for-productivity/)

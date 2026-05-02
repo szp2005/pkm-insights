@@ -149,6 +149,8 @@ Spend 5-10 minutes daily clearing your capture inbox, and 30 minutes weekly perf
 
 ## Related Reading
 
+- [Tiago Forte's Building a Second Brain Review: Is It Worth the Hype?](/posts/tiago-forte-building-a-second-brain-review/)
+
 - [What is Personal Knowledge Management (PKM)? The Ultimate Guide to Building Your Second Brain](/posts/what-is-personal-knowledge-management/)
 - [The Ultimate Guide to Personal Information Management System Setup](/posts/personal-information-management-system-setup/)
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)

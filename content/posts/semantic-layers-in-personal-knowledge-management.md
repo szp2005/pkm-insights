@@ -125,5 +125,7 @@ Instead of a standard link that merely connects two files, a typed link uses inl
 
 ## Related Reading
 
+- [Second Brain for Boosting Creativity in 2026: Complete Guide](/posts/second-brain-for-boosting-creativity-in-2026/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

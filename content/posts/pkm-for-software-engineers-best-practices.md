@@ -149,5 +149,7 @@ Maintenance should take no more than 10-15 minutes per day. The majority of your
 
 ## Related Reading
 
+- [PKM for Lawyers: Managing Case Research Effectively (Complete Guide)](/posts/pkm-for-lawyers-managing-case-research-effectively/)
+
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
 - [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)

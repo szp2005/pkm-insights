@@ -154,6 +154,8 @@ Avoid copying a complex system before you understand the problem you are solving
 
 ## Related Reading
 
+- [Logseq for Academic Literature Reviews: Complete 2026 Review](/posts/logseq-for-academic-literature-reviews/)
+
 - [The Ultimate Guide to Using a Second Brain for Boosting Creativity](/posts/second-brain-for-boosting-creativity/)
 - [Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain](/posts/personal-knowledge-management-tools-comparison/)
 - [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)

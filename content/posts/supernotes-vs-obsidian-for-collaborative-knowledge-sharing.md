@@ -112,5 +112,7 @@ Yes. Supernotes allows you to export your entire database as standard markdown f
 
 ## Related Reading
 
+- [PKM for Startup Founders: Managing Investor Updates in 5 Steps](/posts/pkm-for-startup-founders-managing-investor-updates/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

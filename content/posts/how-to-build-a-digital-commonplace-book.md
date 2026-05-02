@@ -130,5 +130,7 @@ Declare a temporary freeze on capturing new information and schedule brief, dail
 
 ## Related Reading
 
+- [Best Privacy-Focused Note Taking Apps with Encryption in 2026](/posts/best-privacy-focused-note-taking-apps-with-encryption/)
+
 - [Digital Garden vs Second Brain for Creatives: Which Is Better?](/posts/digital-garden-vs-second-brain-for-creatives/)
 - [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)

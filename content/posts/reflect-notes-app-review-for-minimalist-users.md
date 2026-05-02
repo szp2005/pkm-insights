@@ -170,5 +170,7 @@ Because Reflect is built with a local-first architecture, a full copy of your gr
 
 ## Related Reading
 
+- [Best Voice-to-Text Apps for Capturing Thoughts in 2026](/posts/best-voice-to-text-apps-capturing-thoughts/)
+
 - [Effective Note Taking Techniques for Learning: A Comprehensive Guide](/posts/effective-note-taking-techniques-for-learning/)
 - [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

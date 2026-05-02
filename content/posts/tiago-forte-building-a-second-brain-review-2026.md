@@ -152,5 +152,7 @@ Many individuals with ADHD report that the BASB system is life-changing because 
 
 ## Related Reading
 
+- [Building a Second Brain in 2026 Update: Complete Setup Guide](/posts/building-a-second-brain-in-2026-update/)
+
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
