@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-fields-for-database-management-tutorial.webp"
 title: "Tana Fields for Database Management Tutorial: Complete Guide"
 description: "Master database organization with our complete Tana fields for database management tutorial. Learn to build relational databases using supertags and fields."
 pubDate: "2026-05-03"

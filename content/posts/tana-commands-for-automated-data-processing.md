@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-commands-for-automated-data-processing.webp"
 title: "Tana Commands for Automated Data Processing: Complete Guide"
 description: "Master Tana commands for automated data processing. Learn how to build powerful node-based workflows, trigger API calls, and streamline your PKM system today."
 pubDate: "2026-05-03"

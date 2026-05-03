@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-practice-active-recall-using-digital-notes.webp"
 title: "How to Practice Active Recall Using Digital Notes: 5-Step Guide"
 description: "Learn how to practice active recall using digital notes to dramatically improve your memory retention and study efficiency. A complete 5-step framework."
 pubDate: "2026-05-02"

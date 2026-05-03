@@ -1,4 +1,5 @@
 ---
+image: "/og/linking-related-concepts-in-capacities-objects.webp"
 title: "How to Master Linking Related Concepts in Capacities Objects: 5-Step Guide"
 description: "Discover how linking related concepts in Capacities objects transforms your note-taking from isolated facts into a powerful, interconnected knowledge graph."
 pubDate: "2026-05-03"

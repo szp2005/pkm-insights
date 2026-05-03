@@ -1,4 +1,5 @@
 ---
+image: "/og/pkm-for-startup-founders-managing-investor-updates.webp"
 title: "PKM for Startup Founders: Managing Investor Updates in 5 Steps"
 description: "Learn how a Personal Knowledge Management (PKM) system streamlines startup founder workflows, making monthly investor updates faster, accurate, and stress-free."
 pubDate: "2026-05-02"

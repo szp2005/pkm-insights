@@ -1,4 +1,5 @@
 ---
+image: "/og/capacities-review-for-personal-research-management.webp"
 title: "Capacities Review for Personal Research Management in 2026"
 description: "An in-depth Capacities review for personal research management. Discover how its object-based system handles sources, notes, and academic workflows."
 pubDate: "2026-05-03"

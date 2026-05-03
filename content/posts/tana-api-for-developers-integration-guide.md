@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-api-for-developers-integration-guide.webp"
 title: "Tana API for Developers: Complete Integration Guide 2026"
 description: "Master the Tana API with this step-by-step integration guide for developers. Learn to build custom workflows, manage nodes, and automate your workspace."
 pubDate: "2026-05-03"

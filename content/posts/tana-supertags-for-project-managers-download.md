@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-supertags-for-project-managers-download.webp"
 title: "Tana Supertags for Project Managers: Download the Ultimate 2026 Setup"
 description: "Download our complete Tana supertags setup for project managers. Streamline task tracking, team allocation, and sprints with this importable workspace."
 pubDate: "2026-05-03"

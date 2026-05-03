@@ -1,4 +1,5 @@
 ---
+image: "/og/managing-doctoral-thesis-notes-in-logseq.webp"
 title: "Managing Doctoral Thesis Notes in Logseq: Complete Guide"
 description: "Learn a proven system for managing doctoral thesis notes in Logseq. Organize literature, link concepts, and streamline your Ph.D. writing process."
 pubDate: "2026-05-03"

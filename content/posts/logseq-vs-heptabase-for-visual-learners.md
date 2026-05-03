@@ -1,4 +1,5 @@
 ---
+image: "/og/logseq-vs-heptabase-for-visual-learners.webp"
 title: "Logseq vs Heptabase: Which Is Better for Visual Learners?"
 description: "Comparing Logseq vs Heptabase for visual learners. Discover which visual knowledge management tool offers the best canvas, workflow, and pricing for your brain."
 pubDate: "2026-05-03"

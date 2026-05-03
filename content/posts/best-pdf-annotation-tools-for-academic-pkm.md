@@ -1,4 +1,5 @@
 ---
+image: "/og/best-pdf-annotation-tools-for-academic-pkm.webp"
 title: "Best PDF Annotation Tools for Academic PKM in 2026"
 description: "Discover the best PDF annotation tools for academic PKM. Compare top apps to streamline research, connect notes, and build a powerful knowledge system."
 pubDate: "2026-05-02"

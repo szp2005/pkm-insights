@@ -1,4 +1,5 @@
 ---
+image: "/og/logseq-whiteboards-for-visual-knowledge-mapping.webp"
 title: "Logseq Whiteboards for Visual Knowledge Mapping: A Complete Guide"
 description: "Discover how to use Logseq whiteboards for visual knowledge mapping. Learn to connect ideas, structure complex research, and think spatially in this."
 pubDate: "2026-05-03"

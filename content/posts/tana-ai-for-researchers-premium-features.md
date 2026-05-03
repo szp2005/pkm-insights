@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-ai-for-researchers-premium-features.webp"
 title: "Tana AI for Researchers Premium Features: 2026 Complete Guide"
 description: "Discover the essential Tana AI premium features for researchers. Learn how supertags, AI commands, and semantic search accelerate literature reviews and synthesis."
 pubDate: "2026-05-03"

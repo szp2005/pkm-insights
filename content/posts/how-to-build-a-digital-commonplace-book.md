@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-build-a-digital-commonplace-book.webp"
 title: "How to Build a Digital Commonplace Book: A Step-by-Step Guide"
 description: "Learn how to build a digital commonplace book to capture ideas, organize your research, and synthesize knowledge effectively. A complete guide to modern tools."
 pubDate: "2026-05-02"

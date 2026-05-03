@@ -1,4 +1,5 @@
 ---
+image: "/og/logseq-templates-for-doctoral-research-students.webp"
 title: "Best Logseq Templates for Doctoral Research Students"
 description: "Discover the exact Logseq templates for doctoral research students needed to organize literature reviews, manage daily lab notes, and accelerate your PhD writing."
 pubDate: "2026-05-03"

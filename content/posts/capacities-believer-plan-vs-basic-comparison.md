@@ -1,4 +1,5 @@
 ---
+image: "/og/capacities-believer-plan-vs-basic-comparison.webp"
 title: "Capacities Believer Plan vs Basic Comparison: Which is Best?"
 description: "A detailed Capacities Believer Plan vs Basic comparison. We break down the pricing, features, AI tools, and object limits to help you choose the right tier."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/structuring-complex-research-projects-in-logseq.webp"
 title: "Structuring Complex Research Projects in Logseq: A Complete Guide"
 description: "Learn proven methods for structuring complex research projects in Logseq. Master namespaces, properties, and queries to organize large-scale academic work."
 pubDate: "2026-05-03"

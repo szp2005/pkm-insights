@@ -1,4 +1,5 @@
 ---
+image: "/og/template-for-organizing-digital-assets-in-notion.webp"
 title: "Template for Organizing Digital Assets in Notion (2026 Guide)"
 description: "Need a template for organizing digital assets in Notion? Discover our comprehensive guide to centralizing files, streamlining workflows, and saving hours."
 pubDate: "2026-05-02"

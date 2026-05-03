@@ -1,4 +1,5 @@
 ---
+image: "/og/mem-ai-review-is-the-ai-tagging-worth-it.webp"
 title: "Mem.ai Review 2026: Is the AI Tagging Worth It?"
 description: "In this comprehensive Mem.ai review, we analyze whether its AI-powered auto-tagging, semantic search, and self-organizing workspace justify the price."
 pubDate: "2026-05-02"

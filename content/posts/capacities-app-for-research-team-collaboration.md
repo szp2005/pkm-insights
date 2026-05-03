@@ -1,4 +1,5 @@
 ---
+image: "/og/capacities-app-for-research-team-collaboration.webp"
 title: "Best Capacities App Setup for Research Team Collaboration in 2026"
 description: "Discover how to optimize the Capacities app for research team collaboration. Learn the best setup, workflows, and object types to boost your team's productivity."
 pubDate: "2026-05-03"

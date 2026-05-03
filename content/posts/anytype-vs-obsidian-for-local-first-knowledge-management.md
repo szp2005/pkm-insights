@@ -1,4 +1,5 @@
 ---
+image: "/og/anytype-vs-obsidian-local-first-knowledge-management.webp"
 title: "Anytype vs Obsidian: Best Local-First Knowledge Management?"
 description: "Comparing Anytype vs Obsidian for local-first knowledge management. Learn which offline, privacy-focused note app best secures your workflow and data."
 pubDate: "2026-05-02"

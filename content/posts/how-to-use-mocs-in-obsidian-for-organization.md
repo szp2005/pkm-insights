@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-use-mocs-in-obsidian-for-organization.webp"
 title: "How to use MOCs in Obsidian for organization: 5-Step Guide"
 description: "Learn how to use MOCs in Obsidian for organization with this complete step-by-step guide. Transform your messy vault into an intuitive knowledge system."
 pubDate: "2026-05-02"

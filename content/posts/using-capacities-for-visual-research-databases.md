@@ -1,4 +1,5 @@
 ---
+image: "/og/using-capacities-for-visual-research-databases.webp"
 title: "Using Capacities for Visual Research Databases: A Complete Guide"
 description: "Learn everything about using Capacities for visual research databases. Discover how to organize images, link concepts, and build a scalable media library."
 pubDate: "2026-05-03"

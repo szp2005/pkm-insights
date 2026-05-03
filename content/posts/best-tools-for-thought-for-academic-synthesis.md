@@ -1,4 +1,5 @@
 ---
+image: "/og/best-tools-for-thought-for-academic-synthesis.webp"
 title: "Best Tools for Thought for Academic Synthesis in 2026"
 description: "Discover the best tools for thought for academic synthesis. Compare Obsidian, Logseq, and Heptabase to build a system that turns literature into insights."
 pubDate: "2026-05-03"

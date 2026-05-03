@@ -1,4 +1,5 @@
 ---
+image: "/og/top-tana-alternatives-for-structured-data.webp"
 title: "Top Tana Alternatives for Structured Data in 2026"
 description: "Discover the top Tana alternatives for structured data. Compare Anytype, Capacities, Fibery, and more to find the best object-based PKM for your workflow."
 pubDate: "2026-05-03"

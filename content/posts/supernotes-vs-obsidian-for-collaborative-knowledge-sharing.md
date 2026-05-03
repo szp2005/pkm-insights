@@ -1,4 +1,5 @@
 ---
+image: "/og/supernotes-vs-obsidian-for-collaborative-knowledge-sharing.webp"
 title: "Supernotes vs Obsidian: Best for Collaborative Knowledge Sharing"
 description: "Comparing Supernotes vs Obsidian for collaborative knowledge sharing. Discover which PKM tool offers the best team sync, markdown support, and pricing in 2026."
 pubDate: "2026-05-02"

@@ -1,4 +1,5 @@
 ---
+image: "/og/pkm-for-lawyers-managing-case-research-effectively.webp"
 title: "PKM for Lawyers: Managing Case Research Effectively (Complete Guide)"
 description: "Learn how Personal Knowledge Management (PKM) systems help attorneys organize case research, connect precedents, and streamline the brief-drafting process."
 pubDate: "2026-05-02"

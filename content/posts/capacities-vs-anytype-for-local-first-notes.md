@@ -1,4 +1,5 @@
 ---
+image: "/og/capacities-vs-anytype-for-local-first-notes.webp"
 title: "Capacities vs Anytype for Local First Notes: Which Is Better in 2026?"
 description: "A detailed comparison of Capacities vs Anytype for local first notes. Discover which object-based PKM tool offers the best offline capabilities, privacy, and speed."
 pubDate: "2026-05-03"

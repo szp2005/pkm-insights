@@ -1,4 +1,5 @@
 ---
+image: "/og/second-brain-template-for-podcasters-2026.webp"
 title: "Best Second Brain Template for Podcasters in 2026"
 description: "Discover the best second brain template for podcasters in 2026. Organize show notes, manage guests, and streamline episode production effortlessly."
 pubDate: "2026-05-02"

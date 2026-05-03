@@ -1,4 +1,5 @@
 ---
+image: "/og/best-capacities-templates-for-university-students.webp"
 title: "7 Best Capacities Templates for University Students in 2026"
 description: "Discover the best Capacities templates for university students to organize notes, track assignments, manage research, and boost academic productivity."
 pubDate: "2026-05-03"

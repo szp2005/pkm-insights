@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-workspace-for-managing-academic-citations.webp"
 title: "Tana Workspace for Managing Academic Citations: Complete Setup Guide"
 description: "Learn how to configure a Tana workspace for managing academic citations. This complete guide covers tags, reference tracking, and Zotero workflow integration."
 pubDate: "2026-05-03"

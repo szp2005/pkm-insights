@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-organize-pdf-highlights-in-capacities.webp"
 title: "How to Organize PDF Highlights in Capacities: 5-Step Guide"
 description: "Learn exactly how to organize PDF highlights in Capacities to build a connected knowledge base. Discover workflows for extracting, tagging, and linking annotations."
 pubDate: "2026-05-03"

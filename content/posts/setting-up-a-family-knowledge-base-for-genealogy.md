@@ -1,4 +1,5 @@
 ---
+image: "/og/setting-up-a-family-knowledge-base-for-genealogy.webp"
 title: "Setting Up a Family Knowledge Base for Genealogy: 5-Step Guide"
 description: "Learn how setting up a family knowledge base for genealogy helps you organize, preserve, and securely share your ancestral records for future generations."
 pubDate: "2026-05-02"

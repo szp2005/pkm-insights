@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-workflows-for-systematic-literature-reviews.webp"
 title: "Tana Workflows for Systematic Literature Reviews: Complete Guide"
 description: "Discover the most efficient Tana workflows for systematic literature reviews. Learn how to automate data extraction, manage metadata, and streamline research."
 pubDate: "2026-05-03"

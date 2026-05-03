@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-canvas-for-mapping-complex-project-ideas.webp"
 title: "Obsidian Canvas for Mapping Complex Project Ideas: Complete Guide"
 description: "Discover how to use Obsidian Canvas for mapping complex project ideas. Learn techniques to visually organize nodes, connect concepts, and streamline workflows."
 pubDate: "2026-05-02"

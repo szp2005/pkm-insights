@@ -1,4 +1,5 @@
 ---
+image: "/og/pkm-for-medical-doctors-managing-clinical-research.webp"
 title: "PKM for Medical Doctors: Managing Clinical Research Guide"
 description: "Learn to build an effective PKM for medical doctors managing clinical research. Discover tools, workflows, and systems to track literature and trials safely."
 pubDate: "2026-05-02"

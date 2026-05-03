@@ -1,4 +1,5 @@
 ---
+image: "/og/logseq-plugins-for-scientific-research-efficiency.webp"
 title: "Best Logseq Plugins for Scientific Research Efficiency in 2026"
 description: "Discover the top Logseq plugins for scientific research efficiency. Streamline your academic workflow, manage citations, and connect ideas seamlessly."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/automated-note-taking-tools-for-zoom-meetings-2026.webp"
 title: "Best Automated Note-Taking Tools for Zoom Meetings in 2026"
 description: "Discover the top automated note-taking tools for Zoom meetings in 2026. Compare AI assistants to streamline workflows, capture action items, and save time."
 pubDate: "2026-05-02"

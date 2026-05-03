@@ -1,4 +1,5 @@
 ---
+image: "/og/best-logseq-themes-for-long-form-writing.webp"
 title: "7 Best Logseq Themes for Long Form Writing in 2026"
 description: "Discover the best Logseq themes for long form writing. We review top distraction-free themes designed to improve focus, typography, and writing endurance."
 pubDate: "2026-05-03"

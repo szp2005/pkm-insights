@@ -1,4 +1,5 @@
 ---
+image: "/og/capacities-for-ipad-pro-note-taking.webp"
 title: "Capacities for iPad Pro Note Taking: Complete Setup Guide"
 description: "Optimize Capacities for iPad Pro note taking. Learn proven workflows, Magic Keyboard shortcuts, and object-based PKM strategies to organize your knowledge."
 pubDate: "2026-05-03"

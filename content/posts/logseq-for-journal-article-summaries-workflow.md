@@ -1,4 +1,5 @@
 ---
+image: "/og/logseq-for-journal-article-summaries-workflow.webp"
 title: "Logseq for Journal Article Summaries Workflow: 5-Step Guide"
 description: "Master the Logseq for journal article summaries workflow. Learn how to integrate Zotero, extract PDF annotations, and build a networked knowledge base."
 pubDate: "2026-05-03"

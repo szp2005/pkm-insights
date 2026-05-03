@@ -1,4 +1,5 @@
 ---
+image: "/og/reflect-notes-app-review-for-minimalist-users.webp"
 title: "Reflect Notes App Review for Minimalist Users (2026)"
 description: "In this comprehensive Reflect notes app review for minimalist users, we analyze its frictionless interface, AI integrations, and if it justifies the premium price."
 pubDate: "2026-05-02"

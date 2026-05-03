@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-vs-roam-research-for-power-users.webp"
 title: "Tana vs Roam Research for Power Users: Which Is Better in 2026?"
 description: "A deep dive comparing Tana vs Roam Research for power users. Discover whether unstructured networked thought or ontology-driven supertags fit your workflow."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/building-research-ontologies-in-capacities-app.webp"
 title: "Building Research Ontologies in Capacities App: Complete Guide"
 description: "Master building research ontologies in Capacities app with this guide. Learn object-based note-taking to connect notes, visualize data, and synthesize ideas."
 pubDate: "2026-05-03"

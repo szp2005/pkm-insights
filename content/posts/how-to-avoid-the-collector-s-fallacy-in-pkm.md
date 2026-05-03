@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-avoid-the-collectors-fallacy-in-pkm.webp"
 title: "How to Avoid the Collector's Fallacy in PKM: 5-Step Guide"
 description: "Learn how to avoid the collector's fallacy in PKM. Discover actionable strategies to stop hoarding information and start building a functional knowledge system."
 pubDate: "2026-05-02"

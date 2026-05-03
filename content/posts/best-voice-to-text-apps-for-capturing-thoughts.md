@@ -1,4 +1,5 @@
 ---
+image: "/og/best-voice-to-text-apps-capturing-thoughts.webp"
 title: "Best Voice-to-Text Apps for Capturing Thoughts in 2026"
 description: "Discover the best voice-to-text apps for capturing thoughts on the go. Compare features, pricing, and accuracy to find the perfect dictation tool for you."
 pubDate: "2026-05-02"

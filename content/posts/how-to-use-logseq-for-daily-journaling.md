@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-use-logseq-for-daily-journaling.webp"
 title: "How to Use Logseq for Daily Journaling: 5-Step Guide"
 description: "Discover how to use Logseq for daily journaling to organize your thoughts, track habits, and build a connected personal knowledge base without friction."
 pubDate: "2026-05-03"

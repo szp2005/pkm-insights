@@ -1,4 +1,5 @@
 ---
+image: "/og/logseq-sync-setup-for-cross-platform-devices.webp"
 title: "Logseq Sync Setup for Cross Platform Devices: The Complete 2026 Guide"
 description: "Follow this comprehensive Logseq sync setup for cross platform devices to achieve flawless, secure note access across Windows, Mac, iOS, and Android systems."
 pubDate: "2026-05-03"
