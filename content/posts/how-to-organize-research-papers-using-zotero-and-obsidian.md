@@ -9,7 +9,7 @@ slug: "how-to-organize-research-papers-using-zotero-and-obsidian"
 type: "informational"
 ---
 
-# How to Organize Research Papers Using Zotero and Obsidian: 5-Step Guide
+# How to Organize Research Papers Using Zotero and [Obsidian](/posts/what-is-personal-knowledge-management/): 5-Step Guide
 
 > **Quick Answer:** To organize research papers using Zotero and Obsidian, use Zotero to manage PDFs and citations, install the Better BibTeX plugin to generate citekeys, and use Obsidian's Zotero Integration plugin to import your highlights and metadata. This creates a pipeline where reference material lives in Zotero, while active reading notes and knowledge synthesis happen in your Obsidian vault.
 
@@ -21,7 +21,7 @@ Integrating Zotero with Obsidian solves this structural problem. Zotero acts as 
 
 ## The Core Philosophy of the Zotero-Obsidian Workflow
 
-Before configuring software, it is vital to understand the division of labor between these two tools. Attempting to make Zotero behave like a note-taking app or forcing Obsidian to manage raw PDF files leads to system bloat and frustration.
+Before configuring [software](/posts/best-apps-for-personal-knowledge-management/), it is vital to understand the division of labor between these two tools. Attempting to make Zotero behave like a note-taking app or forcing Obsidian to manage raw PDF files leads to system bloat and frustration.
 
 Zotero is your library. Its job is to capture metadata from the web, store the raw PDF files, generate standard citation keys, and format your final bibliography. You read and highlight the actual PDFs within Zotero's built-in reader. 
 
@@ -87,7 +87,7 @@ Open the newly created literature note in Obsidian. Your first task is to write 
 
 Next, review the imported highlights. Create links to broader concepts in your vault. If the paper discusses `[[Neural Networks]]`, ensure that link is present. 
 
-Finally, extract the most critical insights into standalone notes, often called permanent notes or Zettelkasten notes. If a specific highlight represents a massive shift in how you view a topic, do not leave it buried in the `chen2024` literature note. Create a new note titled with a declarative statement (e.g., `Neural networks struggle with out-of-distribution generalization`), write your thoughts on that specific concept, and link back to `[[chen2024]]` as the source.
+Finally, extract the most critical insights into standalone notes, often called permanent notes or [Zettelkasten](/posts/zettelkasten-method-explained/) notes. If a specific highlight represents a massive shift in how you view a topic, do not leave it buried in the `chen2024` literature note. Create a new note titled with a declarative statement (e.g., `Neural networks struggle with out-of-distribution generalization`), write your thoughts on that specific concept, and link back to `[[chen2024]]` as the source.
 
 This practice builds a web of interconnected ideas. When you look at your note on `Neural networks`, you will see backlinks from dozens of different papers, giving you an immediate outline for a literature review.
 

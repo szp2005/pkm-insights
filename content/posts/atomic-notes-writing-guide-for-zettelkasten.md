@@ -15,7 +15,7 @@ type: "informational"
 
 The digital age has shifted our primary intellectual bottleneck from information access to information processing. Most knowledge workers suffer from the "collector's fallacy"—the false belief that clipping an article, highlighting a book, or bookmarking a thread is equivalent to actually learning the material. We store gigabytes of raw data in hierarchical folders, only to forget it exists weeks later.
 
-The Zettelkasten method, popularized by prolific German sociologist Niklas Luhmann, solves this structural problem through the creation of a dynamic "second brain." The foundational unit of this system is the atomic note. When you master the art of writing at the atomic level, you stop treating note-taking as an archival process and start treating it as an active thinking environment.
+The Zettelkasten method, popularized by prolific German sociologist Niklas Luhmann, solves this structural problem through the creation of a dynamic "[second brain](/posts/best-apps-for-personal-knowledge-management/)." The foundational unit of this system is the atomic note. When you master the art of writing at the atomic level, you stop treating [note-taking](/posts/zettelkasten-method-explained/) as an archival process and start treating it as an active thinking environment.
 
 This atomic notes writing guide for Zettelkasten breaks down exactly how to extract, process, and synthesize complex information into singular, independent ideas. Rather than creating long, chronological documents where ideas are buried, you will learn to build a decentralized network of thought that actively assists in your writing, problem-solving, and professional research.
 
@@ -98,7 +98,7 @@ Tags are a blunt instrument. If you tag every note with broad terms like `#psych
 
 ## Best Software for Managing Atomic Notes
 
-While you can technically build a Zettelkasten with physical index cards like Luhmann did, modern personal knowledge management (PKM) software makes the process exponentially faster and more powerful. When choosing software, prioritize tools that support bidirectional linking and local file storage.
+While you can technically build a Zettelkasten with physical index cards like Luhmann did, modern [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) software makes the process exponentially faster and more powerful. When choosing software, prioritize tools that support bidirectional linking and local file storage.
 
 ### Obsidian
 Obsidian is the gold standard for atomic note-taking. It uses local Markdown files, ensuring you own your data forever. Its core feature is the graph view, which visually maps the connections between your notes. The bidirectional linking is seamless, and its extensive plugin ecosystem allows you to customize your workflow infinitely. 

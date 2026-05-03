@@ -9,11 +9,11 @@ slug: "four-layer-stack-for-pkm-optimization"
 type: "informational"
 ---
 
-# Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain
+# Four-Layer Stack for PKM Optimization Complete Guide: Build Your [Second Brain](/posts/what-is-personal-knowledge-management/)
 
 > **Quick Answer:** The four-layer stack for PKM optimization consists of Capture, Organize, Distill, and Express. By separating these functions into distinct layers using dedicated tools and methodologies, you eliminate friction, prevent information overload, and create a sustainable pipeline that transforms raw data into actionable insights.
 
-Information overload is the defining occupational hazard of modern knowledge work. We consume articles, podcasts, meeting notes, and research papers at an unprecedented rate, yet our ability to retain and utilize this information often degrades proportionally to the volume we ingest. When your personal knowledge management (PKM) system consists of an unstructured folder of disconnected notes, you are not building a system; you are simply hoarding digital text.
+Information overload is the defining occupational hazard of modern knowledge work. We consume articles, podcasts, meeting notes, and research papers at an unprecedented rate, yet our ability to retain and utilize this information often degrades proportionally to the volume we ingest. When your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system consists of an unstructured folder of disconnected notes, you are not building a system; you are simply hoarding digital text.
 
 The solution is not a single, monolithic application that attempts to do everything. Instead, the most resilient systems rely on a layered architecture. Much like software engineering employs distinct layers for database, logic, and presentation, a robust PKM system requires discrete stages to handle the lifecycle of an idea. 
 
@@ -21,7 +21,7 @@ Implementing a four-layer stack for PKM optimization allows you to treat knowled
 
 ## Layer 1: The Capture Interface (Frictionless Ingestion)
 
-The fundamental requirement of the capture layer is speed. When an idea strikes or a valuable piece of information is encountered, the time between recognition and capture must be as close to zero as possible. If opening your note-taking app takes five seconds and requires navigating through three folders, you will inevitably lose peripheral insights.
+The fundamental requirement of the capture layer is speed. When an idea strikes or a valuable piece of information is encountered, the time between recognition and capture must be as close to zero as possible. If opening your [note-taking](/posts/zettelkasten-method-explained/) app takes five seconds and requires navigating through three folders, you will inevitably lose peripheral insights.
 
 This layer should be platform-agnostic and ubiquitous. It acts as the staging ground for raw, unfiltered input. You are not organizing at this stage; you are strictly securing the data for future processing. 
 

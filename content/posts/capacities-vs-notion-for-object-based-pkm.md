@@ -15,13 +15,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Capacities is better if you want a ready-to-use, natively object-oriented system that organizes your knowledge by types (People, Books, Ideas) without manual database setup. Notion is the superior choice if you need maximum customization, team collaboration features, and the ability to build complex, interconnected database systems from scratch.
 
-The landscape of personal knowledge management (PKM) has evolved significantly from the rigid folder hierarchies of the past. As our digital inputs have multiplied, the limitations of filing a note into a single specific folder have become apparent. This friction gave rise to networked thought and, more recently, object-based note-taking. In an object-based system, information is categorized not by where it lives, but by what it intrinsically is. 
+The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) has evolved significantly from the rigid folder hierarchies of the past. As our digital inputs have multiplied, the limitations of filing a note into a single specific folder have become apparent. This friction gave rise to networked thought and, more recently, object-based note-taking. In an object-based system, information is categorized not by where it lives, but by what it intrinsically is. 
 
 Rather than creating a page inside a "Work" folder, you create an instance of a "Meeting" object. Instead of a "Readings" directory, you create a "Book" object. Both Capacities and Notion are capable of facilitating this object-oriented approach, but they arrive at the solution from fundamentally different architectural philosophies. Understanding these differing philosophies is crucial for selecting the environment where your personal knowledge base will thrive.
 
 ## The Core Contenders
 
-To understand which application suits your specific needs, we must first look at how they position themselves within the broader productivity ecosystem.
+To understand which application suits your specific needs, we must first look at how they position themselves within the broader [productivity](/posts/zettelkasten-method-explained/) ecosystem.
 
 ### 1. [Capacities](https://www.amazon.com/s?k=Capacities&tag=pkm.notes-automate-20)
 
@@ -138,5 +138,5 @@ Capacities is generally better suited for academic research due to its frictionl
 
 ## Related Reading
 
-- [Digital Garden vs Second Brain: What's the Difference and Which is Right for You?](/posts/digital-garden-vs-second-brain-difference/)
+- [Digital Garden vs [Second Brain](/posts/what-is-personal-knowledge-management/): What's the Difference and Which is Right for You?](/posts/digital-garden-vs-second-brain-difference/)
 - [Evergreen Notes: Definition, Principles, and Practical Examples](/posts/evergreen-notes-definition-and-examples/)

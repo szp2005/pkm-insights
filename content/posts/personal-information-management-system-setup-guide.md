@@ -47,7 +47,7 @@ Dedicate a weekend to aggressively purging obsolete files from these locations. 
 
 ## Step 2: Choose Your Foundational PIMS Architecture
 
-The architecture is the skeleton of your system. It dictates how folders are named and nested across all your tools. Using the exact same folder structure in your file storage, your task manager, and your note-taking app eliminates cognitive load. You never have to think about where a file goes; the structure decides for you.
+The architecture is the skeleton of your system. It dictates how folders are named and nested across all your tools. Using the exact same folder structure in your file storage, your task manager, and your [note-taking](/posts/zettelkasten-method-explained/) app eliminates cognitive load. You never have to think about where a file goes; the structure decides for you.
 
 Two dominant methodologies have emerged as the industry standard for personal information management.
 
@@ -79,7 +79,7 @@ Avoid the trap of attempting to find one "super app" that handles files, tasks, 
 
 ### Note-Taking and Knowledge Base
 Your knowledge base is where you synthesize ideas, draft documents, and store text-based reference material.
-* **Obsidian:** Ideal for privacy-focused users. It stores notes as local Markdown files on your hard drive, ensuring you own your data forever. It uses bi-directional linking to connect related concepts, functioning like a personal Wikipedia.
+* **[Obsidian](/posts/personal-knowledge-management-tools-comparison/):** Ideal for privacy-focused users. It stores notes as local Markdown files on your hard drive, ensuring you own your data forever. It uses bi-directional linking to connect related concepts, functioning like a personal Wikipedia.
 * **Notion:** Better for highly visual thinkers and team collaboration. It utilizes a block-based, database-driven architecture, allowing you to create custom dashboards, kanban boards, and relational databases. 
 * **Apple Notes / UpNote:** Best for users who prioritize speed, deep operating system integration, and simplicity over complex database structures.
 
@@ -162,4 +162,4 @@ This risk highlights the importance of data portability. If you use standard fil
 ## Related Reading
 
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
-- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate [Second Brain](/posts/what-is-personal-knowledge-management/)](/posts/best-apps-for-personal-knowledge-management/)

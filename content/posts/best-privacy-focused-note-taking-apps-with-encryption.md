@@ -44,7 +44,7 @@ Security experts generally favor open-source applications. When the underlying c
 
 Standard Notes is the benchmark for secure note-taking. It is a fully open-source, cross-platform application built entirely around zero-knowledge encryption. Everything you enter—from text and tags to attached files—is encrypted on your device using XChaCha20-Poly1305 encryption before being synced to their servers. The interface is intentionally minimalist, prioritizing speed, stability, and security over complex formatting features in its base version. 
 
-For users who need more than plain text, the paid "Productivity" and "Professional" tiers unlock sophisticated editors (including Markdown, rich text, and spreadsheets), two-factor authentication, and automated encrypted backups to third-party services like Google Drive or Dropbox. Standard Notes undergoes regular third-party security audits, providing peace of mind that their cryptographic claims are accurate. Recently acquired by Proton, the app remains committed to its independent, open-source, and E2EE principles while integrating into a broader privacy ecosystem.
+For users who need more than plain text, the paid "[Productivity](/posts/zettelkasten-method-explained/)" and "Professional" tiers unlock sophisticated editors (including Markdown, rich text, and spreadsheets), two-factor authentication, and automated encrypted backups to third-party services like Google Drive or Dropbox. Standard Notes undergoes regular third-party security audits, providing peace of mind that their cryptographic claims are accurate. Recently acquired by Proton, the app remains committed to its independent, open-source, and E2EE principles while integrating into a broader privacy ecosystem.
 
 **Pros:**
 - Uncompromising zero-knowledge, end-to-end encryption by default
@@ -177,7 +177,7 @@ In a true zero-knowledge system, no. Because the provider does not have your dec
 While both use encryption in transit and at rest on their servers, they are not zero-knowledge by default. Apple and Microsoft hold the encryption keys and can access your data for legal compliance or system automated scanning. Apple does offer "Advanced Data Protection" to E2EE your iCloud data, but it must be manually enabled and covers your entire iCloud account, not just notes.
 
 ### Does open-source make an app more secure?
-Generally, yes. Open-source code allows independent security researchers and cryptographers to inspect the software for vulnerabilities, backdoors, or flawed encryption implementations. Proprietary apps require you to simply trust the company's marketing claims about their security protocols.
+Generally, yes. Open-source code allows independent security researchers and cryptographers to inspect the [software](/posts/best-apps-for-personal-knowledge-management/) for vulnerabilities, backdoors, or flawed encryption implementations. Proprietary apps require you to simply trust the company's marketing claims about their security protocols.
 
 ### How do I safely sync local-first apps without paying for their cloud service?
 For apps like Obsidian, you can sync your local vault using third-party, end-to-end encrypted cloud storage like Proton Drive or Tresorit. Alternatively, you can use peer-to-peer syncing software like Syncthing, which syncs files directly between your devices over your local network or a secure tunnel without storing them on a central server.
@@ -187,4 +187,4 @@ For apps like Obsidian, you can sync your local vault using third-party, end-to-
 ## Related Reading
 
 - [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
-- [Digital Garden vs Second Brain: What's the Difference and Which is Right for You?](/posts/digital-garden-vs-second-brain-difference/)
+- [Digital Garden vs [Second Brain](/posts/what-is-personal-knowledge-management/): What's the Difference and Which is Right for You?](/posts/digital-garden-vs-second-brain-difference/)

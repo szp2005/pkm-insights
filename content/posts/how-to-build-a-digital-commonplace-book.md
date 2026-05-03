@@ -11,7 +11,7 @@ type: "informational"
 
 # How to Build a Digital Commonplace Book: A Step-by-Step Guide
 
-> **Quick Answer:** Building a digital commonplace book requires selecting a core note-taking application (like Obsidian, Notion, or Apple Notes), establishing a frictionless system to capture quotes and ideas, organizing those notes with lightweight tags or links, and scheduling regular reviews to connect disparate concepts into new insights.
+> **Quick Answer:** Building a digital commonplace book requires selecting a core [note-taking](/posts/zettelkasten-method-explained/) application (like Obsidian, Notion, or Apple Notes), establishing a frictionless system to capture quotes and ideas, organizing those notes with lightweight tags or links, and scheduling regular reviews to connect disparate concepts into new insights.
 
 For centuries, thinkers, writers, and scientists relied on commonplace books to manage their intellectual lives. From Marcus Aurelius and John Locke to Virginia Woolf and Bill Gates, these physical notebooks served as central repositories for transcribed quotes, sudden observations, recipes, and drafted letters. They were not diaries; they were external hard drives for the mind.
 
@@ -23,7 +23,7 @@ Transitioning the analog commonplace book into a digital workflow solves the fun
 
 A digital commonplace book is a centralized database for your intellectual inputs. Unlike a project management tool, which is driven by deadlines and deliverables, a commonplace book is driven by curiosity and serendipity. It is a place where you store things you want to remember, understand better, or use later, without necessarily knowing when or how that "later" will occur.
 
-The shift from analog to digital introduces three massive advantages. First, text is infinitely searchable, eliminating the need to remember exactly where you wrote something down. Second, digital platforms allow for ubiquitous capture; you can save an idea from your phone while walking, your tablet while reading, or your desktop while working. Finally, modern software allows for bidirectional linking, meaning an idea saved today can automatically surface alongside related ideas saved three years ago.
+The shift from analog to digital introduces three massive advantages. First, text is infinitely searchable, eliminating the need to remember exactly where you wrote something down. Second, digital platforms allow for ubiquitous capture; you can save an idea from your phone while walking, your tablet while reading, or your desktop while working. Finally, modern [software](/posts/best-apps-for-personal-knowledge-management/) allows for bidirectional linking, meaning an idea saved today can automatically surface alongside related ideas saved three years ago.
 
 However, the ease of digital saving also introduces the "Collector's Fallacy"—the illusion that saving a piece of information is the same as understanding it. A successful digital commonplace book requires more than just dumping links into a folder; it requires a deliberate workflow of capture, organization, and synthesis.
 
@@ -42,7 +42,7 @@ A commonplace book is a working environment, not an archive. Storing information
 
 ## Step 1: Choose Your Core Application
 
-The software market for personal knowledge management (PKM) is saturated. The best tool is the one that aligns with how your brain naturally categorizes information. Broadly, applications fall into three architectural categories.
+The software market for [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) is saturated. The best tool is the one that aligns with how your brain naturally categorizes information. Broadly, applications fall into three architectural categories.
 
 ### Networked Thinkers (Obsidian, Logseq, Roam Research)
 If you think in webs rather than hierarchies, networked note-taking apps are the ideal choice. These tools rely on bidirectional linking, allowing you to connect thoughts organically without rigid folder structures. 

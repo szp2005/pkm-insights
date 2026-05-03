@@ -23,7 +23,7 @@ This guide details the mechanics of implementing a KAPG strategy. It covers the 
 
 ## Understanding the Knowledge Asset Product Group
 
-At its core, a Knowledge Asset Product Group strategy treats intellectual property the same way a traditional manufacturer treats physical raw materials. Instead of selling a single, monolithic consulting engagement or software license, the organization segments its knowledge into a structured portfolio.
+At its core, a Knowledge Asset Product Group strategy treats intellectual property the same way a traditional manufacturer treats physical raw materials. Instead of selling a single, monolithic consulting engagement or [software](/posts/best-apps-for-personal-knowledge-management/) license, the organization segments its knowledge into a structured portfolio.
 
 A "Product Group" in this context refers to a unified collection of knowledge assets organized by theme, target audience, or delivery mechanism. This grouping prevents the erratic launch of disconnected digital products and ensures a cohesive customer journey. When a buyer enters the ecosystem through an entry-level framework, the product group structure naturally illuminates the path toward higher-tier offerings.
 
@@ -38,7 +38,7 @@ This shift requires defining the boundaries of what constitutes an asset. A one-
 To build a cohesive product group, you must categorize the raw material. Knowledge assets typically fall into four distinct classifications, each serving a specific market segment and carrying a different price ceiling.
 
 ### 1. [Codified Methodologies (The Frameworks)](https://www.amazon.com/s?k=Codified%20Methodologies%20%28The%20Frameworks%29&tag=pkm.notes-automate-20)
-These are the operational blueprints of your organization. They represent the "how" of your success. Examples include strategic planning templates, risk assessment matrices, standardized operating procedures (SOPs), and proprietary diagnostic tools. These assets are typically packaged as PDF playbooks, Notion templates, or interactive spreadsheets. They serve as excellent top-of-funnel products due to their high utility and low friction.
+These are the operational blueprints of your organization. They represent the "how" of your success. Examples include strategic planning templates, risk assessment matrices, standardized operating procedures (SOPs), and proprietary diagnostic [tools](/posts/personal-knowledge-management-tools-comparison/). These assets are typically packaged as PDF playbooks, [Notion](/posts/what-is-personal-knowledge-management/) templates, or interactive spreadsheets. They serve as excellent top-of-funnel products due to their high utility and low friction.
 
 ### 2. [Aggregated Intelligence (The Data)](https://www.amazon.com/s?k=Aggregated%20Intelligence%20%28The%20Data%29&tag=pkm.notes-automate-20)
 If your organization processes significant volume in any sector, the aggregated, anonymized data is a prime knowledge asset. This includes benchmark reports, industry trend analyses, pricing indices, and vendor evaluation matrices. Aggregated intelligence is highly valued by enterprise clients who need external validation for internal decisions. This asset type is usually monetized via annual subscriptions or high-ticket singular reports.

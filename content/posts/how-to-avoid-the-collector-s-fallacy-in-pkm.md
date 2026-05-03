@@ -13,9 +13,9 @@ type: "informational"
 
 > **Quick Answer:** To avoid the collector's fallacy in PKM, you must shift your focus from capturing information to processing it. Implement high-friction capture methods, establish strict limits on your reading inbox, prioritize progressive summarization, and aggressively purge unread material to ensure you are building knowledge rather than simply hoarding data.
 
-Your read-it-later app is overflowing with hundreds of unread articles. Your browser has three windows open, each with twenty tabs containing research you intend to review. Your Personal Knowledge Management (PKM) system is bloated with thousands of bookmarks, clipped web pages, and highlighted PDF files that you have never revisited. You feel a sense of productivity when you save these items, but your actual output remains stagnant. 
+Your read-it-later app is overflowing with hundreds of unread articles. Your browser has three windows open, each with twenty tabs containing research you intend to review. Your [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system is bloated with thousands of bookmarks, clipped web pages, and highlighted PDF files that you have never revisited. You feel a sense of [productivity](/posts/zettelkasten-method-explained/) when you save these items, but your actual output remains stagnant. 
 
-This scenario represents a structural failure in personal knowledge management. When the friction of capturing information approaches zero, the volume of captured information expands to fill the storage available. The result is not a second brain, but a digital landfill.
+This scenario represents a structural failure in personal knowledge management. When the friction of capturing information approaches zero, the volume of captured information expands to fill the storage available. The result is not a [second brain](/posts/what-is-personal-knowledge-management/), but a digital landfill.
 
 The core issue is a cognitive bias where we confuse the act of collecting information with the assimilation of knowledge. Overcoming this requires dismantling the habits that prioritize accumulation and replacing them with workflows that mandate synthesis. This guide details a systematic approach to breaking this cycle and restoring functionality to your knowledge system.
 

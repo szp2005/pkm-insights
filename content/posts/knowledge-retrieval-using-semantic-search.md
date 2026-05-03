@@ -15,7 +15,7 @@ type: "informational"
 
 Traditional search architectures have reached their limits. When enterprise systems contain millions of documents, manuals, and internal communications, simple keyword matching fails to deliver precise answers. Users expect systems to understand what they mean, not just the exact strings they type.
 
-Knowledge retrieval using semantic search solves this structural limitation. By mapping human language into mathematical representations, applications can surface documents based on conceptual similarity. This shift fundamentally alters how software applications index, store, and query data.
+Knowledge retrieval using semantic search solves this structural limitation. By mapping human language into mathematical representations, applications can surface documents based on conceptual similarity. This shift fundamentally alters how [software](/posts/best-apps-for-personal-knowledge-management/) applications index, store, and query data.
 
 This guide details the mechanics of semantic knowledge retrieval, the underlying architecture required to support it, and the exact steps to implement a production-grade semantic search pipeline.
 
@@ -170,4 +170,4 @@ Yes. You can implement entirely private knowledge retrieval using open-source em
 ## Related Reading
 
 - [How to Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)
-- [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
+- [How to Build a [Second Brain](/posts/what-is-personal-knowledge-management/): The Ultimate Guide to [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/)](/posts/how-to-build-a-second-brain/)

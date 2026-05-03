@@ -15,9 +15,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best Logseq themes for long-form writing prioritize clean typography, high contrast, and minimal interface clutter. The **Bear Theme** is the overall top choice for its elegant, distraction-free design that mimics dedicated writing apps, while **Awesome Styler** offers the best customization for authors who want exact control over line height and paragraph spacing.
 
-While Logseq is primarily known as a powerful outliner and knowledge management tool, an increasing number of writers are using it to draft long-form content—from essays and newsletters to full-length books. The default Logseq interface, with its prominent bullets, sidebars, and brackets, is optimized for data entry and connection, not immersive writing. 
+While Logseq is primarily known as a powerful outliner and [knowledge management](/posts/knowledge-management-strategies-for-students/) tool, an increasing number of writers are using it to draft long-form content—from essays and newsletters to full-length books. The default Logseq interface, with its prominent bullets, sidebars, and brackets, is optimized for data entry and connection, not immersive writing. 
 
-Staring at a crowded UI for hours leads to cognitive fatigue. When drafting thousands of words, you need an environment that gets out of the way. The right theme transforms Logseq from a technical database into a serene, focus-driven text editor. 
+Staring at a crowded UI for hours leads to cognitive fatigue. When drafting thousands of words, you need an environment that gets out of the way. The right theme transforms Logseq from a technical database into a serene, [focus](/posts/digital-decluttering-for-information-overload/)-driven text editor. 
 
 We evaluated the most popular Logseq themes based on their typography choices, whitespace distribution, block-hiding capabilities, and overall visual comfort during extended writing sessions. Here are the top themes designed to help you hit your daily word count.
 
@@ -158,7 +158,7 @@ It uses custom fonts that mimic neat handwriting for headings and a highly legib
 
 ## How to Optimize Logseq for Long Form Writing
 
-Choosing a theme is only the first step. Because Logseq is an outliner at its core, you must configure the software to accommodate prose.
+Choosing a theme is only the first step. Because Logseq is an outliner at its core, you must configure the [software](/posts/best-apps-for-personal-knowledge-management/) to accommodate prose.
 
 ### Disable the Outliner Visuals
 When writing long paragraphs, the constant presence of bullet points breaks the illusion of a standard document. Use your theme's settings (or custom CSS via the `custom.css` file) to hide bullets for top-level blocks or when zooming into a specific node. 

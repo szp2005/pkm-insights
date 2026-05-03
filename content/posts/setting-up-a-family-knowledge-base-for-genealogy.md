@@ -21,7 +21,7 @@ Setting up a family knowledge base for genealogy solves this structural problem.
 
 ## Step 1: Choosing the Right Knowledge Base Platform
 
-The foundation of your family archive is the software you use to house it. Unlike traditional family tree software, which is rigidly built around the GEDCOM standard and familial relationships, a knowledge base is optimized for note-taking, source analysis, and linking disparate pieces of evidence. 
+The foundation of your family archive is the software you use to house it. Unlike traditional family tree software, which is rigidly built around the GEDCOM standard and familial relationships, a knowledge base is optimized for [note-taking](/posts/zettelkasten-method-explained/), source analysis, and linking disparate pieces of evidence. 
 
 When evaluating platforms, prioritize data ownership, export capabilities, and linking features over flashy interfaces.
 
@@ -94,12 +94,12 @@ Building a family knowledge base is an investment of hundreds of hours. Protecti
 
 * **Implement the 3-2-1 Backup Strategy:** Maintain three total copies of your knowledge base. Keep two copies on different local media (e.g., your computer's internal drive and an external SSD), and keep one copy offsite (e.g., a secure cloud backup service like Backblaze or a physical drive stored in a safe deposit box).
 * **Avoid Proprietary Formats:** Do not embed critical analysis inside proprietary word processing formats that may become unsupported. Stick to plain text, Markdown, PDF/A (for documents), and TIFF/JPEG (for images).
-* **Regular GEDCOM Exports:** While your knowledge base handles the rich context, you should still maintain a skeletal family tree in standard software. Export a GEDCOM file annually and store it alongside your knowledge base files to ensure maximum compatibility with future genealogical tools.
+* **Regular GEDCOM Exports:** While your knowledge base handles the rich context, you should still maintain a skeletal family tree in standard software. Export a GEDCOM file annually and store it alongside your knowledge base files to ensure maximum compatibility with future genealogical [tools](/posts/personal-knowledge-management-tools-comparison/).
 * **Document Your System:** Write a "README" file for your archive. Explain your folder structure, your naming conventions, and how the software works. Assume that one day, a descendant will inherit this digital file without you there to explain it. 
 
 ## Conclusion
 
-Setting up a family knowledge base for genealogy transforms you from a passive collector of documents into an active curator of your family's history. By moving away from restrictive, platform-dependent tree builders and adopting flexible knowledge management tools, you gain total control over how your research is organized, analyzed, and preserved. Whether you choose the privacy of local Markdown files or the collaborative power of a cloud database, a centralized system ensures that the stories of your ancestors survive the test of time, intact and easily accessible.
+Setting up a family knowledge base for genealogy transforms you from a passive collector of documents into an active curator of your family's history. By moving away from restrictive, platform-dependent tree builders and adopting flexible [knowledge management](/posts/knowledge-management-strategies-for-students/) tools, you gain total control over how your research is organized, analyzed, and preserved. Whether you choose the privacy of local Markdown files or the collaborative power of a cloud database, a centralized system ensures that the stories of your ancestors survive the test of time, intact and easily accessible.
 
 ## Frequently Asked Questions
 

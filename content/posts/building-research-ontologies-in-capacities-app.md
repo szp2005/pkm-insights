@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Academic and professional research often hits a wall when the volume of notes outgrows traditional folder-based systems. You start a project with clear intentions, but months later, finding a specific argument or connecting disparate concepts across hundreds of text files feels impossible. The cognitive load of remembering where you put something overrides the actual work of synthesizing ideas.
 
-This is the primary failure of rigid, hierarchical knowledge management. When ideas are forced into single containers, their relationships to other concepts are severed. 
+This is the primary failure of rigid, hierarchical [knowledge management](/posts/knowledge-management-strategies-for-students/). When ideas are forced into single containers, their relationships to other concepts are severed. 
 
 Capacities approaches this problem fundamentally differently by utilizing an object-based architecture. Instead of asking "Where does this note live?", Capacities asks "What is this piece of information?" By shifting to this paradigm, researchers can construct sophisticated ontologies—structured networks of concepts and their relationships—that evolve naturally alongside their understanding. 
 
@@ -42,7 +42,7 @@ Properties are the connective tissue of your ontology. While backlinks (wiki-lin
 A successful ontology balances structure with flexibility. Over-engineering your object types initially will create friction, while under-engineering will result in a messy, unsearchable database. 
 
 ### Essential Object Types for Researchers
-Most research workflows can be managed effectively with four to six core object types:
+Most research [workflows](/posts/getting-things-done-for-knowledge-workers/) can be managed effectively with four to six core object types:
 
 1.  **Source / Reference:** The origin of the information (Books, Articles, Podcasts, Videos).
 2.  **Person / Creator:** The author, speaker, or subject of the source.
@@ -69,7 +69,7 @@ By strictly applying these properties as you input data, you guarantee that ever
 
 ## Managing the Input Pipeline
 
-An ontology is only as useful as the data within it. The friction of adding new information often determines whether a system succeeds or fails. Capacities provides specific tools to streamline the ingestion of research material.
+An ontology is only as useful as the data within it. The friction of adding new information often determines whether a system succeeds or fails. Capacities provides specific [tools](/posts/personal-knowledge-management-tools-comparison/) to streamline the ingestion of research material.
 
 ### Handling Daily Notes and Fleeting Thoughts
 Not every piece of information belongs in your formal ontology immediately. Capacities uses a Daily Note structure as a staging ground. 

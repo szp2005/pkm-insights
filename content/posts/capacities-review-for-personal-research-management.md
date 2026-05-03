@@ -15,13 +15,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Capacities excels at personal research management by using an object-based architecture (like Notion) combined with networked linking (like Obsidian). It is ideal for researchers managing hundreds of PDFs, academic papers, and meeting notes, though its reliance on a cloud connection may deter strict local-first advocates.
 
-Managing research effectively means moving beyond rigid folders and scattered text files. Traditional note-taking apps force you to organize by location, which quickly breaks down when a single source relates to multiple cross-disciplinary projects. Enter Capacities, a tool that has steadily gained traction among academics, analysts, and deep thinkers seeking a more structural approach to their digital brain.
+Managing research effectively means moving beyond rigid folders and scattered text files. Traditional [note-taking](/posts/zettelkasten-method-explained/) apps force you to organize by location, which quickly breaks down when a single source relates to multiple cross-disciplinary projects. Enter Capacities, a tool that has steadily gained traction among academics, analysts, and deep thinkers seeking a more structural approach to their digital brain.
 
 This Capacities review for personal research management examines whether its unique "object-based" approach truly solves the friction of managing complex information. Unlike standard outliners or flat-file Markdown editors, Capacities treats every piece of information as a typed object. We will break down how this works in practice, where it shines, and where it falls short for heavy research workflows.
 
 ## The Object-Based Architecture Explained
 
-Traditional personal knowledge management (PKM) tools typically use either hierarchical folders (Evernote) or a flat network of interlinked Markdown files (Obsidian, Roam). Capacities takes a different route, heavily inspired by object-oriented programming and databases.
+Traditional [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tools typically use either hierarchical folders (Evernote) or a flat network of interlinked Markdown files (Obsidian, Roam). Capacities takes a different route, heavily inspired by object-oriented programming and databases.
 
 In Capacities, you define "Objects." If you are writing a literature review, you might create an object type called "Paper." Every time you add a new paper, Capacities prompts you to fill out specific properties for that object type: author, publication year, DOI, and a short summary.
 
@@ -38,7 +38,7 @@ Capacities anchors its workflow around a daily note. For researchers, the daily 
 Research often involves wrangling PDFs, images, and web clippings. Capacities treats media as first-class citizens. When you upload a PDF, it becomes a dedicated "Image" or "File" object. The application provides deep integration with these files, allowing you to view them side-by-side with your notes and link directly to specific assets within your broader knowledge graph.
 
 ### The Graph View
-Like many modern PKM tools, Capacities includes a graph view to visualize connections. However, because your notes are typed objects, the graph becomes far more legible. You can filter the graph to only show connections between "Authors" and "Books," cutting through the visual noise that typically plagues unstructured network graphs in other software.
+Like many modern PKM tools, Capacities includes a graph view to visualize connections. However, because your notes are typed objects, the graph becomes far more legible. You can filter the graph to only show connections between "Authors" and "Books," cutting through the visual noise that typically plagues unstructured network graphs in other [software](/posts/best-apps-for-personal-knowledge-management/).
 
 ## Product Evaluation
 

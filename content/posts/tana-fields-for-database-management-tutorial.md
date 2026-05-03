@@ -15,9 +15,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Tana fields are customizable metadata attributes attached to Supertags that allow you to structure, filter, and manage data like a traditional relational database. By defining field types—such as options, dates, or reference links—you transform unstructured text nodes into highly queryable, structured database entries without writing code.
 
-Transitioning from traditional folder-based note-taking apps to a graph-based, node-centric system requires a fundamental shift in how you think about data. When everything is a bullet point (or "node"), relying solely on text search quickly becomes unsustainable. You need a structured approach to categorize, sort, and retrieve information reliably. 
+Transitioning from traditional folder-based [note-taking](/posts/zettelkasten-method-explained/) apps to a graph-based, node-centric system requires a fundamental shift in how you think about data. When everything is a bullet point (or "node"), relying solely on text search quickly becomes unsustainable. You need a structured approach to categorize, sort, and retrieve information reliably. 
 
-This is where Tana's architecture excels, blending the fluidity of an outliner with the structural rigor of a relational database. Unlike tools where databases are rigid tables, Tana builds databases organically through metadata. 
+This is where Tana's architecture excels, blending the fluidity of an outliner with the structural rigor of a relational database. Unlike [tools](/posts/personal-knowledge-management-tools-comparison/) where databases are rigid tables, Tana builds databases organically through metadata. 
 
 At the center of this capability are Tana Fields. When combined with Supertags, fields allow you to define properties for different types of information, effectively creating database schemas on the fly. Whether you are managing a complex CRM, a content editorial calendar, or an academic research repository, understanding how to configure and deploy fields is the foundation of effective database management in Tana.
 
@@ -95,7 +95,7 @@ To create a database view for a task tracker:
 4. Add a parameter targeting a specific field. For example, select the "Status" field and set the condition to "NOT EQUAL TO Done."
 5. Add another parameter targeting the "Assignee" field and set it to "Me."
 
-You now have a dynamic list of your active tasks. By switching the view mode from a standard list to a Table View or Kanban Board View, you replicate the interfaces of traditional database software. In a Kanban view, you can group the columns by your Options fields (like Status), allowing you to drag and drop items to instantly update their underlying field data.
+You now have a dynamic list of your active tasks. By switching the view mode from a standard list to a Table View or Kanban Board View, you replicate the interfaces of traditional database [software](/posts/best-apps-for-personal-knowledge-management/). In a Kanban view, you can group the columns by your Options fields (like Status), allowing you to drag and drop items to instantly update their underlying field data.
 
 ## Practical Advice for Tana Database Architecture
 

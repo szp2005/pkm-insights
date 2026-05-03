@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 The doctoral journey produces an overwhelming volume of disconnected information. Between peer-reviewed journal articles, archival documents, laboratory results, and fleeting midnight epiphanies, the sheer mass of data often becomes a barrier to writing rather than a foundation for it. Traditional folder-based systems fail because they force a rigid hierarchy on ideas that naturally overlap. When you place a paper in a folder labeled "Chapter 2," you artificially isolate it from connections it might have with "Chapter 5."
 
-Logseq fundamentally shifts this paradigm. As a privacy-first, local-only, outliner-based personal knowledge management (PKM) tool, it excels at handling the non-linear, messy nature of academic research. Instead of organizing files, you organize blocks of thought. 
+Logseq fundamentally shifts this paradigm. As a privacy-first, local-only, outliner-based [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool, it excels at handling the non-linear, messy nature of academic research. Instead of organizing files, you organize blocks of thought. 
 
 This guide details a comprehensive, scalable system for managing doctoral thesis notes in Logseq, from the initial literature review to the final synthesis of your dissertation chapters.
 
@@ -61,7 +61,7 @@ Beneath the automatically generated metadata, structure your notes into three di
 3.  **Methodology/Data:** Specific details about how the research was conducted.
 
 ### Concept and Method Pages
-Unlike source pages, which map to physical documents, concept pages map to ideas. These are equivalent to "permanent notes" in the Zettelkasten methodology. 
+Unlike source pages, which map to physical documents, concept pages map to ideas. These are equivalent to "permanent notes" in the [Zettelkasten](/posts/zettelkasten-method-explained/) methodology. 
 
 If you are researching neural networks, you might have pages for `[[Backpropagation]]`, `[[Gradient Descent]]`, and `[[Overfitting]]`. As you read `@Smith2024` and discover an interesting point about gradient descent, you do not need to open the `[[Gradient Descent]]` page. You simply indent a bullet under your reading notes and tag it with `#Gradient Descent`. Logseq will automatically aggregate that block at the bottom of the `[[Gradient Descent]]` page under the "Linked References" section.
 
@@ -115,7 +115,7 @@ Yes, Logseq can manage thousands of PDFs, but performance depends on your hardwa
 You should use pages and tags rather than folders. Create a master page for `[[Chapter 1]]` and tag any relevant reading notes or journal entries with that link. This ensures the chapter page dynamically aggregates all related content without forcing you to move files around a restrictive directory tree.
 
 ### What happens to my notes if I stop using Logseq?
-Because Logseq stores all your data as standard, local Markdown files, your notes remain completely accessible. If you transition to another Markdown-based tool like Obsidian or simply use a standard text editor, you will retain your text, links, and formatting without any proprietary lock-in.
+Because Logseq stores all your data as standard, local Markdown files, your notes remain completely accessible. If you transition to another Markdown-based tool like [Obsidian](/posts/what-is-personal-knowledge-management/) or simply use a standard text editor, you will retain your text, links, and formatting without any proprietary lock-in.
 
 ### How do I handle collaborative research in Logseq?
 Logseq is primarily designed for personal knowledge management, making real-time collaboration difficult. For joint papers or shared data with your lab, it is best to use a specialized collaborative tool (like Google Docs or Notion) for the shared output, while keeping your personal reading notes and thesis-specific syntheses in your private Logseq vault.

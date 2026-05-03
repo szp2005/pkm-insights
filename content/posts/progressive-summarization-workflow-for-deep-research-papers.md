@@ -29,9 +29,9 @@ The core principle is deferred processing. You do not try to perfectly summarize
 
 ## Layer 1: Capture and Initial Reading
 
-The first step in the progressive summarization workflow for deep research papers is the initial capture. This involves bringing the raw material—excerpts, quotes, and figures—into your personal knowledge management (PKM) system. 
+The first step in the progressive summarization workflow for deep research papers is the initial capture. This involves bringing the raw material—excerpts, quotes, and figures—into your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system. 
 
-When reading a complex paper, avoid the temptation to highlight every sentence. Your goal in Layer 1 is simply to identify passages that resonate, surprise you, or form the backbone of the author's argument. Copy these passages verbatim into your note-taking app. If you are using reference managers like Zotero or Readwise, this process can be automated.
+When reading a complex paper, avoid the temptation to highlight every sentence. Your goal in Layer 1 is simply to identify passages that resonate, surprise you, or form the backbone of the author's argument. Copy these passages verbatim into your [note-taking](/posts/zettelkasten-method-explained/) app. If you are using reference managers like Zotero or Readwise, this process can be automated.
 
 Crucially, Layer 1 should include the paper's metadata. Ensure your note has the full citation, a link to the original PDF, the authors' names, and the publication year. If the paper relies on a specific dataset or framework, copy the exact description of that framework into your notes. At this stage, your note might be long and unformatted—perhaps 1,000 to 2,000 words of direct quotes. That is exactly what Layer 1 should look like. You are building the raw material for future compression.
 
@@ -110,4 +110,4 @@ This is a normal part of the process. If you reach Layer 2 and realize the quote
 - [How to Set Up Personal Knowledge Management for Product Managers: 5-Step Guide](/posts/personal-knowledge-management-for-product-managers-tutorial/)
 
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
-- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate [Second Brain](/posts/what-is-personal-knowledge-management/)](/posts/best-apps-for-personal-knowledge-management/)

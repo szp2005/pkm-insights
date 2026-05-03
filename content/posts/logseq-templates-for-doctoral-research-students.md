@@ -77,7 +77,7 @@ A PhD requires immense self-discipline. The daily note is where Logseq shines, s
 - Template Name: Daily Research Journal
   template:: daily-journal
   icon:: 🔬
-  - **🎯 Current Weekly Sprint Focus:**
+  - **🎯 Current Weekly Sprint [Focus](/posts/digital-decluttering-for-information-overload/):**
     - 
   - **✅ Tasks & Experiments for Today:**
     - DONE Check calibration on the mass spectrometer
@@ -184,14 +184,14 @@ Because you are using standardized properties in your templates, you can create 
     `{{query (and (property Type "[[Concept]]") (page-tags #methodology))}}`
 
 ### Integrate with Zotero
-While Logseq is excellent for note-taking, it is not a reference manager. You must pair Logseq with a tool like Zotero. Use Zotero to handle your PDFs, BibTeX generation, and browser clipping. Use the official Logseq-Zotero integration to pull the metadata (Title, Author, Year) directly into your Logseq Literature Note template. This keeps your references structurally sound for your final LaTeX or Word export while keeping your thoughts deeply networked in Logseq.
+While Logseq is excellent for [note-taking](/posts/zettelkasten-method-explained/), it is not a reference manager. You must pair Logseq with a tool like Zotero. Use Zotero to handle your PDFs, BibTeX generation, and browser clipping. Use the official Logseq-Zotero integration to pull the metadata (Title, Author, Year) directly into your Logseq Literature Note template. This keeps your references structurally sound for your final LaTeX or Word export while keeping your thoughts deeply networked in Logseq.
 
 ### Regular Graph Maintenance
 Once a week—perhaps on Friday afternoons—dedicate 30 minutes to graph maintenance. Use this time to process your daily notes, ensure all fleeting thoughts are integrated into proper Concept Notes, clean up tags, and verify that your Literature Notes have been properly summarized. A PhD graph requires pruning to remain functional over four years.
 
 ## Conclusion
 
-A PhD is not just a test of intellect; it is a test of organizational endurance. By implementing these tailored Logseq templates for doctoral research students, you shift the cognitive burden of remembering *where* things are to your software, freeing your mind to focus on *what* the information means. Start with the Literature Note and Daily Journal templates. As your graph grows, the interconnected nodes will naturally surface insights, contradictions, and connections in your field, transforming a daunting pile of literature into a cohesive, defensible dissertation.
+A PhD is not just a test of intellect; it is a test of organizational endurance. By implementing these tailored Logseq templates for doctoral research students, you shift the cognitive burden of remembering *where* things are to your [software](/posts/best-apps-for-personal-knowledge-management/), freeing your mind to focus on *what* the information means. Start with the Literature Note and Daily Journal templates. As your graph grows, the interconnected nodes will naturally surface insights, contradictions, and connections in your field, transforming a daunting pile of literature into a cohesive, defensible dissertation.
 
 ## Frequently Asked Questions
 

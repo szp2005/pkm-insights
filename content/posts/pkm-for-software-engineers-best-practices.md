@@ -11,17 +11,17 @@ type: "informational"
 
 # PKM for Software Engineers: Best Practices & Complete Guide
 
-> **Quick Answer:** The most effective PKM for software engineers relies on plain-text, local-first tools like Obsidian or Neovim plugins, utilizing flat folder structures and bi-directional linking. Best practices include using daily notes as an entry point, separating proprietary company data from personal insights, and building specific templates for architectural decisions, bug root-cause analyses, and reusable code snippets.
+> **Quick Answer:** The most effective PKM for software engineers relies on plain-text, local-first tools like [Obsidian](/posts/what-is-personal-knowledge-management/) or Neovim plugins, utilizing flat folder structures and bi-directional linking. Best practices include using daily notes as an entry point, separating proprietary company data from personal insights, and building specific templates for architectural decisions, bug root-cause analyses, and reusable code snippets.
 
 As a software engineer, your output is code, but your primary raw material is context. Every day involves navigating shifting requirements, undocumented legacy systems, complex deployment pipelines, and obscure error messages. When an engineer gets stuck, it is rarely because they do not know how to write a loop; it is because they have lost the thread of why a system was designed a certain way six months ago. 
 
-This is where Personal Knowledge Management (PKM) becomes a foundational engineering skill. A reliable PKM system acts as an external brain, capturing the ephemeral context that IDEs and source control systems miss. However, developers face unique challenges that generic note-taking advice fails to address. Engineers deal with proprietary code, require specialized formatting for syntax highlighting and diagrams, and operate under heavy cognitive load where minimizing friction is paramount. 
+This is where [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) becomes a foundational engineering skill. A reliable PKM system acts as an external brain, capturing the ephemeral context that IDEs and source control systems miss. However, developers face unique challenges that generic note-taking advice fails to address. Engineers deal with proprietary code, require specialized formatting for syntax highlighting and diagrams, and operate under heavy cognitive load where minimizing friction is paramount. 
 
 Implementing a robust PKM system prevents the repetitive cycle of researching the same obscure API behavior or rewriting the same bash script. It transforms fleeting daily problem-solving into a compounding asset.
 
 ## Why Software Engineers Need a Specialized Approach
 
-Standard productivity advice often recommends elaborate tagging systems, rigid folder hierarchies, or visually heavy database tools. For software engineers, these approaches typically fail under the pressure of daily development workflows.
+Standard [productivity](/posts/zettelkasten-method-explained/) advice often recommends elaborate tagging systems, rigid folder hierarchies, or visually heavy database tools. For software engineers, these approaches typically fail under the pressure of daily development workflows.
 
 ### The Context Switching Penalty
 

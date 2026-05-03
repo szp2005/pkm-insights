@@ -91,13 +91,13 @@ Your tool must support frictionless bidirectional linking, robust offline access
 
 **Recommended architectures based on workflow:**
 
-If you prioritize speed, local storage, and high customization, Obsidian is the leading choice. It stores data in plain text markdown files locally on your machine, ensuring you never lose access to your knowledge base. It requires more upfront configuration but scales exceptionally well for managing thousands of heavily linked notes.
+If you prioritize speed, local storage, and high customization, [Obsidian](/posts/what-is-personal-knowledge-management/) is the leading choice. It stores data in plain text markdown files locally on your machine, ensuring you never lose access to your knowledge base. It requires more upfront configuration but scales exceptionally well for managing thousands of heavily linked notes.
 
 If your role requires heavy collaboration, visual database management, and structured tables, Notion provides a more rigid but highly capable environment. It allows you to build relational databases to track user research against product features, though it lacks the fluid, text-first linking speed of local markdown tools.
 
 If you prefer a networked thought approach with minimal structural overhead, Roam Research or Logseq offer out-of-the-box daily journal interfaces that naturally encourage bidirectional linking without the need to maintain complex folder hierarchies.
 
-Regardless of the tool, adhere to these constraints: Keep formatting minimal. Rely on text, links, and simple bullet points. The moment you start embedding complex widgets, formatting tables heavily, or worrying about aesthetics, you are degrading the system's efficiency. Focus entirely on the rapid capture and retrieval of information.
+Regardless of the tool, adhere to these constraints: Keep formatting minimal. Rely on text, links, and simple bullet points. The moment you start embedding complex widgets, formatting tables heavily, or worrying about aesthetics, you are degrading the system's efficiency. [Focus](/posts/digital-decluttering-for-information-overload/) entirely on the rapid capture and retrieval of information.
 
 ## Conclusion
 
@@ -124,4 +124,4 @@ No. Attempting a massive migration of legacy notes usually causes project abando
 ## Related Reading
 
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
-- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and [Zettelkasten](/posts/zettelkasten-method-explained/)](/posts/atomic-notes-writing-guide/)

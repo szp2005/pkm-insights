@@ -8,9 +8,9 @@ tags: ["pkm", "obsidian", "roam research", "productivity", "note-taking", "tools
 type: "review"
 ---
 
-> **Quick Answer:** Roam Research vs Obsidian matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the best Personal Knowledge Management (PKM) tool.
+> **Quick Answer:** Roam Research vs Obsidian matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the best [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) tool.
 
-The landscape of Personal Knowledge Management (PKM) has undergone a seismic shift over the last few years. Moving away from rigid, folder-based hierarchies, the vanguard of note-taking now embraces "networked thought." At the epicenter of this revolution are two titans: **Roam Research** and **Obsidian**. 
+The landscape of Personal Knowledge Management (PKM) has undergone a seismic shift over the last few years. Moving away from rigid, folder-based hierarchies, the vanguard of [note-taking](/posts/zettelkasten-method-explained/) now embraces "networked thought." At the epicenter of this revolution are two titans: **Roam Research** and **Obsidian**. 
 
 While both tools champion the concept of bi-directional linking and networked knowledge bases, their underlying philosophies, architectures, and user experiences couldn't be more different. Choosing between them isn't merely a matter of feature comparison; it is a fundamental decision about how you want to interact with your own thoughts, who owns your data, and how much friction you are willing to tolerate in pursuit of customizability.
 
@@ -40,7 +40,7 @@ The divergence in philosophy naturally extends to where and how your data is sto
 
 ### The Cloud-First Approach of Roam
 Roam Research is a web-based application (though desktop clients exist, they are essentially wrappers). Your graph is hosted on Roam's servers. 
-* **Pros:** Seamless syncing across devices. You can log in from any web browser and instantly access your second brain. Collaboration features (like shared graphs) are natively easier to implement.
+* **Pros:** Seamless syncing across devices. You can log in from any web browser and instantly access your [second brain](/posts/what-is-personal-knowledge-management/). Collaboration features (like shared graphs) are natively easier to implement.
 * **Cons:** You are entirely reliant on Roam's servers. Outages happen. More importantly, you are trusting a third-party startup with your most private thoughts and intellectual property. Exporting from Roam gives you Markdown or JSON, but reconstructing the complex block references in another tool can be messy.
 
 ### The Local-First Approach of Obsidian

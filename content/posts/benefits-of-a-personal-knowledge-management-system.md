@@ -8,7 +8,7 @@ tags: ["PKM", "Productivity", "Knowledge Management", "Zettelkasten", "Second Br
 type: "informational"
 ---
 
-> **Quick Answer:** The Transformative Benefits of a Personal Knowledge Management System matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the profound advantages of building a Personal Knowledge Management (PKM) system. Learn how it boosts productivity, enhances creativity, reduces information overload, and compounds your intellectual output over time.
+> **Quick Answer:** The Transformative Benefits of a [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) System matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the profound advantages of building a Personal Knowledge Management (PKM) system. Learn how it boosts [productivity](/posts/what-is-personal-knowledge-management/), enhances creativity, reduces information overload, and compounds your intellectual output over time.
 
 In an era defined by an unprecedented deluge of information, our cognitive limits are constantly tested. We consume podcasts at 2x speed, skim dozens of articles daily, read insightful books, and attend myriad meetings. Yet, weeks or even days later, the residual knowledge we retain is frustratingly minimal. We are suffering from an acute case of digital amnesia. 
 
@@ -32,7 +32,7 @@ Adopt a "Capture Habit." Never assume you will remember a good idea. Carry a dig
 
 Passive reading is an illusion of learning. Highlighting text in a Kindle or book provides a dopamine hit that feels like progress, but without deliberate engagement, that information quickly evaporates. True comprehension requires active processing.
 
-A PKM forces you to interact with your media. Methods such as the *Zettelkasten* (German for "slip box"), famously utilized by the prolific sociologist Niklas Luhmann, require you to translate the ideas of others into your own words.
+A PKM forces you to interact with your media. Methods such as the *[Zettelkasten](/posts/zettelkasten-method-explained/)* (German for "slip box"), famously utilized by the prolific sociologist Niklas Luhmann, require you to translate the ideas of others into your own words.
 
 ### The Feynman Technique on Autopilot
 When you take a "literature note" (a summary of an external source) and convert it into a "permanent note" (a standalone idea written in your own voice), you are actively testing your understanding. This mirrors the Feynman Technique—the concept that you only truly understand something if you can explain it simply. Your PKM becomes a localized, personalized wiki where every entry is a testament to your hard-won comprehension.

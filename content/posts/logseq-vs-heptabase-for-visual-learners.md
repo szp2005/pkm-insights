@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** If your primary thinking process happens spatially on a canvas, Heptabase is the superior choice for visual learners due to its deeply integrated whiteboard structure. Logseq is better if you prefer outline-based logic and local, open-source file storage, using whiteboards strictly as a secondary tool.
 
-For visual learners, traditional linear note-taking apps often feel like a straightjacket. Trying to force complex, interconnected ideas into top-down folders and sequential text files strips away the spatial context that makes the information meaningful. When you need to see the forest and the trees simultaneously, the choice often narrows down to two heavyweights in the personal knowledge management (PKM) space: Logseq vs Heptabase. 
+For visual learners, traditional linear [note-taking](/posts/zettelkasten-method-explained/) apps often feel like a straightjacket. Trying to force complex, interconnected ideas into top-down folders and sequential text files strips away the spatial context that makes the information meaningful. When you need to see the forest and the trees simultaneously, the choice often narrows down to two heavyweights in the [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) space: Logseq vs Heptabase. 
 
 Both tools recognize that thinking is non-linear, but they approach the solution from fundamentally different starting points. Logseq builds outward from an outliner and daily journal, adding visual tools as an extension of its core text-based graph. Heptabase, conversely, treats the visual whiteboard itself as the foundational operating system for your knowledge.
 
@@ -95,7 +95,7 @@ For highly visual learners, the Heptabase workflow removes the friction of trans
 
 Data ownership is a significant diverging point in the Logseq vs Heptabase debate.
 
-Logseq is fundamentally a local-first application. Your notes are stored as plain Markdown files in a folder on your hard drive. If the Logseq company ceases to exist tomorrow, you still have all your files, completely readable by any standard text editor. The core software is entirely free and open-source. They monetize through an optional synchronization service, though users can sync their files using third-party tools like iCloud or Syncthing for free.
+Logseq is fundamentally a local-first application. Your notes are stored as plain Markdown files in a folder on your hard drive. If the Logseq company ceases to exist tomorrow, you still have all your files, completely readable by any standard text editor. The core [software](/posts/best-apps-for-personal-knowledge-management/) is entirely free and open-source. They monetize through an optional synchronization service, though users can sync their files using third-party tools like iCloud or Syncthing for free.
 
 Heptabase operates on a cloud-based infrastructure. Your data is stored on their servers. While you can export your entire database to Markdown files (including your whiteboards, which export in an organized folder structure), you do not have the direct, real-time file access that Logseq provides. Heptabase is a paid, proprietary product, costing roughly $8.99 to $11.99 per month depending on your billing cycle. There is no free tier, which presents a barrier to entry for students or budget-conscious users.
 

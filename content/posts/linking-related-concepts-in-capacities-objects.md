@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Linking related concepts in Capacities objects works best when you define distinct object types (like People, Books, or Ideas) and connect them using bi-directional links or inline tagging. This object-based approach automatically builds a visual graph, allowing you to quickly resurface insights and see how distinct concepts relate across your entire knowledge base.
 
-Personal knowledge management often fails when information gets trapped in isolated folders. You capture a brilliant insight from a podcast, a quote from a book, and a strategy from a meeting, but if they live in separate text files, their combined value remains hidden. The human brain does not store information in rigid hierarchies; it relies on association.
+[Personal knowledge management](/posts/digital-decluttering-for-information-overload/) often fails when information gets trapped in isolated folders. You capture a brilliant insight from a podcast, a quote from a book, and a strategy from a meeting, but if they live in separate text files, their combined value remains hidden. The human brain does not store information in rigid hierarchies; it relies on association.
 
 Capacities approaches this problem differently. Instead of just creating pages, you create *objects*—entities that represent distinct categories like people, projects, meetings, or concepts. However, simply creating objects is not enough. The true power of the platform emerges when you actively build connections between these entities.
 
@@ -23,7 +23,7 @@ Linking related concepts in Capacities objects shifts your workflow from basic a
 
 ## Understanding the Object-Based Architecture
 
-Before diving into linking strategies, it is crucial to understand why Capacities uses objects rather than traditional markdown files. In standard note-taking apps, a page is just a blank canvas. In Capacities, an object has an inherent type. 
+Before diving into linking strategies, it is crucial to understand why Capacities uses objects rather than traditional markdown files. In standard [note-taking](/posts/zettelkasten-method-explained/) apps, a page is just a blank canvas. In Capacities, an object has an inherent type. 
 
 A "Book" object can have properties for the author, publication year, and your rating. A "Concept" object might just have a summary and tags. Because these objects have defined structures, linking them creates a semantic web. When you link a "Concept" to a "Book," the system understands that the idea was sourced from that specific piece of literature.
 
@@ -35,7 +35,7 @@ The foundation of linking related concepts in Capacities objects begins with you
 
 Standard object types include:
 *   **Sources:** Books, Articles, Podcasts, Videos
-*   **Entities:** People, Organizations, Tools
+*   **Entities:** People, Organizations, [Tools](/posts/personal-knowledge-management-tools-comparison/)
 *   **Ideas:** Concepts, Mental Models, Theories
 *   **Execution:** Projects, Meetings, Tasks
 

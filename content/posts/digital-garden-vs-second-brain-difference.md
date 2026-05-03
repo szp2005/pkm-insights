@@ -10,9 +10,9 @@ type: "review"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-> **Quick Answer:** While a Second Brain is a highly structured, project-driven factory for executing tasks and capturing resources, a Digital Garden is an organic, exploratory ecosystem for cultivating ideas over time. Choosing between them depends on whether you need a private engine for productivity or a networked space for serendipitous learning and thinking in public.
+> **Quick Answer:** While a Second Brain is a highly structured, project-driven factory for executing tasks and capturing resources, a Digital Garden is an organic, exploratory ecosystem for cultivating ideas over time. Choosing between them depends on whether you need a private engine for [productivity](/posts/what-is-personal-knowledge-management/) or a networked space for serendipitous learning and thinking in public.
 
-In the rapidly evolving landscape of Personal Knowledge Management (PKM), two dominant philosophies have captured the attention of creators, knowledge workers, and lifelong learners: the **Digital Garden** and the **Second Brain**. 
+In the rapidly evolving landscape of [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM), two dominant philosophies have captured the attention of creators, knowledge workers, and lifelong learners: the **Digital Garden** and the **Second Brain**. 
  While both concepts aim to help you organize information, foster creativity, and manage knowledge effectively, they approach these goals with fundamentally different mindsets, structures, and end goals. 
 
 Understanding the "digital garden vs second brain difference" is crucial for building a knowledge system that actually works for your unique cognitive style. Are you looking for a structured repository to execute projects, or a fluid landscape to cultivate ideas over time? 
@@ -123,7 +123,7 @@ The reality is that the most effective knowledge workers rarely adhere strictly 
 ### How to Build a Hybrid System
 You can use the **action-oriented structure of a Second Brain** alongside the **networked, exploratory nature of a Digital Garden**.
 
-For example, inside a tool like Obsidian, you might use a loose PARA folder structure to manage your active projects (Second Brain). However, within your "Resources" or a dedicated "Zettelkasten" folder, you allow notes to exist purely as interconnected ideas (Digital Garden).
+For example, inside a tool like Obsidian, you might use a loose PARA folder structure to manage your active projects (Second Brain). However, within your "Resources" or a dedicated "[Zettelkasten](/posts/zettelkasten-method-explained/)" folder, you allow notes to exist purely as interconnected ideas (Digital Garden).
 
 *   **When executing:** You use your Second Brain workflow. You create a Project folder, gather relevant notes, create an outline, and ship the result.
 *   **When exploring:** You use your Digital Garden workflow. You read a book, create deeply linked conceptual notes, and let them marinate without the pressure of an immediate deadline.

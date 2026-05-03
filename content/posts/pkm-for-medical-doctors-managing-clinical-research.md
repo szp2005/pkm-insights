@@ -11,11 +11,11 @@ type: "informational"
 
 # PKM for Medical Doctors: Managing Clinical Research Guide
 
-> **Quick Answer:** A Personal Knowledge Management (PKM) system for medical doctors managing clinical research centralizes literature reviews, protocol documentation, and trial data into a unified, searchable database. By combining local-first linked-thinking tools like Obsidian with reference managers like Zotero, clinicians can synthesize complex medical literature, ensure regulatory compliance, and accelerate manuscript publication without risking patient data exposure.
+> **Quick Answer:** A [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system for medical doctors managing clinical research centralizes literature reviews, protocol documentation, and trial data into a unified, searchable database. By combining local-first linked-thinking tools like [Obsidian](/posts/what-is-personal-knowledge-management/) with reference managers like Zotero, clinicians can synthesize complex medical literature, ensure regulatory compliance, and accelerate manuscript publication without risking patient data exposure.
 
 The cognitive load placed on the modern clinician-scientist is immense. Beyond the standard clinical duties of patient care, diagnostics, and electronic health record (EHR) charting, medical doctors engaged in research must navigate an entirely separate ecosystem of information. This includes tracking hundreds of peer-reviewed papers, managing Institutional Review Board (IRB) submissions, designing clinical trial protocols, and drafting manuscripts. 
 
-Standard note-taking applications and desktop folders often fail under this pressure. PDFs become buried in deeply nested directories, highlight summaries are lost, and the connections between a basic science paper read three years ago and a current patient's rare presentation are forgotten. 
+Standard [note-taking](/posts/zettelkasten-method-explained/) applications and desktop folders often fail under this pressure. PDFs become buried in deeply nested directories, highlight summaries are lost, and the connections between a basic science paper read three years ago and a current patient's rare presentation are forgotten. 
 
 A well-architected Personal Knowledge Management (PKM) system bridges the gap between clinical practice and medical research. It transforms passive reading into an active, interconnected web of clinical knowledge that compounds over time. This guide outlines how to construct and maintain a robust PKM system specifically engineered for the unique demands of medical researchers.
 

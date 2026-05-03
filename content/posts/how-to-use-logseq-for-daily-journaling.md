@@ -31,7 +31,7 @@ This approach minimizes cognitive load. You never have to ask yourself where to 
 
 ## Setting Up Your Daily Journal Workspace
 
-Before you start writing, optimizing your Logseq environment for daily journaling ensures consistency. The software operates entirely locally, storing files as plain Markdown or Org-mode text on your hard drive, which guarantees longevity and privacy.
+Before you start writing, optimizing your Logseq environment for daily journaling ensures consistency. The [software](/posts/best-apps-for-personal-knowledge-management/) operates entirely locally, storing files as plain Markdown or Org-mode text on your hard drive, which guarantees longevity and privacy.
 
 ### Configuring the Journals Directory
 By default, Logseq stores your daily entries in a `journals` folder within your designated graph directory. Each day generates a new Markdown file (e.g., `2026_05_03.md`). You can customize the date format in Logseq’s settings (`Settings > Editor > Preferred date format`). Choose a format that makes sense to you, though the default `MMM do, yyyy` (e.g., May 3rd, 2026) is highly readable within the app.
@@ -132,7 +132,7 @@ When you create a link like `[[Random Thought]]`, Logseq creates an empty page f
 
 ## Conclusion
 
-Learning how to use Logseq for daily journaling fundamentally shifts how you interact with your own thoughts. By removing the upfront decision fatigue of folder hierarchies and categorization, Logseq allows you to capture life exactly as it happens: chronologically and spontaneously. Through the mechanics of indentation and bidirectional linking, your daily unstructured notes naturally distill into a highly structured, easily queried personal database. Begin with the default journal, write everything down as indented blocks, tag the people, projects, and themes that matter, and let the software handle the organization. 
+[Learning](/posts/how-to-remember-what-you-read-effectively/) how to use Logseq for daily journaling fundamentally shifts how you interact with your own thoughts. By removing the upfront decision fatigue of folder hierarchies and categorization, Logseq allows you to capture life exactly as it happens: chronologically and spontaneously. Through the mechanics of indentation and bidirectional linking, your daily unstructured notes naturally distill into a highly structured, easily queried personal database. Begin with the default journal, write everything down as indented blocks, tag the people, projects, and themes that matter, and let the software handle the organization. 
 
 ## Frequently Asked Questions
 
@@ -146,4 +146,4 @@ Because Logseq uses local Markdown files, you can sync your graph folder using s
 Yes. You can drag and drop images, PDFs, and audio files directly onto the daily journal page. Logseq saves these media assets in an `assets` folder within your local directory and links them via standard Markdown syntax, keeping your daily logs visually rich and contextually complete.
 
 ### What happens to my journal if I stop using Logseq?
-Logseq heavily prioritizes data lock-in prevention. All your daily journal entries are saved as standard `.md` (Markdown) text files formatted as bulleted lists. If you ever leave the application, you can open your entire journal history in any text editor or import it directly into other Markdown-based systems like Obsidian or Bear.
+Logseq heavily prioritizes data lock-in prevention. All your daily journal entries are saved as standard `.md` (Markdown) text files formatted as bulleted lists. If you ever leave the application, you can open your entire journal history in any text editor or import it directly into other Markdown-based systems like [Obsidian](/posts/what-is-personal-knowledge-management/) or Bear.

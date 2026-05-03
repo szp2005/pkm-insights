@@ -15,7 +15,7 @@ type: "informational"
 
 Organizations run on information, but traditional documentation systems suffer from a fatal flaw: the moment a process, tool, or policy changes, the corresponding documentation begins to decay. This phenomenon, known as knowledge rot, leads to operational friction, frustrated employees, and costly errors. As technical ecosystems grow more complex, relying on human authors to manually track and update every interconnected document is no longer a viable strategy. 
 
-Enter the self-healing knowledge base. Unlike static wikis or standard document repositories, a self-healing system acts as an active participant in your organization's information lifecycle. It monitors usage patterns, identifies structural decay, integrates directly with source-of-truth systems, and leverages artificial intelligence to repair itself dynamically. 
+Enter the self-healing knowledge base. Unlike static wikis or standard document repositories, a self-healing system acts as an active participant in your [organization](/posts/steps-to-building-a-second-brain/)'s information lifecycle. It monitors usage patterns, identifies structural decay, integrates directly with source-of-truth systems, and leverages artificial intelligence to repair itself dynamically. 
 
 This guide explores the foundational self-healing knowledge base principles required to transition from manual, static documentation to an intelligent, automated knowledge ecosystem. We will examine the core mechanics of auto-correction, the role of structural metadata, and the practical implementation steps necessary to build a system that maintains its own integrity over time.
 
@@ -102,7 +102,7 @@ To mitigate this, implement a "human-in-the-loop" approval process for destructi
 
 ### Implementing Component-Based Authoring
 
-Stop writing monolithic documents. To fully leverage self-healing principles, adopt component-based authoring. Break documentation down into modular blocks—a login procedure block, a system requirements block, a troubleshooting block. 
+Stop [writing](/posts/atomic-notes-writing-guide/) monolithic documents. To fully leverage self-healing principles, adopt component-based authoring. Break documentation down into modular blocks—a login procedure block, a system requirements block, a troubleshooting block. 
 
 When you need to create a new guide, assemble it by referencing these existing blocks rather than rewriting the instructions. If the login procedure changes, you update the single component, and the self-healing system automatically propagates the change to the 40 different guides that reference it. This reduces the surface area for errors and makes automated maintenance significantly more reliable.
 
@@ -129,4 +129,4 @@ AI primarily handles semantic analysis. It identifies when two differently-worde
 ## Related Reading
 
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
-- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate [Second Brain](/posts/what-is-personal-knowledge-management/)](/posts/best-apps-for-personal-knowledge-management/)

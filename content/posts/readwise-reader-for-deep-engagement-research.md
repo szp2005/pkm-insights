@@ -51,7 +51,7 @@ A tool is only as effective as the system built around it. To leverage Readwise 
 ### Phase 1: Ruthless Capture and Triage
 The first step is separating the act of discovering content from the act of reading it. When you find a relevant article or paper, send it immediately to Reader and close the tab. 
 
-Once in Reader, implement a triage system. Not every document requires deep engagement. Skim the inbox using the 'Shortlist' feature. If an article is merely informational, read it quickly or discard it. If it pertains to your core research focus, move it to a specific tag or a dedicated 'Deep Reading' view. This ensures your high-focus reading time is spent only on high-value material.
+Once in Reader, implement a triage system. Not every document requires deep engagement. Skim the inbox using the 'Shortlist' feature. If an article is merely informational, read it quickly or discard it. If it pertains to your core research [focus](/posts/digital-decluttering-for-information-overload/), move it to a specific tag or a dedicated 'Deep Reading' view. This ensures your high-focus reading time is spent only on high-value material.
 
 ### Phase 2: Active Processing
 When you sit down for deep engagement, minimize the Reader interface to remove all navigation elements. Read with your hands on the keyboard.
@@ -150,5 +150,5 @@ The key is the `highlight_note` variable. If you only export raw highlights with
 
 ## Related Reading
 
-- [Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain](/posts/four-layer-stack-for-pkm-optimization/)
-- [Zettelkasten Method for Academic Writers: A Complete 5-Step Guide](/posts/zettelkasten-method-for-academic-writers/)
+- [Four-Layer Stack for PKM Optimization Complete Guide: Build Your [Second Brain](/posts/what-is-personal-knowledge-management/)](/posts/four-layer-stack-for-pkm-optimization/)
+- [[Zettelkasten](/posts/zettelkasten-method-explained/) Method for Academic Writers: A Complete 5-Step Guide](/posts/zettelkasten-method-for-academic-writers/)

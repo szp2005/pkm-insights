@@ -11,9 +11,9 @@ type: "informational"
 
 # Building a Mobile Information Capture System for iPad: Complete Guide
 
-> **Quick Answer:** Building a mobile information capture system for iPad requires combining the right hardware (Apple Pencil, Magic Keyboard) with low-friction software (Apple Notes, Drafts, Readwise) to immediately store ideas, links, and documents. The core principle is separating the "capture" phase from the "processing" phase, using cloud sync and automation to funnel raw data into your permanent personal knowledge management (PKM) system like Obsidian or Notion.
+> **Quick Answer:** Building a mobile information capture system for iPad requires combining the right hardware (Apple Pencil, Magic Keyboard) with low-friction software (Apple Notes, Drafts, Readwise) to immediately store ideas, links, and documents. The core principle is separating the "capture" phase from the "processing" phase, using cloud sync and automation to funnel raw data into your permanent [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system like Obsidian or Notion.
 
-The iPad occupies a unique space in modern computing. It is more expansive than a smartphone but more portable and tactile than a traditional laptop. This positions it perfectly as the ultimate mobile capture device—a digital field notebook that can seamlessly integrate handwriting, text, audio, and visual data into a cohesive workflow. However, without a deliberate system, an iPad quickly devolves into an expensive media consumption device rather than a productivity engine.
+The iPad occupies a unique space in modern computing. It is more expansive than a smartphone but more portable and tactile than a traditional laptop. This positions it perfectly as the ultimate mobile capture device—a digital field notebook that can seamlessly integrate handwriting, text, audio, and visual data into a cohesive workflow. However, without a deliberate system, an iPad quickly devolves into an expensive media consumption device rather than a [productivity](/posts/zettelkasten-method-explained/) engine.
 
 The struggle most knowledge workers face isn't a lack of information; it is the friction of capturing that information when away from a primary desktop setup. You read an insightful article on a train, have a brilliant project idea during a meeting, or sketch a diagram on a flight. If the process of saving that information takes more than three seconds, the idea is often lost. 
 
@@ -77,7 +77,7 @@ If you require more structured notebooks, PDF templates, and advanced organizati
 
 Actionable items require a different capture mechanism than reference information. Apps like Things 3 or Todoist offer quick-entry widgets and Share Sheet extensions that allow you to capture to-dos rapidly without leaving your current context.
 
-## Workflow Integration: Moving Data from iPad to Your Second Brain
+## Workflow Integration: Moving Data from iPad to Your [Second Brain](/posts/what-is-personal-knowledge-management/)
 
 Capturing information is useless if it remains trapped in isolated app silos. The true power of building a mobile information capture system for iPad lies in the routing pipeline. 
 

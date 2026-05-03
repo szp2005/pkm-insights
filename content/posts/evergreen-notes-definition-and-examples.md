@@ -10,9 +10,9 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-> **Quick Answer:** Evergreen Notes matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the comprehensive definition of evergreen notes, explore their core principles, and analyze practical examples that will revolutionize your personal knowledge management (PKM) workflow.
+> **Quick Answer:** Evergreen Notes matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the comprehensive definition of evergreen notes, explore their core principles, and analyze practical examples that will revolutionize your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) workflow.
 
-If you have ever stared at a folder full of old notes and realized you cannot remember why you took them or how they relate to your current work, you are experiencing the primary failure of traditional note-taking. Traditional notes are often chronologically organized, context-dependent, and quickly become obsolete. Enter the concept of **evergreen notes**.
+If you have ever stared at a folder full of old notes and realized you cannot remember why you took them or how they relate to your current work, you are experiencing the primary failure of traditional [note-taking](/posts/zettelkasten-method-explained/). Traditional notes are often chronologically organized, context-dependent, and quickly become obsolete. Enter the concept of **evergreen notes**.
 
 Popularized by researcher and software engineer Andy Matuschak, evergreen notes are a fundamental evolution in how we capture, process, and utilize information. They are not just records of what you have read; they are the building blocks of your own original thoughts. 
 
@@ -149,7 +149,7 @@ This is the most crucial step. Search your existing notes. Does this new concept
 
 While you could theoretically manage evergreen notes with physical index cards, modern software makes the process of linking and searching infinitely easier. The rise of the PKM movement has spawned several tools specifically designed for this purpose:
 
-*   **Obsidian:** Currently the most popular tool for building a digital Zettelkasten. It uses local Markdown files, ensuring you always own your data. Its graph view provides a stunning visual representation of how your evergreen notes connect.
+*   **[Obsidian](/posts/what-is-personal-knowledge-management/):** Currently the most popular tool for building a digital Zettelkasten. It uses local Markdown files, ensuring you always own your data. Its graph view provides a stunning visual representation of how your evergreen notes connect.
 *   **Roam Research:** The tool that popularized bi-directional linking. It operates on an outliner structure and is excellent for rapid, associative thinking.
 *   **Logseq:** An open-source alternative to Roam Research that also operates on local Markdown files, combining the privacy of Obsidian with the outliner workflow of Roam.
 *   **Notion:** While Notion is incredibly versatile, it requires more manual setup to function as an evergreen note system. You will need to build specific databases and relations to mimic the frictionless linking of tools like Obsidian.

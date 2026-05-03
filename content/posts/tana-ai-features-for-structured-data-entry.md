@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** Tana leverages AI to transform unstructured text into highly structured databases using AI-powered Supertags, semantic field extraction, and automated commands. By integrating large language models directly into the data entry process, Tana eliminates manual tagging and formatting, allowing users to capture raw thoughts that instantly organize themselves into querying, interconnected nodes.
 
-The ongoing battle in personal knowledge management (PKM) has always been the friction between capture and organization. If a system is easy to capture into, it quickly becomes an unstructured mess. If it requires rigid structure, the friction of entering data prevents you from using it. 
+The ongoing battle in [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) has always been the friction between capture and organization. If a system is easy to capture into, it quickly becomes an unstructured mess. If it requires rigid structure, the friction of entering data prevents you from using it. 
 
 Tana approaches this problem by treating everything as a node and relying on a concept called "Supertags" to provide structure. However, building out fields and populating them manually can still be tedious. This is where Tana's artificial intelligence capabilities fundamentally change the equation. 
 
@@ -21,7 +21,7 @@ By deeply integrating AI features for structured data entry, Tana acts as a tran
 
 ## Understanding Tana's Approach to AI
 
-Unlike many productivity tools that bolt on a ChatGPT-style conversational assistant as an afterthought, Tana has integrated AI functionally into its core data model. The AI in Tana doesn't just chat with you; it manipulates the structure of your graph.
+Unlike many [productivity](/posts/zettelkasten-method-explained/) [tools](/posts/personal-knowledge-management-tools-comparison/) that bolt on a ChatGPT-style conversational assistant as an afterthought, Tana has integrated AI functionally into its core data model. The AI in Tana doesn't just chat with you; it manipulates the structure of your graph.
 
 ### The Role of Supertags
 To understand Tana's AI, you must first understand Supertags. A Supertag is a template applied to any node that instantly gives it a set of predefined fields. For example, tagging a node `#book` might instantly give it fields for `Author`, `Status`, `Rating`, and `Summary`. 

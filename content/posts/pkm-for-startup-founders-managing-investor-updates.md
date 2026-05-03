@@ -11,17 +11,17 @@ type: "informational"
 
 # PKM for Startup Founders: Managing Investor Updates in 5 Steps
 
-> **Quick Answer:** Implementing a Personal Knowledge Management (PKM) system for managing investor updates transforms a stressful monthly scramble into an automated, ongoing process. By consistently capturing metrics, milestones, and hiring data into a centralized vault (like Obsidian or Notion) using daily notes and tagging, founders can synthesize comprehensive, data-backed investor reports in less than an hour.
+> **Quick Answer:** Implementing a [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system for managing investor updates transforms a stressful monthly scramble into an automated, ongoing process. By consistently capturing metrics, milestones, and hiring data into a centralized vault (like Obsidian or Notion) using daily notes and tagging, founders can synthesize comprehensive, data-backed investor reports in less than an hour.
 
 The end of the month often triggers a familiar panic for startup founders: the looming investor update. Tracking down metrics across Stripe, Jira, GitHub, and CRM platforms, while simultaneously recalling key hiring decisions and product milestones, is a fragmented and time-consuming process. When scaling a company, allocating a full day to unearth data and write a single email is an unacceptable drain on executive bandwidth.
 
 This friction stems from a lack of systematic knowledge capture. Relying on memory or scattered Slack threads guarantees that critical operational details will slip through the cracks. The solution lies in applying Personal Knowledge Management (PKM) principles specifically tailored to executive reporting.
 
-A PKM system acts as a centralized repository—a "second brain"—where daily observations, weekly metrics, and strategic decisions are continuously aggregated. By structuring this information flow proactively, the monthly update writes itself. This guide details how to build and maintain a PKM architecture optimized for managing investor relations, ensuring your updates remain transparent, consistent, and effortless to produce.
+A PKM system acts as a centralized repository—a "[second brain](/posts/what-is-personal-knowledge-management/)"—where daily observations, weekly metrics, and strategic decisions are continuously aggregated. By structuring this information flow proactively, the monthly update writes itself. This guide details how to build and maintain a PKM architecture optimized for managing investor relations, ensuring your updates remain transparent, consistent, and effortless to produce.
 
 ## The Architecture of an Investor-Centric PKM
 
-At its core, a PKM for startup founders is distinct from a general note-taking system. It requires rigid structure and standardized metadata to enable rapid retrieval. An effective investor-centric PKM relies on three foundational pillars: capture, organization, and synthesis.
+At its core, a PKM for startup founders is distinct from a general [note-taking](/posts/zettelkasten-method-explained/) system. It requires rigid structure and standardized metadata to enable rapid retrieval. An effective investor-centric PKM relies on three foundational pillars: capture, organization, and synthesis.
 
 ### Daily Capture Mechanisms
 The most common failure point in executive reporting is deferred documentation. Founders often wait until the 30th of the month to record what happened on the 4th. An effective PKM solves this by integrating data capture into daily workflows.

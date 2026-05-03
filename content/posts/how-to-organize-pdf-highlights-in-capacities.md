@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To organize PDF highlights in Capacities, create a dedicated "Source" or "Paper" object type for your PDFs, import your annotations, and break down key insights into individual "Idea" or "Zettel" objects. Link these atomic notes back to the original source using bidirectional links, and use properties and tags to integrate them into your broader knowledge graph.
 
-Reading PDFs and highlighting key passages is only the first half of the research process. The real friction—and where most personal knowledge management systems break down—is getting those highlights out of the document and into an environment where they can be connected, synthesized, and applied. If your highlights remain trapped inside individual PDF files, they are essentially invisible to your future self. 
+Reading PDFs and highlighting key passages is only the first half of the research process. The real friction—and where most [personal knowledge management](/posts/digital-decluttering-for-information-overload/) systems break down—is getting those highlights out of the document and into an environment where they can be connected, synthesized, and applied. If your highlights remain trapped inside individual PDF files, they are essentially invisible to your future self. 
 
 Capacities, with its object-based architecture, offers a fundamentally different approach to this problem. Instead of forcing you to organize PDFs into rigid folder hierarchies, Capacities treats every piece of information as a distinct entity with its own properties, tags, and relationships. This structural philosophy makes it exceptionally powerful for managing academic papers, industry reports, and long-form articles.
 
@@ -43,7 +43,7 @@ This object type should be kept intentionally simple. It only needs a title, a t
 
 ## 2. Ingest and Extract Your Highlights
 
-Once your architecture is in place, the next step is getting your PDFs and their associated highlights into Capacities. There are a few different approaches to this depending on your preferred reading tools.
+Once your architecture is in place, the next step is getting your PDFs and their associated highlights into Capacities. There are a few different approaches to this depending on your preferred reading [tools](/posts/personal-knowledge-management-tools-comparison/).
 
 ### Using External PDF Readers
 If you prefer reading in dedicated applications like PDF Expert, Adobe Acrobat, or GoodNotes, your workflow will involve an extraction step. Read your PDF and highlight as you normally would. Once finished, export your annotations. Most modern PDF readers allow you to export highlights as a Markdown or plain text file. 
@@ -107,7 +107,7 @@ If you deal with a high volume of PDFs—such as during a literature review or a
 
 ## Conclusion
 
-Learning how to organize PDF highlights in Capacities requires a shift in mindset. You must move away from viewing PDFs as static files to be stored in folders, and instead view them as containers of raw data waiting to be extracted, processed, and connected. By establishing dedicated object types for your sources and atomic ideas, ruthlessly filtering your annotations, and prioritizing bidirectional links over rigid folders, you build a resilient, highly searchable knowledge base. The time invested in processing your highlights upfront pays compounding dividends every time you sit down to write, synthesize, or brainstorm.
+[Learning](/posts/how-to-remember-what-you-read-effectively/) how to organize PDF highlights in Capacities requires a shift in mindset. You must move away from viewing PDFs as static files to be stored in folders, and instead view them as containers of raw data waiting to be extracted, processed, and connected. By establishing dedicated object types for your sources and atomic ideas, ruthlessly filtering your annotations, and prioritizing bidirectional links over rigid folders, you build a resilient, highly searchable knowledge base. The time invested in processing your highlights upfront pays compounding dividends every time you sit down to write, synthesize, or brainstorm.
 
 ## Frequently Asked Questions
 

@@ -19,11 +19,11 @@ Managing an academic literature review often feels like fighting a losing battle
 
 Tana offers a fundamentally different approach. Rather than acting as a static repository for text, Tana operates as an object-oriented knowledge database. By combining the fluidity of an outliner with the structured data capabilities of a relational database, it provides academics with a powerful environment for synthesizing research.
 
-This guide details exactly how to structure a Tana workspace for managing academic citations, from foundational tag architecture to practical workflows for processing new literature and connecting ideas across your research domain.
+This guide details exactly how to structure a Tana workspace for managing academic citations, from foundational tag architecture to practical [workflows](/posts/getting-things-done-for-knowledge-workers/) for processing new literature and connecting ideas across your research domain.
 
 ## The Core Concept: Object-Oriented Research
 
-To understand why Tana is effective for academic workflows, you must first understand its core primitive: the Supertag. In traditional note-taking apps, a tag is merely a label used for filtering. In Tana, a Supertag is a template, a database schema, and a behavioral rule wrapped into one.
+To understand why Tana is effective for academic workflows, you must first understand its core primitive: the Supertag. In traditional [note-taking](/posts/zettelkasten-method-explained/) apps, a tag is merely a label used for filtering. In Tana, a Supertag is a template, a database schema, and a behavioral rule wrapped into one.
 
 When you tag a node as `#source` in Tana, it doesn't just categorize that node; it instantly populates it with predefined fields (like Author, Year, URL, and Status) and allows it to be queried and displayed in tables, Kanban boards, or lists. 
 
@@ -119,7 +119,7 @@ The bridge between these two applications is the Citation Key (often generated v
 
 When you are writing your manuscript based on your Tana outline, you simply drop the citation key (e.g., `[@doe2024methodology]`) into your text. Later, when you compile the document (using Pandoc, LaTeX, or a standard word processor plugin), the citation key is seamlessly converted into the correct formatting, pulling the data directly from Zotero.
 
-You can also use tools like the Tana API or third-party integration services (like Make or Zapier, if available and supported) to automatically create a `#source` node in Tana whenever a new item is added to a specific Zotero collection, mapping the Zotero metadata to your Tana Supertag fields.
+You can also use [tools](/posts/personal-knowledge-management-tools-comparison/) like the Tana API or third-party integration services (like Make or Zapier, if available and supported) to automatically create a `#source` node in Tana whenever a new item is added to a specific Zotero collection, mapping the Zotero metadata to your Tana Supertag fields.
 
 ## Advanced Workspace Architecture: Search Nodes and Dashboards
 

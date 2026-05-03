@@ -85,7 +85,7 @@ If you use a reference manager like Zotero, utilize the official integration or 
 
 The page should begin with standard properties (author, year, publication). The body should be divided into two distinct sections:
 1.  **Highlights & Annotations:** Raw excerpts from the text, ideally imported directly. Keep your modifications here minimal.
-2.  **Synthesis & Zettelkasten:** Your original thoughts, critiques, and connections to other parts of your research. 
+2.  **Synthesis & [Zettelkasten](/posts/zettelkasten-method-explained/):** Your original thoughts, critiques, and connections to other parts of your research. 
 
 When you write in the Synthesis section, heavily utilize block references `((block-id))` pointing back to the raw highlights. This maintains an unbreakable chain of evidence from your original thought directly back to the source material's exact paragraph, an essential requirement for academic writing.
 
@@ -100,7 +100,7 @@ Implementing this system mid-project can be daunting. Follow these concrete step
 
 ## Conclusion
 
-Transitioning from casual note-taking to managing complex research projects in Logseq requires intentional design. By moving away from unstructured journaling and adopting a system based on namespaces, standardized block properties, and dynamic query dashboards, you transform Logseq from a passive repository into an active research engine. This structured approach ensures that as your volume of data grows, your ability to synthesize, manage, and ultimately produce high-quality work scales alongside it.
+Transitioning from casual [note-taking](/posts/digital-garden-vs-second-brain-difference/) to managing complex research projects in Logseq requires intentional design. By moving away from unstructured journaling and adopting a system based on namespaces, standardized block properties, and dynamic query dashboards, you transform Logseq from a passive repository into an active research engine. This structured approach ensures that as your volume of data grows, your ability to synthesize, manage, and ultimately produce high-quality work scales alongside it.
 
 ## Frequently Asked Questions
 
@@ -111,7 +111,7 @@ If a piece of research applies to multiple complex projects, assign multiple pro
 Start with simple queries (`{{query (and [[Project/Name]] (task TODO))}}`) as they are easier to write and maintain. Only graduate to Datalog advanced queries when you need complex logic, such as filtering by specific date ranges or excluding blocks based on multiple negative conditions.
 
 ### Can I export my structured Logseq research to Word or Google Docs?
-Yes, Logseq supports exporting pages to standard Markdown, which can be converted to Word or PDF via tools like Pandoc. To ensure clean exports, keep your final drafting in a dedicated namespace (e.g., `Project/Name/Drafts`) and avoid excessive use of Logseq-specific syntax like embedded queries within the draft text itself.
+Yes, Logseq supports exporting pages to standard Markdown, which can be converted to Word or PDF via [tools](/posts/personal-knowledge-management-tools-comparison/) like Pandoc. To ensure clean exports, keep your final drafting in a dedicated namespace (e.g., `Project/Name/Drafts`) and avoid excessive use of Logseq-specific syntax like embedded queries within the draft text itself.
 
 ### Does using a rigid structure ruin Logseq's bidirectional linking?
 No. Namespaces and properties establish a baseline of order, but you should still aggressively use `[[inline links]]` within your text blocks to connect disparate ideas. The rigid structure manages the project workflow, while bidirectional links map the conceptual relationships within the research itself.

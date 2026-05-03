@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** A semantic layer in personal knowledge management (PKM) is an invisible structural framework that adds machine-readable metadata and explicit relationships to your notes. By using typed links, properties, and ontologies, it transforms a flat collection of text files into a queryable, interconnected database where the relationships between ideas are explicitly defined.
 
-The digital note-taking landscape has evolved from hierarchical folders to networked graphs, yet many users still struggle to retrieve the exact information they need when they need it. A vault of 5,000 interlinked Markdown files might look impressive in a graph view, but without structured relationships, it is merely a dense thicket of text. Finding the connection between a project management concept and a specific piece of software often relies on memory or exact keyword matches.
+The digital [note-taking](/posts/zettelkasten-method-explained/) landscape has evolved from hierarchical folders to networked graphs, yet many users still struggle to retrieve the exact information they need when they need it. A vault of 5,000 interlinked Markdown files might look impressive in a graph view, but without structured relationships, it is merely a dense thicket of text. Finding the connection between a project management concept and a specific piece of software often relies on memory or exact keyword matches.
 
 This is where semantic layers bridge the gap. By explicitly defining the nature of the connections between your notes—rather than just noting that a connection exists—you upgrade your personal knowledge system from a passive storage repository to an active, relational database. 
 
@@ -25,9 +25,9 @@ A semantic layer allows your software to understand that "Alice" `is the author 
 
 In enterprise data architecture, a semantic layer translates complex database schemas into familiar business terms. In the context of Personal Knowledge Management, it serves a similar but more personal function: it translates your idiosyncratic thought patterns into structured, queryable metadata.
 
-Most standard PKM setups rely on two primary organizational tools: folders (strict hierarchy) and bidirectional links (unstructured networks). A bidirectional link (`[[Concept A]]` to `[[Concept B]]`) tells the system that two ideas are related, but it provides zero context about *how* or *why* they are related. 
+Most standard PKM setups rely on two primary organizational [tools](/posts/personal-knowledge-management-tools-comparison/): folders (strict hierarchy) and bidirectional links (unstructured networks). A bidirectional link (`[[Concept A]]` to `[[Concept B]]`) tells the system that two ideas are related, but it provides zero context about *how* or *why* they are related. 
 
-A semantic layer introduces context. It operates through key-value pairs (frontmatter/YAML), inline fields, and typed links. When you explicitly state `type: book`, `status: reading`, and `author: [[Alice]]`, you are building a semantic layer. This structured data allows tools like Obsidian (via Dataview) or Logseq (via advanced queries) to aggregate, filter, and surface notes based on their ontological properties.
+A semantic layer introduces context. It operates through key-value pairs (frontmatter/YAML), inline fields, and typed links. When you explicitly state `type: book`, `status: reading`, and `author: [[Alice]]`, you are building a semantic layer. This structured data allows tools like [Obsidian](/posts/what-is-personal-knowledge-management/) (via Dataview) or Logseq (via advanced queries) to aggregate, filter, and surface notes based on their ontological properties.
 
 ## Core Components of Semantic PKM
 

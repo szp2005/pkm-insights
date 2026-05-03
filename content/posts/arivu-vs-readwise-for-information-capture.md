@@ -15,15 +15,15 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Readwise is the undisputed champion for aggregating highlights from books, podcasts, and articles while enforcing spaced repetition to retain knowledge. Arivu is better suited for users who want an AI-first web clipper that automatically summarizes content, scores source credibility, and builds semantic knowledge graphs from saved links without manual tagging.
 
-Building a reliable system to capture information is the foundation of any effective Personal Knowledge Management (PKM) workflow. Without a solid capture habit, the articles you read, the podcasts you listen to, and the books you highlight vanish into the digital ether.
+Building a reliable system to capture information is the foundation of any effective [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) workflow. Without a solid capture habit, the articles you read, the podcasts you listen to, and the books you highlight vanish into the digital ether.
 
 For years, the gold standard for saving and resurfacing insights has been established by a few dominant players in the space. However, the rise of AI-native tools has fractured the market, creating two distinct philosophies for how we should handle incoming information. Do you want a rigorous system that forces you to review your highlights, or an intelligent assistant that automatically synthesizes everything you encounter?
 
-This comparison breaks down Arivu and Readwise, analyzing their capture mechanisms, integration ecosystems, and pricing models to help you choose the right foundational tool for your second brain.
+This comparison breaks down Arivu and Readwise, analyzing their capture mechanisms, integration ecosystems, and pricing models to help you choose the right foundational tool for your [second brain](/posts/what-is-personal-knowledge-management/).
 
 ## The Core Philosophies of Information Capture
 
-Understanding how these two tools approach the concept of a "second brain" is critical. They do not do the same job, even though they occupy adjacent spaces in the productivity landscape.
+Understanding how these two tools approach the concept of a "second brain" is critical. They do not do the same job, even though they occupy adjacent spaces in the [productivity](/posts/zettelkasten-method-explained/) landscape.
 
 Readwise operates on the principle of resurfacing and retention. It assumes you are already consuming content across various platforms (Kindle, Instapaper, Apple Books, Snipd) and acts as the central router. Its primary goal is to pull those disparate highlights into one database and feed them back to you through daily reviews, fighting the "forgetting curve." 
 

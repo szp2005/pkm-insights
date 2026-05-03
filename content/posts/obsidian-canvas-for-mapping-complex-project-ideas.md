@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Canvas for Mapping Complex Project Ideas: Complete Guide
 
-> **Quick Answer:** Using Obsidian Canvas for mapping complex project ideas allows you to visually organize Markdown notes, images, and web links onto an infinite spatial board. By connecting individual text nodes with directional arrows and grouping related concepts, you transition from rigid linear note-taking to a dynamic, visual workspace that reveals hidden relationships and streamlines large-scale project planning.
+> **Quick Answer:** Using Obsidian Canvas for mapping complex project ideas allows you to visually organize Markdown notes, images, and web links onto an infinite spatial board. By connecting individual text nodes with directional arrows and grouping related concepts, you transition from rigid linear [note-taking](/posts/zettelkasten-method-explained/) to a dynamic, visual workspace that reveals hidden relationships and streamlines large-scale project planning.
 
 Managing a multi-faceted project using traditional, linear note-taking apps often leads to fragmented understanding. When you have dozens of interconnected variables—ranging from research docs and wireframes to task lists and reference links—a standard folder structure forces a hierarchy that doesn't reflect the messy reality of creative or technical work. You need a system that maps to how the human brain actually processes information: spatially and associatively.
 
-This is exactly where local, markdown-based visual boards become essential. Leveraging Obsidian Canvas for mapping complex project ideas bridges the gap between text-heavy knowledge management and free-form spatial reasoning. Because it integrates directly with your existing Obsidian vault, you never have to choose between writing deep-dive documentation and visualizing the big picture.
+This is exactly where local, markdown-based visual boards become essential. Leveraging Obsidian Canvas for mapping complex project ideas bridges the gap between text-heavy [knowledge management](/posts/knowledge-management-strategies-for-students/) and free-form spatial reasoning. Because it integrates directly with your existing Obsidian vault, you never have to choose between writing deep-dive documentation and visualizing the big picture.
 
 In this guide, we will break down the mechanics of spatial organization within Obsidian. You will learn how to construct foundational project maps, connect disparate data types securely, and implement practical workflows that scale from small feature releases to enterprise-level product roadmaps.
 
@@ -50,7 +50,7 @@ Arrows transform isolated nodes into a cohesive system. Obsidian allows you to d
 Transitioning a project from your mind to a digital canvas requires a deliberate approach. Starting with a blank infinite board can be intimidating. Follow this structured process to build functional maps that clarify rather than confuse.
 
 ### 1. [The Brain Dump Phase](https://www.amazon.com/s?k=The%20Brain%20Dump%20Phase&tag=pkm.notes-automate-20)
-Begin by creating a new canvas and rapidly adding text cards for every component of the project. Do not worry about structure or connections yet. If you are launching a new software feature, your cards might include "Database Migration," "User Testing," "Marketing Copy," "API Rate Limits," and "Design Handoff." The goal is comprehensive extraction from memory to the screen.
+Begin by creating a new canvas and rapidly adding text cards for every component of the project. Do not worry about structure or connections yet. If you are launching a new [software](/posts/best-apps-for-personal-knowledge-management/) feature, your cards might include "Database Migration," "User Testing," "Marketing Copy," "API Rate Limits," and "Design Handoff." The goal is comprehensive extraction from memory to the screen.
 
 ### 2. [Clustering and Categorization](https://www.amazon.com/s?k=Clustering%20and%20Categorization&tag=pkm.notes-automate-20)
 Once the raw materials are on the board, begin physically moving related items closer together. Group backend tasks in one corner and frontend tasks in another. Obsidian Canvas includes a "Group" feature that allows you to draw a bounding box around multiple nodes, giving them a unified background color and a shared title. This creates distinct neighborhoods of information within your broader map.

@@ -15,7 +15,7 @@ type: "informational"
 
 The traditional method of studying—reading a textbook, highlighting key phrases, and passively reviewing notes—is highly inefficient. Cognitive science has repeatedly demonstrated that retrieving information from your brain, rather than repeatedly putting it in, is the most robust mechanism for learning. This process, known as active recall, forces your neural pathways to strengthen, making the information easier to access in the future. 
 
-However, many learners struggle to implement active recall effectively in the digital age. When you have infinite scrolling documents and robust search functions, the friction required to naturally test yourself disappears. The convenience of digital note-taking applications often encourages passive consumption over active engagement.
+However, many learners struggle to implement active recall effectively in the digital age. When you have infinite scrolling documents and robust search functions, the friction required to naturally test yourself disappears. The convenience of digital [note-taking](/posts/zettelkasten-method-explained/) applications often encourages passive consumption over active engagement.
 
 This does not mean you need to return to physical flashcards and notebooks. Modern digital tools offer powerful features that, when used deliberately, make active recall more efficient and scalable than analog methods. The key lies in changing how you input your information. This guide outlines a structured, five-step framework for turning your passive digital repository into an active learning engine.
 
@@ -48,7 +48,7 @@ By formatting your notes this way, you immediately create a testing environment.
 
 Writing questions is only effective if you cannot immediately see the answer. If the answer sits directly below the question, your eyes will inevitably drift downward, ruining the retrieval attempt.
 
-This is where digital tools outshine paper. Applications like Notion, Obsidian, and Roam Research feature "toggle" or "fold" functionalities. A toggle allows you to nest text inside a collapsible bullet point.
+This is where digital tools outshine paper. Applications like Notion, [Obsidian](/posts/what-is-personal-knowledge-management/), and Roam Research feature "toggle" or "fold" functionalities. A toggle allows you to nest text inside a collapsible bullet point.
 
 To implement this:
 1. Write your question as the top-level toggle block.
@@ -85,7 +85,7 @@ After completing a self-test session on a document, log the date in the correspo
 
 A common pitfall of active recall is treating information in a vacuum. Memorizing isolated facts is useful, but true mastery requires understanding how concepts relate to one another. 
 
-Modern "knowledge management" applications, particularly Obsidian, Logseq, and Roam, utilize bidirectional linking. When you bracket a word like `[[Photosynthesis]]`, the software creates a link to the Photosynthesis page, and simultaneously creates a backlink on the Photosynthesis page pointing to your current note.
+Modern "[knowledge management](/posts/knowledge-management-strategies-for-students/)" applications, particularly Obsidian, Logseq, and Roam, utilize bidirectional linking. When you bracket a word like `[[Photosynthesis]]`, the software creates a link to the Photosynthesis page, and simultaneously creates a backlink on the Photosynthesis page pointing to your current note.
 
 Use this feature to enhance your active recall. When answering a question inside a toggle, insert bidirectional links to related concepts. 
 

@@ -39,14 +39,14 @@ Before implementing the specific steps, it is essential to establish the foundat
 The core unit of this workflow is the atomic note. An atomic note contains one single, self-contained idea, written entirely in your own words. If you try to apply spaced repetition to a 3,000-word book summary, the system will collapse under cognitive friction. You cannot quickly "review" a long document. By breaking information down into discrete concepts (e.g., "The economic impact of the 1920s localized agricultural tariffs" rather than "History of 1920s Economics"), you create units that are highly reviewable and easily composable.
 
 ### The Review Algorithm
-You must utilize software that automates the scheduling of your reviews. The algorithm handles the complex mathematics of the forgetting curve, tracking your self-reported difficulty in recalling a note and scheduling its next appearance accordingly. If a concept is easy to remember, you might not see it again for three months. If it is difficult, you will see it tomorrow.
+You must utilize [software](/posts/best-apps-for-personal-knowledge-management/) that automates the scheduling of your reviews. The algorithm handles the complex mathematics of the forgetting curve, tracking your self-reported difficulty in recalling a note and scheduling its next appearance accordingly. If a concept is easy to remember, you might not see it again for three months. If it is difficult, you will see it tomorrow.
 
 ### The Synthesis Trigger
 Spaced repetition for writers must include a mechanism for output. When a card or note surfaces during your review, the objective is not just to say, "Yes, I remember this." The objective is to ask, "How does this connect to what I am writing right now?" This trigger bridges the gap between passive retention and active creation.
 
 ## How to Integrate Spaced Repetition into Your Daily Writing Workflow
 
-Transitioning from a traditional note-taking setup to a spaced repetition workflow requires a structural shift in how you process information. Follow this five-step sequence to build a sustainable daily practice.
+Transitioning from a traditional [note-taking](/posts/zettelkasten-method-explained/) setup to a spaced repetition workflow requires a structural shift in how you process information. Follow this five-step sequence to build a sustainable daily practice.
 
 ### Step 1: Capture Information Uniformly
 
@@ -87,7 +87,7 @@ Over time, certain notes will become obsolete, or you will realize they hold no 
 The landscape of software supporting spaced repetition has matured significantly, offering several robust options for writers depending on their technical comfort and desired workflow.
 
 ### Obsidian with Spaced Repetition Plugins
-For writers already utilizing Markdown-based personal knowledge management (PKM) systems, Obsidian is highly recommended. By installing community plugins like "Spaced Repetition" or "Review," you can turn your existing vault of interconnected notes into a flashcard system without duplicating data. You simply add a specific tag (e.g., `#review`) to a note, and the plugin will schedule it. This keeps your review process and your writing environment in the exact same application.
+For writers already utilizing Markdown-based [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) systems, Obsidian is highly recommended. By installing community plugins like "Spaced Repetition" or "Review," you can turn your existing vault of interconnected notes into a flashcard system without duplicating data. You simply add a specific tag (e.g., `#review`) to a note, and the plugin will schedule it. This keeps your review process and your writing environment in the exact same application.
 
 ### Anki
 Anki is the foundational, open-source standard for spaced repetition. It operates strictly on a flashcard paradigm. While it is phenomenally powerful and customizable, it requires keeping your writing database separate from your review database. Writers often use Anki to memorize specific terminology, historical dates, or structural outlines, while keeping their long-form drafting elsewhere.

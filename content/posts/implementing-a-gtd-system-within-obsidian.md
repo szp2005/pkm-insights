@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** Implementing a GTD (Getting Things Done) system within Obsidian requires creating a dedicated inbox folder for rapid capture, organizing files into projects and areas, and utilizing plugins like Obsidian Tasks and Dataview for querying open loops. By separating your capture, clarification, and execution phases, Obsidian transforms from a static knowledge base into a dynamic, offline-first task manager.
 
-Personal knowledge management tools often struggle with actionable tasks. You might have thousands of connected notes, yet still miss deadlines because your ideas and your to-dos live in separate silos. The Getting Things Done (GTD) methodology, developed by David Allen, solves this by demanding a trusted system where all open loops are captured, clarified, and organized. 
+[Personal knowledge management](/posts/digital-decluttering-for-information-overload/) [tools](/posts/personal-knowledge-management-tools-comparison/) often struggle with actionable tasks. You might have thousands of connected notes, yet still miss deadlines because your ideas and your to-dos live in separate silos. The Getting Things Done (GTD) methodology, developed by David Allen, solves this by demanding a trusted system where all open loops are captured, clarified, and organized. 
 
 Obsidian’s plain-text, local-first architecture makes it an exceptional candidate for this trusted system. Because you own the files, your GTD system remains future-proof, entirely customizable, and seamlessly integrated with your existing project reference materials. Setting this up requires intentional structure and a reliance on specific community plugins to bridge the gap between static text and dynamic task management.
 
@@ -165,5 +165,5 @@ Change the YAML frontmatter status from `active` to `on-hold` or `someday`. Upda
 
 ## Related Reading
 
-- [Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity](/posts/getting-things-done-for-knowledge-workers/)
+- [Getting Things Done for Knowledge Workers: A Masterclass in Modern [Productivity](/posts/zettelkasten-method-explained/)](/posts/getting-things-done-for-knowledge-workers/)
 - [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)

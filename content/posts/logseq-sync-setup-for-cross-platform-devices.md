@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The most reliable Logseq sync setup for cross platform devices is the official Logseq Sync service ($5/month), which offers end-to-end encrypted real-time syncing across Windows, Mac, iOS, and Android without file duplication issues. For a robust free alternative, using Syncthing provides peer-to-peer file synchronization across desktop and Android, while iOS users will need a compatible client like Mobius Sync to complete the network.
 
-Operating a local-first personal knowledge management (PKM) tool like Logseq brings immense privacy benefits, but it introduces a distinct challenge: keeping those local markdown files synchronized across disparate hardware ecosystems. If you split your time between a Windows desktop, an M-series MacBook, an Android phone, and an iPad, file conflicts and missing notes can quickly derail your workflow. 
+Operating a [local-first](/posts/capacities-vs-anytype-for-local-first-notes/) [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool like Logseq brings immense privacy benefits, but it introduces a distinct challenge: keeping those local markdown files synchronized across disparate hardware ecosystems. If you split your time between a Windows desktop, an M-series MacBook, an Android phone, and an iPad, file conflicts and missing notes can quickly derail your workflow. 
 
 Because Logseq reads an entire directory of flat Markdown files and maintains an internal database based on their contents, standard cloud storage providers often struggle to manage the rapid read/write cycles seamlessly across operating systems. A robust syncing architecture is non-negotiable. 
 
@@ -47,7 +47,7 @@ Syncthing is a continuous file synchronization program that works on a decentral
 
 Since Logseq stores plain text Markdown files, Git is a natural fit for synchronization. Using a private repository on GitHub or GitLab, you can push and pull your graph across devices. 
 
-* **Best for:** Software engineers and developers who already have Git integrated into their workflow and prefer explicit version control.
+* **Best for:** [Software](/posts/best-apps-for-personal-knowledge-management/) engineers and developers who already have Git integrated into their workflow and prefer explicit version control.
 * **Cost:** Free (using standard Git hosting).
 
 ---

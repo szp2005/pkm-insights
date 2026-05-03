@@ -17,11 +17,11 @@ Knowledge workers consume the equivalent of 174 newspapers worth of data every s
 
 A "second brain"—a term popularized by productivity expert Tiago Forte—is an external, centralized digital repository for the things you learn and the resources from which they come. It is a system designed to offload the burden of memory from your biological brain to a reliable digital counterpart. By externalizing your knowledge, you free up your mental capacity for critical thinking, problem-solving, and creativity.
 
-The transition from a scattered digital life to a cohesive personal knowledge management (PKM) system does not require complex coding or expensive software. It requires a fundamental shift in how you process information. This guide breaks down the exact steps to building a second brain for productivity, transforming digital noise into a structured engine for deep work.
+The transition from a scattered digital life to a cohesive [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system does not require complex coding or expensive software. It requires a fundamental shift in how you process information. This guide breaks down the exact steps to building a second brain for productivity, transforming digital noise into a structured engine for deep work.
 
 ## Step 1: Define Your Information Architecture
 
-Before downloading a new note-taking application, you must define what types of information are actually valuable to you. Building a second brain is not about archiving the entire internet; it is about curating a private library of insights that directly serve your goals and interests.
+Before downloading a new [note-taking](/posts/zettelkasten-method-explained/) application, you must define what types of information are actually valuable to you. Building a second brain is not about archiving the entire internet; it is about curating a private library of insights that directly serve your goals and interests.
 
 ### Identify Your Capture Channels
 Take an inventory of where you currently encounter valuable information. This typically includes:
@@ -50,7 +50,7 @@ This is the application you use to quickly grab information on the go. Speed and
 
 ### The Storage and Organization Tool
 This is the heart of your second brain. It needs robust search capabilities, linking features, and a structure that makes sense to you.
-- **Examples:** Obsidian, Notion, Roam Research, Evernote, Logseq, Apple Notes.
+- **Examples:** [Obsidian](/posts/what-is-personal-knowledge-management/), Notion, Roam Research, Evernote, Logseq, Apple Notes.
 - **Function:** To permanently house, organize, and connect your notes.
 
 ### The Distillation Tool (Optional)

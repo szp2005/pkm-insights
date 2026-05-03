@@ -15,11 +15,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Logseq is an exceptional tool for academic literature reviews due to its block-based outlining, built-in PDF annotation, and seamless Zotero integration. By utilizing bidirectional linking and queries, researchers can easily atomize arguments, trace citations down to the exact paragraph, and synthesize massive amounts of data into structured drafts.
 
-Conducting a systematic literature review requires managing hundreds of PDFs, extracting thousands of annotations, and synthesizing disparate arguments into a cohesive narrative. Traditional word processors and folder-based note-taking applications routinely fail at this scale. They trap knowledge in isolated documents, making it nearly impossible to trace a specific counter-argument back to its original source without breaking your workflow.
+Conducting a systematic literature review requires managing hundreds of PDFs, extracting thousands of annotations, and synthesizing disparate arguments into a cohesive narrative. Traditional word processors and folder-based [note-taking](/posts/zettelkasten-method-explained/) applications routinely fail at this scale. They trap knowledge in isolated documents, making it nearly impossible to trace a specific counter-argument back to its original source without breaking your workflow.
 
 Over the past few years, networked thought tools have emerged as the standard for academic research. Among them, Logseq stands out specifically for the academic use case. As a privacy-first, open-source knowledge graph built on local plain-text Markdown and EDN files, it offers a distinct advantage: block-level referencing combined with native PDF reading capabilities. 
 
-This review will break down exactly how Logseq functions as a literature review engine, evaluate it against top alternatives in the personal knowledge management (PKM) space, and provide a practical architectural guide for setting up your academic graph.
+This review will break down exactly how Logseq functions as a literature review engine, evaluate it against top alternatives in the [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) space, and provide a practical architectural guide for setting up your academic graph.
 
 ## The Paradigm Shift: Block-Level Synthesis
 
@@ -31,7 +31,7 @@ Logseq operates on an outliner model where the foundational unit is the "block" 
 
 ## Top Tools Evaluated for Literature Reviews
 
-While Logseq is powerful, the academic PKM landscape features several compelling options. Here is how the top software stacks up specifically for conducting rigorous literature reviews.
+While Logseq is powerful, the academic PKM landscape features several compelling options. Here is how the top [software](/posts/best-apps-for-personal-knowledge-management/) stacks up specifically for conducting rigorous literature reviews.
 
 ### 1. [Logseq](https://www.amazon.com/s?k=Logseq&tag=pkm.notes-automate-20)
 

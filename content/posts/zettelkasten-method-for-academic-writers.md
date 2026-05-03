@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Zettelkasten Method for Academic Writers: A Complete 5-Step Guide
 
-> **Quick Answer:** The Zettelkasten method for academic writers is a note-taking system that relies on creating decentralized, highly interconnected notes (Zettels) to form a web of knowledge. By capturing atomic ideas, cross-referencing them, and letting themes emerge organically, researchers can permanently eliminate the "blank page" problem and streamline the transition from reading to publishing.
+> **Quick Answer:** The Zettelkasten method for academic writers is a [note-taking](/posts/zettelkasten-method-explained/) system that relies on creating decentralized, highly interconnected notes (Zettels) to form a web of knowledge. By capturing atomic ideas, cross-referencing them, and letting themes emerge organically, researchers can permanently eliminate the "blank page" problem and streamline the transition from reading to publishing.
 
 Academic writing is rarely bottlenecked by a lack of ideas or insufficient reading. More often, the friction occurs during the synthesis phase. You read dozens of papers, highlight key passages, and drop them into folders organized by project or class. Months later, when it is time to write the literature review, those insights are siloed, forgotten, or completely detached from their original context. The cognitive load required to hold hundreds of disparate research threads in your head simultaneously is overwhelming.
 
@@ -122,7 +122,7 @@ While Luhmann used physical index cards, modern academics should leverage digita
 
 ### Software Recommendations
 
-- **Obsidian:** The most popular choice for academic Zettelkastens. It saves files as local Markdown, meaning your research will remain accessible 50 years from now, regardless of what happens to the software company. It features robust community plugins for Zotero integration.
+- **[Obsidian](/posts/what-is-personal-knowledge-management/):** The most popular choice for academic Zettelkastens. It saves files as local Markdown, meaning your research will remain accessible 50 years from now, regardless of what happens to the software company. It features robust community plugins for Zotero integration.
 - **Logseq:** An outliner-based alternative to Obsidian. Excellent for thinkers who prefer bulleted, hierarchical initial thoughts that can be linked laterally. Also utilizes local files.
 - **Roam Research:** The pioneer of modern networked thought, but relies on a cloud-based subscription model. 
 
@@ -171,7 +171,7 @@ Processing reading into permanent notes requires more upfront time than simply h
 No. Attempting a massive migration will overwhelm you and stall your current work. Start your slip-box today with whatever you are currently reading. If you need older notes for a specific project, process them into the Zettelkasten individually as the need arises.
 
 ### Can I use the Zettelkasten method for scientific data and lab results?
-Yes. Treat experimental results or statistical findings as Literature Notes. The permanent notes you generate from them should focus on the implications, anomalies, or theoretical significance of the data, linking those insights back to broader research questions.
+Yes. Treat experimental results or statistical findings as Literature Notes. The permanent notes you generate from them should [focus](/posts/digital-decluttering-for-information-overload/) on the implications, anomalies, or theoretical significance of the data, linking those insights back to broader research questions.
 
 ### How many permanent notes do I need before the system becomes useful?
 Most users report experiencing the "compound interest" effect of a Zettelkasten around the 100 to 200 permanent note mark. At this critical mass, you will begin to see unexpected connections between disparate readings, and the system will actively start feeding you ideas.

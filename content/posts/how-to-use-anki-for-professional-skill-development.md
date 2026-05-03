@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** To use Anki for professional skill development, identify the core knowledge for your field, break it down into atomic, single-fact flashcards, and review them daily using Anki's spaced repetition algorithm. This ensures long-term retention of complex technical concepts, languages, or industry frameworks while minimizing study time.
 
-Continuous learning is the baseline requirement for most modern careers. Whether you are a software engineer keeping up with new JavaScript frameworks, a medical professional memorizing drug interactions, or a lawyer preparing for the bar, the sheer volume of information you must retain can feel overwhelming. Reading documentation or watching tutorials gives you the illusion of competence, but without active recall, that knowledge fades within days.
+Continuous [learning](/posts/how-to-remember-what-you-read-effectively/) is the baseline requirement for most modern careers. Whether you are a [software](/posts/best-apps-for-personal-knowledge-management/) engineer keeping up with new JavaScript frameworks, a medical professional memorizing drug interactions, or a lawyer preparing for the bar, the sheer volume of information you must retain can feel overwhelming. Reading documentation or watching tutorials gives you the illusion of competence, but without active recall, that knowledge fades within days.
 
 This is where spaced repetition software (SRS) bridges the gap between exposure and mastery. Anki, a free and open-source flashcard application, is arguably the most powerful SRS tool available. While originally popularized by medical students and language learners, it is increasingly adopted by professionals across all industries to internalize critical information.
 
@@ -87,7 +87,7 @@ If you repeatedly fail a card, known as a "leech," Anki will automatically suspe
 While Anki excels at technical facts, it can be adapted for soft skills. You can use it to memorize the names and background details of important clients, key principles from leadership books, or specific frameworks for conflict resolution and negotiation strategies.
 
 ### How do I handle code snippets or complex diagrams in Anki?
-Anki supports images and basic code formatting. For diagrams, you can use the Image Occlusion Enhanced add-on to hide specific parts of a flowchart or architectural diagram. For code, keep snippets extremely short—focus on testing the logic or syntax of a specific line rather than asking yourself to reproduce a 50-line function from memory.
+Anki supports images and basic code formatting. For diagrams, you can use the Image Occlusion Enhanced add-on to hide specific parts of a flowchart or architectural diagram. For code, keep snippets extremely short—[focus](/posts/digital-decluttering-for-information-overload/) on testing the logic or syntax of a specific line rather than asking yourself to reproduce a 50-line function from memory.
 
 ---
 

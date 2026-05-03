@@ -15,7 +15,7 @@ type: "informational"
 
 When you first download Obsidian, the blank canvas feels liberating. You create a few notes, add some bidirectional links, and watch your knowledge graph slowly take shape. Fast forward six months, and that beautifully organic graph has turned into an impenetrable hairball. You know the information is in there, but finding a specific thought requires recalling exact file names or relying heavily on search.
 
-The shift from a small collection of notes to a massive personal knowledge management (PKM) system requires a structural intervention. Relying solely on folders creates rigid silos, while relying entirely on tags and backlinks creates chaos. The middle ground—and the most scalable solution for long-term vault health—is the Map of Content (MOC). 
+The shift from a small collection of notes to a massive [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system requires a structural intervention. Relying solely on folders creates rigid silos, while relying entirely on tags and backlinks creates chaos. The middle ground—and the most scalable solution for long-term vault health—is the Map of Content (MOC). 
 
 This guide details exactly how to use MOCs in Obsidian for organization, providing a clear five-step framework to transition your vault from a digital junk drawer into a highly navigable knowledge base.
 
@@ -25,7 +25,7 @@ A Map of Content is exactly what it sounds like: a note whose primary purpose is
 
 ### Folders vs. Tags vs. MOCs
 
-To understand the value of an MOC, it helps to look at the limitations of default organizational tools:
+To understand the value of an MOC, it helps to look at the limitations of default organizational [tools](/posts/personal-knowledge-management-tools-comparison/):
 
 - **Folders** enforce strict hierarchy. A note can only live in one place. If you have a note on "Machine Learning in Healthcare," does it go in your "Tech" folder or your "Medicine" folder? Folders force premature categorization.
 - **Tags** offer flexibility but lack context. A `#machine-learning` tag might bring up 150 notes, but it doesn't tell you how those notes relate to one another or which ones are the most important foundational texts.
@@ -174,7 +174,7 @@ Do not spend three days building MOCs for notes you haven't written yet. It is t
 
 Learning how to use MOCs in Obsidian for organization is the single most effective way to "future-proof" your vault. While folders break down as your interests cross-pollinate, and tags become overwhelming at scale, MOCs provide a resilient, curatable layer of context. 
 
-By starting with a Home Index, allowing topic MOCs to emerge organically, and embracing the practice of manual curation, you transform Obsidian from a simple text editor into a genuine second brain that surfaces the right information at exactly the right time.
+By starting with a Home Index, allowing topic MOCs to emerge organically, and embracing the practice of manual curation, you transform Obsidian from a simple text editor into a genuine [second brain](/posts/what-is-personal-knowledge-management/) that surfaces the right information at exactly the right time.
 
 ## Frequently Asked Questions
 

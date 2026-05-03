@@ -25,7 +25,7 @@ In this comprehensive guide, we will explore the philosophy behind the Second Br
 
 ## What is a Second Brain?
 
-Coined and popularized by productivity expert Tiago Forte, a Second Brain is an external, centralized, digital repository for the things you learn, the resources you gather, and the ideas you generate. It is a Personal Knowledge Management (PKM) system designed not just for hoarding information, but for action.
+Coined and popularized by [productivity](/posts/zettelkasten-method-explained/) expert Tiago Forte, a Second Brain is an external, centralized, digital repository for the things you learn, the resources you gather, and the ideas you generate. It is a [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system designed not just for hoarding information, but for action.
 
 At its core, a Second Brain operates on a simple premise: **Your mind is for having ideas, not holding them.**
 
@@ -56,7 +56,7 @@ A Second Brain provides a safe environment for these fragile, half-baked ideas t
 ### 3. [Engineering Serendipity](https://www.amazon.com/s?k=Engineering%20Serendipity&tag=pkm.notes-automate-20)
 When you store all your diverse interests in one centralized location, magic happens. You might have notes on behavioral psychology living right next to notes on user interface design and ancient Stoic philosophy. 
 
-Modern note-taking tools (which we will discuss later) use features like bidirectional linking and visual graphs to show you the relationships between your notes. You begin to stumble upon unexpected connections. This engineered serendipity is the exact soil where breakthrough creativity flourishes. 
+Modern note-taking [tools](/posts/personal-knowledge-management-tools-comparison/) (which we will discuss later) use features like bidirectional linking and visual graphs to show you the relationships between your notes. You begin to stumble upon unexpected connections. This engineered serendipity is the exact soil where breakthrough creativity flourishes. 
 
 ### 4. [Separating Divergent and Convergent Thinking](https://www.amazon.com/s?k=Separating%20Divergent%20and%20Convergent%20Thinking&tag=pkm.notes-automate-20)
 The creative process requires two distinct modes of thought. 

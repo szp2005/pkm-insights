@@ -22,7 +22,7 @@ Building a robust system ensures that the research you conduct today remains acc
 ## The Evolution of Knowledge Management
 
 ### From Static Archives to Active Assets
-Historically, digital note-taking mirrored physical filing cabinets. Documents were placed within specific folders, forcing a rigid taxonomy. If a piece of information belonged to two categories, it had to be duplicated or awkwardly linked. This static archiving approach creates silos, preventing the natural cross-pollination of ideas that drives innovation.
+Historically, digital [note-taking](/posts/zettelkasten-method-explained/) mirrored physical filing cabinets. Documents were placed within specific folders, forcing a rigid taxonomy. If a piece of information belonged to two categories, it had to be duplicated or awkwardly linked. This static archiving approach creates silos, preventing the natural cross-pollination of ideas that drives innovation.
 
 Modern knowledge asset management treats information as a dynamic network. Instead of deciding where a note "lives," you determine what a note "connects to." This networked approach mimics human cognition, allowing isolated facts to combine into complex mental models. The value of an asset is no longer just its content, but its relationship to other pieces of information within your system. 
 
@@ -67,7 +67,7 @@ This framework reduces cognitive load by keeping only immediately actionable inf
 ## Implementing Your Knowledge Infrastructure
 
 ### Establishing Your Core Environment
-Selecting the right tool dictates your daily friction levels. While the specific software is less important than the underlying Markdown files, applications like Obsidian, Logseq, and Neovim with specialized plugins currently dominate the landscape due to their local-first architecture and extensive extensibility.
+Selecting the right tool dictates your daily friction levels. While the specific software is less important than the underlying Markdown files, applications like [Obsidian](/posts/what-is-personal-knowledge-management/), [Logseq](/posts/personal-knowledge-management-tools-comparison/), and Neovim with specialized plugins currently dominate the landscape due to their local-first architecture and extensive extensibility.
 
 When setting up your environment, prioritize speed of entry. If opening your system and creating a note takes more than three seconds, you will inevitably capture less information. Configure global hotkeys or quick-capture mobile widgets to route raw text directly into an inbox folder within your vault.
 

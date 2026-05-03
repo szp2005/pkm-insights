@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # 7 Best Capacities Templates for University Students in 2026
 
-> **Quick Answer:** The best Capacities templates for university students leverage its object-based system to connect courses, assignments, and research seamlessly. The **Comprehensive Student OS** is the top all-in-one choice for undergraduates, while the **Academic Zettelkasten** is the ideal pick for graduate students managing complex literature and thesis research. 
+> **Quick Answer:** The best Capacities templates for university students leverage its object-based system to connect courses, assignments, and research seamlessly. The **Comprehensive Student OS** is the top all-in-one choice for undergraduates, while the **Academic [Zettelkasten](/posts/zettelkasten-method-explained/)** is the ideal pick for graduate students managing complex literature and thesis research. 
 
-Managing the influx of information at university requires more than just a digital notebook; it requires a structured system. Over the past few years, Capacities has emerged as a powerhouse for personal knowledge management (PKM). Unlike traditional folder-based apps, Capacities uses an object-based architecture. You don't put a note in a folder; you create an object—like a "Book," a "Course," or an "Assignment"—and link them together naturally. 
+Managing the influx of information at university requires more than just a digital notebook; it requires a structured system. Over the past few years, Capacities has emerged as a powerhouse for [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM). Unlike traditional folder-based apps, Capacities uses an object-based architecture. You don't put a note in a folder; you create an object—like a "Book," a "Course," or an "Assignment"—and link them together naturally. 
 
 For university students, this architectural difference is a massive advantage. You can link a single "Professor" object to the specific "Course" they teach, the "Assignments" they grade, and the "Meetings" you have during their office hours. The friction of deciding where a note belongs vanishes. 
 
@@ -59,7 +59,7 @@ This premium template adapts the traditional Zettelkasten method specifically fo
 
 ### 3. [Minimalist Course & Lecture Tracker](https://www.amazon.com/s?k=Minimalist%20Course%20%26%20Lecture%20Tracker&tag=pkm.notes-automate-20)
 
-**Best for:** STEM students requiring fast, structured note-taking
+**Best for:** STEM students requiring fast, structured [note-taking](/posts/digital-garden-vs-second-brain-difference/)
 **Price:** Free
 **Rating:** 4.6/5
 

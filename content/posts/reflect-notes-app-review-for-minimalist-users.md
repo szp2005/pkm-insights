@@ -27,7 +27,7 @@ Minimalism in software is not simply about having fewer buttons; it is about cog
 
 Traditional folder-based systems (like Evernote or traditional file directories) require you to make an immediate categorization decision: *Where does this thought belong?* Modular systems (like Notion or Coda) require architectural decisions: *What template should I use?*
 
-Reflect removes both barriers by defaulting to a Daily Note. When you open the application, you are presented with today's date and a blank cursor. You do not have to decide where a thought belongs; you simply capture it in the stream of time. Later, you can use bidirectional links (using the `[[]]` syntax) to connect that thought to specific projects, people, or concepts. This approach, heavily inspired by the Zettelkasten method and Roam Research, aligns perfectly with the minimalist ethos: capture first, organize organically later.
+Reflect removes both barriers by defaulting to a Daily Note. When you open the application, you are presented with today's date and a blank cursor. You do not have to decide where a thought belongs; you simply capture it in the stream of time. Later, you can use bidirectional links (using the `[[]]` syntax) to connect that thought to specific projects, people, or concepts. This approach, heavily inspired by the [Zettelkasten](/posts/zettelkasten-method-explained/) method and Roam Research, aligns perfectly with the minimalist ethos: capture first, organize organically later.
 
 ## Core Evaluation
 
@@ -54,7 +54,7 @@ Reflect functions as a secure, networked digital brain centered around daily not
 
 ## Key Features That Matter to Minimalists
 
-To understand why Reflect appeals specifically to minimalists, we must look at how it handles the fundamental tasks of knowledge management.
+To understand why Reflect appeals specifically to minimalists, we must look at how it handles the fundamental tasks of [knowledge management](/posts/knowledge-management-strategies-for-students/).
 
 ### Frictionless Capture and The Daily Note
 
@@ -146,7 +146,7 @@ For users who want zero configuration and no subscription fees, Apple Notes rema
 
 ## Final Verdict: Is Reflect Worth the Subscription?
 
-The Reflect notes app is a masterfully crafted piece of software that successfully delivers on its promise of frictionless, secure, and rapid thought capture. For the minimalist user, it removes the agonizing decisions of where to put things and how to format them, allowing you to focus entirely on the content of your thoughts.
+The Reflect notes app is a masterfully crafted piece of software that successfully delivers on its promise of frictionless, secure, and rapid thought capture. For the minimalist user, it removes the agonizing decisions of where to put things and how to format them, allowing you to [focus](/posts/digital-decluttering-for-information-overload/) entirely on the content of your thoughts.
 
 Is it worth $180 a year? If note-taking is an auxiliary task for you—something you do occasionally for grocery lists or brief reminders—the price is difficult to justify. You are better served by Apple Notes or Google Keep.
 

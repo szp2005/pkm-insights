@@ -60,9 +60,9 @@ Dual coding involves combining verbal materials with visual materials. Human mem
 
 ## Architecting a Personal Knowledge Management (PKM) System
 
-While internal cognitive techniques are vital, modern knowledge workers must manage a volume of information that far exceeds human biological capacity. The best practice for knowledge retention in the digital age involves marrying cognitive techniques with a robust external Personal Knowledge Management (PKM) system—often referred to as building a "Second Brain."
+While internal cognitive techniques are vital, modern knowledge workers must manage a volume of information that far exceeds human biological capacity. The best practice for knowledge retention in the digital age involves marrying cognitive techniques with a robust external Personal Knowledge Management (PKM) system—often referred to as building a "[Second Brain](/posts/what-is-personal-knowledge-management/)."
 
-A PKM system is a digital repository where you capture, organize, and distill insights, freeing your biological brain from the burden of remembering raw data so it can focus on synthesis, problem-solving, and creativity.
+A PKM system is a digital repository where you capture, organize, and distill insights, freeing your biological brain from the burden of remembering raw data so it can [focus](/posts/digital-decluttering-for-information-overload/) on synthesis, problem-solving, and creativity.
 
 ### 1. [The Capture Habit and Progressive Summarization](https://www.amazon.com/s?k=The%20Capture%20Habit%20and%20Progressive%20Summarization&tag=pkm.notes-automate-20)
 
@@ -100,7 +100,7 @@ A culture that penalizes mistakes actively discourages the sharing of lessons le
 
 ## Biological Imperatives: The Foundation of Cognitive Function
 
-Finally, any discussion of knowledge retention must acknowledge the foundational role of physiological health. Cognitive strategies and digital systems are software built upon the hardware of the human brain. If the hardware is compromised, performance will plummet regardless of the methodologies used.
+Finally, any discussion of knowledge retention must acknowledge the foundational role of physiological health. Cognitive strategies and digital systems are [software](/posts/best-apps-for-personal-knowledge-management/) built upon the hardware of the human brain. If the hardware is compromised, performance will plummet regardless of the methodologies used.
 
 ### 1. [The Criticality of Sleep for Memory Consolidation](https://www.amazon.com/s?k=The%20Criticality%20of%20Sleep%20for%20Memory%20Consolidation&tag=pkm.notes-automate-20)
 

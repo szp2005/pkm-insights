@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Using Capacities for iPad Pro note taking transforms the device from a simple media tablet into a structured, object-based knowledge hub. While it relies primarily on typed input rather than native Apple Pencil inking, pairing the iPad Pro with a Magic Keyboard allows you to leverage Capacities' dynamic linking, Daily Notes, and custom object types for highly efficient research, meeting management, and project organization on the go.
 
-The iPad Pro has long been hailed as the ultimate portable machine, yet finding a personal knowledge management (PKM) tool that properly utilizes its power without forcing you into a rigid folder structure remains a challenge. Traditional note-taking applications often treat the iPad as a digital piece of paper, focusing heavily on handwriting. However, as workflows become more complex and interconnected, the need for a networked, database-driven approach on mobile devices has grown significantly. 
+The iPad Pro has long been hailed as the ultimate portable machine, yet finding a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool that properly utilizes its power without forcing you into a rigid folder structure remains a challenge. Traditional note-taking applications often treat the iPad as a digital piece of paper, focusing heavily on handwriting. However, as workflows become more complex and interconnected, the need for a networked, database-driven approach on mobile devices has grown significantly. 
 
 This is where Capacities enters the ecosystem. By introducing a studio-like environment based on objects rather than files and folders, it fundamentally changes how information is stored and retrieved. Instead of asking "Where should I save this note?", Capacities prompts you to ask "What kind of object is this?"—a person, a meeting, a book, or a project. 
 
@@ -25,7 +25,7 @@ Integrating this object-based methodology with the hardware capabilities of the 
 
 To master Capacities on the iPad Pro, you must first understand its core philosophy. Traditional systems use a hierarchical structure: a folder contains a subfolder, which contains a document. Capacities uses an object-based system. Every piece of information is an "object" with a specific "type."
 
-When working on the iPad Pro's touch-first interface, this object-based approach is surprisingly intuitive. Instead of tapping through nested folders—which can be tedious on a tablet—you navigate through a centralized dashboard of your objects. If you need to find a meeting note, you tap the "Meeting" object type. If you need to find a concept, you navigate to "Zettelkasten" or "Idea" objects. 
+When working on the iPad Pro's touch-first interface, this object-based approach is surprisingly intuitive. Instead of tapping through nested folders—which can be tedious on a tablet—you navigate through a centralized dashboard of your objects. If you need to find a meeting note, you tap the "Meeting" object type. If you need to find a concept, you navigate to "[Zettelkasten](/posts/zettelkasten-method-explained/)" or "Idea" objects. 
 
 This flat, networked architecture means that when you are multitasking on the iPad—perhaps reading a PDF in Split View while taking notes—you can quickly create a new object, link it to existing properties, and return to your reading without breaking your flow to manage file directories.
 
@@ -96,7 +96,7 @@ Understanding where Capacities fits into the broader ecosystem of iPad applicati
 **Capacities vs. GoodNotes / Notability:**
 GoodNotes and Notability are infinite canvas applications designed primarily for handwriting and PDF markup. They replicate physical notebooks. If your primary goal is writing out complex mathematical formulas, sketching wireframes by hand, or highlighting textbooks with the Apple Pencil, traditional apps are superior. Capacities is not a handwriting app; it is a knowledge database. You use Capacities to synthesize the information *after* you have extracted it.
 
-**Capacities vs. Obsidian:**
+**Capacities vs. [Obsidian](/posts/what-is-personal-knowledge-management/):**
 Obsidian is a highly customizable, local-first markdown editor. The Obsidian iPad app is powerful but requires significant configuration, community plugins, and syncing solutions (like Obsidian Sync or iCloud) to work properly. Capacities provides a much cleaner, out-of-the-box mobile experience. Its object-based structure requires zero coding or plugin management, making it far more accessible for users who want immediate utility on their iPad without managing a complex backend.
 
 **Capacities vs. Notion:**

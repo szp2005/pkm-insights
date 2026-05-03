@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Tana commands for automated data processing are built-in workflow triggers attached to Supertags or nodes that execute sequences of actions—such as setting field values, moving nodes, generating content via AI, or making external API calls. By combining these commands into multi-step macros, users can transform raw daily notes into structured databases without manual data entry.
 
-Managing complex data within a personal knowledge management (PKM) or team workspace often becomes a bottleneck. As your database grows, the friction of manually tagging, moving, and updating fields limits the actual value you get from your system. You end up spending more time managing the structure than doing the actual work.
+Managing complex data within a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) or team workspace often becomes a bottleneck. As your database grows, the friction of manually tagging, moving, and updating fields limits the actual value you get from your system. You end up spending more time managing the structure than doing the actual work.
 
 Tana solves this through its underlying graph database structure, but its true power unlocks when you introduce automated commands. Instead of relying on manual upkeep, you can instruct Tana to process data conditionally, route information to specific dashboards, and interact with external applications automatically. 
 
@@ -23,7 +23,7 @@ This guide breaks down exactly how to use Tana commands for automated data proce
 
 ## Understanding the Tana Command Architecture
 
-Before building complex workflows, it is necessary to understand how Tana structures its automation capabilities. Tana does not rely on traditional folder structures; everything is a node, and nodes are defined by Supertags. Commands live natively within this ecosystem.
+Before building complex [workflows](/posts/getting-things-done-for-knowledge-workers/), it is necessary to understand how Tana structures its automation capabilities. Tana does not rely on traditional folder structures; everything is a node, and nodes are defined by Supertags. Commands live natively within this ecosystem.
 
 ### Where Commands Live
 Commands in Tana are typically housed in two places:
@@ -58,7 +58,7 @@ Dynamic categorization is critical for automated systems. The `Add tag` and `Rem
 ### AI and API Integrations
 Tana includes native `Ask AI` commands that process text data directly. You can command the system to read the children of a node, summarize them, and paste the output into a specific field. 
 
-Furthermore, the `Make API Request` command allows Tana to send and receive JSON data. This is where Tana transcends being a simple notebook and becomes a data processor, interacting with tools like GitHub, Jira, or custom webhooks.
+Furthermore, the `Make API Request` command allows Tana to send and receive JSON data. This is where Tana transcends being a simple notebook and becomes a data processor, interacting with [tools](/posts/personal-knowledge-management-tools-comparison/) like GitHub, Jira, or custom webhooks.
 
 ## Building Your First Automated Data Pipeline
 

@@ -13,17 +13,17 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Capacities App Setup for Research Team Collaboration in 2026
 
-> **Quick Answer:** The Capacities app transforms research team collaboration by replacing rigid folder structures with an object-based knowledge management system. By defining custom object types (like Papers, Experiments, and Insights) and using bi-directional linking within shared Spaces, teams can build a networked, accessible database that scales without losing context.
+> **Quick Answer:** The Capacities app transforms research team collaboration by replacing rigid folder structures with an object-based [knowledge management](/posts/knowledge-management-strategies-for-students/) system. By defining custom object types (like Papers, Experiments, and Insights) and using bi-directional linking within shared Spaces, teams can build a networked, accessible database that scales without losing context.
 
 Research teams handle complex, interconnected data that rarely fits neatly into traditional folder hierarchies. When multiple researchers are working on literature reviews, gathering experimental data, and synthesizing insights, the standard document-based approach—where files get buried in nested directories—inevitably leads to duplicated effort and lost information. 
 
-The transition to networked note-taking has solved many of these issues for individuals. However, bringing that same interconnected power to a multi-person team requires a tool designed around structured, object-based logic. This is where the Capacities app excels.
+The transition to networked [note-taking](/posts/zettelkasten-method-explained/) has solved many of these issues for individuals. However, bringing that same interconnected power to a multi-person team requires a tool designed around structured, object-based logic. This is where the Capacities app excels.
 
 By treating information as distinct "objects" rather than generic notes, Capacities allows teams to standardize how data is entered while maintaining the fluid, bi-directional linking necessary for complex research. This guide covers how to architect the Capacities app for research team collaboration, outlining the exact structures, taxonomies, and permissions needed to turn individual research into collective intelligence.
 
 ## Why Traditional Folders Fail Research Teams
 
-Most teams default to tools like Google Drive, Dropbox, or standard Notion pages because they are familiar. These tools rely on a hierarchical structure: a file lives in a specific folder, which lives in a parent folder. 
+Most teams default to tools like Google Drive, Dropbox, or standard [Notion](/posts/what-is-personal-knowledge-management/) pages because they are familiar. These tools rely on a hierarchical structure: a file lives in a specific folder, which lives in a parent folder. 
 
 For research, this is fundamentally flawed. A single academic paper might be relevant to three different projects, relate to five different methodologies, and support two distinct hypotheses. In a folder system, you either create shortcuts, duplicate the file, or force it into one category, making it invisible to researchers looking in the other categories.
 

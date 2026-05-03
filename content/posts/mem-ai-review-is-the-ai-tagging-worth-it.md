@@ -17,9 +17,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 The note-taking landscape is split between two philosophies: rigorous manual organization and search-first chaos. For years, applications forced users to build complex hierarchies, tags, and bi-directional links to retrieve information. Mem.ai challenges this paradigm by promising a "self-organizing workspace." It uses artificial intelligence to automatically tag, connect, and retrieve your notes without requiring you to maintain a filing system.
 
-As AI integrates deeper into productivity software, the core question is no longer whether an app uses artificial intelligence, but whether that intelligence fundamentally improves your workflow. Removing the friction of organizing notes sounds ideal, but relying on an algorithm to surface critical information requires significant trust. 
+As AI integrates deeper into [productivity](/posts/zettelkasten-method-explained/) software, the core question is no longer whether an app uses artificial intelligence, but whether that intelligence fundamentally improves your workflow. Removing the friction of organizing notes sounds ideal, but relying on an algorithm to surface critical information requires significant trust. 
 
-This review evaluates Mem.ai's core features, focusing on its automated tagging and semantic search capabilities, to determine if the platform delivers on its promise of a frictionless second brain.
+This review evaluates Mem.ai's core features, focusing on its automated tagging and semantic search capabilities, to determine if the platform delivers on its promise of a frictionless [second brain](/posts/what-is-personal-knowledge-management/).
 
 ## The Self-Organizing Workspace Explained
 
@@ -27,7 +27,7 @@ Unlike traditional knowledge management tools that rely on folders (like Evernot
 
 The application's proprietary AI, Mem X, analyzes the content of the note. It identifies entities, themes, and context, automatically appending relevant smart tags and forging connections with existing notes in your database. This semantic understanding means you can capture a meeting summary about "Q3 Marketing Strategy," and Mem will automatically link it to previous marketing notes, specific team members mentioned, and broader company goals, even if you never explicitly typed those tags.
 
-This approach shifts the user's focus from organization to capture. You treat Mem like an infinite inbox that processes itself. When you need to retrieve information, you rely on semantic search rather than navigating a folder tree.
+This approach shifts the user's [focus](/posts/digital-decluttering-for-information-overload/) from organization to capture. You treat Mem like an infinite inbox that processes itself. When you need to retrieve information, you rely on semantic search rather than navigating a folder tree.
 
 ## Core Features Evaluated
 

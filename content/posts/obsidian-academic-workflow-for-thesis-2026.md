@@ -15,7 +15,7 @@ type: "informational"
 
 Writing a thesis requires managing an overwhelming volume of information. Between hundreds of peer-reviewed papers, experimental data, theoretical frameworks, and your own evolving arguments, traditional linear word processors quickly become inadequate. Researchers often find themselves lost in a maze of disconnected PDFs and isolated Word documents, struggling to synthesize their reading into a coherent narrative.
 
-The landscape of personal knowledge management has matured significantly. As we look at the requirements for serious academic research, Obsidian stands out not just as a note-taking application, but as a comprehensive database for thought. Its local-first, plain-text architecture ensures that years of research remain accessible decades from now, immune to the shifting pricing models or server shutdowns of cloud-based alternatives.
+The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) has matured significantly. As we look at the requirements for serious academic research, Obsidian stands out not just as a [note-taking](/posts/zettelkasten-method-explained/) application, but as a comprehensive database for thought. Its local-first, plain-text architecture ensures that years of research remain accessible decades from now, immune to the shifting pricing models or server shutdowns of cloud-based alternatives.
 
 Developing a reliable system is about reducing cognitive load. When the mechanics of tracking citations and organizing literature are automated, you reserve your mental energy for actual critical analysis. This guide details the specific configurations, plugin combinations, and processing methods required to build a robust, resilient academic system designed to carry you from your initial literature review to your final defense.
 
@@ -34,7 +34,7 @@ Consistency in metadata is equally critical. In 2026, the use of YAML frontmatte
 Out of the box, Obsidian is a capable markdown editor. For a thesis workflow, specific community plugins are required to handle the rigorous demands of academic referencing and data aggregation.
 
 **Zotero Integration**
-The bridge between your reference manager and your knowledge base. This plugin replaces older, more fragile citation tools. It allows you to define customizable templates that automatically pull metadata, PDF highlights, and annotations directly from Zotero into Obsidian. When you finish reading a paper in Zotero, a single hotkey generates a fully formatted literature note in your vault.
+The bridge between your reference manager and your knowledge base. This plugin replaces older, more fragile citation [tools](/posts/personal-knowledge-management-tools-comparison/). It allows you to define customizable templates that automatically pull metadata, PDF highlights, and annotations directly from Zotero into Obsidian. When you finish reading a paper in Zotero, a single hotkey generates a fully formatted literature note in your vault.
 
 **Dataview**
 The engine that powers vault organization. Dataview treats your markdown files as a database, allowing you to write queries that automatically aggregate notes based on tags, folders, or YAML frontmatter. For a thesis, Dataview is indispensable for creating dynamic dashboards that track unread papers, summarize literature by methodology, or list all concept notes related to a specific chapter.

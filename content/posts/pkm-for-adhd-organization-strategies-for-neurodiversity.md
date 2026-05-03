@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 For individuals with ADHD, the modern information landscape often feels like a constant barrage. Thoughts, tasks, articles, and sudden bursts of inspiration appear at random and vanish just as quickly. The traditional advice for managing this chaos usually involves rigid filing cabinets, color-coded planners, and complex nested folders. Yet, for a neurodivergent brain grappling with executive dysfunction and working memory limitations, these high-maintenance systems are practically designed to fail.
 
-Personal Knowledge Management (PKM) offers a radically different approach. Rather than forcing your brain to adapt to a rigid organizational structure, a well-designed PKM adapts to the way your brain naturally works. It acts as an external hard drive for your thoughts, holding onto the details so your working memory does not have to. 
+[Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) offers a radically different approach. Rather than forcing your brain to adapt to a rigid organizational structure, a well-designed PKM adapts to the way your brain naturally works. It acts as an external hard drive for your thoughts, holding onto the details so your working memory does not have to. 
 
 Implementing a PKM for ADHD is not about building the most aesthetically pleasing or complex system. It is about creating organization strategies for neurodiversity that prioritize low-friction capture, visual associations, and extreme flexibility. When built correctly, a PKM stops being a chore and becomes an indispensable tool for managing overwhelm and harnessing neurodivergent creativity.
 
@@ -32,7 +32,7 @@ Working memory is the brain's scratchpad, responsible for holding information te
 "Out of sight, out of mind" is a literal cognitive reality for many with ADHD. If notes are hidden away in deeply nested folders, they effectively cease to exist. Traditional hierarchical structures (like a traditional computer file system) require you to remember where you put something in order to find it. An ADHD-friendly PKM relies on search, tags, and interconnected links to ensure information resurfaces naturally, even if you forget exactly where it was stored.
 
 ### The Allure of the "Perfect System"
-Individuals with ADHD are prone to hyperfocusing on the initial setup of a new productivity tool—the dopamine hit of color-coding and organizing is highly rewarding. However, maintaining that complex system requires sustained executive function, which quickly drains cognitive resources. The system becomes a source of guilt and is eventually abandoned. The ideal PKM for neurodiversity must be resilient enough to survive periods of neglect and simple enough to require near-zero maintenance.
+Individuals with ADHD are prone to hyperfocusing on the initial setup of a new [productivity](/posts/zettelkasten-method-explained/) tool—the dopamine hit of color-coding and organizing is highly rewarding. However, maintaining that complex system requires sustained executive function, which quickly drains cognitive resources. The system becomes a source of guilt and is eventually abandoned. The ideal PKM for neurodiversity must be resilient enough to survive periods of neglect and simple enough to require near-zero maintenance.
 
 ## Core Principles of a Neurodivergent PKM
 
@@ -61,7 +61,7 @@ This single page acts as a scratchpad for everything that happens that day: meet
 
 ### Strategy 2: Bidirectional Linking for Non-Linear Thinking
 
-Neurodivergent brains are highly associative; one thought rapidly triggers a seemingly unrelated second thought. Bidirectional linking—a feature in tools like Obsidian, Logseq, and Roam—mimics this natural brain function. 
+Neurodivergent brains are highly associative; one thought rapidly triggers a seemingly unrelated second thought. Bidirectional linking—a feature in tools like [Obsidian](/posts/what-is-personal-knowledge-management/), Logseq, and Roam—mimics this natural brain function. 
 
 When you enclose a word in brackets `[[like this]]`, the system automatically creates a page for that concept and links the current note to it. If you mention `[[Project Apollo]]` in a meeting note, and later mention `[[Project Apollo]]` in a random brainstorm, both of those notes are now connected to the main project page automatically.
 * **Why it works:** It builds a web of knowledge rather than a filing cabinet. You don't have to put a note in the "Project Apollo" folder. You just mention the project, and the system connects the dots for you, preserving the context in which you originally had the thought.

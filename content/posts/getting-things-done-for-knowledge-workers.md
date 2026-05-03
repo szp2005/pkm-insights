@@ -10,7 +10,7 @@ type: "informational"
 
 > **Quick Answer:** Getting Things Done for Knowledge Workers matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover how to adapt David Allen's Getting Things Done (GTD) methodology specifically for the unique challenges of modern knowledge work, information overload, and continuous context switching.
 
-For knowledge workers, the modern workplace is less of an assembly line and more of a chaotic information bazaar. The inputs are endless: Slack messages, emails, Jira tickets, Notion documents, and impromptu Zoom calls. In this environment, the traditional metrics of productivity—hours worked or widgets produced—fall apart. Instead, the currency of knowledge work is attention and the ability to systematically synthesize disparate information into high-value outputs.
+For knowledge workers, the modern workplace is less of an assembly line and more of a chaotic information bazaar. The inputs are endless: Slack messages, emails, Jira tickets, [Notion](/posts/what-is-personal-knowledge-management/) documents, and impromptu Zoom calls. In this environment, the traditional metrics of [productivity](/posts/zettelkasten-method-explained/)—hours worked or widgets produced—fall apart. Instead, the currency of knowledge work is attention and the ability to systematically synthesize disparate information into high-value outputs.
 
 David Allen’s *Getting Things Done* (GTD) methodology was published in a slightly different era, but its core principles have never been more critical. However, blindly applying 2001-era GTD to a 2026 tech stack often leads to friction, overwhelmed inboxes, and abandoned systems. The problem isn't the methodology; it's the implementation. 
 
@@ -48,7 +48,7 @@ When you process your inbox, you must ask a binary question: *Is this actionable
 **If No:**
 1.  **Trash it:** Be ruthless.
 2.  **Incubate it:** Put it on a "Someday/Maybe" list.
-3.  **File it:** Send it to your Personal Knowledge Management (PKM) system (e.g., Obsidian, Roam, Logseq) if it is reference material.
+3.  **File it:** Send it to your [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system (e.g., Obsidian, Roam, Logseq) if it is reference material.
 
 **If Yes:**
 Define the exact, visible, physical action required to move the needle.

@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Logseq whiteboards enable visual knowledge mapping by allowing you to drag and drop existing networked notes (blocks and pages) onto an infinite spatial canvas. This hybrid approach combines the power of structured, bidirectional database links with free-form spatial organization, helping you uncover hidden connections, outline complex projects, and process dense information visually.
 
-Linear note-taking is highly efficient for capturing information chronologically, but it frequently fails when you need to synthesize complex, multi-layered concepts. Human cognition is inherently spatial. We understand relationships better when we can see them mapped out in two dimensions, moving ideas around until the structure makes sense. This cognitive bottleneck is exactly where visual knowledge mapping excels.
+Linear [note-taking](/posts/zettelkasten-method-explained/) is highly efficient for capturing information chronologically, but it frequently fails when you need to synthesize complex, multi-layered concepts. Human cognition is inherently spatial. We understand relationships better when we can see them mapped out in two dimensions, moving ideas around until the structure makes sense. This cognitive bottleneck is exactly where visual knowledge mapping excels.
 
 For users of networked thought tools, transitioning from text-based linking to a spatial environment has historically meant copying text into a separate mind-mapping application. This fragmented the workflow and severed the dynamic links between underlying concepts. The introduction and continuous refinement of Logseq whiteboards has fundamentally resolved this issue. By integrating an infinite canvas directly into the outliner database, Logseq allows your notes to exist simultaneously as structured lists and spatial objects.
 
@@ -31,7 +31,7 @@ When you map knowledge visually, you are no longer bound by the scrollbar. An in
 
 ### Enhancing Memory and Comprehension
 
-Spatial memory is one of the most robust systems in the human brain. We easily remember the layout of a childhood home or the route to a local coffee shop. By anchoring abstract concepts to physical locations on a digital whiteboard, you leverage this innate spatial memory. When reviewing literature for an academic paper or organizing features for a software launch, placing specific notes in distinct quadrants of the canvas makes the information significantly easier to recall and manipulate.
+Spatial memory is one of the most robust systems in the human brain. We easily remember the layout of a childhood home or the route to a local coffee shop. By anchoring abstract concepts to physical locations on a digital whiteboard, you leverage this innate spatial memory. When reviewing literature for an academic paper or organizing features for a [software](/posts/best-apps-for-personal-knowledge-management/) launch, placing specific notes in distinct quadrants of the canvas makes the information significantly easier to recall and manipulate.
 
 ## Core Mechanics of Logseq Whiteboards
 
@@ -69,7 +69,7 @@ Once the basic mechanics are mastered, you can apply visual knowledge mapping to
 
 ### Mind Mapping and Concept Trees
 
-While Logseq is primarily an outliner, the whiteboard functionality allows for rapid, fluid mind mapping. Start with a central thesis in the middle of the canvas. Use the quick-add shortcut to spawn connected nodes radiating outward. Because Logseq supports markdown within whiteboard shapes, you can include tags and page references inside these nodes. This means your visual brainstorm simultaneously populates your graph database with bi-directional links, ensuring that free-form exploration still contributes to the structured integrity of your personal knowledge management system.
+While Logseq is primarily an outliner, the whiteboard functionality allows for rapid, fluid mind mapping. Start with a central thesis in the middle of the canvas. Use the quick-add shortcut to spawn connected nodes radiating outward. Because Logseq supports markdown within whiteboard shapes, you can include tags and page references inside these nodes. This means your visual brainstorm simultaneously populates your graph database with bi-directional links, ensuring that free-form exploration still contributes to the structured integrity of your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) system.
 
 ### Structuring Complex Research Projects
 

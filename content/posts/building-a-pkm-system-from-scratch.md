@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # The Ultimate Guide: Building a PKM System from Scratch
 
-> **Quick Answer:** Building a personal knowledge management (PKM) system starts with choosing a central tool like Obsidian or Notion to store your notes. Next, establish a simple capture habit to easily record ideas and information as you consume them. Finally, develop a consistent organization method, such as the PARA framework, to retrieve and connect your knowledge when you need it.
+> **Quick Answer:** Building a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system starts with choosing a central tool like Obsidian or Notion to store your notes. Next, establish a simple capture habit to easily record ideas and information as you consume them. Finally, develop a consistent organization method, such as the PARA framework, to retrieve and connect your knowledge when you need it.
 
-In an era characterized by relentless information velocity, our brains are constantly bombarded with podcasts, articles, tweets, newsletters, and books. We consume an unprecedented amount of data, yet we retain shockingly little. This is where Personal Knowledge Management (PKM) becomes not just a productivity hack, but a cognitive necessity. 
+In an era characterized by relentless information velocity, our brains are constantly bombarded with podcasts, articles, tweets, newsletters, and books. We consume an unprecedented amount of data, yet we retain shockingly little. This is where Personal Knowledge Management (PKM) becomes not just a [productivity](/posts/zettelkasten-method-explained/) hack, but a cognitive necessity. 
 
-Building a PKM system from scratch—often referred to as building a "Second Brain"—is the process of creating a trusted digital repository for your ideas, inspirations, and discoveries. It is a system designed to capture the information that matters to you and transform it into actionable knowledge and creative output.
+Building a PKM system from scratch—often referred to as building a "[Second Brain](/posts/best-apps-for-personal-knowledge-management/)"—is the process of creating a trusted digital repository for your ideas, inspirations, and discoveries. It is a system designed to capture the information that matters to you and transform it into actionable knowledge and creative output.
 
 However, a common trap is adopting someone else's rigid, overly complex system wholesale. What works for an academic researcher may be disastrous for a creative director. The true power of knowledge management unlocks only when you tailor it to the unique contours of your own mind. 
 

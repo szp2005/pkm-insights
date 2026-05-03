@@ -15,9 +15,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The most effective Tana workflows for systematic literature reviews utilize the `#paper` and `#author` supertags combined with search nodes to automatically track inclusion and exclusion criteria. By mapping the PRISMA framework into Tana's native database structure, researchers can seamlessly transition from abstract screening to full-text synthesis without losing metadata or context.
 
-Conducting a systematic literature review is one of the most demanding tasks in academic and professional research. The process requires rigorously searching, screening, evaluating, and synthesizing hundreds or even thousands of peer-reviewed papers. Historically, researchers have relied on a fragmented stack of tools—managing citations in Zotero, tracking screening decisions in massive Excel spreadsheets, and synthesizing notes in Microsoft Word or Obsidian. This fragmentation inevitably leads to lost data, broken mental contexts, and immense friction when moving from reading to writing.
+Conducting a systematic literature review is one of the most demanding tasks in academic and professional research. The process requires rigorously searching, screening, evaluating, and synthesizing hundreds or even thousands of peer-reviewed papers. Historically, researchers have relied on a fragmented stack of tools—managing citations in Zotero, tracking screening decisions in massive Excel spreadsheets, and synthesizing notes in Microsoft Word or [Obsidian](/posts/what-is-personal-knowledge-management/). This fragmentation inevitably leads to lost data, broken mental contexts, and immense friction when moving from reading to writing.
 
-Enter Tana. With its unique combination of outliner fluidity, powerful database architecture (via Supertags and fields), and AI integration, Tana has emerged as a powerhouse for researchers. Unlike traditional note-taking apps where data goes to die in rigid folders, Tana allows you to build ontological relationships. A claim made in one paper can be instantly linked to the methodology of another, while dynamic search nodes keep track of exactly how many papers are currently eligible for your final review. 
+Enter Tana. With its unique combination of outliner fluidity, powerful database architecture (via Supertags and fields), and AI integration, Tana has emerged as a powerhouse for researchers. Unlike traditional [note-taking](/posts/zettelkasten-method-explained/) apps where data goes to die in rigid folders, Tana allows you to build ontological relationships. A claim made in one paper can be instantly linked to the methodology of another, while dynamic search nodes keep track of exactly how many papers are currently eligible for your final review. 
 
 However, a tool as flexible as Tana presents a steep learning curve. Without a structured approach, your workspace can quickly devolve into a chaotic web of untagged nodes. To extract real value, you need a precise system tailored to the strict methodological requirements of academic research. In this guide, we break down the most effective Tana workflows for systematic literature reviews, examining how to architect your supertags, automate your metadata imports, and synthesize your findings efficiently.
 
@@ -64,7 +64,7 @@ While the PRISMA setup focuses heavily on the inclusion pipeline, the Zettelkast
 - Makes the actual writing phase frictionless by modularizing and pre-assembling arguments
 
 **Cons:**
-- Less focus on the rigorous, quantitative exclusion criteria needed for medical reviews
+- Less [focus](/posts/digital-decluttering-for-information-overload/) on the rigorous, quantitative exclusion criteria needed for medical reviews
 - High manual maintenance overhead to ensure all atomic notes are properly tagged and linked
 
 ### 3. [Tana AI-Assisted Data Extraction Workflow](https://www.amazon.com/s?k=Tana%20AI-Assisted%20Data%20Extraction%20Workflow&tag=pkm.notes-automate-20)

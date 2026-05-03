@@ -114,7 +114,7 @@ Invented by the staggeringly prolific German sociologist Niklas Luhmann (who pub
 
 Instead of writing long, linear book summaries that you will likely file away and never read again, extract individual, atomic ideas. Write each idea on a single "digital note" (using modern PKM tools like **Obsidian**, **Roam Research**, or **Logseq**) entirely in your own words.
 
-Crucially, **you must link these notes together**. When you capture a new concept about behavioral economics, actively link it to your existing notes on psychology, marketing, or evolutionary biology. Human memory is associative, not hierarchical. By creating a dense, interconnected web of notes, you build a "Second Brain" that mirrors the associative structure of your biological brain, making retrieval effortless and generating novel insights.
+Crucially, **you must link these notes together**. When you capture a new concept about behavioral economics, actively link it to your existing notes on psychology, marketing, or evolutionary biology. Human memory is associative, not hierarchical. By creating a dense, interconnected web of notes, you build a "[Second Brain](/posts/what-is-personal-knowledge-management/)" that mirrors the associative structure of your biological brain, making retrieval effortless and generating novel insights.
 
 ### 4. [The Two-Minute Action Rule](https://www.amazon.com/s?k=The%20Two-Minute%20Action%20Rule&tag=pkm.notes-automate-20)
 Knowledge without application is merely trivia. If you are reading for self-improvement or professional development, implement the Two-Minute Rule. 
@@ -135,7 +135,7 @@ Chronic sleep deprivation effectively destroys your brain's ability to encode ne
 ### 2. [Eradicate Context Switching](https://www.amazon.com/s?k=Eradicate%20Context%20Switching&tag=pkm.notes-automate-20)
 Reading requires the cognitive state of Deep Work. If you are reading on a digital device, ruthlessly block all notifications. If you are reading a physical book, put your smartphone in another room. 
 
-Every single time your attention is fractured by a text message or a social media alert, your cognitive load spikes. It takes an average of 23 minutes to regain deep focus after an interruption. More importantly, these micro-distractions severely compromise your brain's ability to transfer information from working memory into long-term memory.
+Every single time your attention is fractured by a text message or a social media alert, your cognitive load spikes. It takes an average of 23 minutes to regain deep [focus](/posts/digital-decluttering-for-information-overload/) after an interruption. More importantly, these micro-distractions severely compromise your brain's ability to transfer information from working memory into long-term memory.
 
 ### 3. [Read Multiple Books Concurrently (Syntopical Reading)](https://www.amazon.com/s?k=Read%20Multiple%20Books%20Concurrently%20%28Syntopical%20Reading%29&tag=pkm.notes-automate-20)
 While this seems counterintuitive to the rule of focus, reading two or three books on *related* subjects concurrently can drastically enhance memory. This is known as Syntopical Reading. 
@@ -178,5 +178,5 @@ Spaced repetition involves reviewing your reading notes at increasing intervals 
 
 - [Mastering Memory: Best Practices for Knowledge Retention](/posts/best-practices-for-knowledge-retention/)
 - [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)
-- [Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity](/posts/getting-things-done-for-knowledge-workers/)
+- [Getting Things Done for Knowledge Workers: A Masterclass in Modern [Productivity](/posts/zettelkasten-method-explained/)](/posts/getting-things-done-for-knowledge-workers/)
 - [The Transformative Benefits of a Personal Knowledge Management System](/posts/benefits-of-a-personal-knowledge-management-system/)

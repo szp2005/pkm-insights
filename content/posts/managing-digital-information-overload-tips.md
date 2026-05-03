@@ -11,7 +11,7 @@ type: "informational"
 > **Quick Answer:** Managing information overload requires transitioning from a "push" model of reactive consumption to a "pull" model of intentional architecture. By implementing ruthless digital audits, strictly batched processing, and a robust capture habit using the PARA method, you can transform the digital firehose into a curated stream that fuels deep focus and impactful work.
 
 In an era where data is generated at an unprecedented velocity, the modern professional faces a relentless barrage of emails, notifications, articles, and messages. 
- This constant stream of data has birthed a modern epidemic: digital information overload. When the cognitive demand of processing information exceeds our cognitive capacity, productivity plummets, decision fatigue sets in, and chronic stress becomes the baseline state.
+ This constant stream of data has birthed a modern epidemic: digital information overload. When the cognitive demand of processing information exceeds our cognitive capacity, [productivity](/posts/zettelkasten-method-explained/) plummets, decision fatigue sets in, and chronic stress becomes the baseline state.
 
 Managing digital information overload is no longer a soft skill; it is a critical competency for knowledge workers. This comprehensive guide provides expert, practical advice to help you transform your digital environment from a source of anxiety into an engine of focused productivity.
 
@@ -61,7 +61,7 @@ By batching, you consolidate the cognitive switching costs into defined periods,
 
 ## Strategy 3: Building a Personal Knowledge Management (PKM) System
 
-A significant portion of digital overload stems not from the information itself, but from the anxiety of trying to hold it all in your working memory. Your brain is a processor, not a hard drive. You need a reliable external system—a "Second Brain"—to store, organize, and retrieve information.
+A significant portion of digital overload stems not from the information itself, but from the anxiety of trying to hold it all in your working memory. Your brain is a processor, not a hard drive. You need a reliable external system—a "[Second Brain](/posts/what-is-personal-knowledge-management/)"—to store, organize, and retrieve information.
 
 ### The Capture Habit
 The foundation of a PKM system is a frictionless capture mechanism. When you encounter a valuable article, a brilliant idea, or a necessary task, it must be captured immediately into a trusted system.
@@ -79,7 +79,7 @@ By organizing information by its *actionability* rather than its subject matter,
 
 ## Strategy 4: Taming the Notification Beast
 
-Notifications are explicit demands for your attention, designed by software engineers to pull you back into their ecosystems. You must reclaim control over these interruptions.
+Notifications are explicit demands for your attention, designed by [software](/posts/best-apps-for-personal-knowledge-management/) engineers to pull you back into their ecosystems. You must reclaim control over these interruptions.
 
 ### Default to Off
 Change your default relationship with notifications. Instead of allowing all notifications and opting out of the annoying ones, turn *all* notifications off by default. Then, selectively opt-in only to those that are mission-critical (e.g., calendar reminders for meetings, direct messages from your manager or VIP clients).

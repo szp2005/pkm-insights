@@ -15,9 +15,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** For rigorous visual sense-making, **Heptabase** excels with its robust PDF annotation, nested whiteboards, and learning-focused architecture, making it the top choice for deep researchers. **Scrintal** provides a cleaner, highly intuitive interface with exceptional card linking and outliner capabilities, serving as the better option for visual writers and project planners who prefer friction-free mapping.
 
-The shift from linear document editing to spatial, visual sense-making has transformed how knowledge workers process complex information. When you are grappling with dozens of sources, competing concepts, and intricate connections, a standard note-taking app quickly becomes a restrictive filing cabinet. You need a canvas.
+The shift from linear document editing to spatial, visual sense-making has transformed how knowledge workers process complex information. When you are grappling with dozens of sources, competing concepts, and intricate connections, a standard [note-taking](/posts/zettelkasten-method-explained/) app quickly becomes a restrictive filing cabinet. You need a canvas.
 
-Two tools have emerged as the heavyweights in the visual personal knowledge management (PKM) space: Heptabase and Scrintal. Both offer an infinite canvas where notes become physical cards you can arrange, connect, and synthesize. However, beneath their similar whiteboard interfaces lie distinct philosophies about how we learn, organize, and output information. 
+Two [tools](/posts/personal-knowledge-management-tools-comparison/) have emerged as the heavyweights in the visual [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) space: Heptabase and Scrintal. Both offer an infinite canvas where notes become physical cards you can arrange, connect, and synthesize. However, beneath their similar whiteboard interfaces lie distinct philosophies about how we learn, organize, and output information. 
 
 This comprehensive comparison breaks down Heptabase vs Scrintal across core workflows, feature sets, and performance to help you decide which spatial environment will best support your cognitive process.
 

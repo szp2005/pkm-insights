@@ -13,17 +13,17 @@ type: "informational"
 
 > **Quick Answer:** Tana Supertags are customizable templates that apply structure, properties, and relationships to individual nodes (bullet points) within your workspace. By typing `@` followed by a tag name, you instantly inherit fields like dates, statuses, or assignees, transforming a simple text bullet into a structured database record.
 
-Tana represents a fundamental shift in personal knowledge management (PKM). Instead of relying on rigid folder hierarchies or purely text-based bi-directional links, Tana operates entirely on nodes and tags. If you have recently opened Tana and felt overwhelmed by the blank daily page, you are not alone. The power of this tool lies under the surface, specifically within its tagging architecture.
+Tana represents a fundamental shift in [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM). Instead of relying on rigid folder hierarchies or purely text-based bi-directional links, Tana operates entirely on nodes and tags. If you have recently opened Tana and felt overwhelmed by the blank daily page, you are not alone. The power of this tool lies under the surface, specifically within its tagging architecture.
 
 This Tana Supertags tutorial for beginners will walk you through the foundational concepts of Tana's object-oriented approach. By the end of this guide, you will understand how to build your own functional workspace, transitioning from chaotic plain-text notes to a highly structured, query-driven database. Supertags are the engine that makes Tana work. When you master them, you eliminate the need to manually file information away, relying instead on search and context to surface what you need, exactly when you need it.
 
 ## The Foundation: What Are Tana Supertags?
 
-At its core, every line of text in Tana is a node. In traditional note-taking apps, a bullet point is just text. In Tana, a node can act as a document, a folder, a task, or a database entry. A Supertag is what defines the behavior and structure of that node.
+At its core, every line of text in Tana is a node. In traditional [note-taking](/posts/zettelkasten-method-explained/) apps, a bullet point is just text. In Tana, a node can act as a document, a folder, a task, or a database entry. A Supertag is what defines the behavior and structure of that node.
 
 Think of a Supertag as a class in object-oriented programming, or a highly advanced template. When you assign a Supertag to a node by typing `@`, you apply a predefined set of fields and characteristics to it. For example, applying the `@person` Supertag to the name "Jane Doe" might automatically generate fields for Email, Company, and Last Contact Date. 
 
-This approach solves the primary problem of traditional database tools like Notion, where information is locked inside specific tables. In Tana, information lives anywhere—most commonly on your daily page—and the Supertag dictates how that information is formatted and retrieved. This bottom-up structure allows you to capture ideas at the speed of thought without context switching.
+This approach solves the primary problem of traditional database tools like [Notion](/posts/what-is-personal-knowledge-management/), where information is locked inside specific tables. In Tana, information lives anywhere—most commonly on your daily page—and the Supertag dictates how that information is formatted and retrieved. This bottom-up structure allows you to capture ideas at the speed of thought without context switching.
 
 ## Setting Up Your First Supertag
 
