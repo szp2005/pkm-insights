@@ -112,6 +112,8 @@ Use intermediary apps that support APIs or webhooks. Apps like Drafts or iOS Sho
 
 ## Related Reading
 
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
+
 - [Personal Knowledge Management for Independent Researchers Guide](/posts/personal-knowledge-management-for-independent-researchers/)
 
 - [Personal Knowledge Management for Independent Researchers Guide](/posts/personal-knowledge-management-for-independent-researchers/)

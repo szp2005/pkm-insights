@@ -152,6 +152,8 @@ Index notes (or Maps of Content) act as entry points into specific themes within
 
 - [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
 
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
+
 - [Evergreen Notes: Definition, Principles, and Practical Examples](/posts/evergreen-notes-definition-and-examples/)
 - [Effective Note Taking Techniques for Learning: A Comprehensive Guide](/posts/effective-note-taking-techniques-for-learning/)
 - [The PARA Method for Digital Organization: A Comprehensive Expert Guide](/posts/para-method-for-digital-organization/)

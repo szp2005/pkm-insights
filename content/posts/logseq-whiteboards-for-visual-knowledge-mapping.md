@@ -122,6 +122,8 @@ While Logseq can handle hundreds of objects on a single canvas, extremely dense 
 
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
 
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+
 - [Best Logseq Templates for Doctoral Research Students](/posts/logseq-templates-for-doctoral-research-students/)
 
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)

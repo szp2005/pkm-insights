@@ -146,3 +146,5 @@ Yes, Anytype is open source. Its codebase is publicly available, allowing develo
 ## Related Reading
 
 - [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)

@@ -179,3 +179,5 @@ Absolutely. Modern note-taking apps like Obsidian, Roam Research, Notion, Everno
 ## Related Reading
 
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)
+
+- [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)
