@@ -125,3 +125,9 @@ Tags should represent the thematic subject matter of the highlight (e.g., `#prod
 
 ### Does Capacities integrate with Zotero or Mendeley?
 While direct, native two-way sync with reference managers like Zotero is an evolving area in PKM tools, you can easily export your Zotero bibliography or notes as Markdown and import them into your Capacities "Source" objects. Many users combine Zotero for citation management with Capacities for idea synthesis.
+
+---
+
+## Related Reading
+
+- [2026年适合大学生的 7 个最佳 Capacities 模板](/posts/best-capacities-templates-for-university-students/)

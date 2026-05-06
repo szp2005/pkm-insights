@@ -39,7 +39,7 @@ Reading, highlighting, and directly extracting text from PDFs within the tool it
 
 ## Top Tools for Thought for Academics
 
-### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
+### 1. Obsidian
 
 **Best for:** Privacy-conscious academics and long-form writers
 **Price:** Free for personal use ($50/year for Sync)
@@ -60,7 +60,7 @@ For academics, Obsidian's superpower is its community plugin ecosystem. The "Zot
 - Block referencing is not as elegant as outliner tools
 - Requires paying for first-party sync or configuring a third-party workaround
 
-### 2. [Logseq](https://www.amazon.com/s?k=Logseq&tag=pkm.notes-automate-20)
+### 2. Logseq
 
 **Best for:** Outliner-driven thinkers and deep PDF annotators
 **Price:** Free (Open Source)
@@ -81,7 +81,7 @@ Logseq shines in its native PDF handling. You can upload a PDF into Logseq, high
 - Less suitable for drafting long-form prose directly
 - Mobile application remains slightly unpolished
 
-### 3. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=pkm.notes-automate-20)
+### 3. Heptabase
 
 **Best for:** Visual learners and qualitative researchers
 **Price:** $11.99/month
@@ -102,7 +102,7 @@ For academics performing literature reviews or qualitative coding, this spatial 
 - Cloud-based storage may violate some IRB data protocols
 - Smaller ecosystem of community plugins compared to Obsidian
 
-### 4. [Tana](https://www.amazon.com/s?k=Tana&tag=pkm.notes-automate-20)
+### 4. Tana
 
 **Best for:** Structured qualitative research and taxonomy building
 **Price:** $10/month
@@ -123,7 +123,7 @@ For academics, this allows for rigid tracking of literature matrices without giv
 - Steep learning curve for its proprietary ontology system
 - No native offline mode currently available
 
-### 5. [Roam Research](https://www.amazon.com/s?k=Roam%20Research&tag=pkm.notes-automate-20)
+### 5. Roam Research
 
 **Best for:** Networked daily logging and frictionless capture
 **Price:** $15/month ($8.33 for scholars)
@@ -194,3 +194,11 @@ Logseq currently offers the best native PDF annotation for synthesis. It allows 
 
 ### How do I export my networked notes into a standard manuscript?
 Most tools for thought utilize Markdown. You can easily export Markdown files to Microsoft Word (.docx) or LaTeX using a free conversion tool called Pandoc. Many academics draft the raw text and CiteKeys (e.g., [@smith2026]) in their tool for thought, then use Pandoc to process the file into a fully formatted Word document with a generated bibliography.
+
+---
+
+## Related Reading
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)

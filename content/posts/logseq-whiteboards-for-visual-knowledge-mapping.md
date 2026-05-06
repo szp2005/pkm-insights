@@ -113,3 +113,15 @@ Logseq whiteboards are fully accessible on the mobile applications (iOS and Andr
 
 ### Will placing too many elements on a whiteboard slow down Logseq?
 While Logseq can handle hundreds of objects on a single canvas, extremely dense whiteboards with high volumes of high-resolution embedded images or PDFs can cause performance dips. It is best practice to keep whiteboards focused and link between multiple smaller canvases if necessary.
+
+---
+
+## Related Reading
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+
+- [Best Logseq Templates for Doctoral Research Students](/posts/logseq-templates-for-doctoral-research-students/)
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+
+- [7 Best Logseq Themes for Long Form Writing in 2026](/posts/best-logseq-themes-for-long-form-writing/)

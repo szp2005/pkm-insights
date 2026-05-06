@@ -29,7 +29,7 @@ When looking at the two tiers side-by-side, the divergence in their target audie
 
 ## Deep Dive into the Tiers
 
-### 1. [Capacities Basic Plan](https://www.amazon.com/s?k=Capacities%20Basic%20Plan&tag=pkm.notes-automate-20)
+### 1. Capacities Basic Plan
 
 **Best for:** Students, casual note-takers, and PKM beginners
 **Price:** Free
@@ -47,7 +47,7 @@ The Capacities Basic plan stands out as one of the most generous free tiers in t
 - Severely limited customization options for object page layouts
 - No advanced task management integration or global task querying
 
-### 2. [Capacities Believer Plan](https://www.amazon.com/s?k=Capacities%20Believer%20Plan&tag=pkm.notes-automate-20)
+### 2. Capacities Believer Plan
 
 **Best for:** Power users, researchers, and professional content creators
 **Price:** $10-$12/month (billed annually)
@@ -121,3 +121,11 @@ Unlike many competing platforms that rigidly cap their free tiers at 1,000 indiv
 
 ### Is full offline mode exclusive to the Believer tier?
 Capacities relies heavily on intelligent cloud syncing for its graph architecture, utilizing local caching to prioritize speed. While full offline editing of the entire database is an ongoing development priority rather than a finished feature, foundational local caching is available to all users. Believers often receive early access to deeper offline sync capabilities as they are tested in beta.
+
+---
+
+## Related Reading
+
+- [Capacities for iPad Pro Note Taking: Complete Setup Guide](/posts/capacities-for-ipad-pro-note-taking/)
+
+- [Capacities for iPad Pro Note Taking: Complete Setup Guide](/posts/capacities-for-ipad-pro-note-taking/)

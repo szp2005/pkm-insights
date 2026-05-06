@@ -29,7 +29,7 @@ When evaluating alternatives, the core requirement is the ability to create temp
 
 ## Best Tana Alternatives Evaluated
 
-### 1. [Capacities](https://www.amazon.com/s?k=Capacities&tag=pkm.notes-automate-20)
+### 1. Capacities
 
 **Best for:** Visual thinkers and long-form writers
 **Price:** $0-$12/month
@@ -46,7 +46,7 @@ Capacities is arguably the closest spiritual successor to the object-based philo
 - Currently lacks an offline-first mode
 - Queries are not as deeply programmable as Tana's search nodes
 
-### 2. [Anytype](https://www.amazon.com/s?k=Anytype&tag=pkm.notes-automate-20)
+### 2. Anytype
 
 **Best for:** Privacy advocates and offline-first users
 **Price:** Free (open-source with paid sync tiers)
@@ -63,7 +63,7 @@ Anytype is a local-first, peer-to-peer alternative that uses a similar object-an
 - Syncing across devices requires manual setup or relying on their peer-to-peer network
 - The interface can feel overwhelming during initial setup
 
-### 3. [Fibery](https://www.amazon.com/s?k=Fibery&tag=pkm.notes-automate-20)
+### 3. Fibery
 
 **Best for:** Teams and complex workspace architecture
 **Price:** $0-$17/user/month
@@ -80,7 +80,7 @@ While Tana is currently tailored for individuals and small setups, Fibery is des
 - Too heavy and complex for simple personal note-taking
 - UI is functional but lacks the fluid elegance of modern PKMs
 
-### 4. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
+### 4. Obsidian
 
 **Best for:** Power users and developers
 **Price:** Free ($50/year for Sync)
@@ -97,7 +97,7 @@ Obsidian is fundamentally a markdown text editor, but through community plugins 
 - Requires significant time to configure and maintain
 - Not inherently object-based out of the box
 
-### 5. [Notion](https://www.amazon.com/s?k=Notion&tag=pkm.notes-automate-20)
+### 5. Notion
 
 **Best for:** Relational database beginners
 **Price:** $0-$10/month

@@ -37,13 +37,13 @@ A PKM system solves these inefficiencies by decoupling the *concept* (the legal 
 
 To effectively manage case research, a legal PKM system must be built on three foundational principles: atomicity, bidirectional linking, and deliberate capture.
 
-### 1. [Atomic Notes for Legal Concepts](https://www.amazon.com/s?k=Atomic%20Notes%20for%20Legal%20Concepts&tag=pkm.notes-automate-20)
+### 1. Atomic Notes for Legal Concepts
 In a PKM system, information is broken down into "atomic" notes—a single note focuses on one distinct idea. Instead of maintaining a 40-page master document summarizing twenty cases, you create twenty individual notes, each summarizing a single case's holding and rationale. You might create another atomic note detailing a specific legal doctrine, which then links to the twenty case notes that discuss it. This modularity allows you to reuse the exact same case summary across multiple different client matters or research memos without copying and pasting.
 
-### 2. [Bidirectional Linking](https://www.amazon.com/s?k=Bidirectional%20Linking&tag=pkm.notes-automate-20)
+### 2. Bidirectional Linking
 The defining feature of modern PKM tools is the bidirectional link. When you type `[[Smith v. Jones]]` inside a note about a new client matter, the system automatically creates a connection. If you navigate to the *Smith v. Jones* note, you will see a "backlink" showing every single client matter, memo, or conceptual note that has ever referenced that case. Over time, this creates a visual and navigable graph of your legal expertise, revealing connections between cases and arguments that you might not have explicitly recognized.
 
-### 3. [Separation of Public Fact and Private Strategy](https://www.amazon.com/s?k=Separation%20of%20Public%20Fact%20and%20Private%20Strategy&tag=pkm.notes-automate-20)
+### 3. Separation of Public Fact and Private Strategy
 For lawyers, maintaining client confidentiality is paramount. A successful legal PKM must strictly bifurcate objective legal reality (statutes, public case law, general legal principles) from confidential client strategy (attorney-client communications, specific case facts, work product). Objective knowledge can be linked and synthesized freely, creating a firm-wide or personal asset. Client-specific notes must remain siloed or be rigorously anonymized if their conceptual frameworks are to be integrated into the broader knowledge base.
 
 ## Step-by-Step: Managing Case Research Effectively

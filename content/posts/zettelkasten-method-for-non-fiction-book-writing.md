@@ -1,4 +1,5 @@
 ---
+image: "/og/zettelkasten-method-for-non-fiction-book-writing.webp"
 title: "Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide"
 description: "Learn how to use the Zettelkasten method for non-fiction book writing. Transform scattered research into a finished manuscript with this proven system."
 pubDate: "2026-05-05"
@@ -32,13 +33,13 @@ Furthermore, because these notes are linked based on thematic connections rather
 
 Before building your book, you must understand the three distinct types of notes required by the system. Mixing these types is the most common reason writers abandon the method.
 
-### 1. [Fleeting Notes](https://www.amazon.com/s?k=Fleeting%20Notes&tag=pkm.notes-automate-20)
+### 1. Fleeting Notes
 These are temporary captures. A thought you have in the shower, a statistic heard on a podcast, or a quick observation during an interview. They exist only as placeholders to remind you to process the idea later. They must be reviewed and deleted within 48 hours.
 
-### 2. [Literature Notes](https://www.amazon.com/s?k=Literature%20Notes&tag=pkm.notes-automate-20)
+### 2. Literature Notes
 These are your direct interactions with source material. When reading a book or paper, you write short summaries of the concepts you wish to keep. Crucially, these must be strictly tied to the bibliographic reference and page number, but written in your own words. 
 
-### 3. [Permanent Notes](https://www.amazon.com/s?k=Permanent%20Notes&tag=pkm.notes-automate-20)
+### 3. Permanent Notes
 This is the heart of the system and the actual text of your future book. A permanent note contains a single, fully formed idea. It must be written as if for publication, clearly explaining the concept so it can be understood by your future self without needing to reference the original source material.
 
 ## Step 1: Capture Fleeting Notes During Research
@@ -115,3 +116,17 @@ A literature note captures someone else's idea in your own words and is tied to 
 
 ### Do I need specialized software to use this method?
 No. Luhmann built his entire system using physical paper slips and wooden cabinets. Modern plain-text markdown editors are ideal because they ensure your notes remain accessible decades from now, independent of any proprietary database format.
+
+---
+
+## Related Reading
+
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)

@@ -1,4 +1,5 @@
 ---
+image: "/og/johnny-decimal-system-for-organizing-digital-files.webp"
 title: "Johnny Decimal System for Organizing Digital Files (2026 Guide)"
 description: "Learn how the Johnny Decimal system for organizing digital files eliminates folder chaos. Discover categories, numbers, and index structures that save time."
 pubDate: "2026-05-05"
@@ -24,7 +25,7 @@ This guide details exactly how to implement the Johnny Decimal system for organi
 
 The foundation of the Johnny Decimal system relies on dividing your entire digital life into structured, rigid hierarchies. The system strictly forbids creating folders inside of folders infinitely. Instead, you are limited to three distinct levels of organization: Areas, Categories, and IDs.
 
-### 1. [The Area (Tens)](https://www.amazon.com/s?k=The%20Area%20%28Tens%29&tag=pkm.notes-automate-20)
+### 1. The Area (Tens)
 Your entire file system is divided into a maximum of 10 broad areas. These are assigned numbers in blocks of ten, starting from `00-09` up to `90-99`. 
 
 `00-09` is universally reserved for system management and the index itself. The remaining nine blocks are for your actual data.
@@ -35,7 +36,7 @@ Examples of Areas:
 *   `30-39`: Client Projects
 *   `40-49`: Content Creation
 
-### 2. [The Category (Singles)](https://www.amazon.com/s?k=The%20Category%20%28Singles%29&tag=pkm.notes-automate-20)
+### 2. The Category (Singles)
 Within each Area, you have 10 available Categories. If your Area is `20-29 Financial and Legal`, your categories are the individual numbers within that block (`20`, `21`, `22`... up to `29`). 
 
 Examples of Categories within `20-29 Financial and Legal`:
@@ -44,7 +45,7 @@ Examples of Categories within `20-29 Financial and Legal`:
 *   `23`: Insurance Policies
 *   `24`: Investment Accounts
 
-### 3. [The ID (Decimals)](https://www.amazon.com/s?k=The%20ID%20%28Decimals%29&tag=pkm.notes-automate-20)
+### 3. The ID (Decimals)
 The ID is where the actual files live. Every specific entity, project, or discrete bundle of files gets a unique ID appended to the Category number using a decimal point, starting at `.01` and ending at `.99`.
 
 Examples of IDs within `22 Annual Tax Returns`:
@@ -189,3 +190,13 @@ Yes, but it requires strict onboarding. One person must act as the "Librarian" w
 
 ### Should I keep my inbox folder inside the Johnny Decimal structure?
 No. Your Inbox, Downloads folder, and temporary scratchpads should exist outside of the numbered system. Files only receive a Johnny Decimal number when they are processed, finalized, and officially filed away into your permanent storage structure.
+
+---
+
+## Related Reading
+
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
+
+- [Using the PARA Method in Google Drive: Complete 2026 Setup Guide](/posts/using-the-para-method-in-google-drive/)
+
+- [Using the PARA Method in Google Drive: Complete 2026 Setup Guide](/posts/using-the-para-method-in-google-drive/)

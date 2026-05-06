@@ -80,19 +80,19 @@ Tools utilizing these models can auto-generate relevant tags, identify orphaned 
 
 To successfully integrate AI into your data management workflow, avoid the trap of attempting to automate every process simultaneously. Begin with the highest-friction areas and systematically expand your automated perimeter.
 
-### 1. [Implement Ruthless Inbox Categorization](https://www.amazon.com/s?k=Implement%20Ruthless%20Inbox%20Categorization&tag=pkm.notes-automate-20)
+### 1. Implement Ruthless Inbox Categorization
 Start by deploying a tool that strictly categorizes your email based on semantic rules. Establish a baseline where the AI filters out 100% of promotional, newsletter, and automated informational content into a batch-processed folder. Restrict your primary inbox view exclusively to direct human-to-human communications and tagged high-priority automated alerts. Review the batch folder only once per week.
 
-### 2. [Establish a Mandatory Reading Funnel](https://www.amazon.com/s?k=Establish%20a%20Mandatory%20Reading%20Funnel&tag=pkm.notes-automate-20)
+### 2. Establish a Mandatory Reading Funnel
 Never read long-form content raw without a preliminary scan. Route all articles, PDFs, and reports to an AI summarizer first. Set a strict threshold: if the summary indicates the content contains novel, high-value data that directly impacts your current objectives, proceed to read the full text. If the summary reveals redundant information, archive the summary for future searchability and discard the original document.
 
-### 3. [Adopt Semantic, Unstructured Notetaking](https://www.amazon.com/s?k=Adopt%20Semantic%2C%20Unstructured%20Notetaking&tag=pkm.notes-automate-20)
+### 3. Adopt Semantic, Unstructured Notetaking
 Migrate your raw notes to a platform that natively supports vector search and AI linking. Stop spending administrative time rigidly organizing hierarchical folders and obsessing over perfect tagging schemas. Instead, focus entirely on writing clear, atomic notes (one concept per note) and rely on the AI's semantic retrieval capabilities to find and link the information when required.
 
-### 4. [Define Strict Constraints for Distillation Prompts](https://www.amazon.com/s?k=Define%20Strict%20Constraints%20for%20Distillation%20Prompts&tag=pkm.notes-automate-20)
+### 4. Define Strict Constraints for Distillation Prompts
 When using generative AI for summarization, utilize highly specific constraints. A prompt like "Summarize this article" yields generic, low-value results. Use structured frameworks such as: "Extract the three primary statistical claims, detail the exact methodologies utilized, and list the actionable conclusions in a bulleted format." Precise inputs generate precise intelligence.
 
-### 5. [Schedule Monthly Automation Audits](https://www.amazon.com/s?k=Schedule%20Monthly%20Automation%20Audits&tag=pkm.notes-automate-20)
+### 5. Schedule Monthly Automation Audits
 AI systems require periodic calibration. Once a month, schedule 30 minutes to review the AI's filtering and summarization decisions. Correct any false positives (e.g., an important client email mistakenly routed to the digest folder) and refine your standard summarization prompts to ensure the output remains highly aligned with your evolving operational needs.
 
 ## Conclusion
@@ -119,6 +119,10 @@ No, AI cannot replace the deep, structural comprehension required for complex te
 ---
 
 ## Related Reading
+
+- [Tana API for Developers: Complete Integration Guide 2026](/posts/tana-api-for-developers-integration-guide/)
+
+- [Tana API for Developers: Complete Integration Guide 2026](/posts/tana-api-for-developers-integration-guide/)
 
 - [Self-Healing Knowledge Base Principles: Complete Guide to Automation](/posts/self-healing-knowledge-base-principles/)
 

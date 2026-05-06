@@ -80,17 +80,17 @@ _作为亚马逊联盟成员，我们从符合条件的购买中赚取收益。�
 
 虽然你使用的工具（Obsidian、Logseq 等）将决定具体的语法，但原子笔记的结构原则仍然普遍适用。
 
-### 1. [标准化你的元数据 (Frontmatter)](https://www.amazon.com/s?k=Standardize%20Your%20Metadata%20%28Frontmatter%29&tag=pkm.notes-automate-20)
+### 1. 标准化你的元数据 (Frontmatter)
 
 使用 YAML frontmatter（正如本文顶部所演示的那样）对于在你的数据库扩展到数千条笔记时进行查询和组织至关重要。
 *   **别名 (Aliases)：** 在你的 frontmatter 中使用 `aliases` 数组。这允许你使用不同的措辞链接到该笔记。对于一条标题为“复利驱动指数增长”的笔记，别名可能是“复利”。
 *   **标签 vs. 链接：** 谨慎使用标签。标签用于广泛的分类（例如，`#book-notes`，`#drafts`，`#status/in-progress`）。链接用于概念上的关系。绝不要使用标签来代替明确的、上下文相关的链接。
 
-### 2. [拥抱“卡片盒 (Slip-box)”心态](https://www.amazon.com/s?k=Embrace%20the%20%22Slip-box%22%20Mentality&tag=pkm.notes-automate-20)
+### 2. 拥抱“卡片盒 (Slip-box)”心态
 
 不要试图将僵化的文件夹结构强加于你的原子笔记。文件夹会制造孤岛，并迫使一个想法只存在于一个地方。在现实中，一个好的想法同时属于多个语境。让你的笔记存放在一个扁平的目录中（或者一个单一的“Zettelkasten”文件夹中），并依赖链接和 MOCs（内容地图）来提供结构。
 
-### 3. [内容地图 (MOCs)](https://www.amazon.com/s?k=Maps%20of%20Content%20%28MOCs%29&tag=pkm.notes-automate-20)
+### 3. 内容地图 (MOCs)
 
 当你积累了数百条原子笔记时，你将需要一种方法来导航它们。引入内容地图 (MOC)。MOC 简单来说就是一条包含指向其他笔记链接的笔记，并以逻辑结构进行组织。它充当特定主题的自定义索引或目录。
 *   当你注意到你有 10-15 条围绕“领导力”主题的原子笔记时，创建一个“领导力 MOC”。
@@ -122,11 +122,11 @@ _作为亚马逊联盟成员，我们从符合条件的购买中赚取收益。�
 
 写原子笔记是一项投资。真正的 ROI（投资回报率）会在数月或数年后显现，当你利用该系统产生输出时。
 
-### 1. [间隔重复与意外发现](https://www.amazon.com/s?k=Spaced%20Repetition%20and%20Serendipity&tag=pkm.notes-automate-20)
+### 1. 间隔重复与意外发现
 
 你的 PKM 工具应该促进与旧笔记的意外相遇。许多工具都有“随机笔记”功能。养成每天点击此按钮的习惯。当一条旧的原子笔记浮现时，阅读它，完善它的措辞，并明确寻找一种将其与你当前正在从事的项目联系起来的方法。这种积极的互动防止你的系统变成一个停滞的档案馆。
 
-### 2. [自下而上的大纲编制](https://www.amazon.com/s?k=Bottom-Up%20Outlining&tag=pkm.notes-automate-20)
+### 2. 自下而上的大纲编制
 
 当需要写一篇文章、一篇散文或一本书时，不要从一张白纸和自上而下的大纲开始。自下而上地开始。 
 1. 打开相关的 MOCs 或查询你的标签。
@@ -134,7 +134,7 @@ _作为亚马逊联盟成员，我们从符合条件的购买中赚取收益。�
 3. 将这些笔记排列成符合逻辑的顺序。 
 4. 大纲实际上是自己写出来的。你的工作不再是从零开始生成想法，而仅仅是将你已经精心制作和审查过的高质量想法拼接在一起。
 
-### 3. [创造的反馈循环](https://www.amazon.com/s?k=The%20Feedback%20Loop%20of%20Creation&tag=pkm.notes-automate-20)
+### 3. 创造的反馈循环
 
 Zettelkasten 不是一条单行道。当你发表一篇源自你的原子笔记的文章（如博客文章或时事通讯）时，你收到的反馈——以及你通过发表行为获得的新见解——应该作为新的原子笔记反馈到系统中。这创造了一个不断智力增长的无限循环。
 
@@ -175,3 +175,11 @@ Zettelkasten 不是一条单行道。当你发表一篇源自你的原子笔记�
 - [什么是个人知识管理 (PKM)？构建你的第二大脑的终极指南](/zh-cn/posts/what-is-personal-knowledge-management/)
 - [精通记忆：知识保留的最佳实践](/zh-cn/posts/best-practices-for-knowledge-retention/)
 留的最佳实践](/zh-cn/posts/best-practices-for-knowledge-retention/)
+
+---
+
+## Related Reading
+
+- [Bi-Directional Linking for Creative Writing Workflows: Complete Guide](/posts/bi-directional-linking-for-creative-writing-workflows/)
+
+- [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

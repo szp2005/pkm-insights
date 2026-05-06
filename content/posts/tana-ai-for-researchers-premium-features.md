@@ -107,3 +107,11 @@ Yes. You can build a custom AI command that takes a standard `#paper` node conta
 
 ### Is my unpublished research data used to train Tana's AI models?
 Tana has established strict data privacy policies, especially for premium and enterprise users. Data processed through their official API integrations with providers like OpenAI is typically excluded from being used for underlying model training, ensuring that your pre-published findings remain confidential. Always verify the current terms of service for specific model routing.
+
+---
+
+## Related Reading
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)

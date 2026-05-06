@@ -31,7 +31,7 @@ Arivu 的运作基于语义综合的原则。它主要作为一个主动收集�
 
 ## 产品分解
 
-### 1. [Readwise](https://www.amazon.com/s?k=Readwise&tag=pkm.notes-automate-20)
+### 1. Readwise
 
 **最适合：** 狂热的阅读者、研究人员，以及深度使用 Obsidian 或 Notion 等成熟笔记工具的用户。
 **价格：** $4.49-$7.99/月
@@ -50,7 +50,7 @@ Readwise 花费了数年时间构建了 PKM 领域最强大的集成生态系统
 - 核心仪表板的用户界面感觉有些过时
 - 需要更高的订阅套餐才能使用笔记导出集成功能
 
-### 2. [Arivu](https://www.amazon.com/s?k=Arivu&tag=pkm.notes-automate-20)
+### 2. Arivu
 
 **最适合：** 网页研究人员、分析师，以及希望 AI 承担总结和整理链接等繁重工作的用户。
 **价格：** $0-$10/月
@@ -139,3 +139,21 @@ Arivu 允许数据导出，但它的价值主张是让你留在其生态系统�
 
 - [2026年最佳个人知识管理应用：构建你的终极第二大脑](/zh-cn/posts/best-apps-for-personal-knowledge-management/)
 - [构建第二大脑提升生产力的步骤：6步指南](/zh-cn/posts/steps-to-building-a-second-brain-for-productivity/)
+
+---
+
+## Related Reading
+
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
+
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
+
+- [Tana vs Roam Research for Power Users: Which Is Better in 2026?](/posts/tana-vs-roam-research-for-power-users/)
+
+- [Tana vs Roam Research for Power Users: Which Is Better in 2026?](/posts/tana-vs-roam-research-for-power-users/)
+
+- [Building a Second Brain for Fiction Authors: 5-Step Guide](/posts/building-a-second-brain-for-fiction-authors/)
+
+- [Building a Second Brain for Fiction Authors: 5-Step Guide](/posts/building-a-second-brain-for-fiction-authors/)
+
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

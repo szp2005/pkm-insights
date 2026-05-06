@@ -70,7 +70,7 @@ These operations transform a passive repository into a functional personal datab
 
 Transitioning from a flat text system to a semantic knowledge base requires a systematic approach. Do not attempt to refactor thousands of notes in a single weekend. Implement your semantic layer incrementally.
 
-### 1. [Define Your Core Entity Types](https://www.amazon.com/s?k=Define%20Your%20Core%20Entity%20Types&tag=pkm.notes-automate-20)
+### 1. Define Your Core Entity Types
 Begin by identifying the fundamental categories of information you manage. Most knowledge workers operate with 5 to 10 primary entity types. Common examples include:
 - `Person`
 - `Organization`
@@ -79,7 +79,7 @@ Begin by identifying the fundamental categories of information you manage. Most 
 - `Concept` (Evergreen notes, atomic ideas)
 - `Meeting` (Daily notes, event logs)
 
-### 2. [Standardize Your Properties](https://www.amazon.com/s?k=Standardize%20Your%20Properties&tag=pkm.notes-automate-20)
+### 2. Standardize Your Properties
 For each entity type, define a strict template of required and optional properties. For a `Project` entity, your schema might look like this:
 - `type`: project (required)
 - `status`: [active, paused, completed] (required)
@@ -89,13 +89,13 @@ For each entity type, define a strict template of required and optional properti
 
 Document this schema in a central note so you have a reference guide when creating new entries.
 
-### 3. [Implement Templates](https://www.amazon.com/s?k=Implement%20Templates&tag=pkm.notes-automate-20)
+### 3. Implement Templates
 Leverage the templating engine in your PKM tool (such as Templater in Obsidian) to automatically generate the correct YAML frontmatter whenever you create a new note of a specific type. This eliminates friction and ensures consistent metadata entry. If you create a new `Person` note, the template should automatically insert empty fields for `company`, `role`, and `email`, prompting you to fill them in.
 
-### 4. [Build Dynamic Dashboards](https://www.amazon.com/s?k=Build%20Dynamic%20Dashboards&tag=pkm.notes-automate-20)
+### 4. Build Dynamic Dashboards
 Create central Map of Content (MoC) notes that utilize queries to aggregate your structured data. Build a "Project Dashboard" that runs a query looking for `type: project` and `status: active`. As you create new project notes and tag them with the correct semantic metadata, they will automatically populate on your dashboard without any manual linking required.
 
-### 5. [Audit and Refactor Iteratively](https://www.amazon.com/s?k=Audit%20and%20Refactor%20Iteratively&tag=pkm.notes-automate-20)
+### 5. Audit and Refactor Iteratively
 Do not bulk-edit your old notes. Instead, apply the semantic layer to all new notes moving forward. For your historical notes, update their metadata only when you naturally stumble upon them during your work. Over time, the most critical nodes in your graph will organically acquire the necessary semantic structure, while low-value, obsolete notes remain unindexed.
 
 ## The Future of Networked Thought

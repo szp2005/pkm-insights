@@ -38,24 +38,24 @@ Luhmann didn't see his slip-box as a mere storage container. He considered it a 
 
 The magic of the Zettelkasten doesn't lie in the software or the index cards you choose, but in the strict adherence to its underlying philosophy. To successfully implement this method, you must master its four core principles.
 
-### 1. [The Principle of Atomicity](https://www.amazon.com/s?k=The%20Principle%20of%20Atomicity&tag=pkm.notes-automate-20)
+### 1. The Principle of Atomicity
 In a traditional notebook, you might dedicate a single page to all your thoughts on a specific book or a broad lecture. The Zettelkasten demands the opposite. 
 
 **Atomicity** means that every note (or "Zettel") must contain one, and only one, core idea. 
 
 If a note contains multiple concepts, it becomes difficult to link to specific parts of it later. By keeping notes atomic, they become modular building blocks. You can reconfigure, shuffle, and connect these singular ideas in countless ways across different contexts. A note about "The impact of compound interest" can be linked just as easily to a note about "Habit formation" as it can to a note about "Financial independence."
 
-### 2. [The Principle of Autonomy](https://www.amazon.com/s?k=The%20Principle%20of%20Autonomy&tag=pkm.notes-automate-20)
+### 2. The Principle of Autonomy
 An atomic note must also be autonomous. This means the note should make perfect sense on its own, even if you read it out of its original context ten years from now. 
 
 You should avoid writing notes like, *"The author says this is true because of the study mentioned in chapter 4."* Instead, summarize the study's finding explicitly and concisely in your own words. An autonomous note doesn't rely on your fragile short-term memory of the source material.
 
-### 3. [Always Use Your Own Words](https://www.amazon.com/s?k=Always%20Use%20Your%20Own%20Words&tag=pkm.notes-automate-20)
+### 3. Always Use Your Own Words
 Perhaps the most common trap in modern note-taking is the illusion of competence created by copying and pasting or aggressively highlighting text. 
 
 The Zettelkasten method insists that you translate information into your own vocabulary. When you force yourself to articulate a concept in your own words, you are testing your comprehension. If you cannot summarize a paragraph simply, you haven't understood it. This process of translation is the critical step where mere *information* is synthesized into actual *knowledge*.
 
-### 4. [Relentless Linking](https://www.amazon.com/s?k=Relentless%20Linking&tag=pkm.notes-automate-20)
+### 4. Relentless Linking
 A Zettelkasten without links is just a disorganized pile of facts. The true power of the system emerges from the network effects created by connecting notes. 
 
 Whenever you add a new note to your slip-box, you must ask yourself:
@@ -71,17 +71,17 @@ Linking creates neural pathways within your digital brain. Over time, clusters o
 
 Luhmann's system managed the flow of information through a rigorous funnel. Not every passing thought deserves a permanent place in your slip-box. The method categorizes notes into three distinct types:
 
-### 1. [Fleeting Notes](https://www.amazon.com/s?k=Fleeting%20Notes&tag=pkm.notes-automate-20)
+### 1. Fleeting Notes
 These are the raw, unrefined thoughts that pop into your head while you are reading, walking, or showering. They are temporary placeholders. 
 
 You can capture fleeting notes anywhere—a physical pocket notebook, a quick voice memo, or an app like Drafts or Apple Notes. The only rule for fleeting notes is that they must be processed within a day or two. If left untouched, the context will evaporate, and they will become meaningless noise.
 
-### 2. [Literature Notes](https://www.amazon.com/s?k=Literature%20Notes&tag=pkm.notes-automate-20)
+### 2. Literature Notes
 When you are actively consuming a piece of content (a book, an article, a research paper), you take literature notes. 
 
 These are brief, bulleted summaries of the key arguments or data points the author is making. They should be heavily condensed and always written in your own words. It is crucial to keep bibliographic information attached to these notes so you can find the source later. Literature notes serve as the stepping stones to the final, most important type of note.
 
-### 3. [Permanent Notes (Zettels)](https://www.amazon.com/s?k=Permanent%20Notes%20%28Zettels%29&tag=pkm.notes-automate-20)
+### 3. Permanent Notes (Zettels)
 Permanent notes are the lifeblood of the Zettelkasten. They are the refined, atomic, autonomous ideas that you extract from your literature notes and fleeting thoughts. 
 
 Creating a permanent note is a deliberate act of thinking. You sit down with your literature notes, review them, and extract the singular ideas that are relevant to your own interests and projects. You write these out clearly, link them to existing permanent notes in your system, and then file them away. 
@@ -128,16 +128,16 @@ An MOC is simply a note that serves as a dashboard or table of contents for a br
 
 Even with a clear understanding of the principles, beginners often fall into specific traps. Here is how to navigate the most common pitfalls:
 
-### 1. [The Collector's Fallacy](https://www.amazon.com/s?k=The%20Collector%27s%20Fallacy&tag=pkm.notes-automate-20)
+### 1. The Collector's Fallacy
 Many people mistake hoarding information for building knowledge. They clip hundreds of web articles into their system without ever processing them into permanent notes. **Your Zettelkasten is not an archive; it is a thinking tool.** Do not store raw information in your slip-box. Only store the atomic ideas you have personally processed and understood.
 
-### 2. [Over-structuring Top-Down](https://www.amazon.com/s?k=Over-structuring%20Top-Down&tag=pkm.notes-automate-20)
+### 2. Over-structuring Top-Down
 Do not try to build a perfect hierarchy of folders before you start taking notes. The Zettelkasten is a bottom-up system. Structure should emerge organically from the connections between notes over time. Rely on links and tags, not rigid folders.
 
-### 3. [Ignoring the Linking Process](https://www.amazon.com/s?k=Ignoring%20the%20Linking%20Process&tag=pkm.notes-automate-20)
+### 3. Ignoring the Linking Process
 Writing atomic notes without linking them defeats the entire purpose of the method. If an idea is orphaned in your system without any connections, it is functionally lost. Force yourself to find at least one connection for every new note you create.
 
-### 4. [Perfectionism](https://www.amazon.com/s?k=Perfectionism&tag=pkm.notes-automate-20)
+### 4. Perfectionism
 Your first few dozen notes will likely be messy, too long, or poorly linked. That is entirely normal. The Zettelkasten is a forgiving system. As it grows, the sheer volume of connections will drown out early imperfections. Focus on consistency rather than perfection.
 
 ---

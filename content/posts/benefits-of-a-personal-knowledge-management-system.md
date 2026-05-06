@@ -129,6 +129,10 @@ While the initial setup requires discipline, the system becomes more valuable an
 
 ## Related Reading
 
+- [Structuring Complex Research Projects in Logseq: A Complete Guide](/posts/structuring-complex-research-projects-in-logseq/)
+
+- [Structuring Complex Research Projects in Logseq: A Complete Guide](/posts/structuring-complex-research-projects-in-logseq/)
+
 - [The Ultimate Guide to Personal Information Management System Setup](/posts/personal-information-management-system-setup/)
 - [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

@@ -33,7 +33,7 @@ Logseq operates on an outliner model where the foundational unit is the "block" 
 
 While Logseq is powerful, the academic PKM landscape features several compelling options. Here is how the top [software](/posts/best-apps-for-personal-knowledge-management/) stacks up specifically for conducting rigorous literature reviews.
 
-### 1. [Logseq](https://www.amazon.com/s?k=Logseq&tag=pkm.notes-automate-20)
+### 1. Logseq
 
 **Best for:** Academics needing deep synthesis, built-in PDF annotation, and block-level citations
 **Price:** Free
@@ -52,7 +52,7 @@ Logseq is an open-source, local-first outliner that stores your data in plain Ma
 - Mobile application can be sluggish with very large graphs
 - Outliner format is not ideal for final long-form writing and export
 
-### 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
+### 2. Obsidian
 
 **Best for:** Researchers who prefer flat Markdown files, long-form writing, and extensive customization
 **Price:** Free (Sync is $48/year)
@@ -70,7 +70,7 @@ Obsidian is the heavyweight champion of local Markdown notes. Unlike Logseq's ou
 - Requires significant upfront configuration and plugin management for PDF/Zotero workflows
 - Block-referencing exists but is clunkier than Logseq's native block architecture
 
-### 3. [Roam Research](https://www.amazon.com/s?k=Roam%20Research&tag=pkm.notes-automate-20)
+### 3. Roam Research
 
 **Best for:** Academics who want a hosted outliner without local file management
 **Price:** $165/year
@@ -88,7 +88,7 @@ Roam Research pioneered the modern block-based outliner. It operates very simila
 - Cloud-only architecture raises data privacy concerns for sensitive research
 - Lacks native PDF annotation tools and direct citation manager integrations
 
-### 4. [Notion](https://www.amazon.com/s?k=Notion&tag=pkm.notes-automate-20)
+### 4. Notion
 
 **Best for:** Collaborative research teams and database-driven literature tracking
 **Price:** Free - $12/month
@@ -134,7 +134,7 @@ By tagging the block rather than the document, you are preparing your graph for 
 
 To prevent your Logseq graph from becoming a chaotic web of unlinked pages, you need structural discipline. Here are the practical parameters for setting up your literature review architecture.
 
-### 1. [Utilize Page Properties](https://www.amazon.com/s?k=Utilize%20Page%20Properties&tag=pkm.notes-automate-20)
+### 1. Utilize Page Properties
 Every paper you import should have a standardized set of page properties at the top block. This enables powerful Datalog queries later. Use this template:
 - `type:: [[literature]]`
 - `status:: [[to-read]]` or `[[annotated]]`
@@ -142,7 +142,7 @@ Every paper you import should have a standardized set of page properties at the 
 - `authors:: [[John Smith]], [[Jane Doe]]`
 - `year:: 2025`
 
-### 2. [The Power of Queries](https://www.amazon.com/s?k=The%20Power%20of%20Queries&tag=pkm.notes-automate-20)
+### 2. The Power of Queries
 When it is time to write the literature review, you do not need to hunt for your notes. You use Logseq's query function to gather them for you. 
 
 If you are writing a section on latency issues in machine learning published after 2023, you can write a simple Logseq query:
@@ -150,10 +150,10 @@ If you are writing a section on latency issues in machine learning published aft
 
 Logseq will instantly pull every individual highlighted block and note that meets these criteria, aggregating them into a single view. You can then drag and drop these blocks into a logical outline, which becomes the skeleton of your manuscript.
 
-### 3. [Keep Namespaces Flat](https://www.amazon.com/s?k=Keep%20Namespaces%20Flat&tag=pkm.notes-automate-20)
+### 3. Keep Namespaces Flat
 Avoid deep folder-like namespaces (e.g., `[[University/PhD/LitReview/MachineLearning/Paper1]]`). The strength of a graph database is lateral connection. Use tags and properties to organize dynamically rather than forcing papers into rigid hierarchical paths.
 
-### 4. [Exporting Your Work](https://www.amazon.com/s?k=Exporting%20Your%20Work&tag=pkm.notes-automate-20)
+### 4. Exporting Your Work
 Logseq is an outliner, meaning it exports text as bulleted lists. When your literature review outline is complete, you will need to transition to a word processor or LaTeX editor to draft the prose. You can export a Logseq page as standard Markdown. Tools like Pandoc can then convert this Markdown directly into a heavily formatted `.docx` or `.pdf` file, complete with your citation keys.
 
 ## Conclusion

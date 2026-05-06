@@ -31,7 +31,7 @@ This architecture provides three massive benefits: immediate load times (because
 
 ## Core Contenders Reviewed
 
-### 1. [Anytype](https://www.amazon.com/s?k=Anytype&tag=pkm.notes-automate-20)
+### 1. Anytype
 
 **Best for:** Privacy advocates, tech-savvy users, and offline-heavy workflows
 **Price:** Free (Self-hosted/Local) - $99/year (Any-Sync Cloud)
@@ -52,7 +52,7 @@ Because it operates locally, Anytype is blazingly fast. Searching through thousa
 - Lack of a web version (requires installing local apps on all devices)
 - UI can occasionally feel spartan compared to consumer-focused apps
 
-### 2. [Capacities](https://www.amazon.com/s?k=Capacities&tag=pkm.notes-automate-20)
+### 2. Capacities
 
 **Best for:** Visual thinkers, Notion transplants, and structured knowledge builders
 **Price:** Free - $10/month (Capacities Pro)
@@ -144,3 +144,9 @@ Yes, both tools prioritize your ability to leave. Anytype allows you to export y
 
 ### Which is better for daily journaling?
 Capacities is generally better for daily journaling out of the box. Its central "Calendar" feature acts as a daily hub, allowing you to seamlessly intertwine daily reflections with tasks and objects created on that specific day. Anytype can facilitate journaling via custom object types and sets, but requires more manual setup to replicate Capacities' fluid daily timeline.
+
+---
+
+## Related Reading
+
+- [How to Master Linking Related Concepts in Capacities Objects: 5-Step Guide](/posts/linking-related-concepts-in-capacities-objects/)

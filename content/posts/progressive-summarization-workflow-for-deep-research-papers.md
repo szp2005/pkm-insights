@@ -107,6 +107,10 @@ This is a normal part of the process. If you reach Layer 2 and realize the quote
 
 ## Related Reading
 
+- [Building Research Ontologies in Capacities App: Complete Guide](/posts/building-research-ontologies-in-capacities-app/)
+
+- [Building Research Ontologies in Capacities App: Complete Guide](/posts/building-research-ontologies-in-capacities-app/)
+
 - [How to Set Up Personal Knowledge Management for Product Managers: 5-Step Guide](/posts/personal-knowledge-management-for-product-managers-tutorial/)
 
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

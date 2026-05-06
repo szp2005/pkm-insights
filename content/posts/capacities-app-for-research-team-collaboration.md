@@ -154,3 +154,11 @@ Yes, Capacities has an API that allows teams to build custom integrations. Resea
 
 ### Is data stored in Capacities secure enough for proprietary research?
 Capacities uses standard encryption in transit and at rest, but it currently relies on cloud storage. Teams handling highly sensitive, classified, or heavily regulated data (like strict HIPAA environments) should review the specific compliance documentation, as local-only or on-premise hosting is not the default setup.
+
+---
+
+## Related Reading
+
+- [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)
+
+- [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)

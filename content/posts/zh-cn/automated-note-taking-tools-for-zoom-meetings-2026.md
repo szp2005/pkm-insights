@@ -156,3 +156,9 @@ Supernormal可以将您的笔记专门格式化为标准操作程序（SOP）、
 
 - [Anytype vs Obsidian：最佳本地优先知识管理工具？](/zh-cn/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise信息捕获：哪个更好？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
+
+---
+
+## Related Reading
+
+- [Tana Commands for Automated Data Processing: Complete Guide](/posts/tana-commands-for-automated-data-processing/)

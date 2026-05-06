@@ -138,3 +138,11 @@ Capacities offers robust export options. You can export your entire workspace, i
 
 ### How does the search function perform with image-heavy databases?
 The search function is highly efficient because it indexes the text, tags, and properties associated with your image objects. While it does not perform optical character recognition (OCR) or visual similarity search on the image pixels themselves, searching for the metadata, tags, and linked concepts you applied to the image yields instantaneous and accurate results.
+
+---
+
+## Related Reading
+
+- [How to Master Linking Related Concepts in Capacities Objects: 5-Step Guide](/posts/linking-related-concepts-in-capacities-objects/)
+
+- [Capacities Review for Personal Research Management in 2026](/posts/capacities-review-for-personal-research-management/)

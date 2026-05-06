@@ -148,5 +148,9 @@ The Zettelkasten (slip-box) method is a decentralized note-taking system focused
 
 ## Related Reading
 
+- [Map of Content Obsidian Tutorial for Beginners: 5-Step Guide](/posts/map-of-content-obsidian-tutorial-for-beginners/)
+
+- [Map of Content Obsidian Tutorial for Beginners: 5-Step Guide](/posts/map-of-content-obsidian-tutorial-for-beginners/)
+
 - [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)
 - [How to use MOCs in Obsidian for organization: 5-Step Guide](/posts/how-to-use-mocs-in-obsidian-for-organization/)

@@ -1,4 +1,5 @@
 ---
+image: "/og/personal-knowledge-management-for-independent-researchers.webp"
 title: "Personal Knowledge Management for Independent Researchers Guide"
 description: "Discover how to build effective personal knowledge management for independent researchers. Learn workflows, tools, and systems to organize your research data."
 pubDate: "2026-05-05"
@@ -137,3 +138,13 @@ Follow the 3-2-1 backup strategy: maintain three copies of your data, on two dif
 
 ### Can I migrate my existing notes to a new PKM tool?
 Yes, provided your current notes are in a standard format. If you currently use Evernote or Notion, you will need to use an export tool to convert your data to markdown format first. Once converted to plain markdown, tools like Obsidian or Logseq can read the files immediately without a complex import process.
+
+---
+
+## Related Reading
+
+- [Tana Workflows for Systematic Literature Reviews: Complete Guide](/posts/tana-workflows-for-systematic-literature-reviews/)
+
+- [Tana Workflows for Systematic Literature Reviews: Complete Guide](/posts/tana-workflows-for-systematic-literature-reviews/)
+
+- [Tana Commands for Automated Data Processing: Complete Guide](/posts/tana-commands-for-automated-data-processing/)

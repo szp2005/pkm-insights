@@ -182,3 +182,9 @@ If using Logseq Sync, the system will merge the edits chronologically based on t
 
 ### Can I sync Logseq configuration plugins and themes across devices?
 Yes, but you must ensure your sync architecture includes the `.logseq` folder (specifically the `plugins` and `settings` subdirectories). Note that iOS does not support custom plugins due to Apple's app store policies regarding execution of external code, so syncing plugins to an iPhone will have no functional effect.
+
+---
+
+## Related Reading
+
+- [Logseq vs Heptabase: Which Is Better for Visual Learners?](/posts/logseq-vs-heptabase-for-visual-learners/)

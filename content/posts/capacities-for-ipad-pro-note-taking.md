@@ -132,3 +132,11 @@ While bulk importing is best handled on a desktop computer for efficiency and er
 
 ### Is the iPad version of Capacities missing any major desktop features?
 The iPad application is exceptionally feature-rich and achieves near-parity with the web and desktop versions. You can create objects, manage properties, view graphs, and utilize the command palette. The main differences are purely ergonomic, relating to screen real estate and the touch-first navigation paradigm.
+
+---
+
+## Related Reading
+
+- [Capacities Believer Plan vs Basic Comparison: Which is Best?](/posts/capacities-believer-plan-vs-basic-comparison/)
+
+- [Capacities Believer Plan vs Basic Comparison: Which is Best?](/posts/capacities-believer-plan-vs-basic-comparison/)

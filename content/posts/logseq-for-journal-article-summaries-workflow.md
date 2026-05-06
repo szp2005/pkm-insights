@@ -134,3 +134,9 @@ Logseq is not a reference manager and should not be used to format your final bi
 
 ### Does Logseq support mobile PDF annotation for journal articles?
 While Logseq's mobile applications support opening PDFs and viewing existing block references, executing deep, split-pane annotation [workflows](/posts/getting-things-done-for-knowledge-workers/) on a smartphone is highly inefficient due to screen size constraints. The mobile app is best utilized for querying existing summaries and capturing rapid text notes, leaving heavy PDF processing to desktop or tablet environments.
+
+---
+
+## Related Reading
+
+- [Best Logseq Plugins for Scientific Research Efficiency in 2026](/posts/logseq-plugins-for-scientific-research-efficiency/)

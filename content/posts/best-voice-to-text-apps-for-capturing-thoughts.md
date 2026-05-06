@@ -43,7 +43,7 @@ A captured thought is useless if it dies inside the dictation app. The goal is t
 
 Here are the standout tools currently dominating the voice-to-text landscape for personal thought capture.
 
-### 1. [Whisper Memos](https://www.amazon.com/s?k=Whisper%20Memos&tag=pkm.notes-automate-20)
+### 1. Whisper Memos
 
 **Best for:** Apple users wanting perfectly formatted, AI-summarized thoughts
 **Price:** Free for limited use; $29.99/year for Pro
@@ -62,7 +62,7 @@ The app's integration with the Apple ecosystem is its strongest asset. It offers
 - iOS and Apple ecosystem only
 - Requires an internet connection for the AI processing
 
-### 2. [Drafts](https://www.amazon.com/s?k=Drafts&tag=pkm.notes-automate-20)
+### 2. Drafts
 
 **Best for:** Power users who want to route text to multiple destinations
 **Price:** Free core app; $19.99/year for Drafts Pro
@@ -81,7 +81,7 @@ What makes Drafts exceptional for thought capture is what happens after the tran
 - The Actions system has a steep learning curve for beginners
 - Apple ecosystem exclusive
 
-### 3. [Otter.ai](https://www.amazon.com/s?k=Otter.ai&tag=pkm.notes-automate-20)
+### 3. Otter.ai
 
 **Best for:** Capturing long-form brainstorming sessions and meetings
 **Price:** Free basic tier; $16.99/month for Pro
@@ -100,7 +100,7 @@ It provides real-time transcription, so you can see your words appear on the scr
 - Overkill and slightly too slow for capturing quick 5-second ideas
 - Subscription is relatively expensive for personal use
 
-### 4. [Google Keep](https://www.amazon.com/s?k=Google%20Keep&tag=pkm.notes-automate-20)
+### 4. Google Keep
 
 **Best for:** Android users needing fast, free, multi-platform capture
 **Price:** Free
@@ -119,7 +119,7 @@ This dual-save feature is a lifesaver. If the transcription misunderstands a pro
 - Very limited organization and export options
 - No AI cleanup; transcribes filler words and mistakes verbatim
 
-### 5. [AudioPen](https://www.amazon.com/s?k=AudioPen&tag=pkm.notes-automate-20)
+### 5. AudioPen
 
 **Best for:** Turning messy audio into polished prose and social media posts
 **Price:** Free tier; $39/year for Prime

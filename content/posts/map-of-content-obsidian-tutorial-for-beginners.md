@@ -1,4 +1,5 @@
 ---
+image: "/og/map-of-content-obsidian-tutorial-for-beginners.webp"
 title: "Map of Content Obsidian Tutorial for Beginners: 5-Step Guide"
 description: "Follow this step-by-step Map of Content Obsidian tutorial for beginners to organize your notes, eliminate overwhelm, and build a scalable personal knowledge base."
 pubDate: "2026-05-05"
@@ -182,3 +183,15 @@ No, MOCs rely entirely on Obsidian's core functionality: basic markdown formatti
 
 ### Should I link from the atomic note back to the MOC?
 Yes, this is highly recommended. At the bottom or top of your atomic note, adding an "Up" link (e.g., `Up: [[Productivity MOC]]`) creates a bidirectional pathway, ensuring you can always navigate back to the broader context from any individual note.
+
+---
+
+## Related Reading
+
+- [Top Tana Alternatives for Structured Data in 2026](/posts/top-tana-alternatives-for-structured-data/)
+
+- [Top Tana Alternatives for Structured Data in 2026](/posts/top-tana-alternatives-for-structured-data/)
+
+- [Bi-Directional Linking for Creative Writing Workflows: Complete Guide](/posts/bi-directional-linking-for-creative-writing-workflows/)
+
+- [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

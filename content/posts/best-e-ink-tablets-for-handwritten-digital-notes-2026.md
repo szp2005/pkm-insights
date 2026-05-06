@@ -29,7 +29,7 @@ Furthermore, latency—the delay between the physical pen tip moving across the 
 
 ## Top Picks: The Best E-Ink Tablets for Handwritten Digital Notes 2026
 
-### 1. [reMarkable Paper Pro](https://www.amazon.com/s?k=reMarkable%20Paper%20Pro&tag=pkm.notes-automate-20)
+### 1. reMarkable Paper Pro
 
 **Best for:** Minimalists and pure writing focus
 **Price:** $579-$650
@@ -50,7 +50,7 @@ The cloud integration is seamless, automatically syncing your notebooks to deskt
 - Premium features require a recurring monthly subscription
 - No backlight, requiring external light sources in dark environments
 
-### 2. [Supernote A5 X2](https://www.amazon.com/s?k=Supernote%20A5%20X2&tag=pkm.notes-automate-20)
+### 2. Supernote A5 X2
 
 **Best for:** Project managers, researchers, and hyper-organizers
 **Price:** $419-$450
@@ -71,7 +71,7 @@ The hardware is modular and repairable, featuring a replaceable battery and expa
 - The plastic chassis feels slightly less premium than aluminum competitors
 - Lacks a front light for nighttime reading and writing
 
-### 3. [Onyx Boox Note Air 3 C](https://www.amazon.com/s?k=Onyx%20Boox%20Note%20Air%203%20C&tag=pkm.notes-automate-20)
+### 3. Onyx Boox Note Air 3 C
 
 **Best for:** Power users who need full Android capabilities
 **Price:** $499-$550
@@ -92,7 +92,7 @@ However, this immense capability comes with complexity. The user interface is de
 - Complex, steep learning curve for the user interface
 - Battery drains noticeably faster than minimalist competitors
 
-### 4. [Amazon Kindle Scribe (2nd Gen)](https://www.amazon.com/s?k=Amazon%20Kindle%20Scribe%20%282nd%20Gen%29&tag=pkm.notes-automate-20)
+### 4. Amazon Kindle Scribe (2nd Gen)
 
 **Best for:** Avid readers who take occasional notes
 **Price:** $339-$399
@@ -113,7 +113,7 @@ However, it still lacks the deep, systemic workflow features found in the Supern
 - Note organization system remains relatively basic
 - Locked tightly into the Amazon software ecosystem
 
-### 5. [Kobo Elipsa 2E](https://www.amazon.com/s?k=Kobo%20Elipsa%202E&tag=pkm.notes-automate-20)
+### 5. Kobo Elipsa 2E
 
 **Best for:** Eco-conscious users and library borrowers
 **Price:** $399-$420

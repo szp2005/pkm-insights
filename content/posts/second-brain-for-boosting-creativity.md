@@ -43,22 +43,22 @@ Innovation happens when you take two previously unrelated concepts and smash the
 
 So, how exactly does this system act as a catalyst for boosting creativity? Let's break down the psychological and practical mechanisms.
 
-### 1. [Eliminating "Blank Page Syndrome"](https://www.amazon.com/s?k=Eliminating%20%22Blank%20Page%20Syndrome%22&tag=pkm.notes-automate-20)
+### 1. Eliminating "Blank Page Syndrome"
 The most daunting part of any creative endeavor is the beginning. The blank screen is intimidating because it demands immediate, spontaneous genius. A Second Brain eliminates this pressure. 
 
 When you sit down to write an article, design a product, or draft a business proposal, you never start from zero. Instead, you open your Second Brain and search for the topic. Instantly, you are presented with quotes, previous thoughts, links, and summaries you've been collecting for months or years. Your job shifts from *creating out of nothing* to *assembling from abundance*.
 
-### 2. [Encouraging "Slow Burn" Creativity](https://www.amazon.com/s?k=Encouraging%20%22Slow%20Burn%22%20Creativity&tag=pkm.notes-automate-20)
+### 2. Encouraging "Slow Burn" Creativity
 Not all ideas are fully formed the moment they strike. Many of our best concepts start as vague inklings—what Steven Johnson, author of *Where Good Ideas Come From*, calls "slow hunches." 
 
 A Second Brain provides a safe environment for these fragile, half-baked ideas to live and grow. You can capture a thought today, add a relevant article to it next month, and finally turn it into a fully fleshed-out project a year from now. This "slow burn" approach allows ideas to mature without the pressure of immediate execution.
 
-### 3. [Engineering Serendipity](https://www.amazon.com/s?k=Engineering%20Serendipity&tag=pkm.notes-automate-20)
+### 3. Engineering Serendipity
 When you store all your diverse interests in one centralized location, magic happens. You might have notes on behavioral psychology living right next to notes on user interface design and ancient Stoic philosophy. 
 
 Modern note-taking [tools](/posts/personal-knowledge-management-tools-comparison/) (which we will discuss later) use features like bidirectional linking and visual graphs to show you the relationships between your notes. You begin to stumble upon unexpected connections. This engineered serendipity is the exact soil where breakthrough creativity flourishes. 
 
-### 4. [Separating Divergent and Convergent Thinking](https://www.amazon.com/s?k=Separating%20Divergent%20and%20Convergent%20Thinking&tag=pkm.notes-automate-20)
+### 4. Separating Divergent and Convergent Thinking
 The creative process requires two distinct modes of thought. 
 *   **Divergent thinking:** Brainstorming, exploring, wandering, and gathering.
 *   **Convergent thinking:** Editing, refining, structuring, and finalizing.
@@ -105,16 +105,16 @@ Creativity thrives on feedback loops. Whether it's a tweet, an essay, a YouTube 
 
 The tool you choose should align with how your brain naturally works. Here are the top contenders in the PKM space:
 
-### 1. [Obsidian: The Networked Thinker's Paradise](https://www.amazon.com/s?k=Obsidian%3A%20The%20Networked%20Thinker%27s%20Paradise&tag=pkm.notes-automate-20)
+### 1. Obsidian: The Networked Thinker's Paradise
 If your creativity relies on seeing connections between disparate ideas, Obsidian is arguably the best tool on the market. It uses plain text markdown files (future-proofing your data) and bidirectional linking. It visualizes your notes as a literal neural network, making it incredibly powerful for researchers, writers, and abstract thinkers.
 
-### 2. [Notion: The Architect's Workbench](https://www.amazon.com/s?k=Notion%3A%20The%20Architect%27s%20Workbench&tag=pkm.notes-automate-20)
+### 2. Notion: The Architect's Workbench
 If you are a visual, structured thinker who loves databases, Kanban boards, and perfectly aligned dashboards, Notion is ideal. It is less about spontaneous connection and more about rigorous organization and project management. It's fantastic for teams, agencies, and creatives who need to track complex deliverables.
 
-### 3. [Apple Notes / Bear / Simplenote: The Minimalists](https://www.amazon.com/s?k=Apple%20Notes%20/%20Bear%20/%20Simplenote%3A%20The%20Minimalists&tag=pkm.notes-automate-20)
+### 3. Apple Notes / Bear / Simplenote: The Minimalists
 Sometimes, too many features get in the way of creativity. If you find yourself endlessly tweaking your Obsidian graph instead of writing, a minimalist tool might be better. Apple Notes has robust search and tagging, and its frictionless integration into the Apple ecosystem makes capturing ideas effortless.
 
-### 4. [Logseq / Roam Research: The Outliners](https://www.amazon.com/s?k=Logseq%20/%20Roam%20Research%3A%20The%20Outliners&tag=pkm.notes-automate-20)
+### 4. Logseq / Roam Research: The Outliners
 For those whose thoughts naturally flow in bullet points, outliners like Logseq or Roam offer a block-based approach to knowledge. Every bullet point is its own entity that can be referenced elsewhere, making it incredibly granular and flexible for rapid ideation.
 
 ## Practical Steps to Build Your Creative Engine Today

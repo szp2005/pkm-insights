@@ -23,7 +23,7 @@ We evaluated the most popular Logseq themes based on their typography choices, w
 
 ## Top Logseq Themes for Writers Evaluated
 
-### 1. [Bear Theme](https://www.amazon.com/s?k=Bear%20Theme&tag=pkm.notes-automate-20)
+### 1. Bear Theme
 
 **Best for:** Minimalists seeking a classic, distraction-free writing environment
 **Price:** Free
@@ -42,7 +42,7 @@ For long-form writing, the high-contrast light mode is exceptionally crisp, whil
 - Customization requires CSS knowledge
 - Some plugins may not integrate visually perfectly
 
-### 2. [Awesome Styler (with Writing Focus)](https://www.amazon.com/s?k=Awesome%20Styler%20%28with%20Writing%20Focus%29&tag=pkm.notes-automate-20)
+### 2. Awesome Styler (with Writing Focus)
 
 **Best for:** Authors who need precise control over text rendering
 **Price:** Free
@@ -61,7 +61,7 @@ When configured for writing, you can strip away almost all of Logseq's native ou
 - Initial setup and configuration takes time
 - Can feel overwhelming with too many options
 
-### 3. [Logseq Cobra Theme](https://www.amazon.com/s?k=Logseq%20Cobra%20Theme&tag=pkm.notes-automate-20)
+### 3. Logseq Cobra Theme
 
 **Best for:** Writers who prefer high-contrast, modern aesthetics
 **Price:** Free
@@ -80,7 +80,7 @@ The dark mode is particularly well-executed, utilizing deep, cool greys that pre
 - Light mode contrast can feel slightly harsh
 - Accent colors cannot be easily changed without custom CSS
 
-### 4. [Dev Theme](https://www.amazon.com/s?k=Dev%20Theme&tag=pkm.notes-automate-20)
+### 4. Dev Theme
 
 **Best for:** Technical writers and dual-purpose users
 **Price:** Free
@@ -99,7 +99,7 @@ The Dev theme excels in its structural clarity. It makes block references, tags,
 - Utilitarian aesthetic may feel cold to fiction writers
 - Monospace-heavy design isn't for everyone
 
-### 5. [Logseq Bonofix Theme](https://www.amazon.com/s?k=Logseq%20Bonofix%20Theme&tag=pkm.notes-automate-20)
+### 5. Logseq Bonofix Theme
 
 **Best for:** Users seeking a soft, warm visual palette
 **Price:** Free
@@ -118,7 +118,7 @@ For long-form writing, the theme uses rounded UI elements and slightly tighter l
 - Low contrast might be an issue for visually impaired users
 - Not as visually distinct for heading structures
 
-### 6. [Logseq Dracula](https://www.amazon.com/s?k=Logseq%20Dracula&tag=pkm.notes-automate-20)
+### 6. Logseq Dracula
 
 **Best for:** Late-night writers and dark mode purists
 **Price:** Free
@@ -137,7 +137,7 @@ For writers working in low-light environments, Dracula provides a backdrop that 
 - No light mode available
 - The neon accents can be distracting during initial drafting
 
-### 7. [Logseq Bujo Theme](https://www.amazon.com/s?k=Logseq%20Bujo%20Theme&tag=pkm.notes-automate-20)
+### 7. Logseq Bujo Theme
 
 **Best for:** Journalers and daily-page writers
 **Price:** Free

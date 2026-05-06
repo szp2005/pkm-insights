@@ -1,4 +1,5 @@
 ---
+image: "/og/building-a-second-brain-for-fiction-authors.webp"
 title: "Building a Second Brain for Fiction Authors: 5-Step Guide"
 description: "Discover how building a second brain for fiction authors can organize research, character arcs, and world-building into a cohesive, searchable system."
 pubDate: "2026-05-05"
@@ -119,3 +120,15 @@ Utilize progressive summarization and strict templating. Never write a sprawling
 
 ### What if I write contemporary fiction, not fantasy or sci-fi?
 Contemporary authors benefit equally from a second brain. Instead of magic systems, you track real-world timelines, character psychological profiles, location scouting photos, thematic research, and complex relationship dynamics. Continuity and organization are genre-agnostic requirements.
+
+---
+
+## Related Reading
+
+- [Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide](/posts/zettelkasten-method-for-non-fiction-book-writing/)
+
+- [Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide](/posts/zettelkasten-method-for-non-fiction-book-writing/)
+
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

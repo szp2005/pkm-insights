@@ -35,16 +35,16 @@ The transition from analog to digital PKM initially mirrored physical file cabin
 
 Investing the time to build and maintain a Personal Knowledge Management system requires effort, but the return on investment for knowledge workers, creatives, and lifelong learners is asymmetric.
 
-### 1. [Drastically Reduced Cognitive Load](https://www.amazon.com/s?k=Drastically%20Reduced%20Cognitive%20Load&tag=pkm.notes-automate-20)
+### 1. Drastically Reduced Cognitive Load
 Your brain is a spectacular tool for generating ideas, but a terrible one for storing them. When you constantly try to remember tasks, facts, and insights, you consume valuable mental RAM. A reliable PKM system offloads this burden. By trusting that every important piece of information is safely captured and easily retrievable, you free up your cognitive bandwidth for deep work, critical thinking, and complex problem-solving.
 
-### 2. [Enhanced Creativity Through Serendipitous Connections](https://www.amazon.com/s?k=Enhanced%20Creativity%20Through%20Serendipitous%20Connections&tag=pkm.notes-automate-20)
+### 2. Enhanced Creativity Through Serendipitous Connections
 Creativity is rarely about conjuring something out of nothing; it is usually the result of colliding two previously unconnected ideas. A mature PKM system facilitates this collision. As your database of notes grows, networked links reveal relationships between disparate domains—say, a principle of behavioral economics connecting to an architectural design pattern. These serendipitous discoveries form the bedrock of true innovation.
 
-### 3. [Accelerated Output and Frictionless Creation](https://www.amazon.com/s?k=Accelerated%20Output%20and%20Frictionless%20Creation&tag=pkm.notes-automate-20)
+### 3. Accelerated Output and Frictionless Creation
 Whether you are writing a blog post, drafting a project proposal, or preparing for a presentation, starting from a blank page is universally daunting. A well-maintained PKM system eliminates the blank page. Instead of starting from scratch, you begin by assembling pre-existing blocks of synthesized knowledge. You move from the exhausting process of *creating* from nothing to the much faster process of *curating* and editing what you already know.
 
-### 4. [Future-Proofing Your Intellectual Capital](https://www.amazon.com/s?k=Future-Proofing%20Your%20Intellectual%20Capital&tag=pkm.notes-automate-20)
+### 4. Future-Proofing Your Intellectual Capital
 The books you read and the experiences you have are investments in your intellectual capital. Without a PKM system, that capital depreciates rapidly; we forget nearly 80% of what we read within a few weeks. By distilling information into your own words and storing it in a durable format, you build a compound-interest account of knowledge that will serve you for decades to come.
 
 ## Core Methodologies of PKM: Choosing Your Framework
@@ -135,6 +135,10 @@ Start by identifying the specific outcome you want, then apply the smallest usef
 Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
 ## Related Reading
+
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
+
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
 
 - [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

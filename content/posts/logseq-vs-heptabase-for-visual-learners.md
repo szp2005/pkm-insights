@@ -25,7 +25,7 @@ Choosing the right platform determines whether you spend your time wrestling wit
 
 When evaluating Logseq vs Heptabase for visual learners, it is critical to understand the architecture of each tool. Here is how both platforms stack up as primary note-taking environments.
 
-### 1. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=pkm.notes-automate-20)
+### 1. Heptabase
 
 **Best for:** Pure visual thinkers, researchers, and writers mapping complex concepts
 **Price:** $8.99-$11.99/month
@@ -44,7 +44,7 @@ The platform uses a proprietary sync engine, which ensures smooth performance ev
 - Subscription pricing model with no free tier available
 - Closed ecosystem with proprietary sync and no local-only offline mode
 
-### 2. [Logseq](https://www.amazon.com/s?k=Logseq&tag=pkm.notes-automate-20)
+### 2. Logseq
 
 **Best for:** Privacy-focused outliners who occasionally need visual whiteboards
 **Price:** Free (Sync is $5/month)
@@ -137,3 +137,9 @@ Yes, Heptabase has a dedicated import feature that allows you to bring in Markdo
 
 ### Are Heptabase whiteboards infinite?
 Yes, the whiteboards in Heptabase operate on an infinite canvas model. You can zoom in and out endlessly and pan in any direction, allowing you to map out massive, complex projects without ever running out of screen real estate.
+
+---
+
+## Related Reading
+
+- [Logseq Sync Setup for Cross Platform Devices: The Complete 2026 Guide](/posts/logseq-sync-setup-for-cross-platform-devices/)

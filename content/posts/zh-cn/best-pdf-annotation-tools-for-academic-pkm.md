@@ -164,3 +164,15 @@ Readwise Reader主要作为一款稍后阅读应用而闻名，但它的PDF处�
 
 - [在Obsidian中连接想法：最佳方法完整指南](/zh-cn/posts/connecting-ideas-in-obsidian-best-methods/)
 - [提升生产力的数字笔记策略：终极专家指南](/zh-cn/posts/digital-note-taking-strategies-for-productivity/)
+
+---
+
+## Related Reading
+
+- [Tana AI for Researchers Premium Features: 2026 Complete Guide](/posts/tana-ai-for-researchers-premium-features/)
+
+- [Tana AI for Researchers Premium Features: 2026 Complete Guide](/posts/tana-ai-for-researchers-premium-features/)
+
+- [Best Tools for Thought for Academic Synthesis in 2026](/posts/best-tools-for-thought-for-academic-synthesis/)
+
+- [Best Tools for Thought for Academic Synthesis in 2026](/posts/best-tools-for-thought-for-academic-synthesis/)

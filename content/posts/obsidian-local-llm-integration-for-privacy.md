@@ -76,19 +76,19 @@ Copilot for Obsidian provides a sleek, ChatGPT-like interface directly inside yo
 
 Follow this sequence to establish a reliable, private LLM connection within your workspace. This example uses Ollama and the BMO Chatbot plugin, as it offers the most stable experience across all operating systems.
 
-### 1. [Install and Configure the Engine](https://www.amazon.com/s?k=Install%20and%20Configure%20the%20Engine&tag=pkm.notes-automate-20)
+### 1. Install and Configure the Engine
 Download and install Ollama from its official website. Once installed, open your terminal or command prompt and ensure the background service is running. You can test this by navigating to `http://localhost:11434` in your web browser; you should see a simple message stating "Ollama is running."
 
-### 2. [Download a Capable Model](https://www.amazon.com/s?k=Download%20a%20Capable%20Model&tag=pkm.notes-automate-20)
+### 2. Download a Capable Model
 In your terminal, command Ollama to pull a model. For general note-taking tasks, the Llama 3 8B model is an excellent starting point that balances speed and intelligence. 
 Run the following command:
 `ollama run llama3`
 Ollama will download the model weights (approximately 4.7GB). Once complete, you will drop into a command-line chat interface. You can type `/bye` to exit. The model is now cached on your machine.
 
-### 3. [Install the Obsidian Plugin](https://www.amazon.com/s?k=Install%20the%20Obsidian%20Plugin&tag=pkm.notes-automate-20)
+### 3. Install the Obsidian Plugin
 Open Obsidian, navigate to **Settings > Community Plugins**, disable "Safe Mode," and click **Browse**. Search for "BMO Chatbot" and install it. Enable the plugin.
 
-### 4. [Connect Obsidian to Localhost](https://www.amazon.com/s?k=Connect%20Obsidian%20to%20Localhost&tag=pkm.notes-automate-20)
+### 4. Connect Obsidian to Localhost
 Navigate to the BMO Chatbot settings within Obsidian. 
 1. Look for the **REST API Connections** or **Ollama Connection** section.
 2. Enter your host address: `http://localhost:11434`.

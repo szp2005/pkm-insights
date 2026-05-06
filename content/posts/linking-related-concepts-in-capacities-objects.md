@@ -104,3 +104,13 @@ There is no hard limit to the number of links you can create. However, excessive
 
 ### How do tags differ from object links in Capacities?
 Tags apply a label to an object (e.g., `#urgent` or `#draft`), primarily for filtering and sorting. Object links create a bi-directional relationship between two distinct entities with their own properties, which is better for connecting ideas and building a knowledge graph.
+
+---
+
+## Related Reading
+
+- [Using Capacities for Visual Research Databases: A Complete Guide](/posts/using-capacities-for-visual-research-databases/)
+
+- [Using Capacities for Visual Research Databases: A Complete Guide](/posts/using-capacities-for-visual-research-databases/)
+
+- [Capacities Review for Personal Research Management in 2026](/posts/capacities-review-for-personal-research-management/)

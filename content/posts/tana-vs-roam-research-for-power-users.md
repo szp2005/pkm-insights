@@ -29,7 +29,7 @@ Roam Research operates on a pure graph database model. Every bullet point is a n
 
 Tana, conversely, is an object-oriented database masked as an outliner. While it supports bidirectional links, its core engine runs on "Supertags." A Supertag transforms a simple bullet point into a structured data object. If you tag a node with `#book`, Tana automatically appends fields for `Author`, `Status`, and `Rating`. This allows for rigorous, top-down structuring of data without losing the bottom-up flexibility of daily journaling.
 
-### 1. [Roam Research](https://www.amazon.com/s?k=Roam%20Research&tag=pkm.notes-automate-20)
+### 1. Roam Research
 
 **Best for:** Academic researchers, unstructured thinkers, and rapid journalers
 **Price:** $15/month ($165/year)
@@ -46,7 +46,7 @@ Roam Research pioneered the modern networked thought movement. Its interface is 
 - Graph easily degrades into a messy, unnavigable "junk drawer" without strict personal discipline
 - Lacks native, robust structured data querying capabilities
 
-### 2. [Tana](https://www.amazon.com/s?k=Tana&tag=pkm.notes-automate-20)
+### 2. Tana
 
 **Best for:** Project managers, structured knowledge workers, and workflow architects
 **Price:** $10/month (Tana Core)
@@ -135,3 +135,11 @@ Tana has a stronger foundational architecture for teams. Because data is structu
 
 ### Will Tana run on mobile natively?
 Currently, Tana relies on Tana Capture, a highly effective mobile companion app strictly for quickly dictating notes, snapping photos, or dumping text into your workspace. It is not a full mobile version of the app. Roam provides a more complete, albeit sometimes clunky, web-based mobile experience for editing your graph on the go.
+
+---
+
+## Related Reading
+
+- [Tana Supertags for Project Managers: Download the Ultimate 2026 Setup](/posts/tana-supertags-for-project-managers-download/)
+
+- [Tana Supertags for Project Managers: Download the Ultimate 2026 Setup](/posts/tana-supertags-for-project-managers-download/)

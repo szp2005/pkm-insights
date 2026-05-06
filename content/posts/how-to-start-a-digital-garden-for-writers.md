@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-start-a-digital-garden-for-writers.webp"
 title: "How to Start a Digital Garden for Writers: 5-Step Guide"
 description: "Learn how to start a digital garden for writers to organize ideas, defeat writer's block, and cultivate a public notebook of evergreen interconnected knowledge."
 pubDate: "2026-05-05"
@@ -143,3 +144,11 @@ Absolutely. Fiction writers use digital gardens extensively for worldbuilding, c
 
 ### Will a digital garden help with writer's block?
 Yes. By encouraging you to write small, atomic notes (seedlings) without the pressure of a finished draft, a digital garden lowers the barrier to entry. When it is time to write a longer piece, you already have dozens of connected notes to draw from.
+
+---
+
+## Related Reading
+
+- [Johnny Decimal System for Organizing Digital Files (2026 Guide)](/posts/johnny-decimal-system-for-organizing-digital-files/)
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

@@ -49,16 +49,16 @@ Arrows transform isolated nodes into a cohesive system. Obsidian allows you to d
 
 Transitioning a project from your mind to a digital canvas requires a deliberate approach. Starting with a blank infinite board can be intimidating. Follow this structured process to build functional maps that clarify rather than confuse.
 
-### 1. [The Brain Dump Phase](https://www.amazon.com/s?k=The%20Brain%20Dump%20Phase&tag=pkm.notes-automate-20)
+### 1. The Brain Dump Phase
 Begin by creating a new canvas and rapidly adding text cards for every component of the project. Do not worry about structure or connections yet. If you are launching a new [software](/posts/best-apps-for-personal-knowledge-management/) feature, your cards might include "Database Migration," "User Testing," "Marketing Copy," "API Rate Limits," and "Design Handoff." The goal is comprehensive extraction from memory to the screen.
 
-### 2. [Clustering and Categorization](https://www.amazon.com/s?k=Clustering%20and%20Categorization&tag=pkm.notes-automate-20)
+### 2. Clustering and Categorization
 Once the raw materials are on the board, begin physically moving related items closer together. Group backend tasks in one corner and frontend tasks in another. Obsidian Canvas includes a "Group" feature that allows you to draw a bounding box around multiple nodes, giving them a unified background color and a shared title. This creates distinct neighborhoods of information within your broader map.
 
-### 3. [Establishing the Critical Path](https://www.amazon.com/s?k=Establishing%20the%20Critical%20Path&tag=pkm.notes-automate-20)
+### 3. Establishing the Critical Path
 With your clusters defined, start drawing connections. Identify the dependencies. If "Database Migration" must happen before "API Rate Limits" can be tested, draw a directional arrow from the former to the latter. By visually mapping these dependencies, bottlenecks become immediately apparent before any actual work begins.
 
-### 4. [Injecting Depth with Vault Notes](https://www.amazon.com/s?k=Injecting%20Depth%20with%20Vault%20Notes&tag=pkm.notes-automate-20)
+### 4. Injecting Depth with Vault Notes
 Replace temporary text cards with actual Obsidian notes where deep work is required. If the "Marketing Copy" node needs a 1,000-word draft, convert that card into a permanent file in your vault. Now, your canvas acts as a high-level dashboard that allows you to zoom in to execute deep work and zoom out to see the strategic overview.
 
 ## Advanced Techniques for Visual Project Management

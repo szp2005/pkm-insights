@@ -111,6 +111,10 @@ The collector's fallacy is the false sense of accomplishment derived from merely
 
 ## Related Reading
 
+- [How to Capture Ideas on the Go: 5-Step System for Creatives](/posts/how-to-capture-ideas-on-the-go/)
+
+- [How to Capture Ideas on the Go: 5-Step System for Creatives](/posts/how-to-capture-ideas-on-the-go/)
+
 - [Managing Digital Information Overload With AI: Complete Guide](/posts/managing-digital-information-overload-with-ai/)
 
 - [Digital Decluttering for Information Overload: A Comprehensive Guide to Reclaiming Your Focus](/posts/digital-decluttering-for-information-overload/)

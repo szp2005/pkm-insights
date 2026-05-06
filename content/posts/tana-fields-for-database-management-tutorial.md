@@ -133,3 +133,11 @@ Currently, Tana does not have strict validation to prevent you from leaving a fi
 
 ### Can I share the same field across different Supertags?
 Yes, and this is highly recommended for workspace consistency. When configuring a Supertag, you can search for existing fields rather than creating new ones. Reusing the same "Status" or "Date" field across your `#task`, `#project`, and `#goal` tags allows you to build unified database views that combine multiple entity types.
+
+---
+
+## Related Reading
+
+- [Tana Workspace for Managing Academic Citations: Complete Setup Guide](/posts/tana-workspace-for-managing-academic-citations/)
+
+- [Tana Workspace for Managing Academic Citations: Complete Setup Guide](/posts/tana-workspace-for-managing-academic-citations/)

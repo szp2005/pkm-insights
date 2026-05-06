@@ -191,3 +191,9 @@ Capacities 已经引入了离线支持，允许你在没有互联网连接的情
 ## 相关阅读
 
 - [Capacities PDF 高亮：5 步组织指南](/zh-cn/posts/how-to-organize-pdf-highlights-in-capacities/)
+
+---
+
+## Related Reading
+
+- [How to Organize PDF Highlights in Capacities: 5-Step Guide](/posts/how-to-organize-pdf-highlights-in-capacities/)

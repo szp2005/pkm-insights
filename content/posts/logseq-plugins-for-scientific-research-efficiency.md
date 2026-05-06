@@ -190,3 +190,9 @@ Logseq is primarily designed for single-player, [personal knowledge management](
 
 ### Will these Logseq plugins work offline?
 Yes. A major advantage of Logseq and its core academic plugins (like the Zotero integration and PDF tools) is that they operate entirely locally. Once installed, you can conduct your literature review, read PDFs, and extract annotations without an internet connection, which is ideal for fieldwork or commuting.
+
+---
+
+## Related Reading
+
+- [Logseq for Journal Article Summaries Workflow: 5-Step Guide](/posts/logseq-for-journal-article-summaries-workflow/)

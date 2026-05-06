@@ -136,3 +136,11 @@ Obsidian 通常更适合传统的 Zettelkasten 和学术研究。它的纯文本
 
 - [Arivu vs Readwise 信息捕获：哪个更好？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
 - [2026 年最佳个人知识管理应用：构建你的终极第二大脑](/zh-cn/posts/best-apps-for-personal-knowledge-management/)
+
+---
+
+## Related Reading
+
+- [How to Start a Digital Garden for Writers: 5-Step Guide](/posts/how-to-start-a-digital-garden-for-writers/)
+
+- [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

@@ -42,7 +42,7 @@ Like many modern PKM tools, Capacities includes a graph view to visualize connec
 
 ## Product Evaluation
 
-### 1. [Capacities Free](https://www.amazon.com/s?k=Capacities%20Free&tag=pkm.notes-automate-20)
+### 1. Capacities Free
 
 **Best for:** Students and casual researchers starting their PKM journey
 **Price:** $0
@@ -59,7 +59,7 @@ The free tier of Capacities is remarkably generous and provides everything neede
 - Limited integration with external task managers and calendars
 - Lacks advanced AI search and automated metadata extraction
 
-### 2. [Capacities Pro (Believer)](https://www.amazon.com/s?k=Capacities%20Pro%20%28Believer%29&tag=pkm.notes-automate-20)
+### 2. Capacities Pro (Believer)
 
 **Best for:** Professional researchers, academics, and power users
 **Price:** $10-$12/month
@@ -81,7 +81,7 @@ Capacities Pro unlocks the full potential of the platform for serious research m
 
 To provide a complete picture, it is essential to understand how Capacities stacks up against the two major paradigms in the PKM space: the local flat-file network and the collaborative database.
 
-### 3. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
+### 3. Obsidian
 
 **Best for:** Developers, privacy advocates, and offline researchers
 **Price:** $0 (Sync is extra)
@@ -98,7 +98,7 @@ Obsidian remains the gold standard for local-first markdown note-taking. It is l
 - Steep learning curve for non-technical users
 - Requires community plugins to achieve database-like functionality
 
-### 4. [Notion](https://www.amazon.com/s?k=Notion&tag=pkm.notes-automate-20)
+### 4. Notion
 
 **Best for:** Collaborative teams and highly structured project management
 **Price:** $0-$10/month

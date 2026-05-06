@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-capture-ideas-on-the-go.webp"
 title: "How to Capture Ideas on the Go: 5-Step System for Creatives"
 description: "Learn how to capture ideas on the go before they vanish. Discover a simple, frictionless system using pocket notebooks, voice memos, and mobile apps."
 pubDate: "2026-05-05"
@@ -106,3 +107,11 @@ Store the notebook alongside items you never leave without, such as your keys, w
 
 ### How do I connect my mobile capture to Obsidian or Notion?
 Use intermediary apps that support APIs or webhooks. Apps like Drafts or iOS Shortcuts can append text directly to specific Obsidian markdown files or send data to a Notion database via their API, bypassing the need to open the heavier main applications on your mobile device.
+
+---
+
+## Related Reading
+
+- [Personal Knowledge Management for Independent Researchers Guide](/posts/personal-knowledge-management-for-independent-researchers/)
+
+- [Personal Knowledge Management for Independent Researchers Guide](/posts/personal-knowledge-management-for-independent-researchers/)

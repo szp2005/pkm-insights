@@ -175,3 +175,9 @@ Yes, Tana's structured data capabilities make it excellent for systematic review
 
 ### What happens if I want to export my academic notes from Tana later?
 Tana allows you to export your data, typically in JSON format. Because your notes are structured using Supertags and fields, this exported data retains its relationships and metadata, making it highly portable for use in scripts or migrating to other database-driven tools, though importing complex graph structures into flat markdown files will require custom formatting.
+
+---
+
+## Related Reading
+
+- [Tana Fields for Database Management Tutorial: Complete Guide](/posts/tana-fields-for-database-management-tutorial/)

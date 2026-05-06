@@ -31,7 +31,7 @@ Arivu operates on the principle of semantic synthesis. It functions as an active
 
 ## Product Breakdown
 
-### 1. [Readwise](https://www.amazon.com/s?k=Readwise&tag=pkm.notes-automate-20)
+### 1. Readwise
 
 **Best for:** Avid readers, researchers, and users deeply invested in established note-taking tools like Obsidian or Notion.
 **Price:** $4.49-$7.99/month
@@ -50,7 +50,7 @@ Beyond aggregation, Readwise forces engagement. Its daily review feature uses sp
 - User interface of the core dashboard feels dated
 - Requires the higher pricing tier to access note-export integrations
 
-### 2. [Arivu](https://www.amazon.com/s?k=Arivu&tag=pkm.notes-automate-20)
+### 2. Arivu
 
 **Best for:** Web researchers, analysts, and users who want AI to do the heavy lifting of summarizing and organizing links.
 **Price:** $0-$10/month

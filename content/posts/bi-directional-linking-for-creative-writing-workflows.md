@@ -1,4 +1,5 @@
 ---
+image: "/og/bi-directional-linking-for-creative-writing-workflows.webp"
 title: "Bi-Directional Linking for Creative Writing Workflows: Complete Guide"
 description: "Discover how bi-directional linking for creative writing workflows can organize complex lore, connect plot threads, and eliminate writer's block for good."
 pubDate: "2026-05-05"
@@ -138,3 +139,7 @@ Use Maps of Content (MOCs). An MOC is simply a note that serves as an index or t
 
 ### Is this method only useful for fantasy and sci-fi writers?
 While it excels at managing complex worldbuilding, it is equally powerful for any genre. Romance writers use it to track relationship development and emotional beats, mystery writers use it to manage clues and red herrings, and non-fiction writers use it to connect research and citations.
+
+## Related Reading
+
+- [Building a Second Brain for Fiction Authors](/posts/building-a-second-brain-for-fiction-authors/)
