@@ -49,6 +49,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/posts/anytype-review-for-local-first-privacy-lovers/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/posts/anytype-vs-obsidian-for-local-first-knowledge-management/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -155,6 +161,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-pkm-apps-for-visual-thinkers-2026/"/>
     <xhtml:link rel="alternate" hreflang="zh-cn" href="https://pkm.notes-automate.com/zh-cn/posts/best-pkm-apps-for-visual-thinkers-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://pkm.notes-automate.com/posts/best-pkm-apps-for-visual-thinkers-2026/"/>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/best-pkm-tools-for-architecture-students-2026/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-practices-for-knowledge-retention/</loc>
@@ -679,7 +691,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/posts/remnote-vs-logseq-for-medical-students-comparison/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/posts/roam-research-vs-obsidian-comparison/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/scrintal-vs-heptabase-for-visual-note-taking/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -836,6 +860,12 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tiago-forte-building-a-second-brain-review/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/top-pkm-software-for-content-creators-2026/</loc>
     <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
