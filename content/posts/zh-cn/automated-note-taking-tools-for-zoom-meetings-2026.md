@@ -161,4 +161,6 @@ Supernormal可以将您的笔记专门格式化为标准操作程序（SOP）、
 
 ## Related Reading
 
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
+
 - [Tana Commands for Automated Data Processing: Complete Guide](/posts/tana-commands-for-automated-data-processing/)

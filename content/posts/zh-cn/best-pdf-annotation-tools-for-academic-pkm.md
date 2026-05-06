@@ -169,6 +169,8 @@ Readwise Reader主要作为一款稍后阅读应用而闻名，但它的PDF处�
 
 ## Related Reading
 
+- [Anytype Review for Local-First Privacy Lovers: A Deep Dive into Data Control](/posts/anytype-review-local-first-privacy-lovers/)
+
 - [Tana AI for Researchers Premium Features: 2026 Complete Guide](/posts/tana-ai-for-researchers-premium-features/)
 
 - [Tana AI for Researchers Premium Features: 2026 Complete Guide](/posts/tana-ai-for-researchers-premium-features/)

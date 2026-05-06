@@ -168,3 +168,9 @@ Core plugins are developed and maintained by the Obsidian team and are included 
 
 ### ### How often are Obsidian plugins updated?
 Update frequency varies greatly by plugin. Many popular plugins are actively maintained and receive regular updates to fix bugs, add features, and ensure compatibility with new Obsidian versions. You can check for updates within Obsidian's community plugins settings.
+
+---
+
+## Related Reading
+
+- [Heptabase Review for Visual Project Management: Is It Right for You in 2026?](/posts/heptabase-review-for-visual-project-management/)

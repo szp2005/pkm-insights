@@ -153,3 +153,9 @@ Capacities offers desktop applications (Mac, Windows, Linux) and mobile apps (iO
 ### What are the main differences in how Tana and Capacities structure data?
 Tana uses "supernodes," where any block of text can become a structured entity with properties, allowing for highly flexible, emergent schemas within daily notes. Capacities uses predefined "objects" (e.g., Person, Project) with specific properties, offering a more consistent and guided structural approach from the outset.
 ```
+
+---
+
+## Related Reading
+
+- [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)

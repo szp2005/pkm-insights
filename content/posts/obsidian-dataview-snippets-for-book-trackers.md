@@ -386,3 +386,9 @@ For most basic and intermediate book tracking needs, Dataview DQL (Dataview Quer
 
 ### How can I share my book list created with Dataview?
 Since Dataview queries are rendered dynamically within Obsidian, you cannot directly "share" the live Dataview output as a standalone web page. However, you can export the note containing your Dataview query to PDF or Markdown, which will capture the rendered output at the time of export. Alternatively, you could share your entire Obsidian vault (or a subset of it) with others who also use Obsidian.
+
+---
+
+## Related Reading
+
+- [Tana Commands for Automated Daily Notes: A Complete Setup Guide](/posts/tana-commands-for-automated-daily-note-setup/)

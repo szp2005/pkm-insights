@@ -147,3 +147,11 @@ Scrintal has a mobile app, but it's primarily for viewing and quick edits, with 
 
 ### Can I import notes from other applications into Scrintal or Heptabase?
 Both tools offer some import capabilities, typically supporting Markdown or plain text. Heptabase, with its focus on knowledge management, often has more robust import options for structured data, but it's always best to check their current documentation for specific formats supported.
+
+---
+
+## Related Reading
+
+- [Best PKM Software for Content Creators in 2026: Top Picks Reviewed](/posts/top-pkm-software-for-content-creators-2026/)
+
+- [Best Obsidian Plugins for Creative Professionals in 2026](/posts/best-obsidian-plugins-for-creative-professionals-2026/)

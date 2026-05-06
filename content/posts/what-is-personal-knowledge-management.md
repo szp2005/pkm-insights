@@ -136,6 +136,12 @@ Avoid copying a complex system before you understand the problem you are solving
 
 ## Related Reading
 
+- [Second Brain Dashboard for Notion Power Users: Master Your Digital Life](/posts/second-brain-dashboard-for-notion-power-users/)
+
+- [Obsidian Dataview Snippets for Book Trackers: Master Your Reading](/posts/obsidian-dataview-snippets-for-book-trackers/)
+
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
+
 - [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
 
 - [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)

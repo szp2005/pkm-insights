@@ -150,3 +150,9 @@ No, Reflect Notes does not offer a free tier. It operates on a subscription mode
 
 ### Is it possible to migrate notes between Reflect Notes and Obsidian?
 Migrating notes is generally possible, especially from Obsidian to Reflect Notes since Obsidian uses standard Markdown files. Migrating from Reflect Notes to Obsidian might require exporting your notes from Reflect (if available) and then importing them into Obsidian, potentially with some formatting adjustments.
+
+---
+
+## Related Reading
+
+- [Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?](/posts/scrintal-vs-heptabase-for-visual-note-taking/)

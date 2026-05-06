@@ -60,3 +60,9 @@ Keep approvals on sensitive steps, log every run, and test with a small sample b
 ### How do you measure whether logseq theme for high focus deep work is working?
 
 Track cycle time, skipped manual steps, error rate, and user follow-up questions. If the workflow saves time but creates confusion, simplify the handoff before adding more automation.
+
+---
+
+## Related Reading
+
+- [Logseq Workflow for Managing YouTube Scripts: A Creator's Guide](/posts/logseq-workflow-for-managing-youtube-scripts/)

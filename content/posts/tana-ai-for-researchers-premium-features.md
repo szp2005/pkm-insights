@@ -112,6 +112,8 @@ Tana has established strict data privacy policies, especially for premium and en
 
 ## Related Reading
 
+- [Tana vs. Capacities: Which is Better for Networked Thought in 2026?](/posts/tana-vs-capacities-networked-thought/)
+
 - [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
 
 - [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)

@@ -140,3 +140,9 @@ Yes, Anytype is designed to be fully functional offline. Since all your data is 
 ### Is Anytype open source?
 
 Yes, Anytype is open source. Its codebase is publicly available, allowing developers and security researchers to inspect, audit, and contribute to the project. This transparency is a key factor in building trust for privacy-conscious users, as it allows for independent verification of its security claims.
+
+---
+
+## Related Reading
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)

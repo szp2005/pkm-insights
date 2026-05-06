@@ -149,6 +149,8 @@ Yes. By encouraging you to write small, atomic notes (seedlings) without the pre
 
 ## Related Reading
 
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+
 - [Johnny Decimal System for Organizing Digital Files (2026 Guide)](/posts/johnny-decimal-system-for-organizing-digital-files/)
 
 - [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

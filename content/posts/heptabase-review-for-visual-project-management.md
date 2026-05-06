@@ -174,3 +174,9 @@ As of early 2026, Heptabase is primarily an online application, requiring an int
 ### ### What kind of projects is Heptabase best for?
 Heptabase excels for projects that are research-heavy, require significant ideation, involve complex interdependencies, or benefit from a visual overview. This includes academic research, creative writing, product development, strategic planning, personal knowledge management, and any project where understanding the relationships between disparate pieces of information is crucial. It's less ideal for simple, repetitive task lists or highly structured, process-driven projects.
 ```
+
+---
+
+## Related Reading
+
+- [Obsidian Vault Templates for Creative Professionals: Boost Your Workflow](/posts/obsidian-vault-templates-creative-professionals/)

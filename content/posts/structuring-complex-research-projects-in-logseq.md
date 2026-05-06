@@ -115,3 +115,9 @@ Yes, Logseq supports exporting pages to standard Markdown, which can be converte
 
 ### Does using a rigid structure ruin Logseq's bidirectional linking?
 No. Namespaces and properties establish a baseline of order, but you should still aggressively use `[[inline links]]` within your text blocks to connect disparate ideas. The rigid structure manages the project workflow, while bidirectional links map the conceptual relationships within the research itself.
+
+---
+
+## Related Reading
+
+- [Logseq Theme for High Focus Deep Work: Optimizing Your Workflow](/posts/logseq-theme-for-high-focus-deep-work/)

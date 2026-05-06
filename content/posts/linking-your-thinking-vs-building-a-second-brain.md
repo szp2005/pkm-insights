@@ -147,6 +147,8 @@ Not necessarily, but its emphasis is shifting. While AI can now rapidly summariz
 
 ## Related Reading
 
+- [Structural vs Organic Note Taking Methodologies: Which is Better for You?](/posts/structural-vs-organic-note-taking-methodologies/)
+
 - [Managing Doctoral Thesis Notes in Logseq: Complete Guide](/posts/managing-doctoral-thesis-notes-in-logseq/)
 
 - [Managing Doctoral Thesis Notes in Logseq: Complete Guide](/posts/managing-doctoral-thesis-notes-in-logseq/)

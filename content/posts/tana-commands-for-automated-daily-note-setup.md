@@ -252,3 +252,9 @@ To ensure your daily note template evolves, treat it as a living document. Regul
 
 ### Is it possible to pull specific tasks into my daily note automatically?
 Yes, Tana can automatically pull specific tasks into your daily note using live search queries within your template. For instance, you can embed a query in your `Tasks` field that searches for all `#Task` nodes that are not marked `#Done` and were associated with `[[Yesterday]]`. This ensures that unfinished tasks from the previous day are automatically presented in your current daily note.
+
+---
+
+## Related Reading
+
+- [Tana Supertags for Freelancer Project Tracking: The Complete Guide](/posts/tana-supertags-for-freelancer-project-tracking/)

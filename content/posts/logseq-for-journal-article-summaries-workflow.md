@@ -139,4 +139,6 @@ While Logseq's mobile applications support opening PDFs and viewing existing blo
 
 ## Related Reading
 
+- [RemNote vs Logseq for Medical Students: Which Note-Taking App is Best for Your Studies?](/posts/remnote-vs-logseq-for-medical-students-comparison/)
+
 - [Best Logseq Plugins for Scientific Research Efficiency in 2026](/posts/logseq-plugins-for-scientific-research-efficiency/)

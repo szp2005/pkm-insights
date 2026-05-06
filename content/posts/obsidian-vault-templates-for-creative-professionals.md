@@ -436,3 +436,9 @@ Keep approvals on sensitive steps, log every run, and test with a small sample b
 ### How do you measure whether obsidian vault templates for creative professionals is working?
 
 Track cycle time, skipped manual steps, error rate, and user follow-up questions. If the workflow saves time but creates confusion, simplify the handoff before adding more automation.
+
+---
+
+## Related Reading
+
+- [Capacities App for Organizing Digital Art Assets: A Complete Guide](/posts/capacities-app-for-organizing-digital-art-assets/)

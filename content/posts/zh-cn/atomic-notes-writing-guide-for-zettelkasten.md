@@ -157,3 +157,9 @@ Logseq 是 Roam 的一个开源、隐私优先的替代方案。它利用相同�
 
 - [如何做聪明的笔记：全面总结与实用指南](/zh-cn/posts/how-to-take-smart-notes-summary/)
 - [什么是个人知识管理 (PKM)？构建第二大脑的终极指南](/zh-cn/posts/what-is-personal-knowledge-management/)
+
+---
+
+## Related Reading
+
+- [How to Set Up Obsidian Sync on Android: A Complete Guide](/posts/setup-guide-for-obsidian-sync-on-android/)
