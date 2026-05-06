@@ -1,4 +1,5 @@
 ---
+image: "/og/remnote-vs-logseq-for-medical-students-comparison.webp"
 title: "RemNote vs Logseq for Medical Students: Which Note-Taking App is Best for Your Studies?"
 description: "Practical guide to remnote vs logseq for medical students comparison: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"
@@ -143,3 +144,10 @@ Logseq is a local-first application, meaning all your data is stored on your dev
 
 ### What's the learning curve like for RemNote vs Logseq?
 RemNote has a moderate learning curve, primarily focused on understanding its unique "Rem" data model and hierarchical structure. Once understood, its workflow is very efficient. Logseq can have a steeper learning curve, especially for users new to block-based editors, bi-directional linking, and graph databases, but it offers unparalleled flexibility and customization once mastered.
+
+---
+
+## Related Reading
+
+- [Connecting Ideas in Obsidian: Best Methods Complete Guide](/posts/connecting-ideas-in-obsidian-best-methods/)
+- [Digital Garden vs Second Brain for Creatives: Which Is Better?](/posts/digital-garden-vs-second-brain-for-creatives/)

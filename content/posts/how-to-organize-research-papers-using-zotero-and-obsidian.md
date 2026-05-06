@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-organize-research-papers-using-zotero-and-obsidian.webp"
-title: "How to Organize Research Papers Using Zotero and Obsidian: 5-Step Guide"
+title: "Research Papers Using Zotero and Obsidian: 5-Step Guide"
 description: "Master your academic workflow by learning how to organize research papers using Zotero and Obsidian. Build a seamless system for citations and interconnected notes."
 pubDate: "2026-05-02"
 author: "Alex Chen"

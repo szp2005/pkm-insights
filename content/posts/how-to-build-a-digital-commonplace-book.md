@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-build-a-digital-commonplace-book.webp"
-title: "How to Build a Digital Commonplace Book: A Step-by-Step Guide"
+title: "Digital Commonplace Book Setup: A Step-by-Step Guide"
 description: "Learn how to build a digital commonplace book to capture ideas, organize your research, and synthesize knowledge effectively. A complete guide to modern tools."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -9,7 +9,7 @@ slug: "how-to-build-a-digital-commonplace-book"
 type: "informational"
 ---
 
-# How to Build a Digital Commonplace Book: A Step-by-Step Guide
+# Digital Commonplace Book Setup: A Step-by-Step Guide
 
 > **Quick Answer:** Building a digital commonplace book requires selecting a core [note-taking](/posts/zettelkasten-method-explained/) application (like Obsidian, Notion, or Apple Notes), establishing a frictionless system to capture quotes and ideas, organizing those notes with lightweight tags or links, and scheduling regular reviews to connect disparate concepts into new insights.
 

@@ -1,4 +1,5 @@
 ---
+image: "/og/heptabase-review-for-visual-project-management.webp"
 title: "Heptabase Review for Visual Project Management: Is It Right for You in 2026?"
 description: "Looking for a Heptabase review for visual project management? Discover if Heptabase's unique canvas and knowledge management features can transform your."
 pubDate: "2026-05-06"

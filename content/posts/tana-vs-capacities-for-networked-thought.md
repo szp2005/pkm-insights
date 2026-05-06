@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-vs-capacities-networked-thought.webp"
 title: "Tana vs. Capacities: Which is Better for Networked Thought in 2026?"
 description: "Comparing Tana vs. Capacities for networked thought to help you choose the best tool for organizing complex ideas and boosting productivity in 2026."
 pubDate: "2026-05-06"
@@ -157,6 +158,8 @@ Tana uses "supernodes," where any block of text can become a structured entity w
 ---
 
 ## Related Reading
+
+- [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)
 
 - [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)
 

@@ -1,6 +1,6 @@
 ---
 image: "/og/implementing-a-gtd-system-within-obsidian.webp"
-title: "How to Implement a GTD System Within Obsidian: 5-Step Guide"
+title: "Implement a GTD System Within Obsidian: 5-Step Guide"
 description: "Master task management by implementing a GTD system within Obsidian. Learn the exact plugins, folder structures, and workflows to achieve zero-inbox clarity."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -9,7 +9,7 @@ slug: "implementing-a-gtd-system-within-obsidian"
 type: "informational"
 ---
 
-# How to Implement a GTD System Within Obsidian: 5-Step Guide
+# Implement a GTD System Within Obsidian: 5-Step Guide
 
 > **Quick Answer:** Implementing a GTD (Getting Things Done) system within Obsidian requires creating a dedicated inbox folder for rapid capture, organizing files into projects and areas, and utilizing plugins like Obsidian Tasks and Dataview for querying open loops. By separating your capture, clarification, and execution phases, Obsidian transforms from a static knowledge base into a dynamic, offline-first task manager.
 

@@ -1,4 +1,5 @@
 ---
+image: "/og/structural-vs-organic-note-taking-methodologies.webp"
 title: "Structural vs Organic Note Taking Methodologies: Which is Better for You?"
 description: "Explore the core differences between structural vs organic note taking methodologies to find the best approach for enhancing your learning and productivity."
 pubDate: "2026-05-06"
@@ -177,6 +178,8 @@ Absolutely. Modern note-taking apps like Obsidian, Roam Research, Notion, Everno
 ---
 
 ## Related Reading
+
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
 
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)
 

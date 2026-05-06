@@ -1,4 +1,5 @@
 ---
+image: "/og/best-pkm-tools-for-architecture-students-2026.webp"
 title: "Best PKM Tools for Architecture Students 2026: Top Picks"
 description: "Discover the best PKM tools for architecture students in 2026 to organize research, manage projects, and ace design studies."
 pubDate: "2026-05-06"
@@ -135,3 +136,10 @@ Keep approvals on sensitive steps, log every run, and test with a small sample b
 ### How do you measure whether best pkm tools for architecture students 2026 is working?
 
 Track cycle time, skipped manual steps, error rate, and user follow-up questions. If the workflow saves time but creates confusion, simplify the handoff before adding more automation.
+
+---
+
+## Related Reading
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

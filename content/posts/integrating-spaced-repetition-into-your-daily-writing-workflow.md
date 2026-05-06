@@ -1,6 +1,6 @@
 ---
 image: "/og/integrating-spaced-repetition-into-your-daily-writing-workflow.webp"
-title: "How to Integrate Spaced Repetition into Your Daily Writing Workflow: 5-Step Guide"
+title: "Integrate Spaced Repetition Into Your Daily Writing Workflow: 5-Step Guide"
 description: "Discover how integrating spaced repetition into your daily writing workflow boosts long-term retention, sharpens ideas, and improves your creative output."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -9,7 +9,7 @@ slug: "integrating-spaced-repetition-into-your-daily-writing-workflow"
 type: "informational"
 ---
 
-# How to Integrate Spaced Repetition into Your Daily Writing Workflow: 5-Step Guide
+# Integrate Spaced Repetition Into Your Daily Writing Workflow: 5-Step Guide
 
 > **Quick Answer:** Integrating spaced repetition into your daily writing workflow involves breaking down research and insights into atomic notes, scheduling them for periodic review using an algorithm-based system, and systematically synthesizing these resurfaced concepts into active writing projects. This approach ensures critical ideas remain at the top of your mind, ready to be deployed when drafting.
 

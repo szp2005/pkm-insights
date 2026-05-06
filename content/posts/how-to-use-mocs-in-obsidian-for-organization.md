@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-use-mocs-in-obsidian-for-organization.webp"
-title: "How to use MOCs in Obsidian for organization: 5-Step Guide"
+title: "Mocs in Obsidian for Organization: 5-Step Guide"
 description: "Learn how to use MOCs in Obsidian for organization with this complete step-by-step guide. Transform your messy vault into an intuitive knowledge system."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -9,7 +9,7 @@ slug: "how-to-use-mocs-in-obsidian-for-organization"
 type: "informational"
 ---
 
-# How to use MOCs in Obsidian for organization: 5-Step Guide
+# Mocs in Obsidian for Organization: 5-Step Guide
 
 > **Quick Answer:** To use MOCs (Maps of Content) in Obsidian for organization, create a central note that serves as an index or table of contents for a specific topic. Start with a "Home MOC" that links to broad categories, then build specialized sub-MOCs as your notes grow. This approach bridges the gap between rigid folder structures and chaotic backlink graphs, allowing you to curate your knowledge intentionally.
 

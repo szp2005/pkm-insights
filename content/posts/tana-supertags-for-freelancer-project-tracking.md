@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-supertags-for-freelancer-project-tracking.webp"
 title: "Tana Supertags for Freelancer Project Tracking: The Complete Guide"
 description: "Practical guide to tana supertags for freelancer project tracking: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"
@@ -325,3 +326,10 @@ Yes, you can track billable hours using Tana supertags. By adding a `time spent:
 
 ### What's the learning curve for Tana supertags?
 The learning curve for Tana
+
+---
+
+## Related Reading
+
+- [Tana AI for Researchers Premium Features: 2026 Complete Guide](/posts/tana-ai-for-researchers-premium-features/)
+- [Tana Commands for Automated Daily Notes: A Complete Setup Guide](/posts/tana-commands-for-automated-daily-note-setup/)

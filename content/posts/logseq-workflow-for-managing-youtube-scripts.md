@@ -1,4 +1,5 @@
 ---
+image: "/og/logseq-workflow-for-managing-youtube-scripts.webp"
 title: "Logseq Workflow for Managing YouTube Scripts: A Creator's Guide"
 description: "Discover an efficient Logseq workflow for managing YouTube scripts, from ideation to final draft. Streamline your content creation process and boost productivity."
 pubDate: "2026-05-06"
@@ -246,3 +247,10 @@ To manage multiple YouTube channels, you can add a `channel::` property to your 
 ### What if I prefer a visual script layout?
 
 Logseq is primarily a text-based outliner, focusing on content and structure rather than visual layout. While you can use custom CSS to slightly adjust the appearance, it won't replicate a dedicated visual scriptwriting application. For final visual formatting, it's best to export your Logseq script to Markdown and then import it into a specialized scriptwriting software or word processor for layout and formatting.
+
+---
+
+## Related Reading
+
+- [Logseq Theme for High Focus Deep Work: Optimizing Your Workflow](/posts/logseq-theme-for-high-focus-deep-work/)
+- [Structuring Complex Research Projects in Logseq: A Complete Guide](/posts/structuring-complex-research-projects-in-logseq/)

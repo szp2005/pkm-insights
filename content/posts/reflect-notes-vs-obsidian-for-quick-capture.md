@@ -1,4 +1,5 @@
 ---
+image: "/og/reflect-notes-vs-obsidian-for-quick-capture.webp"
 title: "Reflect Notes vs Obsidian: Which Is Better for Quick Capture?"
 description: "Practical guide to reflect notes vs obsidian for quick capture: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

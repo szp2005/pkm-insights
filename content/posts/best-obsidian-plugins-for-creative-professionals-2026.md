@@ -1,4 +1,5 @@
 ---
+image: "/og/best-obsidian-plugins-for-creative-professionals-2026.webp"
 title: "Best Obsidian Plugins for Creative Professionals in 2026"
 description: "Practical guide to best obsidian plugins for creative professionals 2026: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

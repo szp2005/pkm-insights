@@ -152,6 +152,8 @@ Arivu 允许数据导出，但它的价值主张是让你留在其生态系统�
 
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
 
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
+
 - [Tana vs Roam Research for Power Users: Which Is Better in 2026?](/posts/tana-vs-roam-research-for-power-users/)
 
 - [Tana vs Roam Research for Power Users: Which Is Better in 2026?](/posts/tana-vs-roam-research-for-power-users/)

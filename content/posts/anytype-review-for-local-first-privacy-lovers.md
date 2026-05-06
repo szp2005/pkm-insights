@@ -1,4 +1,5 @@
 ---
+image: "/og/anytype-review-local-first-privacy-lovers.webp"
 title: "Anytype Review for Local-First Privacy Lovers: A Deep Dive into Data Control"
 description: "Practical guide to anytype review for local first privacy lovers: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"
@@ -144,6 +145,8 @@ Yes, Anytype is open source. Its codebase is publicly available, allowing develo
 ---
 
 ## Related Reading
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
 
 - [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
 

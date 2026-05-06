@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-migrate-from-evernote-to-obsidian-2026.webp"
-title: "How to Migrate from Evernote to Obsidian 2026: 5-Step Guide"
+title: "Evernote to Obsidian 2026: 5-Step Guide"
 description: "Learn how to migrate from Evernote to Obsidian in 2026 with zero data loss. Follow our step-by-step guide to export ENEX files and set up your local vault."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -9,7 +9,7 @@ slug: "how-to-migrate-from-evernote-to-obsidian-2026"
 type: "informational"
 ---
 
-# How to Migrate from Evernote to Obsidian 2026: 5-Step Guide
+# Evernote to Obsidian 2026: 5-Step Guide
 
 > **Quick Answer:** To migrate from Evernote to Obsidian in 2026, first export your Evernote notebooks as ENEX files using the desktop application. Then, install Obsidian, create a new local vault, and use the official Obsidian Importer plugin to automatically convert your ENEX files into Markdown notes while preserving attachments and metadata. 
 

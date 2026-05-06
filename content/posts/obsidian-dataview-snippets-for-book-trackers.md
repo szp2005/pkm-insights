@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-dataview-snippets-for-book-trackers.webp"
 title: "Obsidian Dataview Snippets for Book Trackers: Master Your Reading"
 description: "Unlock powerful Obsidian Dataview snippets for book trackers to effortlessly manage your reading list, track progress, and gain insights into your literary journey."
 pubDate: "2026-05-06"

@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-build-a-second-brain.webp"
-title: "How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management"
+title: "Second Brain Setup: The Ultimate Guide to Personal Knowledge Management"
 description: "Discover how to build a Second Brain to organize your digital life, boost productivity, and unlock your creative potential using proven PKM frameworks."
 pubDate: 2026-04-30
 author: "Alex Chen"

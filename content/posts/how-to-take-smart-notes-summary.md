@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-take-smart-notes-summary.webp"
-title: "How to Take Smart Notes: A Comprehensive Summary and Practical Guide"
+title: "Take Smart Notes: A Comprehensive Summary and Practical Guide"
 description: "Master the Zettelkasten method with our in-depth summary of 'How to Take Smart Notes'. Learn practical techniques for better knowledge management and writing."
 pubDate: "2026-04-30"
 author: "Alex Chen"
@@ -149,6 +149,8 @@ In this system, you never start writing from scratch. When it's time to produce 
 Index notes (or Maps of Content) act as entry points into specific themes within your Zettelkasten. They are essentially tables of contents that link to clusters of related permanent notes, providing a "top-down" structure to the otherwise decentralized, bottom-up network.
 
 ## Related Reading
+
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
 
 - [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
 

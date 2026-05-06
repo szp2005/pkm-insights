@@ -1,4 +1,5 @@
 ---
+image: "/og/tana-commands-for-automated-daily-note-setup.webp"
 title: "Tana Commands for Automated Daily Notes: A Complete Setup Guide"
 description: "Master Tana commands for automated daily note setup, streamlining your knowledge management and ensuring consistent capture of thoughts and tasks with ease."
 pubDate: "2026-05-06"

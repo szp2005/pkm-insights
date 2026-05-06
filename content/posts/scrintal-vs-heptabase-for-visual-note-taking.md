@@ -1,4 +1,5 @@
 ---
+image: "/og/scrintal-vs-heptabase-for-visual-note-taking.webp"
 title: "Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?"
 description: "Practical guide to scrintal vs heptabase for visual note taking: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

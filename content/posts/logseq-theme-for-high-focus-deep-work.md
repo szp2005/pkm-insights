@@ -1,4 +1,5 @@
 ---
+image: "/og/logseq-theme-for-high-focus-deep-work.webp"
 title: "Logseq Theme for High Focus Deep Work: Optimizing Your Workflow"
 description: "Discover the ideal Logseq theme for high focus deep work, enhancing concentration and productivity. Learn to customize your Logseq environment for peak performance."
 pubDate: "2026-05-06"

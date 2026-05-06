@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-vault-templates-creative-professionals.webp"
 title: "Obsidian Vault Templates for Creative Professionals: Boost Your Workflow"
 description: "Discover the best Obsidian vault templates for creative professionals to streamline projects, manage ideas, and enhance productivity. Unlock your creative potential."
 pubDate: "2026-05-06"

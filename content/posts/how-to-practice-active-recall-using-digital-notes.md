@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-practice-active-recall-using-digital-notes.webp"
-title: "How to Practice Active Recall Using Digital Notes: 5-Step Guide"
+title: "Practice Active Recall Using Digital Notes: 5-Step Guide"
 description: "Learn how to practice active recall using digital notes to dramatically improve your memory retention and study efficiency. A complete 5-step framework."
 pubDate: "2026-05-02"
 author: "Alex Chen"
@@ -9,7 +9,7 @@ slug: "how-to-practice-active-recall-using-digital-notes"
 type: "informational"
 ---
 
-# How to Practice Active Recall Using Digital Notes: 5-Step Guide
+# Practice Active Recall Using Digital Notes: 5-Step Guide
 
 > **Quick Answer:** To practice active recall using digital notes, format your notes as questions rather than statements, use toggle lists to hide the answers, and test yourself on these questions regularly before reviewing the source material. Combining this self-testing method with a spaced repetition schedule will reliably transfer information into your long-term memory.
 

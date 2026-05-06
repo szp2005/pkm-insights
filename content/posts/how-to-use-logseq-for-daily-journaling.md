@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-use-logseq-for-daily-journaling.webp"
-title: "How to Use Logseq for Daily Journaling: 5-Step Guide"
+title: "Logseq for Daily Journaling: 5-Step Guide"
 description: "Discover how to use Logseq for daily journaling to organize your thoughts, track habits, and build a connected personal knowledge base without friction."
 pubDate: "2026-05-03"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Use Logseq for Daily Journaling: 5-Step Guide
+# Logseq for Daily Journaling: 5-Step Guide
 
 > **Quick Answer:** To use Logseq for daily journaling, open the default Journals page and treat the current date as an inbox for everything: thoughts, tasks, meeting notes, and habit tracking. By writing in outlines and liberally tagging topics using double brackets (`[[Topic]]`), your daily journal entries organically assemble a bottom-up, interconnected personal knowledge graph without requiring folders or rigid categorization beforehand.
 

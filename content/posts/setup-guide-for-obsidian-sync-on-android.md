@@ -1,5 +1,6 @@
 ---
-title: "How to Set Up Obsidian Sync on Android: A Complete Guide"
+image: "/og/setup-guide-for-obsidian-sync-on-android.webp"
+title: "Set Up Obsidian Sync on Android: A Complete Guide"
 description: "Master the setup guide for Obsidian Sync on Android to ensure your notes are always accessible, secure, and perfectly synchronized across all your devices."
 pubDate: "2026-05-06"
 author: "Alex Chen"
@@ -10,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Set Up Obsidian Sync on Android: A Complete Guide
+# Set Up Obsidian Sync on Android: A Complete Guide
 
 > **Quick Answer:** Setting up Obsidian Sync on Android involves ensuring you have an active Obsidian Sync subscription, installing the Obsidian app on your Android device, and then linking your mobile app to an existing synced vault or creating a new one through the Sync settings, followed by configuring folder and file synchronization preferences for optimal performance.
 
@@ -242,3 +243,10 @@ You can use the "Selective sync" feature within Obsidian's Sync settings. Naviga
 
 ### Is Obsidian Sync secure?
 Yes, Obsidian Sync is designed with security in mind. It uses end-to-end encryption, meaning your data is encrypted on your device before being uploaded to the remote server and remains encrypted until it is downloaded and decrypted on another of your authorized devices.
+
+---
+
+## Related Reading
+
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
+- [Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)

@@ -1,6 +1,6 @@
 ---
 image: "/og/what-is-personal-knowledge-management.webp"
-title: "What is Personal Knowledge Management (PKM)? The Ultimate Guide to Building Your Second Brain"
+title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
 description: "Discover the definition of Personal Knowledge Management (PKM), explore core methodologies like Zettelkasten and PARA, and learn practical steps to build."
 pubDate: "2026-04-30"
 author: "Alex Chen"

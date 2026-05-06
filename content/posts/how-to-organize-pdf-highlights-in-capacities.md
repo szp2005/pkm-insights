@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-organize-pdf-highlights-in-capacities.webp"
-title: "How to Organize PDF Highlights in Capacities: 5-Step Guide"
+title: "PDF Highlights in Capacities: 5-Step Guide"
 description: "Learn exactly how to organize PDF highlights in Capacities to build a connected knowledge base. Discover workflows for extracting, tagging, and linking annotations."
 pubDate: "2026-05-03"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Organize PDF Highlights in Capacities: 5-Step Guide
+# PDF Highlights in Capacities: 5-Step Guide
 
 > **Quick Answer:** To organize PDF highlights in Capacities, create a dedicated "Source" or "Paper" object type for your PDFs, import your annotations, and break down key insights into individual "Idea" or "Zettel" objects. Link these atomic notes back to the original source using bidirectional links, and use properties and tags to integrate them into your broader knowledge graph.
 
