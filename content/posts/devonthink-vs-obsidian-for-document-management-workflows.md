@@ -124,3 +124,9 @@ Natively, Obsidian provides a basic PDF viewer. To get advanced functionality li
 
 ### How secure is DEVONthink?
 Extremely secure. Your databases live entirely on your local machine. If you choose to sync your databases across devices, DEVONthink allows you to apply strong AES-256 encryption to the sync store, meaning even the cloud provider cannot read your data.
+
+---
+
+## Related Reading
+
+- [Mendeley vs Zotero for Obsidian Integration 2026: Ultimate Review](/posts/mendeley-vs-zotero-obsidian-integration-2026/)

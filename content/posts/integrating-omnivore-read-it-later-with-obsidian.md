@@ -1,4 +1,5 @@
 ---
+image: "/og/integrating-omnivore-read-it-later-with-obsidian.webp"
 title: "How to Integrate Omnivore Read It Later with Obsidian: A Complete Guide"
 description: "Practical guide to integrating omnivore read it later with obsidian: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"
@@ -33,3 +34,9 @@ Keep approvals on sensitive steps, log every run, and test with a small sample b
 ### How do you measure whether integrating omnivore read it later with obsidian is working?
 
 Track cycle time, skipped manual steps, error rate, and user follow-up questions. If the workflow saves time but creates confusion, simplify the handoff before adding more automation.
+
+---
+
+## Related Reading
+
+- [How to Share Your Obsidian Digital Garden Online: A Comprehensive Guide](/posts/how-to-share-your-obsidian-digital-garden-online/)

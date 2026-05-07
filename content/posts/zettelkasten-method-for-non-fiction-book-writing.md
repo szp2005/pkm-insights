@@ -131,6 +131,8 @@ No. Luhmann built his entire system using physical paper slips and wooden cabine
 
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
 
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
+
 - [How to Create a Zettelkasten Index in Obsidian: 5-Step Guide](/posts/how-to-create-a-zettelkasten-index-in-obsidian/)
 
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)

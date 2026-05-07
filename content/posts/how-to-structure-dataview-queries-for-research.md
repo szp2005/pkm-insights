@@ -257,4 +257,6 @@ No. Dataview is strictly a read-only plugin. It renders views based on your exis
 
 ## Related Reading
 
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
+
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

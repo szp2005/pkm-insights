@@ -1,4 +1,5 @@
 ---
+image: "/og/organizing-literature-notes-for-medical-school-students.webp"
 title: "How to Organize Literature Notes for Medical School: A Complete Guide"
 description: "Master the art of organizing literature notes for medical school students with this comprehensive guide, ensuring efficient study and retention of complex."
 pubDate: "2026-05-07"
@@ -253,3 +254,9 @@ To prevent information overload, prioritize your reading by focusing on highly r
 ### Should I take notes digitally or by hand in medical school?
 
 Both digital and analog note-taking methods have benefits. Digital tools offer superior searchability, linking capabilities, and storage for vast amounts of literature. Handwriting, however, has been shown to enhance memory retention and deeper processing. Many medical students find a hybrid approach most effective, using digital tools for initial capture and storage, and analog methods (like physical index cards or notebooks) for active processing, synthesis, and review.
+
+---
+
+## Related Reading
+
+- [PKM Coaching for PhD Students: Master Research & Thesis](/posts/personal-knowledge-management-coaching-for-phd-students/)

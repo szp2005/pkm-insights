@@ -1,4 +1,5 @@
 ---
+image: "/og/notion-vs-obsidian-managing-research-grants.webp"
 title: "Notion vs Obsidian: Which is Better for Managing Research Grants?"
 description: "Practical guide to notion vs obsidian for managing research grants: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"
@@ -164,3 +165,9 @@ Notion offers native integrations with many popular tools like Google Drive, Sla
 
 ### What's the learning curve for each tool?
 Notion has a moderate learning curve due to its flexibility; mastering its database features takes time, but basic note-taking is intuitive. Obsidian also has a moderate to steep learning curve, especially if you want to leverage its advanced linking, graph view, and extensive plugin ecosystem. Both require an investment of time to set up an optimal workflow.
+
+---
+
+## Related Reading
+
+- [Best Markdown Editors for Offline PKM in 2026](/posts/best-markdown-editors-for-offline-personal-knowledge-management/)

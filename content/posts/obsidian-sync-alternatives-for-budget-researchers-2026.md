@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-sync-alternatives-budget-researchers-2026.webp"
 title: "Best Obsidian Sync Alternatives for Budget Researchers 2026"
 description: "Practical guide to obsidian sync alternatives for budget researchers 2026: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"

@@ -1,4 +1,5 @@
 ---
+image: "/og/top-obsidian-themes-for-focused-academic-writing.webp"
 title: "Best Obsidian Themes for Focused Academic Writing in 2026"
 description: "Practical guide to top obsidian themes for focused academic writing: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"
@@ -187,3 +188,9 @@ Yes, most Obsidian themes can be customized. Many offer built-in options within 
 ### Do themes affect Obsidian's performance?
 Generally, Obsidian themes have a minimal impact on performance. Well-coded themes are lightweight and designed to work efficiently. However, themes with very complex animations or extensive custom scripts *could* theoretically have a slight impact, but this is rare and usually negligible.
 ```
+
+---
+
+## Related Reading
+
+- [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

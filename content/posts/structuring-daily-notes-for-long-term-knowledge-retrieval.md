@@ -1,4 +1,5 @@
 ---
+image: "/og/structuring-daily-notes-for-long-term-knowledge-retrieval.webp"
 title: "Structuring Daily Notes for Long-Term Knowledge Retrieval: A Complete Guide"
 description: "Practical guide to structuring daily notes for long term knowledge retrieval: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"
@@ -253,3 +254,9 @@ An atomic note is a single, self-contained unit of information that focuses on o
 ### How do I prevent my notes from becoming overwhelming?
 To prevent overwhelm, focus on consistent processing and organization. Implement a daily workflow to transform raw captures into structured notes, use clear tagging and linking, and regularly archive completed projects or less relevant information. Prioritize quality over quantity, ensuring each note adds value to your knowledge base.
 ```
+
+---
+
+## Related Reading
+
+- [How to Back Up Obsidian Vault Securely: A Comprehensive Guide](/posts/how-to-back-up-obsidian-vault-securely/)

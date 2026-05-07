@@ -1,4 +1,5 @@
 ---
+image: "/og/best-self-hosted-pkm-tools-for-data-privacy.webp"
 title: "Best Self-Hosted PKM Tools for Data Privacy in 2026"
 description: "Practical guide to best self hosted pkm tools for data privacy: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"
@@ -187,3 +188,9 @@ The technical skills required vary by tool. Many local-first tools like Obsidian
 
 ### Are open-source PKM tools inherently more private?
 Open-source software generally offers a privacy advantage because its code is publicly available for scrutiny. This transparency allows independent security researchers and the community to audit the application for vulnerabilities, backdoors, or privacy-compromising features. This fosters trust and ensures that privacy claims can be independently verified, unlike proprietary software which operates as a "black box."
+
+---
+
+## Related Reading
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)

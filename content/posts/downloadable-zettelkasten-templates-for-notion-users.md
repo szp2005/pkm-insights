@@ -1,4 +1,5 @@
 ---
+image: "/og/downloadable-zettelkasten-templates-for-notion-users.webp"
 title: "Downloadable Zettelkasten Templates for Notion: Your Complete Guide"
 description: "Practical guide to downloadable zettelkasten templates for notion users: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"
@@ -105,3 +106,11 @@ Regular review is crucial for a thriving Zettelkasten. It is generally recommend
 
 ### Do I need to understand Zettelkasten fully before using a template?
 While a basic understanding of Zettelkasten principles (atomicity, linking, permanence) is beneficial, you do not need to be an expert. Many downloadable Zettelkasten templates for Notion users come with introductory guides and examples that help you learn the method as you begin to use the system, making them excellent learning tools.
+
+---
+
+## Related Reading
+
+- [Physical Index Cards for Analog Zettelkasten: A Complete Setup Guide](/posts/physical-index-cards-analog-zettelkasten-setup/)
+
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)

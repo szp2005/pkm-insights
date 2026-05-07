@@ -191,6 +191,8 @@ This is the Luhmann ID method (e.g., `202605071430.md`), created by the inventor
 
 ## Related Reading
 
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+
 - [7 Best Custom Obsidian Plugins for Academic Researchers in 2026](/posts/custom-obsidian-plugins-for-academic-researchers/)
 
 - [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)

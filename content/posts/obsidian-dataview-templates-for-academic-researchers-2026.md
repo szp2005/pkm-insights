@@ -1,4 +1,5 @@
 ---
+image: "/og/obsidian-dataview-templates-academic-researchers-2026.webp"
 title: "Best Obsidian Dataview Templates for Academic Research 2026"
 description: "Practical guide to obsidian dataview templates for academic researchers 2026: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"

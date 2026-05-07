@@ -1,4 +1,5 @@
 ---
+image: "/og/physical-index-cards-analog-zettelkasten-setup.webp"
 title: "Physical Index Cards for Analog Zettelkasten: A Complete Setup Guide"
 description: "Practical guide to physical index cards for analog zettelkasten setup: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"
@@ -198,3 +199,9 @@ Keep approvals on sensitive steps, log every run, and test with a small sample b
 ### How do you measure whether physical index cards for analog zettelkasten setup is working?
 
 Track cycle time, skipped manual steps, error rate, and user follow-up questions. If the workflow saves time but creates confusion, simplify the handoff before adding more automation.
+
+---
+
+## Related Reading
+
+- [Downloadable Zettelkasten Templates for Notion: Your Complete Guide](/posts/downloadable-zettelkasten-templates-for-notion-users/)

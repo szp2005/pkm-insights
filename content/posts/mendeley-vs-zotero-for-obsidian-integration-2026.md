@@ -1,4 +1,5 @@
 ---
+image: "/og/mendeley-vs-zotero-obsidian-integration-2026.webp"
 title: "Mendeley vs Zotero for Obsidian Integration 2026: Ultimate Review"
 description: "Practical guide to mendeley vs zotero for obsidian integration 2026: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"
@@ -189,3 +190,9 @@ As of 2026, there are no official or widely adopted third-party plugins for Mend
 
 ### ### Which tool is better for collaborative research?
 Mendeley generally offers stronger built-in features for collaborative research, particularly its cloud-based group libraries and shared annotation capabilities. While Zotero also supports group libraries, its collaborative features might require more manual coordination or reliance on external file-sharing services for shared PDFs, especially if not using Zotero's paid cloud storage.
+
+---
+
+## Related Reading
+
+- [How to Organize Literature Notes for Medical School: A Complete Guide](/posts/organizing-literature-notes-for-medical-school-students/)

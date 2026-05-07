@@ -154,3 +154,9 @@ If using Zotero, you can sync PDFs via Zotero's cloud, but storage limits apply.
 
 ### Do I need to know LaTeX to use these tools?
 No. While citekeys (`@author2024`) originate from the LaTeX ecosystem, modern PKM tools use them simply as unique text strings for search and retrieval. You do not need to know LaTeX to use Zotero, generate citekeys, or link references within standard markdown files.
+
+---
+
+## Related Reading
+
+- [Best Obsidian Sync Alternatives for Budget Researchers 2026](/posts/obsidian-sync-alternatives-budget-researchers-2026/)

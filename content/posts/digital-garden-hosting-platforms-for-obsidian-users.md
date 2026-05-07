@@ -1,4 +1,5 @@
 ---
+image: "/og/digital-garden-hosting-platforms-for-obsidian-users.webp"
 title: "Best Digital Garden Hosting Platforms for Obsidian Users in 2026"
 description: "Discover the top digital garden hosting platforms for Obsidian users, ensuring seamless publication of your knowledge base with robust features and easy setup."
 pubDate: "2026-05-07"

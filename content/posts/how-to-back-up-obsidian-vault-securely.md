@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-back-up-obsidian-vault-securely.webp"
 title: "How to Back Up Obsidian Vault Securely: A Comprehensive Guide"
 description: "Learn how to back up your Obsidian vault securely with this comprehensive guide. Protect your valuable notes and ensure data integrity with robust backup strategies."
 pubDate: "2026-05-07"
@@ -280,3 +281,11 @@ The 3-2-1 backup rule suggests having at least three copies of your data, stored
 
 ### How do I restore my Obsidian vault from a backup?
 To restore your Obsidian vault, simply copy the backup folder from your chosen backup location (e.g., external drive, cloud folder, Git repository) to your desired location on your computer. Then, open Obsidian and use the "Open another vault" option to select the restored folder. If restoring from Git, you would clone the repository.
+
+---
+
+## Related Reading
+
+- [Structuring Daily Notes for Long-Term Knowledge Retrieval: A Complete Guide](/posts/structuring-daily-notes-for-long-term-knowledge-retrieval/)
+
+- [Best Digital Garden Hosting Platforms for Obsidian Users in 2026](/posts/digital-garden-hosting-platforms-for-obsidian-users/)

@@ -163,6 +163,8 @@ No. Markdown is an open, standardized plain-text format. A file created in Zettl
 
 ## Related Reading
 
+- [Best Obsidian Themes for Focused Academic Writing in 2026](/posts/top-obsidian-themes-for-focused-academic-writing/)
+
 - [Writing Literature Notes for Scientific Publications: 5-Step System](/posts/writing-literature-notes-for-scientific-publications/)
 
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

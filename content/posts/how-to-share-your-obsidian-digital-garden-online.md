@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-share-your-obsidian-digital-garden-online.webp"
 title: "How to Share Your Obsidian Digital Garden Online: A Comprehensive Guide"
 description: "Practical guide to how to share your obsidian digital garden online: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"
@@ -235,3 +236,11 @@ When you share your digital garden, any notes you publish become publicly access
 
 ### Do I need to know how to code to share my Obsidian digital garden online?
 Not necessarily. While static site generators (Hugo, Jekyll, Eleventy) offer the most control and often require some familiarity with command-line tools and basic web development concepts, solutions like Obsidian Publish require no coding whatsoever. Quartz and Perlite sit in the middle, requiring some initial setup involving Node.js and Git, but generally less deep coding knowledge than building an SSG theme from scratch.
+
+---
+
+## Related Reading
+
+- [How to Integrate Omnivore Read It Later with Obsidian: A Complete Guide](/posts/integrating-omnivore-read-it-later-with-obsidian/)
+
+- [Devonthink vs Obsidian for Academic Literature Review: Which is Best?](/posts/devonthink-vs-obsidian-academic-literature-review/)

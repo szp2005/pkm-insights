@@ -1,4 +1,5 @@
 ---
+image: "/og/devonthink-vs-obsidian-academic-literature-review.webp"
 title: "Devonthink vs Obsidian for Academic Literature Review: Which is Best?"
 description: "Practical guide to devonthink vs obsidian for academic literature review: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"
@@ -236,3 +237,9 @@ Obsidian is exceptionally well-suited for the Zettelkasten methodology due to it
 ### What are the main privacy considerations for each?
 
 Devonthink stores your data locally in encrypted databases, giving you full control over your information. Syncing can be done via various services, including your own local network. Obsidian stores your notes as local Markdown files. For syncing, you can use their encrypted Obsidian Sync service or choose your own third-party cloud provider, in which case the privacy depends on that provider's policies. Both tools prioritize local control of your data.
+
+---
+
+## Related Reading
+
+- [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)

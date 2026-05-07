@@ -392,4 +392,6 @@ Since Dataview queries are rendered dynamically within Obsidian, you cannot dire
 
 ## Related Reading
 
+- [Best Obsidian Dataview Templates for Academic Research 2026](/posts/obsidian-dataview-templates-academic-researchers-2026/)
+
 - [Tana Commands for Automated Daily Notes: A Complete Setup Guide](/posts/tana-commands-for-automated-daily-note-setup/)

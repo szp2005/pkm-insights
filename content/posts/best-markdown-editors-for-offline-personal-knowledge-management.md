@@ -1,4 +1,5 @@
 ---
+image: "/og/best-markdown-editors-for-offline-personal-knowledge-management.webp"
 title: "Best Markdown Editors for Offline PKM in 2026"
 description: "Discover the best Markdown editors for offline personal knowledge management (PKM). Organize your thoughts, notes, and ideas securely without an internet connection."
 pubDate: "2026-05-07"
@@ -184,3 +185,9 @@ Absolutely. Many of the most powerful and feature-rich Markdown editors for PKM,
 
 ### What's the difference between a Markdown editor and a note-taking app?
 A Markdown editor is specifically designed for creating and editing text files using Markdown syntax, often focusing on a clean writing experience and local file storage. A general note-taking app might offer more proprietary features, rich text editing, and often relies on cloud-based storage, potentially locking your data into their ecosystem. Markdown editors prioritize plain text and user control over data.
+
+---
+
+## Related Reading
+
+- [Notion vs Obsidian: Which is Better for Managing Research Grants?](/posts/notion-vs-obsidian-managing-research-grants/)

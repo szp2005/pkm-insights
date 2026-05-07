@@ -1,4 +1,5 @@
 ---
+image: "/og/personal-knowledge-management-coaching-for-phd-students.webp"
 title: "PKM Coaching for PhD Students: Master Research & Thesis"
 description: "Discover how personal knowledge management coaching for PhD students can transform your research process, reduce overwhelm, and accelerate thesis completion."
 pubDate: "2026-05-07"
