@@ -129,7 +129,7 @@ No. Luhmann built his entire system using physical paper slips and wooden cabine
 
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
 
-- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First [Knowledge Management](/posts/knowledge-management-strategies-for-students/)?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
 

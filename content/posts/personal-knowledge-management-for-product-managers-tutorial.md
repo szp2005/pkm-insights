@@ -124,4 +124,4 @@ No. Attempting a massive migration of legacy notes usually causes project abando
 ## Related Reading
 
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)
-- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and [Zettelkasten](/posts/zettelkasten-method-explained/)](/posts/atomic-notes-writing-guide/)
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)

@@ -153,4 +153,4 @@ In practice, they serve the same function. "Index" usually refers to the absolut
 
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)
 
-- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First [Knowledge Management](/posts/knowledge-management-strategies-for-students/)?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

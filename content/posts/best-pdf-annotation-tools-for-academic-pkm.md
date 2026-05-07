@@ -161,4 +161,4 @@ No. A combination of Zotero (for PDF storage and reading) and Obsidian or Logseq
 ## Related Reading
 
 - [Connecting Ideas in Obsidian: Best Methods Complete Guide](/posts/connecting-ideas-in-obsidian-best-methods/)
-- [Digital [Note-Taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) Strategies for [Productivity](/posts/personal-knowledge-management-tools-comparison/): The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)

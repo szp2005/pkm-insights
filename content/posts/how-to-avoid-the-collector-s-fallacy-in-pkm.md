@@ -130,5 +130,5 @@ Recognize that the anxiety is the FOMO speaking. You did not lose 800 pieces of 
 
 - [How to Build a Digital Commonplace Book: A Step-by-Step Guide](/posts/how-to-build-a-digital-commonplace-book/)
 
-- [Digital [Note-Taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
+- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)

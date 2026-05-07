@@ -155,6 +155,6 @@ Avoid copying a complex system before you understand the problem you are solving
 ## Related Reading
 
 - [The Transformative Benefits of a Personal Knowledge Management System](/posts/benefits-of-a-personal-knowledge-management-system/)
-- [How to Build a [Second Brain](/posts/personal-knowledge-management-tools-comparison/): The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
+- [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
-- [Second Brain vs [Zettelkasten](/posts/zettelkasten-method-explained/) Method: The Ultimate Guide to Personal Knowledge Management](/posts/second-brain-vs-zettelkasten-method/)
+- [Second Brain vs Zettelkasten Method: The Ultimate Guide to Personal Knowledge Management](/posts/second-brain-vs-zettelkasten-method/)

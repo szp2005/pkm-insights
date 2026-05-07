@@ -180,4 +180,4 @@ Heptabase excels for projects that are research-heavy, require significant ideat
 
 ## Related Reading
 
-- [[Obsidian](/posts/what-is-personal-knowledge-management/) Vault Templates for Creative Professionals: Boost Your Workflow](/posts/obsidian-vault-templates-creative-professionals/)
+- [Obsidian Vault Templates for Creative Professionals: Boost Your Workflow](/posts/obsidian-vault-templates-creative-professionals/)

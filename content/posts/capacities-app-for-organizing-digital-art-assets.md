@@ -43,5 +43,5 @@ Track cycle time, skipped manual steps, error rate, and user follow-up questions
 
 ## Related Reading
 
-- [[Obsidian](/posts/what-is-personal-knowledge-management/) Vault Templates for Creative Professionals: Boost Your Workflow](/posts/obsidian-vault-templates-creative-professionals/)
+- [Obsidian Vault Templates for Creative Professionals: Boost Your Workflow](/posts/obsidian-vault-templates-creative-professionals/)
 - [Best Obsidian Plugins for Creative Professionals in 2026](/posts/best-obsidian-plugins-for-creative-professionals-2026/)

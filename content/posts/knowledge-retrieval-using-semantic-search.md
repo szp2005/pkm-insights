@@ -170,4 +170,4 @@ Yes. You can implement entirely private knowledge retrieval using open-source em
 ## Related Reading
 
 - [How to Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)
-- [How to Build a [Second Brain](/posts/what-is-personal-knowledge-management/): The Ultimate Guide to [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/)](/posts/how-to-build-a-second-brain/)
+- [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)

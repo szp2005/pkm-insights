@@ -165,5 +165,5 @@ Change the YAML frontmatter status from `active` to `on-hold` or `someday`. Upda
 
 ## Related Reading
 
-- [Getting Things Done for Knowledge Workers: A Masterclass in Modern [Productivity](/posts/zettelkasten-method-explained/)](/posts/getting-things-done-for-knowledge-workers/)
+- [Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity](/posts/getting-things-done-for-knowledge-workers/)
 - [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)

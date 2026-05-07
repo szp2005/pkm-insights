@@ -178,5 +178,5 @@ Spaced repetition involves reviewing your reading notes at increasing intervals 
 
 - [Mastering Memory: Best Practices for Knowledge Retention](/posts/best-practices-for-knowledge-retention/)
 - [How to Connect Ideas in Obsidian Notes: A Masterclass in Knowledge Management](/posts/how-to-connect-ideas-in-obsidian-notes/)
-- [Getting Things Done for Knowledge Workers: A Masterclass in Modern [Productivity](/posts/zettelkasten-method-explained/)](/posts/getting-things-done-for-knowledge-workers/)
+- [Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity](/posts/getting-things-done-for-knowledge-workers/)
 - [The Transformative Benefits of a Personal Knowledge Management System](/posts/benefits-of-a-personal-knowledge-management-system/)

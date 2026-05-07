@@ -124,7 +124,7 @@ For long-form writing, the theme uses rounded UI elements and slightly tighter l
 **Price:** Free
 **Rating:** 4.5/5
 
-The Dracula theme is a ubiquitous presence across developer [tools](/posts/personal-knowledge-management-tools-comparison/), but its Logseq port is surprisingly effective for [creative writing](/posts/bi-directional-linking-for-creative-writing-[workflows](/posts/getting-things-done-for-knowledge-workers/)/). It uses a specific palette of dark purples, pinks, and cyans that manage to be vibrant without being blinding. 
+The Dracula theme is a ubiquitous presence across developer [tools](/posts/personal-knowledge-management-tools-comparison/), but its Logseq port is surprisingly effective for [creative writing](/posts/bi-directional-linking-for-creative-writing-workflows/). It uses a specific palette of dark purples, pinks, and cyans that manage to be vibrant without being blinding. 
 
 For writers working in low-light environments, Dracula provides a backdrop that is significantly less fatiguing than default dark modes. The bright accent colors make it incredibly easy to spot tags, links, and highlights when reviewing your draft, though the main body text remains a comfortable, readable off-white.
 

@@ -150,5 +150,5 @@ The key is the `highlight_note` variable. If you only export raw highlights with
 
 ## Related Reading
 
-- [Four-Layer Stack for PKM Optimization Complete Guide: Build Your [Second Brain](/posts/what-is-personal-knowledge-management/)](/posts/four-layer-stack-for-pkm-optimization/)
-- [[Zettelkasten](/posts/zettelkasten-method-explained/) Method for Academic Writers: A Complete 5-Step Guide](/posts/zettelkasten-method-for-academic-writers/)
+- [Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain](/posts/four-layer-stack-for-pkm-optimization/)
+- [Zettelkasten Method for Academic Writers: A Complete 5-Step Guide](/posts/zettelkasten-method-for-academic-writers/)

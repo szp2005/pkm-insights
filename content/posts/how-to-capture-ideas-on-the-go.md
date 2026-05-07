@@ -112,7 +112,7 @@ Use intermediary apps that support APIs or webhooks. Apps like Drafts or iOS Sho
 
 ## Related Reading
 
-- [Differences Between Fleeting and Permanent Notes Explained: Complete Guide to [Knowledge Management](/posts/knowledge-management-strategies-for-students/)](/posts/differences-between-fleeting-and-permanent-notes-explained/)
+- [Differences Between Fleeting and Permanent Notes Explained: Complete Guide to Knowledge Management](/posts/differences-between-fleeting-and-permanent-notes-explained/)
 
 - [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
 

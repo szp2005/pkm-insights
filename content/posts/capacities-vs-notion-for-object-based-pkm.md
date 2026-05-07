@@ -138,5 +138,5 @@ Capacities is generally better suited for academic research due to its frictionl
 
 ## Related Reading
 
-- [Digital Garden vs [Second Brain](/posts/what-is-personal-knowledge-management/): What's the Difference and Which is Right for You?](/posts/digital-garden-vs-second-brain-difference/)
+- [Digital Garden vs Second Brain: What's the Difference and Which is Right for You?](/posts/digital-garden-vs-second-brain-difference/)
 - [Evergreen Notes: Definition, Principles, and Practical Examples](/posts/evergreen-notes-definition-and-examples/)

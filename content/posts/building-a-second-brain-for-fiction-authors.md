@@ -125,10 +125,10 @@ Contemporary authors benefit equally from a second brain. Instead of magic syste
 
 ## Related Reading
 
-- [[Zettelkasten](/posts/zettelkasten-method-explained/) Method for Non-Fiction Book Writing: 5-Step Guide](/posts/zettelkasten-method-for-non-fiction-book-writing/)
+- [Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide](/posts/zettelkasten-method-for-non-fiction-book-writing/)
 
 - [Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide](/posts/zettelkasten-method-for-non-fiction-book-writing/)
 
 - [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
 
-- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

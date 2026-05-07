@@ -159,7 +159,7 @@ Avoid copying a complex system before you understand the problem you are solving
 - [The Ultimate Guide to Using a Second Brain for Boosting Creativity](/posts/second-brain-for-boosting-creativity/)
 - [Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain](/posts/personal-knowledge-management-tools-comparison/)
 - [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
-- [Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) vs Obsidian: The Ultimate Comparison for Networked Thought](/posts/roam-research-vs-obsidian-comparison/)
+- [Roam Research vs Obsidian: The Ultimate Comparison for Networked Thought](/posts/roam-research-vs-obsidian-comparison/)
 gement Tools Comparison: Finding Your Ultimate Second Brain](/posts/personal-knowledge-management-tools-comparison/)
 - [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
 - [Roam Research vs Obsidian: The Ultimate Comparison for Networked Thought](/posts/roam-research-vs-obsidian-comparison/)
