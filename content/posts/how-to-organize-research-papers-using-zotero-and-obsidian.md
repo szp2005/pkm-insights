@@ -11,7 +11,7 @@ type: "informational"
 
 # How to Organize Research Papers Using Zotero and [Obsidian](/posts/what-is-personal-knowledge-management/): 5-Step Guide
 
-> **Quick Answer:** To organize research papers using Zotero and Obsidian, use Zotero to manage PDFs and citations, install the Better BibTeX plugin to generate citekeys, and use Obsidian's Zotero Integration plugin to import your highlights and metadata. This creates a pipeline where reference material lives in Zotero, while active reading notes and knowledge synthesis happen in your Obsidian vault.
+> **Quick Answer:** To organize research papers using Zotero and Obsidian, use Zotero to manage PDFs and citations, install the Better BibTeX plugin to generate citekeys, and use Obsidian's [Zotero Integration](/posts/logseq-for-journal-article-summaries-workflow/) plugin to import your highlights and metadata. This creates a pipeline where reference material lives in Zotero, while active reading notes and knowledge synthesis happen in your Obsidian vault.
 
 Managing a growing library of academic papers often feels like wrestling with a chaotic filing cabinet. You highlight a PDF, close the file, and months later, you cannot remember where you found a specific argument. Traditional reference managers handle citations well but fail at helping you connect ideas. [Note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) apps let you write freely but lack rigorous bibliographic control. 
 
@@ -53,7 +53,7 @@ You will also need to establish a template for your literature notes. Obsidian's
 
 Having a standardized structure ensures that every time you query your vault for a specific author or tag, the formatting remains consistent and searchable.
 
-## Step 3: Bridging the Gap with Zotero Integration Plugins
+## Step 3: Bridging the Gap with Zotero Integration [Plugins](/posts/logseq-plugins-for-scientific-research-efficiency/)
 
 To move data from Zotero to Obsidian without manual copying and pasting, you need a community plugin. The most robust tool for this task is the Obsidian Zotero Integration plugin (formerly known as Zotero Desktop Connector).
 
@@ -89,7 +89,7 @@ Next, review the imported highlights. Create links to broader concepts in your v
 
 Finally, extract the most critical insights into standalone notes, often called permanent notes or [Zettelkasten](/posts/zettelkasten-method-explained/) notes. If a specific highlight represents a massive shift in how you view a topic, do not leave it buried in the `chen2024` literature note. Create a new note titled with a declarative statement (e.g., `Neural networks struggle with out-of-distribution generalization`), write your thoughts on that specific concept, and link back to `[[chen2024]]` as the source.
 
-This practice builds a web of interconnected ideas. When you look at your note on `Neural networks`, you will see backlinks from dozens of different papers, giving you an immediate outline for a literature review.
+This practice builds a web of interconnected ideas. When you look at your note on `Neural networks`, you will see backlinks from dozens of different papers, giving you an immediate outline for a [literature review](/posts/logseq-for-academic-literature-reviews/).
 
 ## Common Pitfalls and How to Avoid Them
 

@@ -52,7 +52,7 @@ Do not attempt to format or categorize these notes. If you are reading and have 
 
 ## Step 2: Process Literature Notes with Precision
 
-Highlighting text gives the illusion of learning without the work of understanding. To build a manuscript, you must transition from passive consumption to active translation.
+Highlighting text gives the illusion of [learning](/posts/how-to-remember-what-you-read-effectively/) without the work of understanding. To build a manuscript, you must transition from passive consumption to active translation.
 
 When reviewing your sources, create literature notes. Keep them brief. Limit yourself to one or two sentences per concept. If an author spends ten pages explaining a psychological study, your literature note should distill the methodology and conclusion into a single paragraph.
 

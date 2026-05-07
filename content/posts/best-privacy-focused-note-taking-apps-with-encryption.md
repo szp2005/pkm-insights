@@ -44,7 +44,7 @@ Security experts generally favor open-source applications. When the underlying c
 
 Standard Notes is the benchmark for secure note-taking. It is a fully open-source, cross-platform application built entirely around zero-knowledge encryption. Everything you enter—from text and tags to attached files—is encrypted on your device using XChaCha20-Poly1305 encryption before being synced to their servers. The interface is intentionally minimalist, prioritizing speed, stability, and security over complex formatting features in its base version. 
 
-For users who need more than plain text, the paid "[Productivity](/posts/zettelkasten-method-explained/)" and "Professional" tiers unlock sophisticated editors (including Markdown, rich text, and spreadsheets), two-factor authentication, and automated encrypted backups to third-party services like Google Drive or Dropbox. Standard Notes undergoes regular third-party security audits, providing peace of mind that their cryptographic claims are accurate. Recently acquired by Proton, the app remains committed to its independent, open-source, and E2EE principles while integrating into a broader privacy ecosystem.
+For users who need more than plain text, the paid "[Productivity](/posts/zettelkasten-method-explained/)" and "Professional" tiers unlock sophisticated editors (including Markdown, rich text, and spreadsheets), two-factor authentication, and automated encrypted backups to third-party services like [Google Drive](/posts/using-the-para-method-in-google-drive/) or Dropbox. Standard Notes undergoes regular third-party security audits, providing peace of mind that their cryptographic claims are accurate. Recently acquired by Proton, the app remains committed to its independent, open-source, and E2EE principles while integrating into a broader privacy ecosystem.
 
 **Pros:**
 - Uncompromising zero-knowledge, end-to-end encryption by default
@@ -122,7 +122,7 @@ What makes Joplin exceptionally appealing is its sync flexibility. You can use t
 
 ### 5. Anytype
 
-**Best for:** Decentralized architecture and Notion alternatives
+**Best for:** Decentralized architecture and [Notion](/posts/second-brain-dashboard-for-notion-power-users/) alternatives
 **Price:** $0 - $100/year
 **Rating:** 4.4/5
 

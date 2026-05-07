@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # The Ultimate Guide: Building a PKM System from Scratch
 
-> **Quick Answer:** Building a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system starts with choosing a central tool like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/) to store your notes. Next, establish a simple capture habit to easily record ideas and information as you consume them. Finally, develop a consistent organization method, such as the PARA framework, to retrieve and connect your knowledge when you need it.
+> **Quick Answer:** Building a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system starts with choosing a central tool like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/) to store your notes. Next, establish a simple capture habit to easily record ideas and information as you consume them. Finally, develop a consistent [organization](/posts/para-method-for-digital-organization/) method, such as the PARA framework, to retrieve and connect your knowledge when you need it.
 
 In an era characterized by relentless information velocity, our brains are constantly bombarded with podcasts, articles, tweets, newsletters, and books. We consume an unprecedented amount of data, yet we retain shockingly little. This is where Personal Knowledge Management (PKM) becomes not just a [productivity](/posts/zettelkasten-method-explained/) hack, but a cognitive necessity. 
 
@@ -31,7 +31,7 @@ Ask yourself: **What is the primary output of my life or work?**
 
 *   **The Writer/Creator:** Your system should [focus](/posts/managing-digital-information-overload-tips/) on generating ideas, connecting disparate concepts, and streamlining the drafting process.
 *   **The Project Manager/Executive:** Your system must prioritize task execution, team updates, meeting minutes, and quick retrieval of project specs.
-*   **The Researcher/Student:** Your system needs robust citation management, deep linking capabilities, and structured literature reviews.
+*   **The Researcher/Student:** Your system needs robust [citation management](/posts/tana-workspace-for-managing-academic-citations/), deep linking capabilities, and structured literature reviews.
 
 Your "Why" dictates your architecture. If you are building an outcome-oriented system, you will structure your notes around active projects. If you are building a serendipity-oriented system, you will structure your notes around concepts and networked links.
 
@@ -69,7 +69,7 @@ The most common mistake when building a PKM system from scratch is obsessing ove
 
 1.  **Obsidian:** The reigning champion for networked thought. It operates on local Markdown files (meaning you own your data forever), boasts a massive community plugin ecosystem, and visualizes your notes as a dynamic graph. It is highly customizable, making it perfect for Zettelkasten and MoC methodologies.
 2.  **Notion:** The ultimate block-based sandbox. Notion is less about networked thought and more about databases, kanban boards, and structured layouts. It is fantastic for the PARA method and managing complex, multi-faceted projects, though it can become sluggish with massive amounts of text.
-3.  **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** A [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first, open-source outliner. If you think in bullet points and daily journals, Logseq is unparalleled. It heavily utilizes bi-directional linking and block-level references, making it incredibly powerful for daily logging and rapid capture.
+3.  **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** A [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first, open-source outliner. If you think in bullet points and daily journals, Logseq is unparalleled. It heavily utilizes [bi-directional linking](/posts/bi-directional-linking-for-creative-writing-workflows/) and block-level references, making it incredibly powerful for daily logging and rapid capture.
 4.  **Apple Notes / Evernote / Bear:** The traditionalists. They lack the robust networked thought capabilities of newer apps, but they excel in simplicity, frictionless capture, and reliable synchronization.
 
 **Expert Advice:** Start simple. If you are truly building a PKM system from scratch, pick Obsidian or Apple Notes. Commit to it for at least 90 days before considering a migration. Tool-hopping is the enemy of momentum.

@@ -13,13 +13,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Logseq for Journal Article Summaries Workflow: 5-Step Guide
 
-> **Quick Answer:** The ideal Logseq for journal article summaries workflow combines Zotero for reference management, the Logseq Zotero plugin for automated metadata extraction, and Logseq's native PDF reader. By extracting highlights as block references and applying a structured literature note template, you create a bidirectional link between your reading summaries and your original [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), allowing for seamless academic synthesis.
+> **Quick Answer:** The ideal Logseq for journal article summaries workflow combines [Zotero](/posts/logseq-for-academic-literature-reviews/) for reference management, the Logseq Zotero plugin for automated metadata extraction, and Logseq's native PDF reader. By extracting highlights as block references and applying a structured literature note template, you create a bidirectional link between your reading summaries and your original [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), allowing for seamless academic synthesis.
 
 Processing academic literature is often a disjointed experience. Researchers frequently find themselves with a folder full of cryptically named PDFs, a separate reference manager holding metadata, and a word processor containing disconnected summaries. When it comes time to write a literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) or synthesize arguments, locating the exact source of a specific claim becomes an exercise in frustration. 
 
 A [local-first](/posts/anytype-review-local-first-privacy-lovers/), outliner-based [personal knowledge management](/posts/digital-decluttering-for-information-overload/) system solves this fragmentation. Implementing a standardized Logseq for journal article summaries workflow eliminates friction between reading, summarizing, and [writing](/posts/atomic-notes-writing-guide/). Because Logseq operates on a block-level architecture rather than a page-level architecture, every individual highlight, critique, or summary bullet point becomes an independent node that can be referenced, queried, and embedded anywhere in your graph.
 
-This guide outlines a highly structured, five-step workflow for ingesting, annotating, and summarizing journal articles in Logseq, complete with tool configurations and exact templates.
+This guide outlines a highly structured, five-step workflow for ingesting, annotating, and summarizing journal articles in Logseq, complete with tool configurations and exact [templates](/posts/logseq-templates-for-doctoral-research-students/).
 
 ## Why Logseq Excels at Academic Reading
 

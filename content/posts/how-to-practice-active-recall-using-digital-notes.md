@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** To practice active recall using digital notes, format your notes as questions rather than statements, use toggle lists to hide the answers, and test yourself on these questions regularly before reviewing the source material. Combining this self-testing method with a [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) schedule will reliably transfer information into your long-term memory.
 
-The traditional method of studying—reading a textbook, highlighting key phrases, and passively reviewing notes—is highly inefficient. Cognitive science has repeatedly demonstrated that retrieving information from your brain, rather than repeatedly putting it in, is the most robust mechanism for learning. This process, known as active recall, forces your neural pathways to strengthen, making the information easier to access in the future. 
+The traditional method of studying—reading a textbook, highlighting key phrases, and passively reviewing notes—is highly inefficient. Cognitive science has repeatedly demonstrated that retrieving information from your brain, rather than repeatedly putting it in, is the most robust mechanism for [learning](/posts/how-to-remember-what-you-read-effectively/). This process, known as active recall, forces your neural pathways to strengthen, making the information easier to access in the future. 
 
 However, many learners struggle to implement active recall effectively in the digital age. When you have infinite scrolling documents and robust search functions, the friction required to naturally test yourself disappears. The convenience of digital [note-taking](/posts/zettelkasten-method-explained/) applications often encourages passive consumption over active engagement.
 
@@ -29,7 +29,7 @@ Digital tools excel at this because they allow for dynamic formatting. Unlike a 
 
 ## Step 1: Structure Your Notes as Questions
 
-The foundational rule of practicing active recall with digital notes is to abandon the standard bullet-point hierarchy. Instead of writing statements, write questions. This is often referred to as the Q&A method.
+The foundational rule of practicing active recall with digital notes is to abandon the standard bullet-point hierarchy. Instead of [writing](/posts/atomic-notes-writing-guide/) statements, write questions. This is often referred to as the Q&A method.
 
 When reading a lecture slide or a book chapter, do not copy the definitions. Instead, translate the core concept into a prompt. 
 
@@ -42,7 +42,7 @@ An active recall note would read:
 * What is the primary function of mitochondria?
 * What is the structural defining characteristic of a mitochondrion?
 
-By formatting your notes this way, you immediately create a testing environment. When you return to review the material, you are not reading facts; you are taking a quiz. This requires slightly more cognitive effort upfront, but it eliminates the need to create separate study materials later.
+By formatting your notes this way, you immediately create a testing environment. When you return to [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) the material, you are not reading facts; you are taking a quiz. This requires slightly more cognitive effort upfront, but it eliminates the need to create separate study materials later.
 
 ## Step 2: Utilize Togglable Elements to Hide Answers
 

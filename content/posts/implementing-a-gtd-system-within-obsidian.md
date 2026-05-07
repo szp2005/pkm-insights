@@ -28,7 +28,7 @@ Create the following root-level directories in your Obsidian vault:
 *   **03_Areas:** Spheres of ongoing responsibility (e.g., Health, Finances, Home Maintenance) that do not have a defined end date.
 *   **04_Resources:** Reference materials, manuals, and notes organized by topic.
 *   **05_Archive:** Completed projects and inactive reference materials. 
-*   **06_System:** Templates, Dataview scripts, and attachment folders.
+*   **06_System:** [Templates](/posts/logseq-templates-for-doctoral-research-students/), Dataview scripts, and attachment folders.
 
 This structure closely mirrors the [PARA method](/posts/using-the-para-method-in-google-drive/) (Projects, Areas, Resources, Archive), which pairs flawlessly with GTD. The strict separation ensures that when you sit down to execute tasks, you are only looking at the `02_Projects` and `03_Areas` folders, keeping your workspace clean.
 

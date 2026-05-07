@@ -35,7 +35,7 @@ When building an ontology, your first task is defining your taxonomy. Instead of
 This seemingly small shift has massive implications. By classifying information by its type, you can assign specific properties to each category. A `Book` object can have properties for "Author," "Publication Year," and "Reading Status," while a `Meeting` object has properties for "Date," "Attendees," and "Action Items."
 
 ### Properties as Relational Connectors
-Properties are the connective tissue of your ontology. While backlinks (wiki-links) are useful for inline context, properties allow for structured data relationships. If every `Book` object requires you to link an `Author` object, you are inherently building a graph of relationships. Over time, navigating to an `Author` will automatically display every `Book` you've logged by them, without any manual curation required.
+Properties are the connective tissue of your ontology. While backlinks (wiki-links) are useful for inline context, properties allow for [structured data](/posts/tana-ai-features-for-structured-data-entry/) relationships. If every `Book` object requires you to link an `Author` object, you are inherently building a graph of relationships. Over time, navigating to an `Author` will automatically display every `Book` you've logged by them, without any manual curation required.
 
 ## Designing Your Core Research Ontology
 

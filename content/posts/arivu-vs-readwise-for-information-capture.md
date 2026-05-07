@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Building a reliable system to capture information is the foundation of any effective [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) workflow. Without a solid capture habit, the articles you read, the podcasts you listen to, and the books you highlight vanish into the digital ether.
 
-For years, the gold standard for saving and resurfacing insights has been established by a few dominant players in the space. However, the rise of AI-native tools has fractured the market, creating two distinct philosophies for how we should handle incoming information. Do you want a rigorous system that forces you to review your highlights, or an intelligent assistant that automatically synthesizes everything you encounter?
+For years, the gold standard for saving and resurfacing insights has been established by a few dominant players in the space. However, the rise of AI-native [tools](/posts/how-to-build-a-second-brain/) has fractured the market, creating two distinct philosophies for how we should handle incoming information. Do you want a rigorous system that forces you to [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) your highlights, or an intelligent assistant that automatically synthesizes everything you encounter?
 
 This comparison breaks down Arivu and Readwise, analyzing their capture mechanisms, integration ecosystems, and pricing models to help you choose the right foundational tool for your [second brain](/posts/what-is-personal-knowledge-management/).
 
@@ -33,7 +33,7 @@ Arivu operates on the principle of semantic synthesis. It functions as an active
 
 ### 1. Readwise
 
-**Best for:** Avid readers, researchers, and users deeply invested in established [note-taking](/posts/digital-garden-vs-second-brain-difference/) tools like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or Notion.
+**Best for:** Avid readers, researchers, and users deeply invested in established [note-taking](/posts/digital-garden-vs-second-brain-difference/) tools like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/).
 **Price:** $4.49-$7.99/month
 **Rating:** 4.8/5
 

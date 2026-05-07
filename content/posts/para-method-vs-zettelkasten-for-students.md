@@ -64,7 +64,7 @@ The Zettelkasten system demands that every piece of information you consume is p
 - Eliminates writer's block by providing a pre-linked sequence of logical arguments
 
 **Cons:**
-- High learning curve that requires strict discipline and daily maintenance
+- High [learning](/posts/how-to-remember-what-you-read-effectively/) curve that requires strict discipline and daily maintenance
 - Time-consuming to process, rewrite, and manually link every individual concept
 
 ## Which System Should You Choose Based on Your Major?
@@ -80,12 +80,12 @@ If you are majoring in history, philosophy, literature, sociology, or political 
 **Business and Professional Degrees**
 For business, law, or marketing students, the choice often depends on the specific semester. However, a hybrid approach leans heavily toward the **PARA method**. Business cases, mock trials, and marketing campaigns are fundamentally project-based. You have strict deadlines, distinct team members, and concrete deliverables.
 
-## Practical Advice: How to Implement Them Using Modern Tools
+## Practical Advice: How to Implement Them Using Modern [Tools](/posts/how-to-build-a-second-brain/)
 
 Setting up these systems requires the right [software](/posts/best-apps-for-personal-knowledge-management/). Attempting to build a Zettelkasten in Microsoft Word is a recipe for disaster, just as using a complex graphing tool for PARA might be overkill.
 
 ### Implementing the PARA Method
-Because PARA is folder-based, it is highly tool-agnostic. You can set it up natively on your Mac Finder or Windows File Explorer. However, for note-taking, tools like **Notion**, **Evernote**, or **Apple Notes** shine here. 
+Because PARA is folder-based, it is highly tool-agnostic. You can set it up natively on your Mac Finder or Windows File Explorer. However, for note-taking, tools like **[Notion](/posts/second-brain-dashboard-for-notion-power-users/)**, **Evernote**, or **Apple Notes** shine here. 
 - Create four top-level folders: 1. Projects, 2. Areas, 3. Resources, 4. Archives.
 - Within "Projects," create a folder for every active assignment or exam prep phase (e.g., "Write PoliSci Paper," "Prep for Calc Final").
 - Once the paper is submitted or the exam is over, immediately drag that folder into "Archives." This keeps your workspace fiercely clean and focused strictly on the present.

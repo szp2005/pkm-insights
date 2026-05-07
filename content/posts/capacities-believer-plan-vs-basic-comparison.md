@@ -19,7 +19,7 @@ Personal knowledge management (PKM) has shifted from traditional folder hierarch
 
 ## The Core Philosophy Behind Capacities
 
-Before comparing the specific tiers, understanding the underlying object-based architecture is essential for making an informed decision. Unlike Notion's fluid block-and-page system or [Obsidian](/posts/personal-knowledge-management-tools-comparison/)'s flat markdown file directories, Capacities requires you to explicitly define what an entry is upon creation—a book, a meeting, a person, or a tweet. This structural rigidity paradoxically creates more freedom later, as databases auto-populate based on object types and relationships are strictly defined. 
+Before comparing the specific tiers, understanding the underlying object-based architecture is essential for making an informed decision. Unlike [Notion](/posts/second-brain-dashboard-for-notion-power-users/)'s fluid block-and-page system or [Obsidian](/posts/personal-knowledge-management-tools-comparison/)'s flat markdown file directories, Capacities requires you to explicitly define what an entry is upon creation—a book, a meeting, a person, or a tweet. This structural rigidity paradoxically creates more freedom later, as databases auto-populate based on object types and relationships are strictly defined. 
 
 Both the Basic and Believer plans utilize this exact same foundational architecture. The difference lies entirely in how you are permitted to manipulate, query, and view these objects. The underlying graph database remains identical, meaning your fundamental approach to note-taking does not need to change if you migrate between tiers.
 
@@ -35,7 +35,7 @@ When looking at the two tiers side-by-side, the divergence in their target audie
 **Price:** Free
 **Rating:** 4.5/5
 
-The Capacities Basic plan stands out as one of the most generous free tiers in the modern personal knowledge management space. It introduces users to the object-based note-taking paradigm without restricting core functionalities like fundamental block types, bi-directional linking, or basic media uploads. You receive unlimited spaces and objects, making it a viable long-term solution for personal journaling, class notes, or simple project tracking. The main limitations become apparent only when you attempt to customize the visual structure of your workspace or automate repetitive data entry [workflows](/posts/getting-things-done-for-knowledge-workers/).
+The Capacities Basic plan stands out as one of the most generous free tiers in the modern personal knowledge management space. It introduces users to the object-based note-taking paradigm without restricting core functionalities like fundamental block types, [bi-directional linking](/posts/bi-directional-linking-for-creative-writing-workflows/), or basic media uploads. You receive unlimited spaces and objects, making it a viable long-term solution for personal journaling, class notes, or simple project tracking. The main limitations become apparent only when you attempt to customize the visual structure of your workspace or automate repetitive data entry [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 **Pros:**
 - Unlimited objects and spaces for extensive graph building
@@ -68,7 +68,7 @@ The Believer plan represents the full, uncompromised potential of the Capacities
 
 ### AI Integration and Assistance
 
-In the realm of modern digital workspaces, artificial intelligence serves as a structural necessity for handling large volumes of unstructured text. The Basic tier requires strictly manual data entry for all metadata. If you import a lengthy web article or a PDF report, you must manually read the document, synthesize the summary, and attach the relevant tags or linked objects yourself.
+In the realm of modern digital workspaces, [artificial intelligence](/posts/self-healing-knowledge-base-principles/) serves as a structural necessity for handling large volumes of unstructured text. The Basic tier requires strictly manual data entry for all metadata. If you import a lengthy web article or a PDF report, you must manually read the document, synthesize the summary, and attach the relevant tags or linked objects yourself.
 
 The Believer plan fundamentally alters this intake workflow by integrating advanced language models directly into the editor environment. Capacities AI can automatically analyze the text of an imported object, generate a highly concise summary, and auto-populate metadata properties such as "Topics," "People Mentioned," and "Action Items." Furthermore, the AI Chat function allows you to seamlessly query your own distinct graph. You can ask the prompt interface, "What were the main decisions from last week's marketing syncs?" and the system will synthesize an accurate answer based exclusively on your specific meeting objects. For researchers or analysts dealing with dozens of reference documents weekly, this automated processing saves countless hours of manual data extraction.
 

@@ -11,7 +11,7 @@ type: "informational"
 
 # Readwise Reader for Deep Engagement Research: A Complete Guide
 
-> **Quick Answer:** Using Readwise Reader for deep engagement research requires shifting from passive reading to active synthesis. By leveraging its robust annotation tools, customized tagging systems, and seamless export to knowledge bases like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or Notion, researchers can systematically capture, connect, and retain complex concepts across PDFs, web articles, and books.
+> **Quick Answer:** Using Readwise Reader for deep engagement research requires shifting from passive reading to active synthesis. By leveraging its robust annotation tools, customized tagging systems, and seamless export to knowledge bases like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/what-is-personal-knowledge-management/), researchers can systematically capture, connect, and retain complex concepts across PDFs, web articles, and books.
 
 Digital reading is often defined by speed and volume. We scroll through dozens of newsletters, save countless tabs, and skim academic papers, mistaking the act of collecting for the act of learning. This paradigm breaks down when tackling complex subjects that require synthesis. Deep engagement research demands a different approach—one where friction is intentionally introduced to force comprehension, and where the reading environment is designed to extract lasting value rather than brief dopamine hits.
 

@@ -39,7 +39,7 @@ The first step is establishing a reliable system for capturing information. Fort
 
 This is where BASB introduces its most famous (and sometimes polarizing) concept: the **PARA** method. We will dissect PARA in detail below, but the core principle of the Organize phase is organizing by *actionability*, not by subject. You file a note based on where you will use it next, rather than what category it belongs to.
 
-**Expert Insight:** Organizing by actionability is a paradigm shift. Traditional filing systems (like Dewey Decimal) fail in PKM because they assume information has a static, single context. Action-based organization forces you to consider the utility of information immediately upon capture, ensuring your Second Brain remains a working environment rather than a static archive.
+**Expert Insight:** Organizing by actionability is a paradigm shift. Traditional filing systems (like Dewey Decimal) fail in PKM because they assume information has a static, single context. Action-based [organization](/posts/para-method-for-digital-organization/) forces you to consider the utility of information immediately upon capture, ensuring your Second Brain remains a working environment rather than a static archive.
 
 ### 3. Distill: Find the Essence
 
@@ -84,7 +84,7 @@ However, PARA is not without its limitations:
 To fully understand BASB, it's necessary to contrast it with the other dominant PKM methodology: the Zettelkasten method (popularized by Sonke Ahrens' *How to Take Smart Notes*).
 
 *   **BASB is Project-Centric.** It is optimized for executing tasks and delivering output in a professional environment. It focuses on gathering relevant information quickly to complete a specific goal.
-*   **Zettelkasten is Knowledge-Centric.** It is optimized for discovering novel connections and organic thought development, often favored by academics and writers. It relies on atomic notes and dense linking networks.
+*   **Zettelkasten is Knowledge-Centric.** It is optimized for discovering novel connections and organic thought development, often favored by academics and writers. It relies on [atomic notes](/posts/atomic-notes-writing-guide/) and dense linking networks.
 
 Forte's system is inherently more practical for the modern knowledge worker. If your goal is to finish a presentation by Friday, BASB's PARA structure will help you gather your assets faster than traversing a Zettelkasten graph. However, if your goal is to write a groundbreaking philosophical treatise over five years, Zettelkasten might yield deeper insights. 
 
@@ -98,7 +98,7 @@ Building a Second Brain is deliberately tool-agnostic. However, the tool you cho
 *   **Notion:** Excellent for structured data and collaborative Second Brains, but can become slow and unwieldy if overloaded with text-heavy notes. Its database structure requires careful setup for PARA.
 *   **Obsidian / Logseq:** These [local-first](/posts/anytype-review-local-first-privacy-lovers/), markdown-based tools are incredibly powerful and future-proof. While they *can* use folders for PARA, their true strength lies in linking. Implementing BASB here requires adapting the methodology to leverage tags and links rather than relying solely on rigid folders.
 
-**Expert Advice:** Do not overthink the tool initially. Start with Apple Notes or whatever is native to your ecosystem. Focus on building the habits of Capture and Organize (PARA) before migrating to a more complex system like Obsidian. The methodology is far more important than the software.
+**Expert Advice:** Do not overthink the tool initially. Start with Apple Notes or whatever is native to your ecosystem. [Focus](/posts/managing-digital-information-overload-tips/) on building the habits of Capture and Organize (PARA) before migrating to a more complex system like Obsidian. The methodology is far more important than the software.
 
 ## The Verdict: Is Building a Second Brain Worth It?
 

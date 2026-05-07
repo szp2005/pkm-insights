@@ -47,7 +47,7 @@ Building the system is only the first step. The value of a PKM lies in the daily
 ### Phase 1: Capture and Intake
 The capture phase must be immediate and standardized. When conducting literature searches on PubMed for a meta-analysis, use the Zotero browser connector to ingest the papers. 
 
-Read and highlight the PDFs directly within Zotero or your tablet. Focus on extracting the core methodology, the primary endpoints, and the specific patient population. Once the reading is complete, use an integration plugin (such as the Obsidian Zotero Integration) to automatically pull your highlights, comments, and the paper's metadata (DOI, publication date, journal) into a standardized "Literature Note" in your PKM.
+Read and highlight the PDFs directly within Zotero or your tablet. [Focus](/posts/managing-digital-information-overload-tips/) on extracting the core methodology, the primary endpoints, and the specific patient population. Once the reading is complete, use an integration plugin (such as the Obsidian Zotero Integration) to automatically pull your highlights, comments, and the paper's metadata (DOI, publication date, journal) into a standardized "Literature Note" in your PKM.
 
 ### Phase 2: Synthesis and Connecting the Dots
 A Literature Note is merely a summary. To generate true research value, you must synthesize this information into "Permanent Notes" or "Concept Notes."
@@ -95,7 +95,7 @@ Research extends beyond reading papers; it involves executing clinical trials. M
 Create a dedicated hub within your PKM for trial management. For each active trial, maintain a primary "Dashboard" note. This note should contain bidirectional links to the trial's IRB approval documentation, the current version of the protocol, specific inclusion/exclusion checklists, and contact information for the clinical research coordinators (CRCs).
 
 ### Version Control for Amendments
-Clinical protocols undergo frequent amendments. Instead of relying on memory or searching through an inbox for "Protocol_v3_Final_Revised.docx", document every protocol change in your PKM. Create a chronological log within the trial's dashboard note detailing what changed in each amendment, the rationale for the change, and the date the IRB approved it. This creates an immutable, searchable history of the trial's evolution, which is invaluable during data analysis and manuscript writing.
+Clinical protocols undergo frequent amendments. Instead of relying on [memory](/posts/how-to-remember-what-you-read-effectively/) or searching through an inbox for "Protocol_v3_Final_Revised.docx", document every protocol change in your PKM. Create a chronological log within the trial's dashboard note detailing what changed in each amendment, the rationale for the change, and the date the IRB approved it. This creates an immutable, searchable history of the trial's evolution, which is invaluable during data analysis and manuscript writing.
 
 ## Practical Advice: Designing Your Folder and Tag Structure
 
@@ -142,7 +142,7 @@ No, you should never store identifiable patient data or Protected Health Informa
 The initial technical setup of downloading the software, configuring Zotero, and installing basic plugins takes roughly two to three hours. However, developing the personal habits required to consistently capture, synthesize, and link notes takes approximately three to four weeks of daily use. It is highly recommended to start with a single research project rather than overhauling your entire workflow at once.
 
 ### What is the Zettelkasten method for clinical research?
-The Zettelkasten (slip-box) method is a decentralized note-taking system focused on interconnected, atomic ideas. For clinical research, this means breaking down complex medical papers into single, distinct concepts (e.g., one note detailing a specific drug mechanism, another note for a specific adverse event profile). These atomic notes are then heavily linked together, allowing researchers to organically discover relationships between different physiological pathways and treatment outcomes when drafting papers.
+The Zettelkasten (slip-box) method is a decentralized note-taking system focused on interconnected, atomic ideas. For clinical research, this means breaking down complex medical papers into single, distinct concepts (e.g., one note detailing a specific drug mechanism, another note for a specific adverse event profile). These [atomic notes](/posts/atomic-notes-writing-guide/) are then heavily linked together, allowing researchers to organically discover relationships between different physiological pathways and treatment outcomes when drafting papers.
 
 ---
 

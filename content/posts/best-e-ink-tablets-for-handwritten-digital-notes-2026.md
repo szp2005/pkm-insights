@@ -148,7 +148,7 @@ The most common mistake buyers make is purchasing a tablet based on features the
 
 If you are a student attending back-to-back lectures, organization and battery life are paramount. You need a device that won't die during a three-hour seminar and software that allows you to instantly pull up notes from last month's class. The Supernote A5 X2 excels here, allowing you to build a structured, easily searchable database of your entire semester.
 
-If you are a creative professional, architect, or manager who thinks visually, screen size and minimal friction are your priorities. The reMarkable Paper Pro provides an expansive 11.8-inch canvas. The lack of distractions ensures that when you sit down to brainstorm or review a PDF, you aren't suddenly diverted by an incoming Slack message or an email notification. 
+If you are a creative professional, architect, or manager who thinks visually, screen size and minimal friction are your priorities. The reMarkable Paper Pro provides an expansive 11.8-inch canvas. The lack of distractions ensures that when you sit down to brainstorm or [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) a PDF, you aren't suddenly diverted by an incoming Slack message or an email notification. 
 
 If you are someone attempting to replace an iPad entirely, you need the Onyx Boox Note Air 3 C. It is the only device on this list that can comfortably run task managers, calendar widgets, and complex third-party note systems like Notion, bridging the gap between a traditional tablet and a digital notebook.
 

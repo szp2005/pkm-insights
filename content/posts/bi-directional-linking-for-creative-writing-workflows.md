@@ -48,7 +48,7 @@ Worldbuilding can easily overwhelm a narrative. Writers often spend months detai
 
 Instead of static character sheets that quickly become outdated, bi-directional linking turns characters into dynamic hubs. Create a central note for a character and use links for their relationships, affiliations, and key events. 
 
-When you review a character's central note, the "unlinked mentions" or "backlinks" section will show you every single scene, dialogue snippet, or outline where that character appears. This makes it impossible to accidentally contradict a character's timeline. If you need to know where a character was during chapter four, you simply look at their backlinks.
+When you [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) a character's central note, the "unlinked mentions" or "backlinks" section will show you every single scene, dialogue snippet, or outline where that character appears. This makes it impossible to accidentally contradict a character's timeline. If you need to know where a character was during chapter four, you simply look at their backlinks.
 
 ### Mapping Fictional Geographies
 
@@ -74,7 +74,7 @@ Create a tag or a dedicated note for a specific mystery, such as `[[The Stolen H
 
 ## Practical Advice for Setting Up Your Workspace
 
-Transitioning to a linked note system requires a slight shift in mindset. Here are concrete strategies for structuring your creative [writing workflow](/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/) in [tools](/posts/personal-knowledge-management-tools-comparison/) like [Obsidian](/posts/what-is-personal-knowledge-management/), [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), or Roam Research.
+Transitioning to a linked note system requires a slight shift in mindset. Here are concrete strategies for structuring your creative [writing workflow](/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/) in [tools](/posts/personal-knowledge-management-tools-comparison/) like [Obsidian](/posts/what-is-personal-knowledge-management/), [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), or Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/).
 
 ### Use a Flat Folder Structure
 
@@ -121,7 +121,7 @@ Historical fiction and hard sci-fi require extensive research. Bi-directional li
 
 ## Conclusion
 
-Bi-directional linking for creative writing workflows is not merely a different way to organize files; it is a system that mimics the associative nature of human memory. By breaking free from the constraints of rigid folders, writers can build a dynamic, scalable knowledge base that supports the drafting process rather than hindering it. Whether you are outlining a three-act structure, tracking the intricate motivations of an ensemble cast, or planting subtle clues for a murder mystery, interconnected notes ensure that your creative momentum is never derailed by the search for a missing detail. 
+Bi-directional linking for creative writing workflows is not merely a different way to organize files; it is a system that mimics the associative nature of human [memory](/posts/how-to-remember-what-you-read-effectively/). By breaking free from the constraints of rigid folders, writers can build a dynamic, scalable knowledge base that supports the drafting process rather than hindering it. Whether you are outlining a three-act structure, tracking the intricate motivations of an ensemble cast, or planting subtle clues for a murder mystery, interconnected notes ensure that your creative momentum is never derailed by the search for a missing detail. 
 
 ## Frequently Asked Questions
 

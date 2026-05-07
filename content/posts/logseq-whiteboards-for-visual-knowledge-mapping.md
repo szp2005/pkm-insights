@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Linear [note-taking](/posts/zettelkasten-method-explained/) is highly efficient for capturing information chronologically, but it frequently fails when you need to synthesize complex, multi-layered concepts. Human cognition is inherently spatial. We understand relationships better when we can see them mapped out in two dimensions, moving ideas around until the structure makes sense. This cognitive bottleneck is exactly where visual knowledge mapping excels.
 
-For users of networked thought [tools](/posts/personal-knowledge-management-tools-comparison/), transitioning from text-based linking to a spatial environment has historically meant copying text into a separate mind-mapping application. This fragmented the workflow and severed the dynamic links between underlying concepts. The introduction and continuous refinement of Logseq whiteboards has fundamentally resolved this issue. By integrating an infinite canvas directly into the outliner database, Logseq allows your notes to exist simultaneously as structured lists and spatial objects.
+For users of [networked thought](/posts/tana-vs-capacities-networked-thought/) [tools](/posts/personal-knowledge-management-tools-comparison/), transitioning from text-based linking to a spatial environment has historically meant copying text into a separate mind-mapping application. This fragmented the [workflow](/posts/using-the-para-method-in-google-drive/) and severed the dynamic links between underlying concepts. The introduction and continuous refinement of Logseq whiteboards has fundamentally resolved this issue. By integrating an infinite canvas directly into the outliner database, Logseq allows your notes to exist simultaneously as structured lists and spatial objects.
 
 This guide explores the mechanics and methodologies of using Logseq whiteboards for visual knowledge mapping, providing a structured approach to leveraging spatial thinking for [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), [project management](/posts/tana-supertags-for-project-managers-download/), and creative synthesis.
 
@@ -73,7 +73,7 @@ While Logseq is primarily an outliner, the whiteboard functionality allows for r
 
 ### Structuring Complex Research Projects
 
-For academics, researchers, and long-form writers, managing hundreds of citations and arguments linearly is overwhelming. Whiteboards offer a structural lifeline. 
+For [academics](/posts/tana-workflows-for-systematic-literature-reviews/), researchers, and long-form writers, managing hundreds of citations and arguments linearly is overwhelming. Whiteboards offer a structural lifeline. 
 
 Create a canvas dedicated to a specific paper or chapter. Create distinct visual zones:
 - A "Holding Area" for raw, unsorted blocks dragged from your reading notes.

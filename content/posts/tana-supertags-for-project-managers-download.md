@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing multiple projects across distributed teams requires a system that handles both granular task details and high-level portfolio overviews. Traditional project management [tools](/posts/personal-knowledge-management-tools-comparison/) often force you into rigid hierarchies, while unstructured [note-taking](/posts/zettelkasten-method-explained/) apps leave you searching for lost action items. Tana bridges this gap through its unique database-in-a-node architecture, specifically driven by Supertags.
 
-Setting up a robust schema from scratch, however, takes hours of trial and error. Defining the right fields, setting up the inheritance logic, and ensuring your queries pull the correct data requires a deep understanding of how Tana's ontology works. 
+Setting up a robust schema from scratch, however, takes hours of trial and error. Defining the right fields, setting up the inheritance logic, and ensuring your queries pull the correct data requires a deep understanding of how Tana's [ontology](/posts/building-research-ontologies-in-capacities-app/) works. 
 
 This guide provides a direct download and implementation strategy for a complete project management Supertag architecture. By importing these pre-configured tags, you bypass the setup phase and immediately gain a structured environment designed specifically for complex project delivery, sprint tracking, and resource allocation.
 
@@ -25,7 +25,7 @@ This guide provides a direct download and implementation strategy for a complete
 
 In standard project management [software](/posts/best-apps-for-personal-knowledge-management/) like Jira or Asana, tasks live inside specific projects or boards. Tana operates differently. Every bullet point (node) is a discrete piece of data. Supertags assign a specific structure to that node regardless of where it lives in your daily workspace.
 
-If you are taking notes during a daily standup and type an action item, applying a `#task` tag immediately gives that node fields for "Assignee," "Due Date," and "Status." Because Tana is a graph database, that node simultaneously exists in your daily notes and in your global task dashboard. 
+If you are taking notes during a daily standup and type an action item, applying a `#task` tag immediately gives that node fields for "Assignee," "Due Date," and "Status." Because Tana is a graph database, that node simultaneously exists in your [daily notes](/posts/tana-commands-for-automated-daily-note-setup/) and in your global task dashboard. 
 
 For project managers, this eliminates the friction of context switching. You do not need to open a separate application or navigate to a specific folder to log a bug, assign a deliverable, or update a project status. The data structure comes to the data, exactly where you are [writing](/posts/atomic-notes-writing-guide/) it.
 
@@ -115,7 +115,7 @@ Format this as a table view displaying the "Project Lead," "Target Completion," 
 
 ## Adapting the Tags for Agile vs. Waterfall
 
-The base download is configured for a hybrid workflow, but Tana's flexibility allows you to customize the schema to fit specific methodologies.
+The base download is configured for a hybrid [workflow](/posts/using-the-para-method-in-google-drive/), but Tana's flexibility allows you to customize the schema to fit specific methodologies.
 
 **For Strict Agile/Scrum:**
 Navigate to your `#task` tag configuration. Change the "Estimated Effort" field to strictly enforce Fibonacci sequence numbers (1, 2, 3, 5, 8, 13) for story pointing. Add a `#sprint` Supertag to act as a parent container for tasks, featuring fields for "Sprint Goal," "Start Date," and "End Date."

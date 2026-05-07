@@ -27,7 +27,7 @@ In enterprise data architecture, a semantic layer translates complex database sc
 
 Most standard PKM setups rely on two primary organizational [tools](/posts/personal-knowledge-management-tools-comparison/): folders (strict hierarchy) and bidirectional links (unstructured networks). A bidirectional link (`[[Concept A]]` to `[[Concept B]]`) tells the system that two ideas are related, but it provides zero context about *how* or *why* they are related. 
 
-A semantic layer introduces context. It operates through key-value pairs (frontmatter/YAML), inline fields, and typed links. When you explicitly state `type: book`, `status: reading`, and `author: [[Alice]]`, you are building a semantic layer. This structured data allows tools like [Obsidian](/posts/what-is-personal-knowledge-management/) (via Dataview) or Logseq (via advanced queries) to aggregate, filter, and surface notes based on their ontological properties.
+A semantic layer introduces context. It operates through key-value pairs (frontmatter/YAML), inline fields, and typed links. When you explicitly state `type: book`, `status: reading`, and `author: [[Alice]]`, you are building a semantic layer. This [structured data](/posts/tana-ai-features-for-structured-data-entry/) allows tools like [Obsidian](/posts/what-is-personal-knowledge-management/) (via Dataview) or Logseq (via advanced queries) to aggregate, filter, and surface notes based on their ontological properties.
 
 ## Core Components of Semantic PKM
 
@@ -93,14 +93,14 @@ Document this schema in a central note so you have a reference guide when creati
 Leverage the templating engine in your PKM tool (such as Templater in Obsidian) to automatically generate the correct YAML frontmatter whenever you create a new note of a specific type. This eliminates friction and ensures consistent metadata entry. If you create a new `Person` note, the template should automatically insert empty fields for `company`, `role`, and `email`, prompting you to fill them in.
 
 ### 4. Build Dynamic Dashboards
-Create central Map of Content (MoC) notes that utilize queries to aggregate your structured data. Build a "Project Dashboard" that runs a query looking for `type: project` and `status: active`. As you create new project notes and tag them with the correct semantic metadata, they will automatically populate on your dashboard without any manual linking required.
+Create central [Map of Content](/posts/how-to-implement-map-of-content-in-obsidian/) (MoC) notes that utilize queries to aggregate your structured data. Build a "Project Dashboard" that runs a query looking for `type: project` and `status: active`. As you create new project notes and tag them with the correct semantic metadata, they will automatically populate on your dashboard without any manual linking required.
 
 ### 5. Audit and Refactor Iteratively
 Do not bulk-edit your old notes. Instead, apply the semantic layer to all new notes moving forward. For your historical notes, update their metadata only when you naturally stumble upon them during your work. Over time, the most critical nodes in your graph will organically acquire the necessary semantic structure, while low-value, obsolete notes remain unindexed.
 
 ## The Future of Networked Thought
 
-The integration of semantic layers in personal knowledge management represents the transition from digital filing cabinets to personal graph databases. As [local AI](/posts/building-a-second-brain-in-2026-update/) models become increasingly integrated with PKM tools, the value of explicit semantic structuring will only compound.
+The integration of semantic layers in personal knowledge management represents the transition from digital filing cabinets to personal graph databases. As [local AI](/posts/building-a-second-brain-in-2026-update/) models become increasingly integrated with [PKM tools](/posts/best-pkm-tools-for-architecture-students-2026/), the value of explicit semantic structuring will only compound.
 
 An AI agent operating on a flat directory of Markdown files relies solely on semantic similarity algorithms, which frequently misinterpret connections. However, an AI agent operating over an explicitly defined semantic layer can traverse structured, verified edges. It can differentiate between a book you read and a book you wrote because the typed link dictates the specific relationship.
 

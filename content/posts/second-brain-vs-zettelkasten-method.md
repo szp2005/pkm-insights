@@ -102,7 +102,7 @@ The Second Brain is the superior choice if your primary goal is maximizing execu
 *   **Freelancer or Agency Owner:** Your work is heavily client-focused. Each client represents a "Project" or "Area," and you need a system to compartmentalize assets, briefs, and invoices.
 *   **Content Creator (High Output):** If you produce high-volume content (e.g., daily newsletters, quick-turnaround videos), PARA helps you manage the production pipeline efficiently.
 
-**Practical Implementation Advice:** Use tools like Notion, Evernote, or Apple Notes. These excel at hierarchical folder structures and embedding rich media (PDFs, images, spreadsheets) necessary for active project work.
+**Practical Implementation Advice:** Use tools like [Notion](/posts/second-brain-dashboard-for-notion-power-users/), Evernote, or Apple Notes. These excel at hierarchical folder structures and embedding rich media (PDFs, images, spreadsheets) necessary for active project work.
 
 ## Deep Dive: When to Choose the Zettelkasten
 
@@ -141,7 +141,7 @@ While a methodology is software-agnostic, the friction of your system depends he
 
 The debate between the Second Brain and the Zettelkasten method is not about which system is objectively better; it is about which system solves your specific problem.
 
-If you are overwhelmed by tasks, struggling to find files, and need a system to help you execute projects with greater velocity, **build a Second Brain**. Adopt the PARA method and focus on organizing for actionability.
+If you are overwhelmed by tasks, struggling to find files, and need a system to help you execute projects with greater velocity, **build a Second Brain**. Adopt the PARA method and [focus](/posts/managing-digital-information-overload-tips/) on organizing for actionability.
 
 If you are a deep thinker, struggling to connect concepts, trying to write a book, or looking to generate original insights from the content you consume, **build a Zettelkasten**. Embrace the slip-box, write atomic notes in your own words, and trust the power of the network.
 
@@ -159,7 +159,7 @@ Second Brain vs Zettelkasten Method is best for knowledge workers, students, and
 
 ### How should I get started with Second Brain vs Zettelkasten Method?
 
-Start by identifying the specific outcome you want, then apply the smallest useful version of the advice in this article. After that, review what worked and adjust the setup, tool, or process before expanding it.
+Start by identifying the specific outcome you want, then apply the smallest useful version of the advice in this article. After that, [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) what worked and adjust the setup, tool, or process before expanding it.
 
 ### What mistakes should I avoid with Second Brain vs Zettelkasten Method?
 

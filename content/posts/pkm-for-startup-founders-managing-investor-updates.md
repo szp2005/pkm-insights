@@ -24,7 +24,7 @@ A PKM system acts as a centralized repository—a "[second brain](/posts/what-is
 At its core, a PKM for startup founders is distinct from a general [note-taking](/posts/zettelkasten-method-explained/) system. It requires rigid structure and standardized metadata to enable rapid retrieval. An effective investor-centric PKM relies on three foundational pillars: capture, [organization](/posts/steps-to-building-a-second-brain/), and synthesis.
 
 ### Daily Capture Mechanisms
-The most common failure point in executive reporting is deferred documentation. Founders often wait until the 30th of the month to record what happened on the 4th. An effective PKM solves this by integrating data capture into daily [workflows](/posts/getting-things-done-for-knowledge-workers/).
+The most common failure point in executive reporting is deferred [documentation](/posts/self-healing-knowledge-base-principles/). Founders often wait until the 30th of the month to record what happened on the 4th. An effective PKM solves this by integrating data capture into daily [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 Daily notes serve as the primary entry point. Within your PKM tool (whether Obsidian, Logseq, or Roam), every day should have a dedicated page. Throughout the day, log key events, customer feedback, and blocker resolutions directly into this note. Use specific tags or inline properties, such as `#investor-update` or `category:: product-milestone`, to flag items for the monthly report. This micro-journaling approach requires less than five minutes daily but yields a massive return on investment at month's end.
 
@@ -79,7 +79,7 @@ Investors are a resource; use them. The "Asks" section should be specific, targe
 
 With a functioning capture system, the actual [writing](/posts/atomic-notes-writing-guide/) of the investor update transforms from a daunting task into a rapid assembly process. 
 
-Set a recurring calendar block for the first day of the month. Open your PKM and execute queries for your standardized tags over the trailing 30 days. In Obsidian, a Dataview query might look like:
+Set a recurring calendar block for the first day of the month. Open your PKM and execute queries for your standardized tags over the trailing 30 days. In Obsidian, a [Dataview](/posts/optimizing-dataview-plugin-for-research-workflows/) query might look like:
 
 ```text
 TABLE summary 
@@ -108,7 +108,7 @@ The specific software used for your PKM matters less than the discipline of usin
 Local, plain-text applications like Obsidian are unparalleled for speed and longevity. Because files are stored locally as Markdown, founders never worry about vendor lock-in or cloud outages. The Dataview plugin for Obsidian provides SQL-like querying capabilities, making it ideal for aggregating daily tags into monthly reports. Logseq offers similar capabilities with a native outliner structure, which appeals to founders who think in bullet points.
 
 ### Cloud-Based Workspaces (Notion, Coda)
-Notion and Coda excel at structured databases and team collaboration. If you intend to share access to the raw KPI tracking tables with your co-founders or Chief of Staff, these platforms are superior. Notion's database rollups allow you to build sophisticated dashboards tracking MRR changes week-over-week automatically. However, they can suffer from slow load times as the workspace grows, adding friction to the daily capture process.
+Notion and Coda excel at structured databases and [team collaboration](/posts/capacities-app-for-research-team-collaboration/). If you intend to share access to the raw KPI tracking tables with your co-founders or Chief of Staff, these platforms are superior. Notion's database rollups allow you to build sophisticated dashboards tracking MRR changes week-over-week automatically. However, they can suffer from slow load times as the workspace grows, adding friction to the daily capture process.
 
 ### Purpose-Built CRM/Update Tools (Visible.vc, Cabal)
 While not strictly PKM tools, platforms like Visible or Cabal are designed specifically for investor updates. They handle the formatting and email delivery efficiently. The optimal workflow often involves using a PKM (like Obsidian) for personal capture and synthesis, then pasting the finalized markdown into Visible for distribution and tracking open rates.

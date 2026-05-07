@@ -12,7 +12,7 @@ type: "review"
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?
 
-> **Quick Answer:** Scrintal excels for users prioritizing an intuitive, free-form visual canvas for brainstorming and project management with a strong emphasis on card-based organization. Heptabase, conversely, is ideal for those building a structured, interconnected knowledge base, offering powerful Whiteboards for deep thinking and robust bidirectional linking for researchers and academics.
+> **Quick Answer:** Scrintal excels for users prioritizing an intuitive, free-form visual canvas for brainstorming and project management with a strong emphasis on card-based [organization](/posts/steps-to-building-a-second-brain/). Heptabase, conversely, is ideal for those building a structured, interconnected knowledge base, offering powerful Whiteboards for deep thinking and robust bidirectional linking for researchers and academics.
 
 ## Introduction
 
@@ -56,7 +56,7 @@ Heptabase is a knowledge management tool built around the concept of "Whiteboard
 -   Dedicated desktop applications for a smoother experience.
 
 **Cons:**
--   Steeper learning curve due to its advanced features and structured approach.
+-   Steeper [learning](/posts/how-to-remember-what-you-read-effectively/) curve due to its advanced features and structured approach.
 -   Can feel less "free-form" than Scrintal for pure brainstorming.
 -   Higher price point with no free tier beyond a trial.
 
@@ -64,7 +64,7 @@ Heptabase is a knowledge management tool built around the concept of "Whiteboard
 
 Both Scrintal and Heptabase offer a visual canvas, but their philosophies differ significantly. Scrintal's canvas is truly infinite and feels like a digital whiteboard where you can scatter ideas, draw connections, and group cards with unparalleled freedom. Its strength lies in its fluid, intuitive drag-and-drop interface, making it ideal for spontaneous brainstorming or visually mapping out project phases. The emphasis is on the visual flow and the immediate arrangement of information.
 
-Heptabase's "Whiteboards" also provide a visual space, but they are more akin to structured thinking environments. While you can freely arrange cards, the design encourages more deliberate organization. Whiteboards are often used to develop a specific topic, outline an article, or synthesize research findings. The ability to nest Whiteboards within Whiteboards, or link them extensively, means that Heptabase's visual organization supports a hierarchical and interconnected knowledge structure, rather than just a flat, open space. For users who need to build a coherent, evolving knowledge base, Heptabase's approach to the visual canvas offers more scaffolding.
+Heptabase's "Whiteboards" also provide a visual space, but they are more akin to structured thinking environments. While you can freely arrange cards, the design encourages more deliberate organization. Whiteboards are often used to develop a specific topic, outline an article, or synthesize [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) findings. The ability to nest Whiteboards within Whiteboards, or link them extensively, means that Heptabase's visual organization supports a hierarchical and interconnected knowledge structure, rather than just a flat, open space. For users who need to build a coherent, evolving knowledge base, Heptabase's approach to the visual canvas offers more scaffolding.
 
 ## Note-Taking Features & Card Types
 

@@ -9,7 +9,7 @@ tags: ["PKM", "Notion", "Obsidian", "Knowledge Management", "Note-Taking"]
 type: "review"
 ---
 
-> **Quick Answer:** Notion vs [Obsidian](/posts/personal-knowledge-management-tools-comparison/) for PKM matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. A comprehensive, deep-dive comparison between Notion and Obsidian for [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM). Discover which tool aligns with your workflow, data philosophy, and long-term goals.
+> **Quick Answer:** [Notion](/posts/second-brain-dashboard-for-notion-power-users/) vs [Obsidian](/posts/personal-knowledge-management-tools-comparison/) for PKM matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. A comprehensive, deep-dive comparison between Notion and Obsidian for [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM). Discover which tool aligns with your workflow, data philosophy, and long-term goals.
 
 In the evolving landscape of Personal Knowledge Management (PKM), the debate often crystallizes around two dominant platforms: Notion and Obsidian. Both have amassed passionate followings and feature robust ecosystems, but beneath the surface, they are built upon fundamentally opposed architectural philosophies.
 
@@ -56,7 +56,7 @@ This structured approach is incredibly effective for task management, project tr
 ### Obsidian: Emergent Networks
 Obsidian minimizes the friction of categorization. While you *can* use folders, the system encourages you to utilize bi-directional links and tags. 
 
-For example, if you are writing about "Artificial Intelligence," you simply type `[[Machine Learning]]` within the text. Obsidian instantly creates a link. If the "Machine Learning" note doesn't exist yet, it acts as a placeholder. Over time, as you link notes together, a structure emerges naturally based on the actual relationships between your ideas, rather than a pre-defined folder hierarchy. This makes Obsidian vastly superior for academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), long-form writing, and serendipitous discovery.
+For example, if you are [writing](/posts/atomic-notes-writing-guide/) about "Artificial Intelligence," you simply type `[[Machine Learning]]` within the text. Obsidian instantly creates a link. If the "Machine Learning" note doesn't exist yet, it acts as a placeholder. Over time, as you link notes together, a structure emerges naturally based on the actual relationships between your ideas, rather than a pre-defined folder hierarchy. This makes Obsidian vastly superior for academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), long-form writing, and serendipitous discovery.
 
 ## Customization, Plugins, and the Community
 
@@ -103,7 +103,7 @@ To summarize the technical deep dive, here is practical advice on which tool to 
 
 ### Choose Obsidian If:
 1. **Data privacy and longevity are paramount:** You want absolute control over your files in a universally readable format that will outlive any software company.
-2. **Your focus is writing, research, or coding:** You are processing large amounts of text, academic papers, or code snippets and need a fast, distraction-free environment.
+2. **Your [focus](/posts/managing-digital-information-overload-tips/) is writing, research, or coding:** You are processing large amounts of text, academic papers, or code snippets and need a fast, distraction-free environment.
 3. **You want to build a "[Zettelkasten](/posts/zettelkasten-method-explained/)":** You prefer linking related concepts together to discover hidden connections rather than filing things away into rigid folders.
 4. **You love tinkering and customization:** You enjoy the idea of building a bespoke IDE for your brain using community plugins and customized CSS.
 

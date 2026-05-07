@@ -73,7 +73,7 @@ Your computer's desktop should be entirely clear of files. A cluttered desktop i
 Adopt a standardized file naming convention (e.g., `YYYY-MM-DD_ProjectName_DocumentType_v1.pdf`) to make search functions your primary retrieval tool, rather than relying on endless clicking through nested folders.
 
 #### Implementing a Personal Knowledge Management (PKM) System
-To manage information overload over the long term, you need an external brain—a Personal Knowledge Management system. The most effective structure for this is the **PARA Method**, developed by productivity expert Tiago Forte. It divides all digital information into four distinct categories:
+To manage information overload over the long term, you need an external brain—a Personal Knowledge Management system. The most effective structure for this is the **PARA Method**, developed by productivity expert [Tiago Forte](/posts/tiago-forte-building-a-second-brain-review/). It divides all digital information into four distinct categories:
 1.  **Projects:** Short-term efforts with a specific goal and deadline (e.g., "Q3 Marketing Campaign," "Redesign Website").
 2.  **Areas:** Spheres of activity with a standard to be maintained over time (e.g., "Health," "Finances," "Software Engineering").
 3.  **Resources:** Topics or themes of ongoing interest (e.g., "Web Design Inspiration," "SEO Strategies," "Investment Research").
@@ -119,13 +119,13 @@ The true ROI of digital decluttering is not merely operational efficiency; it is
 
 When you drastically reduce the volume of irrelevant information demanding your attention, you will experience an immediate drop in baseline anxiety. The constant low-level panic of "forgetting something" dissipates because you trust your systematic architecture. 
 
-Furthermore, by protecting your cognitive bandwidth, you unlock the capacity for "Deep Work"—the ability to focus without distraction on cognitively demanding tasks. This is the state where true innovation, complex problem-solving, and professional mastery occur. In an economy increasingly dominated by automated systems and artificial intelligence, the ability to focus deeply is becoming the ultimate competitive advantage.
+Furthermore, by protecting your cognitive bandwidth, you unlock the capacity for "Deep Work"—the ability to focus without distraction on cognitively demanding tasks. This is the state where true innovation, complex problem-solving, and professional mastery occur. In an economy increasingly dominated by automated systems and [artificial intelligence](/posts/self-healing-knowledge-base-principles/), the ability to focus deeply is becoming the ultimate competitive advantage.
 
 ## Conclusion
 
 Information overload is the default state of the modern digital landscape. If you do not actively defend your attention, algorithms and the urgent demands of others will consume it entirely. 
 
-Digital decluttering is the ultimate act of reclaiming your autonomy. By ruthlessly eliminating digital noise, structuring your assets logically, and establishing ironclad boundaries around your consumption habits, you transform your technology from a relentless master into a powerful, quiet servant. Start small—audit your notifications today, conquer your inbox tomorrow, and incrementally build a digital environment that fosters clarity, creativity, and calm.
+Digital decluttering is the ultimate act of reclaiming your autonomy. By ruthlessly eliminating digital noise, structuring your assets logically, and establishing ironclad boundaries around your consumption habits, you transform your technology from a relentless master into a powerful, quiet servant. Start small—audit your notifications today, conquer your inbox tomorrow, and incrementally build a digital environment that fosters clarity, [creativity](/posts/second-brain-for-boosting-creativity/), and calm.
 
 ## Frequently Asked Questions
 

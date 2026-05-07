@@ -33,7 +33,7 @@ Both Heptabase and Scrintal operate on this premise, utilizing a core architectu
 
 ### 1. Heptabase
 
-**Best for:** Deep researchers, academics, and systematic learners
+**Best for:** Deep researchers, [academics](/posts/tana-workflows-for-systematic-literature-reviews/), and systematic learners
 **Price:** $8.99-$11.99/month
 **Rating:** 4.8/5
 
@@ -43,7 +43,7 @@ The standout feature of Heptabase is its integrated PDF reader and annotation sy
 
 **Pros:**
 - Exceptional PDF and document annotation integration
-- Ability to nest whiteboards within other whiteboards for complex project management
+- Ability to nest whiteboards within other whiteboards for complex [project management](/posts/tana-supertags-for-project-managers-download/)
 - Powerful right-sidebar functionality for quick capturing and journaling
 - Highly performant desktop application that handles large boards smoothly
 
@@ -118,7 +118,7 @@ The battle of Heptabase vs Scrintal for visual sense-making does not yield a sin
 
 Heptabase is the scientist's workbench. It is rigorous, dense, and built for deep extraction and long-term learning. It is the definitive choice for researchers, graduate students, and technical professionals who live inside PDFs and need a robust system to track complex dependencies.
 
-Scrintal is the writer's drafting table. It is elegant, fluid, and built to remove friction between ideation and creation. It is the superior choice for content creators, authors, and planners who need to visually untangle their thoughts before transforming them into structured output.
+Scrintal is the writer's drafting table. It is elegant, fluid, and built to remove friction between ideation and creation. It is the superior choice for [content creators](/posts/top-pkm-software-for-content-creators-2026/), authors, and planners who need to visually untangle their thoughts before transforming them into structured output.
 
 Evaluate what you spend most of your time doing—reading and digesting, or planning and writing—and choose the canvas that accelerates that specific motion.
 

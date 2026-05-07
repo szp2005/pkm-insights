@@ -15,7 +15,7 @@ type: "informational"
 
 [Personal knowledge management](/posts/digital-decluttering-for-information-overload/) relies heavily on the relationships between individual pieces of information. Storing notes in isolation mimics a traditional filing cabinet, which restricts your ability to surface unexpected insights. Obsidian fundamentally shifts this paradigm by prioritizing network-based architecture over rigid folder hierarchies. However, having the capability to link everything does not mean you should. Without a deliberate strategy, a vault can quickly devolve into a chaotic web of meaningless connections. 
 
-Understanding the technical [tools](/posts/personal-knowledge-management-tools-comparison/) at your disposal is only the first step. The real challenge lies in developing a consistent workflow that encourages meaningful interactions between your thoughts. This guide details the most robust techniques for connecting ideas in Obsidian, moving from foundational linking mechanics to advanced structural strategies that will scale with your vault over years of continuous use.
+Understanding the technical [tools](/posts/personal-knowledge-management-tools-comparison/) at your disposal is only the first step. The real challenge lies in developing a consistent [workflow](/posts/using-the-para-method-in-google-drive/) that encourages meaningful interactions between your thoughts. This guide details the most robust techniques for connecting ideas in Obsidian, moving from foundational linking mechanics to advanced structural strategies that will scale with your vault over years of continuous use.
 
 ## The Core Mechanics of Obsidian Connections
 
@@ -47,7 +47,7 @@ Once you master basic wikilinks, you can begin implementing structural framework
 
 A Map of Content (MOC) is a dedicated index note that serves as a central hub for a specific topic. Instead of relying purely on serendipitous connections or searching for tags, an MOC organizes links to related notes in a logical, structured format. 
 
-For example, an MOC titled "[Productivity](/posts/zettelkasten-method-explained/) Frameworks" might contain categorized lists linking to individual notes like "Getting Things Done," "Time Blocking," and "Pomodoro Technique." MOCs act as custom-built entry points into dense areas of your vault. As a topic grows and accumulates dozens of atomic notes, creating an MOC prevents those individual ideas from becoming lost in the noise. They provide top-down structure to a fundamentally bottom-up system.
+For example, an MOC titled "[Productivity](/posts/zettelkasten-method-explained/) Frameworks" might contain categorized lists linking to individual notes like "Getting Things Done," "Time Blocking," and "Pomodoro Technique." MOCs act as custom-built entry points into dense areas of your vault. As a topic grows and accumulates dozens of [atomic notes](/posts/atomic-notes-writing-guide/), creating an MOC prevents those individual ideas from becoming lost in the noise. They provide top-down structure to a fundamentally bottom-up system.
 
 ### Block References and Transclusion
 
@@ -127,7 +127,7 @@ Instead of listing `[[Decision Fatigue]]` at the bottom of a note, write a sente
 
 ## Conclusion
 
-Mastering the process of connecting ideas in Obsidian transforms the [software](/posts/best-apps-for-personal-knowledge-management/) from a simple text editor into a compounding asset for your intellectual life. By relying on bidirectional wikilinks for direct relationships, Maps of Content for structural navigation, and atomic note-taking for granular precision, you build a network of thought that scales effortlessly. Focus on deliberate, contextual connections rather than sheer volume, and regularly review your local graph to discover the hidden insights sitting right beneath the surface of your vault.
+Mastering the process of connecting ideas in Obsidian transforms the [software](/posts/best-apps-for-personal-knowledge-management/) from a simple text editor into a compounding asset for your intellectual life. By relying on bidirectional wikilinks for direct relationships, Maps of Content for structural navigation, and atomic note-taking for granular precision, you build a network of thought that scales effortlessly. [Focus](/posts/managing-digital-information-overload-tips/) on deliberate, contextual connections rather than sheer volume, and regularly review your local graph to discover the hidden insights sitting right beneath the surface of your vault.
 
 ## Frequently Asked Questions
 

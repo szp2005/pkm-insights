@@ -61,7 +61,7 @@ Developed by [productivity](/posts/knowledge-management-strategies-for-students/
 **Best for:** Professionals who need to execute quickly and want a universal filing system that spans across their note-taking app, computer file system, and cloud storage.
 
 ### The Zettelkasten Method
-Inspired by Niklas Luhmann, the modern digital Zettelkasten focuses on the creation of **atomic notes**—small, highly focused notes containing a single idea, written entirely in your own words. These notes are inherently context-independent, meaning they make sense on their own. Instead of putting them in folders, you aggressively link them to other related atomic notes.
+Inspired by Niklas Luhmann, the modern digital Zettelkasten focuses on the creation of **[atomic notes](/posts/atomic-notes-writing-guide/)**—small, highly focused notes containing a single idea, written entirely in your own words. These notes are inherently context-independent, meaning they make sense on their own. Instead of putting them in folders, you aggressively link them to other related atomic notes.
 *   **Fleeting Notes:** Quick, unprocessed thoughts captured on the go.
 *   **Literature Notes:** Summaries and highlights from content you consume.
 *   **Permanent Notes:** The core of the system; fully articulated, atomic ideas heavily linked to the rest of your network.
@@ -75,7 +75,7 @@ Created by Nick Milo, LYT serves as a bridge between the rigid structure of trad
 
 ## How to Architect Your Own PKM System: Practical Steps
 
-Building a PKM system from scratch can feel intimidating. The key is to start small, focus on utility, and let the system evolve organically. Here is an expert blueprint to get you started.
+Building a PKM system from scratch can feel intimidating. The key is to start small, [focus](/posts/managing-digital-information-overload-tips/) on utility, and let the system evolve organically. Here is an expert blueprint to get you started.
 
 ### Step 1: Define Your "Why"
 Before downloading a single app, clarify your objective. Are you trying to write a book? Manage a complex portfolio of engineering projects? Or simply retain more of the non-fiction books you read? Your goal will dictate your methodology. If you are project-oriented, lean towards PARA. If you are writing-oriented, lean towards Zettelkasten.
@@ -93,7 +93,7 @@ A PKM system is useless if you don't feed it. You must reduce the friction of ca
 *   **Highlight Intentionally:** When reading articles or books (using tools like Readwise or Kindle), don't just highlight everything. Highlight only what surprises you, challenges your assumptions, or directly applies to a current project.
 
 ### Step 4: Institute Regular "Gardening" Sessions
-Information captured but never processed is just digital hoarding. Schedule dedicated time (e.g., 30 minutes every Friday) to review your inbox of captured thoughts.
+Information captured but never processed is just digital hoarding. Schedule dedicated time (e.g., 30 minutes every Friday) to [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) your inbox of captured thoughts.
 *   **Distill:** Take your highlights and raw notes and summarize them in your own words. This is where true [learning](/posts/how-to-remember-what-you-read-effectively/) happens.
 *   **Connect:** Look for existing notes in your system that relate to the new information. Create bi-directional links. Ask yourself: "In what context will I want to stumble upon this idea again?"
 

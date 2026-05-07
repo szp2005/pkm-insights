@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best PKM Apps for Visual Thinkers in 2026
 
-> **Quick Answer:** The best PKM apps for visual thinkers in 2026 are Heptabase for intensive [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and sense-making, Scrintal for seamless [Zettelkasten](/posts/zettelkasten-method-explained/) mapping, and [Obsidian](/posts/what-is-personal-knowledge-management/) (using Canvas) for combining robust local markdown files with free-form spatial layouts. Muse remains the premium choice for iPad users who rely on hand-drawn conceptualization.
+> **Quick Answer:** The best PKM apps for visual thinkers in 2026 are [Heptabase](/posts/scrintal-vs-heptabase-for-visual-note-taking/) for intensive [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and sense-making, Scrintal for seamless [Zettelkasten](/posts/zettelkasten-method-explained/) mapping, and [Obsidian](/posts/what-is-personal-knowledge-management/) (using Canvas) for combining robust local markdown files with free-form spatial layouts. Muse remains the premium choice for iPad users who rely on hand-drawn conceptualization.
 
 Traditional, linear [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) apps force your thoughts into rigid hierarchies. For visual thinkers—those who process information through spatial relationships, clusters, and mind maps—endless vertical lists of text create structural friction. When your brain works in webs of connection, a folder-based system feels like putting puzzle pieces into separate filing cabinets.
 
@@ -77,7 +77,7 @@ The true power of Obsidian Canvas is data ownership. Your boards are saved local
 - Free for personal use, making it the highest-value tool available
 
 **Cons:**
-- Steeper learning curve to configure the optimal workspace
+- Steeper [learning](/posts/how-to-remember-what-you-read-effectively/) curve to configure the optimal workspace
 - Syncing across devices requires a paid subscription or technical workarounds
 
 ### 4. Muse
@@ -97,7 +97,7 @@ Instead of traditional links, Muse relies on "boards within boards." You can nes
 
 **Cons:**
 - Strictly limited to the Apple ecosystem (macOS and iPadOS only)
-- Weak support for structured text editing or long-form writing
+- Weak support for structured text editing or long-form [writing](/posts/atomic-notes-writing-guide/)
 
 ### 5. Milanote
 

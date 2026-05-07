@@ -32,7 +32,7 @@ Building a personal knowledge management system requires an initial investment o
 
 1. **Reduced Cognitive Strain:** By offloading facts, tasks, and ideas into a trusted external system, you eliminate the underlying anxiety of forgetting something important.
 2. **Enhanced Creativity:** Creativity is largely about connecting seemingly unrelated dots. A Second Brain surfaces old notes and juxtaposes them with new ideas, sparking serendipitous insights.
-3. **Faster Content Production:** Whether you are writing an essay, preparing a presentation, or launching a business, you will never start from a blank page. You simply pull from the wealth of material you have already curated.
+3. **Faster Content Production:** Whether you are [writing](/posts/atomic-notes-writing-guide/) an essay, preparing a presentation, or launching a business, you will never start from a blank page. You simply pull from the wealth of material you have already curated.
 4. **Improved Learning and Retention:** The process of capturing and synthesizing information forces you to engage with the material deeply, improving your actual comprehension and retention.
 
 ## The Core Framework: The CODE Methodology
@@ -60,7 +60,7 @@ Instead, organize for **actionability**. Where will you use this piece of inform
 * **Archives:** Inactive items from the other three categories. When a project is finished, move it to the Archives. It keeps your workspace clean while retaining the knowledge for future use.
 
 ### 3. Distill: Find the Essence
-Captured information is rarely usable in its raw form. A 5,000-word article is too dense to review quickly. Distillation is the process of extracting the core message of a note so that your future self can understand it at a glance.
+Captured information is rarely usable in its raw form. A 5,000-word article is too dense to [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) quickly. Distillation is the process of extracting the core message of a note so that your future self can understand it at a glance.
 
 The technique used here is called **Progressive Summarization**. It involves layering highlights over time:
 * **Layer 1:** The raw, original text you captured.
@@ -141,7 +141,7 @@ While the Zettelkasten is incredibly powerful for dense academic writing, the Se
 
 Learning how to build a Second Brain is not a one-time project; it is a fundamental shift in how you interact with information. It is the transition from being a passive consumer of content to an active curator and creator of knowledge.
 
-In the beginning, your system may feel sparse. But over months and years, as you capture your best ideas, distill your reading, and organize your projects, your Second Brain will cross a critical threshold. It will evolve from a simple storage system into an intelligent partner—a digital extension of your mind that continuously surprises you with its depth, helps you produce your best work, and ultimately gives you the freedom to focus on what matters most.
+In the beginning, your system may feel sparse. But over months and years, as you capture your best ideas, distill your reading, and organize your projects, your Second Brain will cross a critical threshold. It will evolve from a simple storage system into an intelligent partner—a digital extension of your mind that continuously surprises you with its depth, helps you produce your best work, and ultimately gives you the freedom to [focus](/posts/managing-digital-information-overload-tips/) on what matters most.
 
 Start today. Choose an app, set up your PARA folders, and capture your very first note. Your future self will thank you.
 ```

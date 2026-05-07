@@ -73,7 +73,7 @@ This distinction dictates the user experience. Capacities users spend their time
 
 The true test of a PKM system is how it handles the friction of daily capture. Ideas rarely arrive fully formed; they often need a temporary holding space before being categorized.
 
-Capacities anchors its workflow around the Daily Note. This serves as the default entry point for your workspace. You can open today's note and rapidly jot down thoughts, instantly tagging them or turning them into objects using the `@` or `+` commands. If you have a meeting, you type `+Meeting`, and Capacities generates a new meeting object linked to that specific day. Capacities also excels in mobile capture through integrations like its WhatsApp bot, allowing you to text voice memos, images, and quick notes directly into your daily log.
+Capacities anchors its workflow around the Daily Note. This serves as the default entry point for your workspace. You can open today's note and rapidly jot down thoughts, instantly tagging them or turning them into objects using the `@` or `+` commands. If you have a meeting, you type `+Meeting`, and Capacities generates a new meeting object linked to that specific day. Capacities also excels in [mobile capture](/posts/building-a-mobile-information-capture-system-for-ipad/) through integrations like its WhatsApp bot, allowing you to text voice memos, images, and quick notes directly into your daily log.
 
 Notion does not have a native "Daily Note" feature out of the box. To replicate this workflow, you must build a "Journal" or "Daily Notes" database, set up a recurring template to generate a new page each day, and configure relations to your other databases. While Notion's mobile app has improved significantly, capturing a quick, fleeting thought still requires navigating to the correct database or inbox page, which adds micro-friction. Notion does, however, possess a superior Web Clipper and a massive ecosystem of third-party capture tools (like Readwise and Save to Notion) that outpace Capacities' current clipping capabilities.
 
@@ -115,7 +115,7 @@ Choosing between Capacities and Notion for object-based PKM is a matter of ident
 
 Capacities removes the architectural burden from your shoulders. It is a refined, highly functional tool that understands the nature of objects natively. It is the superior choice for individuals who want to start connecting ideas immediately, rely heavily on daily journaling, and value visual knowledge mapping without the hassle of database management.
 
-Notion is an infrastructure platform. It requires you to act as the architect of your own software. It remains the undisputed choice if your object-based PKM needs to incorporate complex formulas, highly customized dashboards, project management timelines, or team collaboration. If you possess the discipline to build and maintain the system, Notion offers a ceiling that Capacities simply cannot reach.
+Notion is an infrastructure platform. It requires you to act as the architect of your own software. It remains the undisputed choice if your object-based PKM needs to incorporate complex formulas, highly customized dashboards, [project management](/posts/tana-supertags-for-project-managers-download/) timelines, or team collaboration. If you possess the discipline to build and maintain the system, Notion offers a ceiling that Capacities simply cannot reach.
 
 ## Frequently Asked Questions
 

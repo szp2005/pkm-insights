@@ -32,7 +32,7 @@ This structural approach provides the rigidity of a database without sacrificing
 When evaluating any tool for research, the ability to ingest, connect, and retrieve information is paramount. Capacities handles these phases with specific features tailored for heavy data loads and complex academic or professional tracking.
 
 ### Daily Notes as the Command Center
-Capacities anchors its workflow around a daily note. For researchers, the daily note acts as an inbox and a scratchpad. You log what you read, meetings you attended, and quick thoughts, linking out to specific objects. This creates an automatic chronological timeline of your research progress without requiring manual filing or maintenance.
+Capacities anchors its [workflow](/posts/using-the-para-method-in-google-drive/) around a daily note. For researchers, the daily note acts as an inbox and a scratchpad. You log what you read, meetings you attended, and quick thoughts, linking out to specific objects. This creates an automatic chronological timeline of your research progress without requiring manual filing or maintenance.
 
 ### Media and PDF Handling
 Research often involves wrangling PDFs, images, and web clippings. Capacities treats media as first-class citizens. When you upload a PDF, it becomes a dedicated "Image" or "File" object. The application provides deep integration with these files, allowing you to view them side-by-side with your notes and link directly to specific assets within your broader knowledge graph.
@@ -100,7 +100,7 @@ Obsidian remains the gold standard for local-first markdown note-taking. It is l
 
 ### 4. Notion
 
-**Best for:** Collaborative teams and highly structured project management
+**Best for:** Collaborative teams and highly structured [project management](/posts/tana-supertags-for-project-managers-download/)
 **Price:** $0-$10/month
 **Rating:** 4.5/5
 
@@ -143,4 +143,4 @@ Capacities does not currently have a native citation manager integration like Zo
 Yes, Capacities allows you to export your spaces as Markdown files. Because of its object-based nature, the export includes properties in the frontmatter, ensuring your structured data remains intact if you migrate to another tool.
 
 ### Is Capacities better than Notion for research?
-For individual research, generally yes. Capacities focuses heavily on networked thought and organic linking through daily notes, making it easier to connect disparate ideas than Notion, which forces a more rigid, hierarchical folder structure.
+For individual research, generally yes. Capacities focuses heavily on [networked thought](/posts/tana-vs-capacities-networked-thought/) and organic linking through daily notes, making it easier to connect disparate ideas than Notion, which forces a more rigid, hierarchical folder structure.

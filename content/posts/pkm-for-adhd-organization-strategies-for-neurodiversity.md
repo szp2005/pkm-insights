@@ -19,7 +19,7 @@ For individuals with ADHD, the modern information landscape often feels like a c
 
 [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) offers a radically different approach. Rather than forcing your brain to adapt to a rigid organizational structure, a well-designed PKM adapts to the way your brain naturally works. It acts as an external hard drive for your thoughts, holding onto the details so your working memory does not have to. 
 
-Implementing a PKM for ADHD is not about building the most aesthetically pleasing or complex system. It is about creating organization strategies for neurodiversity that prioritize low-friction capture, visual associations, and extreme flexibility. When built correctly, a PKM stops being a chore and becomes an indispensable tool for managing overwhelm and harnessing neurodivergent creativity.
+Implementing a PKM for ADHD is not about building the most aesthetically pleasing or complex system. It is about creating organization strategies for neurodiversity that prioritize low-friction capture, visual associations, and extreme flexibility. When built correctly, a PKM stops being a chore and becomes an indispensable tool for managing overwhelm and harnessing neurodivergent [creativity](/posts/second-brain-for-boosting-creativity/).
 
 ## Understanding the ADHD Brain in the Context of Information
 
@@ -57,7 +57,7 @@ The "Daily Note" is the cornerstone of ADHD-friendly knowledge management. Inste
 
 This single page acts as a scratchpad for everything that happens that day: meeting notes, sudden ideas, a phone number, a task you need to remember. You just dump it all into the Daily Note. 
 * **Why it works:** It eliminates the decision fatigue of categorization. You never have to ask "where does this go?" It just goes in today's note.
-* **How to use it:** Later (perhaps during a weekly review, or just whenever you have the energy), you can look through past daily notes, pull out the important pieces, and link them to dedicated project pages. Even if you never organize them, you can always find that brilliant idea by searching your history or remembering roughly what week you thought of it.
+* **How to use it:** Later (perhaps during a weekly review, or just whenever you have the energy), you can look through past [daily notes](/posts/tana-commands-for-automated-daily-note-setup/), pull out the important pieces, and link them to dedicated project pages. Even if you never organize them, you can always find that brilliant idea by searching your history or remembering roughly what week you thought of it.
 
 ### Strategy 2: Bidirectional Linking for Non-Linear Thinking
 
@@ -95,7 +95,7 @@ The tool you choose matters less than the system you build within it, but some a
 If you are starting from scratch, constrain your setup to prevent overwhelm. Follow these strict dimensions for your initial system:
 
 * **Folders:** Maximum of three. (e.g., `1. Daily Notes`, `2. Resources`, `3. Archive`). Force yourself to use links and search rather than creating more folders.
-* **Plugins/Extensions:** Start with zero. Use the core functionality for at least two weeks before adding anything that changes the interface.
+* **[Plugins](/posts/logseq-plugins-for-scientific-research-efficiency/)/Extensions:** Start with zero. Use the core functionality for at least two weeks before adding anything that changes the interface.
 * **Capture Method:** Set up a global shortcut on your computer or a widget on your phone's home screen that instantly opens a new text input field. 
 * **Review Cycle:** Do not mandate a daily review. Aim for a loose weekly sweep of your inbox or daily notes, but forgive yourself if you miss it. The system must survive being ignored.
 

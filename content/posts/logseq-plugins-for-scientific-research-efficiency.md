@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Logseq Plugins for Scientific Research Efficiency in 2026
 
-> **Quick Answer:** The most impactful Logseq plugins for scientific research efficiency include the Logseq Zotero Integration for citation management, the PDF Export plugin for extracting literature highlights, and Graph Analysis for discovering hidden connections between research papers. Combining these [tools](/posts/personal-knowledge-management-tools-comparison/) transforms Logseq from a simple outliner into a robust academic knowledge base.
+> **Quick Answer:** The most impactful Logseq plugins for scientific research efficiency include the Logseq Zotero Integration for [citation management](/posts/tana-workspace-for-managing-academic-citations/), the PDF Export plugin for extracting literature highlights, and Graph Analysis for discovering hidden connections between research papers. Combining these [tools](/posts/personal-knowledge-management-tools-comparison/) transforms Logseq from a simple outliner into a robust academic knowledge base.
 
 Scientific research requires managing an overwhelming influx of information: hundreds of PDFs, scattered experimental data, grant deadlines, and evolving theories. Traditional [note-taking](/posts/zettelkasten-method-explained/) apps often force this dynamic web of knowledge into rigid folder structures, leading to siloed information and lost insights.
 
-Logseq, with its privacy-first approach and networked block-level referencing, inherently aligns with how the academic mind works. However, out of the box, it is a blank canvas. To truly handle the rigorous demands of a literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) or a multi-year Ph.D. project, you need to extend its capabilities. 
+Logseq, with its [privacy](/posts/obsidian-local-llm-integration-for-privacy/)-first approach and networked block-level referencing, inherently aligns with how the academic mind works. However, out of the box, it is a blank canvas. To truly handle the rigorous demands of a literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) or a multi-year Ph.D. project, you need to extend its capabilities. 
 
 By carefully selecting the right extensions, you can build an automated, friction-free ecosystem. This guide examines the best Logseq plugins for scientific research efficiency, evaluating them on their reliability, ease of integration, and actual impact on academic [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
@@ -186,7 +186,7 @@ Yes, Logseq handles text very efficiently, comfortably managing graphs with over
 Both are exceptional [local-first](/posts/anytype-review-local-first-privacy-lovers/) markdown tools. Logseq excels in outliner-style, block-level referencing, making it slightly better for granular data extraction and daily chronological journaling (ideal for lab notebooks). Obsidian offers a more traditional document-based approach and currently has a larger overall plugin ecosystem.
 
 ### Can I share my Logseq research graph with my lab team?
-Logseq is primarily designed for single-player, [personal knowledge management](/posts/digital-decluttering-for-information-overload/). While you can host the markdown files on a shared GitHub repository for basic collaboration, it lacks real-time multi-user editing features. It is best used as your private intellectual workspace, exporting finished summaries to your lab's shared [Notion](/posts/what-is-personal-knowledge-management/) or Google Drive.
+Logseq is primarily designed for single-player, [personal knowledge management](/posts/digital-decluttering-for-information-overload/). While you can host the markdown files on a shared GitHub repository for basic collaboration, it lacks real-time multi-user editing features. It is best used as your private intellectual workspace, exporting finished summaries to your lab's shared [Notion](/posts/what-is-personal-knowledge-management/) or [Google Drive](/posts/using-the-para-method-in-google-drive/).
 
 ### Will these Logseq plugins work offline?
 Yes. A major advantage of Logseq and its core academic plugins (like the Zotero integration and PDF tools) is that they operate entirely locally. Once installed, you can conduct your literature review, read PDFs, and extract annotations without an internet connection, which is ideal for fieldwork or commuting.

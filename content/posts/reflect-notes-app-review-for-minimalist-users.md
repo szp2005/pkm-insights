@@ -66,7 +66,7 @@ For minimalists, this means no more managing complex "Inbox" folders or feeling 
 
 A truly minimalist tool must operate at the speed of thought. Reflect is built primarily as a [local-first](/posts/anytype-review-local-first-privacy-lovers/) application, meaning your notes are stored on your device and synced in the background. Searching your entire knowledge base yields instantaneous results, with zero network latency.
 
-Furthermore, the entire application is navigable via the keyboard. A comprehensive command palette (accessed via `Cmd/Ctrl + K`) allows you to switch between notes, trigger AI prompts, or toggle settings without ever reaching for the mouse. For users who rely on muscle memory to stay in a flow state, this keyboard-centric design is indispensable.
+Furthermore, the entire application is navigable via the keyboard. A comprehensive command palette (accessed via `Cmd/Ctrl + K`) allows you to switch between notes, trigger AI prompts, or toggle settings without ever reaching for the mouse. For users who rely on muscle [memory](/posts/how-to-remember-what-you-read-effectively/) to stay in a flow state, this keyboard-centric design is indispensable.
 
 ### Secure End-to-End Encryption
 
@@ -102,7 +102,7 @@ If you are a highly structured thinker who relies on hierarchical folders, neste
 
 ### Limited Formatting and Visuals
 
-Reflect supports standard Markdown formatting (bold, italics, headers, blockquotes, code blocks), but little else. You cannot create complex colored blocks, multi-column layouts, or relational databases. If you need to build a kanban board or a visually rich wiki, Reflect is the wrong tool. It is a text-focused thinking environment, not a publishing platform or a project management suite.
+Reflect supports standard Markdown formatting (bold, italics, headers, blockquotes, code blocks), but little else. You cannot create complex colored blocks, multi-column layouts, or relational databases. If you need to build a kanban board or a visually rich wiki, Reflect is the wrong tool. It is a text-focused thinking environment, not a publishing platform or a [project management](/posts/tana-supertags-for-project-managers-download/) suite.
 
 ## Reflect vs. Top Alternatives for Minimalists
 
@@ -158,7 +158,7 @@ However, if you are a knowledge worker, an executive, or a creative professional
 Yes. Reflect utilizes end-to-end encryption (E2EE) for all your notes. This means your data is encrypted locally on your device before syncing to the cloud, and only you hold the keys to decrypt it. Not even Reflect's developers can access your unencrypted data.
 
 ### Can I import my existing notes from Evernote or Notion into Reflect?
-Yes, Reflect provides import tools for several major platforms. You can import markdown files directly, and they offer specific workflows for migrating from Roam Research, Obsidian, and Evernote, though highly structured databases from Notion will convert to plain text.
+Yes, Reflect provides import tools for several major platforms. You can import markdown files directly, and they offer specific workflows for migrating from [Roam Research](/posts/roam-research-vs-obsidian-comparison/), Obsidian, and Evernote, though highly structured databases from Notion will convert to plain text.
 
 ### Does Reflect have a mobile application?
 Yes, Reflect offers a highly optimized, native iOS application that supports instant syncing, widget integration, and AI voice transcription. An Android application is currently available but is still undergoing rapid development to reach full feature parity.

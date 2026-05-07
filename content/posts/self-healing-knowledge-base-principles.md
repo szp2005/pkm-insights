@@ -79,7 +79,7 @@ Transitioning to a self-healing architecture is not purely a software procuremen
 
 ### Establishing Your Metadata Taxonomy
 
-Automation relies on structured data. Before a system can heal itself, it needs to understand what it contains. You must establish a rigid metadata taxonomy. Every document should require specific frontmatter:
+Automation relies on [structured data](/posts/tana-ai-features-for-structured-data-entry/). Before a system can heal itself, it needs to understand what it contains. You must establish a rigid metadata taxonomy. Every document should require specific frontmatter:
 
 *   **Ownership:** A specific role or team (not an individual, as people leave companies) responsible for the content.
 *   **Verification Interval:** A defined period (e.g., 90 days for technical docs, 365 days for HR policies) after which the document must be re-verified.

@@ -31,7 +31,7 @@ When managing doctoral thesis notes in Logseq, you no longer write separate lite
 
 ## Integrating Logseq with Reference Managers
 
-A robust academic workflow requires seamless integration between your reference manager (typically Zotero) and your knowledge base. Logseq features built-in Zotero integration that eliminates the need for manual copy-pasting of metadata.
+A robust academic workflow requires seamless integration between your reference manager (typically Zotero) and your knowledge base. Logseq features built-in [Zotero integration](/posts/logseq-for-journal-article-summaries-workflow/) that eliminates the need for manual copy-pasting of metadata.
 
 ### Configuring the Integration
 To link Logseq and Zotero, you must authorize Logseq to access your local Zotero database or the Zotero web API. Once connected, typing `/zotero` allows you to search your entire citation library directly within Logseq. 

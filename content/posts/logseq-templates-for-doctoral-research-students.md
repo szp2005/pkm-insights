@@ -35,7 +35,7 @@ For doctoral work, you will primarily use **block-level templates**. Because Log
 
 ## 1. The Literature Note Template (Zettelkasten)
 
-The literature review is the backbone of any PhD. Whether you are conducting a scoping review, a systematic review, or simply keeping up with your field, you need a standardized way to process reading material. This template ensures you extract the precise information you will need when defending your methodology or citing sources.
+The [literature review](/posts/logseq-for-academic-literature-reviews/) is the backbone of any PhD. Whether you are conducting a scoping review, a systematic review, or simply keeping up with your field, you need a standardized way to process reading material. This template ensures you extract the precise information you will need when defending your methodology or citing sources.
 
 Copy the following structure into a dedicated "Templates" page in your Logseq graph:
 
@@ -184,10 +184,10 @@ Because you are using standardized properties in your templates, you can create 
     `{{query (and (property Type "[[Concept]]") (page-tags #methodology))}}`
 
 ### Integrate with Zotero
-While Logseq is excellent for [note-taking](/posts/zettelkasten-method-explained/), it is not a reference manager. You must pair Logseq with a tool like Zotero. Use Zotero to handle your PDFs, BibTeX generation, and browser clipping. Use the official Logseq-Zotero integration to pull the metadata (Title, Author, Year) directly into your Logseq Literature Note template. This keeps your references structurally sound for your final LaTeX or Word export while keeping your thoughts deeply networked in Logseq.
+While Logseq is excellent for [note-taking](/posts/zettelkasten-method-explained/), it is not a reference manager. You must pair Logseq with a tool like Zotero. Use Zotero to handle your PDFs, BibTeX generation, and browser clipping. Use the official Logseq-[Zotero integration](/posts/logseq-for-journal-article-summaries-workflow/) to pull the metadata (Title, Author, Year) directly into your Logseq Literature Note template. This keeps your references structurally sound for your final LaTeX or Word export while keeping your thoughts deeply networked in Logseq.
 
 ### Regular Graph Maintenance
-Once a week—perhaps on Friday afternoons—dedicate 30 minutes to graph maintenance. Use this time to process your daily notes, ensure all fleeting thoughts are integrated into proper Concept Notes, clean up tags, and verify that your Literature Notes have been properly summarized. A PhD graph requires pruning to remain functional over four years.
+Once a week—perhaps on Friday afternoons—dedicate 30 minutes to graph maintenance. Use this time to process your [daily notes](/posts/tana-commands-for-automated-daily-note-setup/), ensure all fleeting thoughts are integrated into proper Concept Notes, clean up tags, and verify that your Literature Notes have been properly summarized. A PhD graph requires pruning to remain functional over four years.
 
 ## Conclusion
 

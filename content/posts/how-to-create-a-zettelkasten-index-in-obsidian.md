@@ -142,7 +142,7 @@ No. Your index and MOCs should only contain links to critical entry points, summ
 Not necessarily. While the Zettelkasten method minimizes folder use, having a few broad folders (e.g., `Daily Notes`, `Templates`, `Attachments`, `Zettels`) keeps the file system tidy. The index replaces folders as the primary method of *navigating ideas*, but folders still serve a purpose for *storing file types*.
 
 ### How often should I update my Map of Content notes?
-Update them dynamically during your note-writing process. When you finalize a new Zettel, take 30 seconds to place a link to it in the appropriate MOC. Additionally, review and restructure your MOCs every few months if certain topics have grown unwieldy.
+Update them dynamically during your note-writing process. When you finalize a new Zettel, take 30 seconds to place a link to it in the appropriate MOC. Additionally, [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) and restructure your MOCs every few months if certain topics have grown unwieldy.
 
 ### What is the difference between an Index and a Map of Content (MOC)?
 In practice, they serve the same function. "Index" usually refers to the absolute top-level entry point (the root note), while "Maps of Content" refer to the intermediate, topic-specific hubs that the root index points to. Together, they form your indexing system.

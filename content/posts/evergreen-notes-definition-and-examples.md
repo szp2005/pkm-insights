@@ -137,7 +137,7 @@ Do not try to write an evergreen note while you are reading a book or listening 
 Evergreen note-making is not a passive activity; it is a dedicated creative task. Set aside time (e.g., 30 minutes at the end of the day or a few hours on the weekend) specifically to process your raw literature notes.
 
 ### Step 3: Extract Atomic Concepts
-Review your literature notes and identify the core ideas. For each distinct concept, create a new note. Give it a declarative title that summarizes the idea as a complete sentence (e.g., "Compound interest applies to knowledge as well as finance," rather than just "Knowledge and Interest").
+[Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) your literature notes and identify the core ideas. For each distinct concept, create a new note. Give it a declarative title that summarizes the idea as a complete sentence (e.g., "Compound interest applies to knowledge as well as finance," rather than just "Knowledge and Interest").
 
 ### Step 4: Synthesize and Expand
 Write the body of the note. Explain the concept clearly, as if you were teaching it to a colleague. Remove the specific context of the book or article if it isn't strictly necessary. Make the note stand on its own.
@@ -151,14 +151,14 @@ While you could theoretically manage evergreen notes with physical index cards, 
 
 *   **[Obsidian](/posts/what-is-personal-knowledge-management/):** Currently the most popular tool for building a digital Zettelkasten. It uses local Markdown files, ensuring you always own your data. Its graph view provides a stunning visual representation of how your evergreen notes connect.
 *   **Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/):** The tool that popularized bi-directional linking. It operates on an outliner structure and is excellent for rapid, associative thinking.
-*   **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** An open-source alternative to Roam Research that also operates on local Markdown files, combining the [privacy](/posts/anytype-review-local-first-privacy-lovers/) of Obsidian with the outliner workflow of Roam.
+*   **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** An open-source alternative to [Roam Research](/posts/roam-research-vs-obsidian-comparison/) that also operates on local Markdown files, combining the [privacy](/posts/anytype-review-local-first-privacy-lovers/) of Obsidian with the outliner workflow of Roam.
 *   **[Notion](/posts/personal-knowledge-management-tools-comparison/):** While Notion is incredibly versatile, it requires more manual setup to function as an evergreen note system. You will need to build specific databases and relations to mimic the frictionless linking of tools like Obsidian.
 
 ## Common Pitfalls to Avoid
 
 As you begin building your evergreen note system, watch out for these common traps:
 
-1.  **The Collector's Fallacy:** Do not confuse collecting bookmarks, highlighting articles, or copying quotes with actual learning. Creating evergreen notes requires friction and effort. If it feels too easy, you are likely just hoarding information.
+1.  **The Collector's Fallacy:** Do not confuse collecting bookmarks, highlighting articles, or copying quotes with actual [learning](/posts/how-to-remember-what-you-read-effectively/). Creating evergreen notes requires friction and effort. If it feels too easy, you are likely just hoarding information.
 2.  **Over-Structuring Too Early:** Do not spend days designing complex folder hierarchies or tagging systems before you have any notes. Evergreen notes thrive in a flat structure where connections emerge organically through links, rather than being forced into rigid categories.
 3.  **Worrying About Perfection:** Your notes do not need to be published essays. They are for you. Write them clearly enough for your future self to understand, but do not get paralyzed by trying to make them structurally perfect. You can always edit and refine them later as your understanding grows.
 

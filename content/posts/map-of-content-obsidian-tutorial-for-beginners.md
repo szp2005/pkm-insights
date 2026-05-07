@@ -55,7 +55,7 @@ Once you have identified a cluster of notes, it is time to create the hub.
 
 ### Naming Conventions
 
-Create a new note in Obsidian. Naming conventions matter here, as you want this note to be easily distinguishable from regular, atomic notes. There are a few common approaches:
+Create a new note in Obsidian. Naming conventions matter here, as you want this note to be easily distinguishable from regular, [atomic notes](/posts/atomic-notes-writing-guide/). There are a few common approaches:
 
 *   **The MOC Suffix:** `Productivity MOC` or `Python MOC`. This is explicit and makes searching easy.
 *   **The Index Prefix:** `Index - Productivity` or `000 - Python`. This forces the note to the top of alphabetical file lists.
@@ -70,7 +70,7 @@ Open your new MOC note. At this stage, do not overcomplicate the layout. Start w
 ```markdown
 # Productivity MOC
 
-This map covers concepts related to time management, focus, habit formation, and workflow optimization.
+This map covers concepts related to time management, [focus](/posts/managing-digital-information-overload-tips/), habit formation, and workflow optimization.
 ```
 
 ## Step 3: Gather and Link Your Existing Notes
@@ -179,7 +179,7 @@ A good rule of thumb is keeping an MOC to between 15 and 40 links. If an MOC gro
 In practical terms, they function the same way. The term "Index note" is often used to describe the absolute top-level note in a vault (the MOC of MOCs), while "Map of Content" usually refers to the topical hubs below it.
 
 ### Do I need community plugins to make an MOC work?
-No, MOCs rely entirely on Obsidian's core functionality: basic markdown formatting and double-bracket linking. While plugins like Dataview can automate lists within MOCs, manually curating the links is generally better for beginners to build an understanding of their note relationships.
+No, MOCs rely entirely on Obsidian's core functionality: basic markdown formatting and double-bracket linking. While plugins like [Dataview](/posts/optimizing-dataview-plugin-for-research-workflows/) can automate lists within MOCs, manually curating the links is generally better for beginners to build an understanding of their note relationships.
 
 ### Should I link from the atomic note back to the MOC?
 Yes, this is highly recommended. At the bottom or top of your atomic note, adding an "Up" link (e.g., `Up: [[Productivity MOC]]`) creates a bidirectional pathway, ensuring you can always navigate back to the broader context from any individual note.

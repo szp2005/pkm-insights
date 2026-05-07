@@ -150,10 +150,10 @@ Yes, Capacities supports real-time collaboration. Multiple team members can view
 Capacities is not designed to format bibliographies automatically. The best practice is to use a dedicated tool like Zotero to handle PDFs and citation formatting, and then create linked Literature objects in Capacities strictly for team note-taking, highlighting, and insight synthesis.
 
 ### Does Capacities offer an API for automating research [workflows](/posts/getting-things-done-for-knowledge-workers/)?
-Yes, Capacities has an API that allows teams to build custom integrations. Research teams commonly use this to automatically pull in new paper alerts from RSS feeds, sync tasks with external project management tools, or push finalized insights into drafting [software](/posts/best-apps-for-personal-knowledge-management/).
+Yes, Capacities has an API that allows teams to build custom integrations. Research teams commonly use this to automatically pull in new paper alerts from RSS feeds, sync tasks with external [project management](/posts/tana-supertags-for-project-managers-download/) tools, or push finalized insights into drafting [software](/posts/best-apps-for-personal-knowledge-management/).
 
 ### Is data stored in Capacities secure enough for proprietary research?
-Capacities uses standard encryption in transit and at rest, but it currently relies on cloud storage. Teams handling highly sensitive, classified, or heavily regulated data (like strict HIPAA environments) should review the specific compliance documentation, as local-only or on-premise hosting is not the default setup.
+Capacities uses standard encryption in transit and at rest, but it currently relies on cloud storage. Teams handling highly sensitive, classified, or heavily regulated data (like strict HIPAA environments) should review the specific compliance [documentation](/posts/self-healing-knowledge-base-principles/), as local-only or on-premise hosting is not the default setup.
 
 ---
 

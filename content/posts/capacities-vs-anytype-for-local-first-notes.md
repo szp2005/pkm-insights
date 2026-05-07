@@ -39,7 +39,7 @@ This architecture provides three massive benefits: immediate load times (because
 
 Anytype was built from the ground up to be a true local-first, peer-to-peer network for your personal data. It uses an architecture called Any-Sync, which means your nodes sync directly with each other or via encrypted backup nodes. Your data is end-to-end encrypted (E2EE), meaning even the Anytype developers cannot read your notes. The application is object-based, allowing you to define types (e.g., "Project," "Task," "Book") and relations, giving you Notion-like database capabilities but running entirely on your local machine.
 
-Because it operates locally, Anytype is blazingly fast. Searching through thousands of nodes happens instantly. The graph view is highly responsive, and the ability to work on a flight or in a dead zone without noticing any degradation in functionality is unparalleled. However, this robust architecture comes with a [learning](/posts/how-to-remember-what-you-read-effectively/) curve. The interface, while clean, requires you to understand the ontology of objects, sets, and relations, which can feel overly rigid for users just wanting to jot down quick thoughts.
+Because it operates locally, Anytype is blazingly fast. Searching through thousands of nodes happens instantly. The graph view is highly responsive, and the ability to work on a flight or in a dead zone without noticing any degradation in functionality is unparalleled. However, this robust architecture comes with a [learning](/posts/how-to-remember-what-you-read-effectively/) curve. The interface, while clean, requires you to understand the [ontology](/posts/building-research-ontologies-in-capacities-app/) of objects, sets, and relations, which can feel overly rigid for users just wanting to jot down quick thoughts.
 
 **Pros:**
 - True local-first architecture with P2P syncing
@@ -58,7 +58,7 @@ Because it operates locally, Anytype is blazingly fast. Searching through thousa
 **Price:** Free - $10/month (Capacities Pro)
 **Rating:** 4.4/5
 
-Capacities approaches object-based note-taking with a heavy focus on user experience, beautiful design, and frictionless capture. It labels itself "a studio for your mind." Like Anytype, it forces you to categorize your notes into objects (e.g., "Meeting," "Idea," "Zettel"), which prevents the dreaded "where do I put this" anxiety. Its daily note feature is exceptional, acting as an inbox for everything that happens on a given day.
+Capacities approaches object-based note-taking with a heavy [focus](/posts/managing-digital-information-overload-tips/) on user experience, beautiful design, and frictionless capture. It labels itself "a studio for your mind." Like Anytype, it forces you to categorize your notes into objects (e.g., "Meeting," "Idea," "Zettel"), which prevents the dreaded "where do I put this" anxiety. Its daily note feature is exceptional, acting as an inbox for everything that happens on a given day.
 
 However, in the context of local-first notes, Capacities requires a nuanced discussion. Capacities was built as a cloud-first application. While the development team has introduced robust offline modes and local caching, it is not fundamentally a local-first architecture in the same vein as Anytype. If you log out or clear your cache while offline, you cannot access your workspace. Your data is encrypted in transit and at rest on their servers, but it is not end-to-end encrypted. It provides the *feeling* of local-first for daily use, but not the technical guarantees.
 
@@ -105,7 +105,7 @@ Anytype's UX is functional and powerful, but slightly more utilitarian. You crea
 **Winner for User Experience:** Capacities.
 **Winner for Structural Power:** Anytype.
 
-## Practical Advice: Choosing the Right Tool for Your Workflow
+## Practical Advice: Choosing the Right Tool for Your [Workflow](/posts/using-the-para-method-in-google-drive/)
 
 When deciding between capacities vs anytype for local first notes, the decision rarely comes down to which app has more features, but rather what your non-negotiables are regarding infrastructure.
 

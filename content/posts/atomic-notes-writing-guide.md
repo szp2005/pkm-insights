@@ -18,7 +18,7 @@ In the rapidly evolving landscape of knowledge work, the ability to synthesize, 
 
 Originating from the legendary Zettelkasten method popularized by sociologist Niklas Luhmann, atomic notes are the fundamental building blocks of a dynamic, networked thinking system. When executed correctly, they transform your Personal Knowledge Management (PKM) system from a static archive into a vibrant "[second brain](/posts/best-apps-for-personal-knowledge-management/)" that actively generates new insights.
 
-This comprehensive guide will deconstruct the philosophy, mechanics, and advanced [workflows](/posts/getting-things-done-for-knowledge-workers/) of writing perfect atomic notes. Whether you are using [Obsidian](/posts/personal-knowledge-management-tools-comparison/), Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/), Logseq, or a physical slip-box, mastering this skill will fundamentally alter how you interact with information.
+This comprehensive guide will deconstruct the philosophy, mechanics, and advanced [workflows](/posts/getting-things-done-for-knowledge-workers/) of writing perfect atomic notes. Whether you are using [Obsidian](/posts/personal-knowledge-management-tools-comparison/), Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/), [Logseq](/posts/logseq-sync-setup-for-cross-platform-devices/), or a physical slip-box, mastering this skill will fundamentally alter how you interact with information.
 
 ## What is an Atomic Note? The Core Philosophy
 
@@ -52,7 +52,7 @@ When you read a book or an article, you should take literature notes. These are 
 
 ### Step 3: The Distillation Phase (Creating the Permanent Atomic Note)
 
-This is the crucible where true knowledge creation happens. Typically done once a day or once a week, you review your fleeting and literature notes and elevate the best ideas into permanent, atomic notes.
+This is the crucible where true knowledge creation happens. Typically done once a day or once a week, you [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) your fleeting and literature notes and elevate the best ideas into permanent, atomic notes.
 
 **The Anatomy of a Perfect Atomic Note:**
 
@@ -151,7 +151,7 @@ Stop merely collecting information. Start translating, distilling, and connectin
 
 ### What is the "Rule of Atomicity" in note-taking?
 
-The rule of atomicity dictates that each note should contain exactly one distinct idea or concept. This singular focus makes notes infinitely reusable and easier to link to diverse topics, preventing information from being trapped in large, monolithic documents.
+The rule of atomicity dictates that each note should contain exactly one distinct idea or concept. This singular [focus](/posts/managing-digital-information-overload-tips/) makes notes infinitely reusable and easier to link to diverse topics, preventing information from being trapped in large, monolithic documents.
 
 ### How do atomic notes differ from standard highlights?
 

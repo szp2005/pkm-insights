@@ -43,7 +43,7 @@ Once information is captured, it needs a stable home. The PARA method—Projects
 
 **Projects** are temporary initiatives with a defined start and end date. Examples include "Launch V2 Dashboard," "Deprecate Legacy API," or "Complete Q4 Planning." In your PKM system, these folders hold the active working documents: draft PRDs, sprint planning notes, and launch checklists.
 
-**Areas** represent ongoing responsibilities with no end date. For a PM, these are the core pillars of your role. You should create dedicated spaces for "User Research," "Market Intelligence," "Team Leadership," and specific product domains like "Authentication" or "Billing Core." This is where evergreen knowledge lives. The SSO insight mentioned earlier belongs in the "Authentication" Area, not an isolated Project folder.
+**Areas** represent ongoing responsibilities with no end date. For a PM, these are the core pillars of your role. You should create dedicated spaces for "User [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/)," "Market Intelligence," "Team Leadership," and specific product domains like "Authentication" or "Billing Core." This is where evergreen knowledge lives. The SSO insight mentioned earlier belongs in the "Authentication" Area, not an isolated Project folder.
 
 **Resources** encompass reference materials that inform your work but aren't specific to your product. This includes frameworks (e.g., RICE scoring, Kano model), technical documentation, swipe files of great UX patterns, and notes from books or articles on product strategy.
 
@@ -114,7 +114,7 @@ Keep your PKM system completely separate and private. Use your personal vault to
 Daily maintenance should take less than five minutes. Your goal during the workday is solely rapid capture into your inbox. All heavy lifting, organizing, and linking should be deferred to a dedicated 30-minute block during your weekly review to protect your [deep work](/posts/four-layer-stack-for-pkm-optimization/) time.
 
 ### How do I handle sensitive company data or confidential product roadmaps in a personal system?
-If you are using a cloud-based tool like Notion or Roam, ensure you review your company's data security policies regarding third-party storage. For maximum security and compliance, use a local-first application like Obsidian, storing the markdown files exclusively on your company-issued encrypted hard drive.
+If you are using a cloud-based tool like Notion or Roam, ensure you review your company's data security policies regarding third-party storage. For maximum security and compliance, use a [local-first](/posts/anytype-review-local-first-privacy-lovers/) application like Obsidian, storing the markdown files exclusively on your company-issued encrypted hard drive.
 
 ### Is it worth transferring my old notes into a new PKM system?
 No. Attempting a massive migration of legacy notes usually causes project abandonment. Start fresh today. Only move old documents into the new system organically, pulling them over one by one as they become directly relevant to your current, active projects.

@@ -25,7 +25,7 @@ Standard [productivity](/posts/zettelkasten-method-explained/) advice often reco
 
 ### The Context Switching Penalty
 
-Engineers operate in a state of deep focus. Switching away from an IDE to wait for a cloud-based web application to load a new document introduces unacceptable friction. If capturing a thought takes more than two seconds or breaks visual focus, the thought is abandoned. Developer PKM must be instantaneous and ideally accessible entirely via keyboard shortcuts from within or alongside the development environment.
+Engineers operate in a state of deep [focus](/posts/managing-digital-information-overload-tips/). Switching away from an IDE to wait for a cloud-based web application to load a new document introduces unacceptable friction. If capturing a thought takes more than two seconds or breaks visual focus, the thought is abandoned. Developer PKM must be instantaneous and ideally accessible entirely via keyboard shortcuts from within or alongside the development environment.
 
 ### Code, Diagrams, and Plain Text
 
@@ -110,7 +110,7 @@ Even with the right principles, engineers frequently fall into specific traps wh
 
 ### Over-engineering the System
 
-Software engineers are prone to building complex systems instead of doing the actual work. Do not spend three weeks writing custom Python scripts to parse your notes or designing an overly rigid metadata schema. Start with a single folder of Markdown files and a daily note. Only add automation or structure when the pain of managing the existing notes becomes unbearable.
+Software engineers are prone to building complex systems instead of doing the actual work. Do not spend three weeks [writing](/posts/atomic-notes-writing-guide/) custom Python scripts to parse your notes or designing an overly rigid metadata schema. Start with a single folder of Markdown files and a daily note. Only add automation or structure when the pain of managing the existing notes becomes unbearable.
 
 ### Mixing Personal and Proprietary Company Data
 
@@ -134,7 +134,7 @@ The most effective software engineers do not simply have better memories; they h
 Use standard Markdown code fences (e.g., ````javascript`) within dedicated notes based on the language or framework. Keep snippets focused and include a brief comment explaining *why* the snippet is useful, not just what it does. Avoid pasting entire files; only store the critical, non-obvious logic.
 
 ### Should I use a separate vault for work and personal life?
-Yes, it is highly recommended to maintain strict separation. Use a dedicated vault for employer-specific notes, architecture, and daily logs, stored exclusively on your work machine. Use your personal vault for evergreen skills, language learning, and side projects to ensure you don't violate data privacy or intellectual property agreements.
+Yes, it is highly recommended to maintain strict separation. Use a dedicated vault for employer-specific notes, architecture, and daily logs, stored exclusively on your work machine. Use your personal vault for evergreen skills, language [learning](/posts/how-to-remember-what-you-read-effectively/), and side projects to ensure you don't violate data privacy or intellectual property agreements.
 
 ### How is a personal PKM different from internal wikis like Confluence?
 Confluence and [Notion](/posts/personal-knowledge-management-tools-comparison/) workspaces are designed for team alignment, consensus, and formal documentation. A personal PKM is messy, optimized purely for your individual cognitive style, and designed for speed. Your PKM is where you figure out *how* to solve the problem; the internal wiki is where you document the final solution for the team.

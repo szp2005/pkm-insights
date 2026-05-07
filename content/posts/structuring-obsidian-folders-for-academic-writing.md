@@ -13,13 +13,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Structuring Obsidian Folders for Academic Writing: 5-Step System
 
-> **Quick Answer:** The most effective approach to structuring Obsidian folders for academic writing uses a hybrid system combining the PARA method with [Zettelkasten](/posts/zettelkasten-method-explained/) principles. Create numbered, top-level folders for active papers (`01-Projects`), broad research domains (`02-Areas`), literature notes (`03-Resources`), and a flat slip-box for interconnected ideas (`04-Zettelkasten`), keeping folder depth to a maximum of three levels to reduce cognitive friction.
+> **Quick Answer:** The most effective approach to structuring Obsidian folders for academic writing uses a hybrid system combining the [PARA method](/posts/using-the-para-method-in-google-drive/) with [Zettelkasten](/posts/zettelkasten-method-explained/) principles. Create numbered, top-level folders for active papers (`01-Projects`), broad research domains (`02-Areas`), literature notes (`03-Resources`), and a flat slip-box for interconnected ideas (`04-Zettelkasten`), keeping folder depth to a maximum of three levels to reduce cognitive friction.
 
 Transitioning from consuming academic literature to producing original research is a notoriously inefficient process. The traditional academic workflow often involves PDFs scattered across a desktop, highlights trapped inside reference managers, and fragmented ideas lost in endless Word documents. Obsidian offers a powerful alternative by utilizing plain text and bidirectional linking to build a personal knowledge graph. However, because Obsidian provides a completely blank slate upon creation, the lack of an imposed structure can quickly lead to an unnavigable vault.
 
 For researchers, graduate students, and academics, a folder structure must do more than store files. It must actively facilitate the writing process. A rigid, deeply nested hierarchy makes it difficult to connect disparate ideas—the very foundation of academic synthesis. Conversely, a completely flat structure relying solely on tags and links can become overwhelming when managing the administrative overhead of a dissertation or a multi-author journal article.
 
-The solution is a structured framework that provides rigid containers for project management while maintaining a fluid, interconnected space for idea development. This guide details a specific, actionable system for structuring your Obsidian vault specifically optimized for academic writing.
+The solution is a structured framework that provides rigid containers for [project management](/posts/tana-supertags-for-project-managers-download/) while maintaining a fluid, interconnected space for idea development. This guide details a specific, actionable system for structuring your Obsidian vault specifically optimized for academic writing.
 
 ## The Problem with Traditional Academic Hierarchies
 
@@ -34,7 +34,7 @@ Academic writing requires synthesizing information across different contexts, ye
 
 ## The Hybrid System: PARA Meets Zettelkasten
 
-The optimal structure for academic writing merges two established methodologies: Tiago Forte's PARA method (Projects, Areas, Resources, Archives) and the Zettelkasten system popularized by Niklas Luhmann. 
+The optimal structure for academic writing merges two established methodologies: [Tiago Forte](/posts/tiago-forte-building-a-second-brain-review/)'s PARA method (Projects, Areas, Resources, Archives) and the Zettelkasten system popularized by Niklas Luhmann. 
 
 The PARA method excels at top-down [organization](/posts/steps-to-building-a-second-brain/) and action-oriented project management. It provides clear boundaries for where administrative files, drafts, and reference materials should live. However, PARA is fundamentally a filing system, not an idea-generation system. 
 

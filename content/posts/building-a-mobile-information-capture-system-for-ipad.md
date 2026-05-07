@@ -11,7 +11,7 @@ type: "informational"
 
 # Building a Mobile Information Capture System for iPad: Complete Guide
 
-> **Quick Answer:** Building a mobile information capture system for iPad requires combining the right hardware (Apple Pencil, Magic Keyboard) with low-friction software (Apple Notes, Drafts, Readwise) to immediately store ideas, links, and documents. The core principle is separating the "capture" phase from the "processing" phase, using cloud sync and automation to funnel raw data into your permanent [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/).
+> **Quick Answer:** Building a mobile information capture system for iPad requires combining the right hardware (Apple Pencil, Magic Keyboard) with low-friction software (Apple Notes, Drafts, Readwise) to immediately store ideas, links, and documents. The core principle is separating the "capture" phase from the "processing" phase, using cloud sync and [automation](/posts/self-healing-knowledge-base-principles/) to funnel raw data into your permanent [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/).
 
 The iPad occupies a unique space in modern computing. It is more expansive than a smartphone but more portable and tactile than a traditional laptop. This positions it perfectly as the ultimate mobile capture device—a digital field notebook that can seamlessly integrate handwriting, text, audio, and visual data into a cohesive workflow. However, without a deliberate system, an iPad quickly devolves into an expensive media consumption device rather than a [productivity](/posts/zettelkasten-method-explained/) engine.
 
@@ -83,7 +83,7 @@ Capturing information is useless if it remains trapped in isolated app silos. Th
 
 ### The Funnel Approach
 
-Your goal is to funnel all captured data into your primary Personal Knowledge Management (PKM) system. Whether you use Obsidian, Notion, Logseq, or Tana, the iPad must feed these systems efficiently.
+Your goal is to funnel all captured data into your primary Personal Knowledge Management (PKM) system. Whether you use Obsidian, Notion, [Logseq](/posts/logseq-sync-setup-for-cross-platform-devices/), or Tana, the iPad must feed these systems efficiently.
 
 1. **Text Pipeline:** Text captured in Drafts is sent to a specific "Inbox" folder in your PKM via Drafts actions or Apple Shortcuts.
 2. **Highlight Pipeline:** Readwise automatically pushes all highlights from web articles, Kindle books, and PDFs directly into a dedicated "Highlights" directory in your PKM.

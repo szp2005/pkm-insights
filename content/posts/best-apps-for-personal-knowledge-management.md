@@ -58,7 +58,7 @@ Obsidian has rapidly become the darling of the PKM community, and for good reaso
 - **Unrivaled Extensibility:** The community plugin ecosystem is massive. Whether you need Kanban boards, advanced table functionalities, or integration with task managers, there is likely a plugin for it.
 - **Canvas:** A built-in infinite canvas for spatial reasoning, mind mapping, and visual [organization](/posts/steps-to-building-a-second-brain/).
 
-**Expert Advice:** Obsidian is the ultimate tool for developers, researchers, and long-term thinkers who demand complete control over their data. Its learning curve can be steep if you dive deeply into community plugins, but out of the box, it is a fast and responsive Markdown editor. If future-proofing your knowledge is your top priority, Obsidian is the definitive choice.
+**Expert Advice:** Obsidian is the ultimate tool for developers, researchers, and long-term thinkers who demand complete control over their data. Its [learning](/posts/how-to-remember-what-you-read-effectively/) curve can be steep if you dive deeply into community plugins, but out of the box, it is a fast and responsive Markdown editor. If future-proofing your knowledge is your top priority, Obsidian is the definitive choice.
 
 ### 2. Notion: The All-in-One Database Workspace
 
@@ -74,7 +74,7 @@ Notion approaches knowledge management from a completely different angle. Rather
 
 ### 3. Logseq: The Open-Source Outliner
 
-Logseq is a privacy-first, open-source outliner that operates on local plain text files. It takes the block-based outlining paradigm popularized by Roam Research and marries it to the local-first philosophy of Obsidian.
+Logseq is a privacy-first, open-source outliner that operates on local plain text files. It takes the block-based outlining paradigm popularized by Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and marries it to the local-first philosophy of Obsidian.
 
 **Key Features:**
 - **Block-Level Referencing:** Every bullet point in Logseq is a distinct database entry. You can embed, reference, and query individual bullet points across your entire knowledge base.
@@ -171,7 +171,7 @@ Obsidian is local-first, meaning your notes are stored as plain Markdown files o
 
 Notion is superior for project management, structured databases, and team collaboration. Obsidian is better for deep thinking, long-term knowledge synthesis, and users who want complete control over their data without being locked into a subscription-based cloud platform.
 
-### What are the benefits of using an "outliner" like Logseq or Roam Research?
+### What are the benefits of using an "outliner" like Logseq or [Roam Research](/posts/roam-research-vs-obsidian-comparison/)?
 
 Outliners treat every bullet point as a referenceable "block," allowing for extreme granularity. This is ideal for users who think in hierarchies and want to rapidly log thoughts in a daily journal format without worrying about where to "file" individual notes.
 

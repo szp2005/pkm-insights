@@ -78,7 +78,7 @@ Instead, organize by actionability. The PARA method is the industry standard for
 ### Projects
 Projects are tasks with a specific goal and a defined deadline. This folder contains all the active work you are currently executing.
 - **Examples:** "Launch Q3 Marketing Campaign," "Write Website Copy," "Plan Family Vacation to Japan."
-- **Focus:** Immediate execution. If a note helps you move an active project forward, it belongs here.
+- **[Focus](/posts/managing-digital-information-overload-tips/):** Immediate execution. If a note helps you move an active project forward, it belongs here.
 
 ### Areas (of Responsibility)
 Areas are ongoing commitments or spheres of activity that require continuous maintenance, with no end date.
@@ -106,13 +106,13 @@ Progressive summarization is a technique for highlighting notes in layers, makin
 
 1. **Layer 1 (The Raw Note):** The original text, transcript, or copy-pasted article.
 2. **Layer 2 (Bolding):** Read through the raw note and bold the most important sentences and keywords. Do not alter the text; simply emphasize what stands out.
-3. **Layer 3 (Highlighting):** Review only the bolded text. Apply a yellow highlight to the absolute most critical concepts—the core takeaways.
+3. **Layer 3 (Highlighting):** [Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) only the bolded text. Apply a yellow highlight to the absolute most critical concepts—the core takeaways.
 4. **Layer 4 (Executive Summary):** At the very top of the note, write a 2-3 sentence summary in your own words.
 
 When you retrieve this note six months later, you can read the executive summary in five seconds. If you need more context, you scan the highlights. If you need full details, you read the entire text.
 
 ### The "Feynman" Application
-When writing your summaries, use the Feynman Technique: explain the concept as if you were teaching it to a twelve-year-old. Strip away jargon and complex vocabulary. If you cannot explain it simply, you have not actually understood the material.
+When [writing](/posts/atomic-notes-writing-guide/) your summaries, use the Feynman Technique: explain the concept as if you were teaching it to a twelve-year-old. Strip away jargon and complex vocabulary. If you cannot explain it simply, you have not actually understood the material.
 
 ## Step 6: Express and Output
 

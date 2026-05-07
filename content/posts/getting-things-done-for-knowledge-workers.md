@@ -100,7 +100,7 @@ Review your Next Actions list and physically drag blocks of time onto your calen
 For the elite knowledge worker, GTD is just the execution layer. The true power unlocks when you integrate GTD with a Personal Knowledge Management (PKM) system and automated [workflows](/posts/personal-knowledge-management-for-product-managers-tutorial/).
 
 ### GTD + Zettelkasten
-Your task manager should hold actionable items. Your PKM (your "second brain") should hold information, reference material, and interconnected ideas. When a project requires [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), the tasks live in the GTD system ("Read 3 articles on vector databases"), but the output of that research lives in the PKM system as linked notes. When it is time to write the final report, your PKM serves up the synthesized knowledge, and your GTD system tracks the writing process.
+Your task manager should hold actionable items. Your PKM (your "second brain") should hold information, reference material, and interconnected ideas. When a project requires [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), the tasks live in the GTD system ("Read 3 articles on vector databases"), but the output of that research lives in the PKM system as linked notes. When it is time to write the final report, your PKM serves up the synthesized knowledge, and your GTD system tracks the [writing process](/posts/how-to-start-a-digital-garden-for-writers/).
 
 ### Strategic Automation
 Do not automate a broken process, but aggressively automate your trusted GTD workflows:

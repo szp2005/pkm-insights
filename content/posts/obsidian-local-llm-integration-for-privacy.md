@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Local LLM Integration for Privacy: Complete Setup Guide
 
-> **Quick Answer:** Obsidian local LLM integration for privacy involves running open-weights language models directly on your hardware using [tools](/posts/personal-knowledge-management-tools-comparison/) like Ollama or LM Studio, connected via plugins like BMO Chatbot or Text Generator. This guarantees 100% data sovereignty since your notes never leave your machine, requiring at least 16GB of system RAM or an Apple Silicon Mac for optimal performance.
+> **Quick Answer:** Obsidian local LLM integration for privacy involves running open-weights language models directly on your hardware using [tools](/posts/personal-knowledge-management-tools-comparison/) like Ollama or LM Studio, connected via [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/) like BMO Chatbot or Text Generator. This guarantees 100% data sovereignty since your notes never leave your machine, requiring at least 16GB of system RAM or an Apple Silicon Mac for optimal performance.
 
 Integrating [artificial intelligence](/posts/self-healing-knowledge-base-principles/) into a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) system offers obvious benefits, from synthesizing complex notes to generating structure from scattered thoughts. However, sending highly personal journals, proprietary code, or confidential client notes to cloud providers like OpenAI or Anthropic introduces significant security and privacy risks. 
 
@@ -45,7 +45,7 @@ Model files are large. A standard 8-billion parameter model takes up roughly 5GB
 
 ## Choosing the Right Local LLM Engine
 
-To bridge the gap between your hardware and Obsidian, you need an inference engine. These applications host the model on your machine and expose a local API (usually an OpenAI-compatible endpoint) that Obsidian plugins can communicate with.
+To bridge the gap between your hardware and Obsidian, you need an inference engine. These applications host the model on your machine and expose a local API (usually an OpenAI-compatible endpoint) that [Obsidian plugins](/posts/best-obsidian-plugins-for-creative-professionals-2026/) can communicate with.
 
 ### Ollama
 Ollama is currently the industry standard for running local models on macOS, Linux, and Windows. It operates primarily through a command-line interface but excels at running quietly in the background as a system service. 
@@ -100,7 +100,7 @@ Navigate to the BMO Chatbot settings within Obsidian.
 Not all models are optimized for the formatting structures commonly used in Obsidian. You need models that respect Markdown syntax, output clean lists, and follow instructions strictly.
 
 *   **Llama 3 (8B):** An excellent all-rounder. It understands Markdown well, follows complex prompt structures, and runs smoothly on 16GB machines.
-*   **Mistral v0.2 (7B):** Highly regarded for its logical reasoning and summarization capabilities. It often produces more concise outputs than Llama 3, making it ideal for extracting bullet points from messy daily notes.
+*   **Mistral v0.2 (7B):** Highly regarded for its logical reasoning and summarization capabilities. It often produces more concise outputs than Llama 3, making it ideal for extracting bullet points from messy [daily notes](/posts/tana-commands-for-automated-daily-note-setup/).
 *   **Phi-3 Mini (3.8B):** A remarkably intelligent model built by Microsoft that runs well on almost any hardware. If you are using an older laptop without a dedicated GPU, Phi-3 is your best option for offline text processing.
 *   **Command R (35B):** If you have an M-series Mac with 64GB of RAM or a multi-GPU desktop, Command R is exceptional for Retrieval-Augmented Generation. It is explicitly trained to pull information from provided context (like your Obsidian notes) and cite its sources accurately.
 

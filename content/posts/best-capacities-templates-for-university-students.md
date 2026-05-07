@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # 7 Best Capacities Templates for University Students in 2026
 
-> **Quick Answer:** The best Capacities templates for university students leverage its object-based system to connect courses, assignments, and [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) seamlessly. The **Comprehensive Student OS** is the top all-in-one choice for undergraduates, while the **Academic [Zettelkasten](/posts/zettelkasten-method-explained/)** is the ideal pick for graduate students managing complex literature and thesis research. 
+> **Quick Answer:** The best Capacities templates for university students leverage its object-based system to connect courses, assignments, and [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) seamlessly. The **Comprehensive Student OS** is the top all-in-one choice for undergraduates, while the **Academic [Zettelkasten](/posts/zettelkasten-method-explained/)** is the ideal pick for graduate students managing complex literature and [thesis](/posts/obsidian-academic-workflow-for-thesis-2026/) research. 
 
 Managing the influx of information at university requires more than just a digital notebook; it requires a structured system. Over the past few years, Capacities has emerged as a powerhouse for [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM). Unlike traditional folder-based apps, Capacities uses an object-based architecture. You don't put a note in a folder; you create an object—like a "Book," a "Course," or an "Assignment"—and link them together naturally. 
 
@@ -131,7 +131,7 @@ When [writing](/posts/atomic-notes-writing-guide/) a research paper, organizing 
 **Price:** Free
 **Rating:** 4.3/5
 
-University life is not solely about academics; securing internships and managing clubs are equally critical. This template provides object types for "Companies," "Applications," "Interviews," and "Projects." It helps you track where you applied, who you spoke with (linking to "Person" objects), and what portfolio pieces you need to prepare. It provides a structured space to build your resume and reflect on extracurricular leadership roles using the STAR (Situation, Task, Action, Result) method.
+University life is not solely about [academics](/posts/tana-workflows-for-systematic-literature-reviews/); securing internships and managing clubs are equally critical. This template provides object types for "Companies," "Applications," "Interviews," and "Projects." It helps you track where you applied, who you spoke with (linking to "Person" objects), and what portfolio pieces you need to prepare. It provides a structured space to build your resume and reflect on extracurricular leadership roles using the STAR (Situation, Task, Action, Result) method.
 
 **Pros:**
 - Fills the gap often left by strictly academic templates
@@ -165,7 +165,7 @@ While objects represent the "things" in your academic life, tags should represen
 
 ## Conclusion
 
-Transitioning to an object-based PKM tool like Capacities is a strategic upgrade for any university student. By moving away from rigid folders and embracing networked thought, you mirror the way academic knowledge actually builds upon itself. Whether you opt for a sprawling organizational dashboard or a hyper-focused research Zettelkasten, using a well-designed template eliminates the friction of setup and allows you to immediately begin capturing and synthesizing your coursework.
+Transitioning to an object-based PKM tool like Capacities is a strategic upgrade for any university student. By moving away from rigid folders and embracing [networked thought](/posts/tana-vs-capacities-networked-thought/), you mirror the way academic knowledge actually builds upon itself. Whether you opt for a sprawling organizational dashboard or a hyper-focused research Zettelkasten, using a well-designed template eliminates the friction of setup and allows you to immediately begin capturing and synthesizing your coursework.
 
 ## Frequently Asked Questions
 

@@ -50,7 +50,7 @@ Examples of Resources:
 * Web Design Inspiration
 * Prompt Engineering Guides
 * Recipe Collection
-* Meeting Facilitation Templates
+* Meeting Facilitation [Templates](/posts/logseq-templates-for-doctoral-research-students/)
 
 ### 4. Archives (Cold Storage)
 Archives act as the repository for inactive items from the other three categories. When a project is completed, an area is no longer relevant, or you lose interest in a resource, you move the folder here. You never delete it, but you remove it from your active workspace.

@@ -10,7 +10,7 @@ type: "review"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-> **Quick Answer:** [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) Tools Comparison matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. An expert, in-depth comparison of the top personal knowledge management (PKM) tools including Obsidian, Notion, Roam, and Logseq. Learn how to choose the right system for your [second brain](/posts/digital-note-taking-strategies-for-productivity/).
+> **Quick Answer:** [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) Tools Comparison matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. An expert, in-depth comparison of the top personal knowledge management (PKM) tools including Obsidian, [Notion](/posts/second-brain-dashboard-for-notion-power-users/), Roam, and Logseq. Learn how to choose the right system for your [second brain](/posts/digital-note-taking-strategies-for-productivity/).
 
 In an era characterized by an overwhelming deluge of information, our biological brains are no longer sufficient to store, organize, and synthesize the sheer volume of data we encounter daily. The concept of building a "Second Brain"—a digital repository for your ideas, [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), and insights—has transitioned from a niche [productivity](/posts/knowledge-management-strategies-for-students/) hack to an essential professional methodology. This discipline is formally known as Personal Knowledge Management (PKM).
 
@@ -24,7 +24,7 @@ To understand the current landscape of PKM tools, it is crucial to recognize how
 
 Historically, [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) applications operated on a **hierarchical architecture**. Tools like Evernote and Microsoft OneNote required users to categorize information into a rigid structure of folders, sub-folders, and notebooks. While intuitive for basic storage, this top-down approach inevitably created friction. An insight often belongs in multiple categories, and forcing it into a single folder siloes the information, preventing serendipitous connections.
 
-The modern era of PKM is defined by **networked architecture**. Pioneered largely by Roam Research and deeply influenced by the *[Zettelkasten](/posts/zettelkasten-method-explained/)* (slip-box) method developed by sociologist Niklas Luhmann, networked tools use bi-directional linking. Instead of filing a note away in a folder, you link it to related concepts. Over time, these links organically form a knowledge graph—a dynamic web of thought that mimics the associative nature of the human brain.
+The modern era of PKM is defined by **networked architecture**. Pioneered largely by [Roam Research](/posts/roam-research-vs-obsidian-comparison/) and deeply influenced by the *[Zettelkasten](/posts/zettelkasten-method-explained/)* (slip-box) method developed by sociologist Niklas Luhmann, networked tools use bi-directional linking. Instead of filing a note away in a folder, you link it to related concepts. Over time, these links organically form a knowledge graph—a dynamic web of thought that mimics the associative nature of the human brain.
 
 Understanding this distinction—hierarchy versus network—is the foundational step in evaluating which tool will best serve your needs.
 
@@ -45,7 +45,7 @@ Obsidian is fundamentally a markdown editor that sits on top of a local folder o
 *   **Performance:** Operating on local text files makes Obsidian blisteringly fast, even with vaults containing tens of thousands of notes.
 
 **Weaknesses:**
-*   **Steep Learning Curve:** Out of the box, Obsidian is a blank slate. Building a functional system requires significant upfront investment in learning plugins and configuring settings.
+*   **Steep [Learning](/posts/how-to-remember-what-you-read-effectively/) Curve:** Out of the box, Obsidian is a blank slate. Building a functional system requires significant upfront investment in learning plugins and configuring settings.
 *   **Collaboration:** Because it is local-first, real-time collaboration with teams is fundamentally difficult and not the tool's intended use case.
 
 **Best For:** The "Architect" thinker who demands total control, privacy, customization, and longevity for their intellectual property.

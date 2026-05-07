@@ -60,7 +60,7 @@ tags: ["book", "classic"]
 
 ### Creating Your First Book Note Template
 
-To maintain consistency and speed up note creation, create a template for your book notes. This ensures all new book entries have the necessary metadata fields pre-filled, prompting you to populate them. Save this template in a designated "Templates" folder.
+To maintain consistency and speed up note creation, create a template for your book notes. This ensures all new book entries have the necessary metadata fields pre-filled, prompting you to populate them. Save this template in a designated "[Templates](/posts/logseq-templates-for-doctoral-research-students/)" folder.
 
 **Example Book Template (`Book Template.md`):**
 
@@ -338,7 +338,7 @@ Your Obsidian vault, including all your book notes and Dataview configurations, 
 
 *   **Cloud Sync:** Use services like [Google Drive](/posts/using-the-para-method-in-google-drive/), Dropbox, or OneDrive to sync your entire Obsidian vault.
 *   **Version Control:** For advanced users, using Git to version control your vault provides granular control over changes and easy rollback capabilities.
-*   **Obsidian Sync:** The official Obsidian Sync service offers seamless, encrypted synchronization across devices and version history.
+*   **[Obsidian Sync](/posts/setup-guide-for-obsidian-sync-on-android/):** The official Obsidian Sync service offers seamless, encrypted synchronization across devices and version history.
 
 Regular backups ensure that your valuable reading history and the effort you put into structuring it are never lost. Consider daily or weekly backups, depending on how frequently you update your book notes.
 

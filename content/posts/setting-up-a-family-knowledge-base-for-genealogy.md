@@ -17,7 +17,7 @@ Genealogy [research](/posts/progressive-summarization-workflow-for-deep-research
 
 When your research is trapped in silos, recognizing patterns or sharing findings with family members becomes nearly impossible. Relying solely on commercial platforms like Ancestry or MyHeritage also introduces risk; if your subscription lapses or the company changes its terms of service, you lose access to the structural connections you spent years building. 
 
-Setting up a family knowledge base for genealogy solves this structural problem. A knowledge base acts as a single source of truth—a digital library customized to your specific research workflow. It allows you to link a census record directly to the individuals mentioned, tag unresolved research questions, and build a lasting, platform-independent archive that can be passed down to future generations. 
+Setting up a family knowledge base for genealogy solves this structural problem. A knowledge base acts as a single source of truth—a digital library customized to your specific [research workflow](/posts/how-to-organize-research-papers-using-zotero-and-obsidian/). It allows you to link a census record directly to the individuals mentioned, tag unresolved research questions, and build a lasting, platform-independent archive that can be passed down to future generations. 
 
 ## Step 1: Choosing the Right Knowledge Base Platform
 

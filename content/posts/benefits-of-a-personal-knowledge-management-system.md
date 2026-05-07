@@ -44,7 +44,7 @@ Stop copy-pasting. When you encounter a brilliant concept in a book or article, 
 
 Creativity is rarely the result of a singular, lightning-bolt moment of divine inspiration. More often, as Steve Jobs famously noted, "Creativity is just connecting things." It is the collision of disparate, seemingly unrelated ideas that births true innovation. 
 
-Traditional hierarchical folder systems (e.g., placing a note in `Documents/Work/Marketing/2026/Campaign.docx`) are where ideas go to die. They create isolated silos of information. Modern PKM tools (like Obsidian, Roam Research, or Logseq) champion networked thought through bi-directional linking.
+Traditional hierarchical folder systems (e.g., placing a note in `Documents/Work/Marketing/2026/Campaign.docx`) are where ideas go to die. They create isolated silos of information. Modern PKM tools (like Obsidian, Roam Research, or Logseq) champion [networked thought](/posts/tana-vs-capacities-networked-thought/) through [bi-directional linking](/posts/bi-directional-linking-for-creative-writing-workflows/).
 
 ### The Power of "Idea Sex"
 When you write a note about "Behavioral Economics" and link it to a note about "User Interface Design," you have created a bridge between two disciplines. Over time, as your network of notes grows, these bridges multiply. You will inevitably stumble across a note from three years ago about "Evolutionary Biology" that perfectly solves a current problem in "Organizational Management." Your PKM acts as an engine for serendipity, forcing ideas to mingle and breed.
@@ -109,7 +109,7 @@ The initial setup requires friction, discipline, and a shift in daily habits. Bu
 
 ### How does a PKM system reduce "cognitive load"?
 
-A PKM system offloads the burden of remembering raw data, facts, and tasks to an external "Second Brain." This frees up your biological brain's limited "mental RAM" for higher-level functions like critical thinking, creative problem-solving, and deep focus.
+A PKM system offloads the burden of remembering raw data, facts, and tasks to an external "Second Brain." This frees up your biological brain's limited "mental RAM" for higher-level functions like critical thinking, creative problem-solving, and deep [focus](/posts/managing-digital-information-overload-tips/).
 
 ### Can a PKM system really make me more creative?
 

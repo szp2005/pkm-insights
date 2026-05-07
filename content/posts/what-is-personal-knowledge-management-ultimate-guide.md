@@ -74,7 +74,7 @@ Originating from sociologist Niklas Luhmann, who wrote 70 books and 400 academic
 The method relies on [atomic notes](/posts/atomic-notes-writing-guide/)—each note contains only one idea. Instead of organizing notes into hierarchical folders, you link them to one another using unique identifiers or bidirectional links. This creates a decentralized web of knowledge where ideas organically cluster together over time, mimicking the neural pathways of the human brain.
 
 ### The P.A.R.A. Framework
-Developed by Tiago Forte, PARA organizes digital life into four strict categories based on actionability:
+Developed by [Tiago Forte](/posts/tiago-forte-building-a-second-brain-review/), PARA organizes digital life into four strict categories based on actionability:
 - **Projects:** Short-term efforts with a clear deadline (e.g., "Design Q3 Marketing Campaign").
 - **Areas:** Ongoing responsibilities without an end date (e.g., "Health," "Finances," "Team Management").
 - **Resources:** Topics of ongoing interest (e.g., "Architecture," "Coffee Brewing," "SEO Strategy").
@@ -83,7 +83,7 @@ Developed by Tiago Forte, PARA organizes digital life into four strict categorie
 PARA is exceptionally effective because it works across any platform. You can mirror the exact same folder structure in your [note-taking](/posts/zettelkasten-method-explained/) app, Google Drive, and local computer files.
 
 ### Maps of Content (MOCs)
-Pioneered by Nick Milo, an MOC is an index or dashboard note that serves as a home base for a specific topic. If you have 50 scattered notes about "Artificial Intelligence," you create an MOC note that links to all of them, organized logically by subtopic. MOCs provide a top-down view of your bottom-up, decentralized notes, preventing you from getting lost in a massive web of connections.
+Pioneered by Nick Milo, an MOC is an index or dashboard note that serves as a home base for a specific topic. If you have 50 scattered notes about "[Artificial Intelligence](/posts/self-healing-knowledge-base-principles/)," you create an MOC note that links to all of them, organized logically by subtopic. MOCs provide a top-down view of your bottom-up, decentralized notes, preventing you from getting lost in a massive web of connections.
 
 ## Choosing the Right Tools for Your System
 
@@ -130,7 +130,7 @@ Personal knowledge management is the defining skill of the modern information ec
 There is no practical difference; they are terms for the same concept. "Second brain" is a colloquial term popularized by author Tiago Forte to describe the digital implementation of a Personal Knowledge Management methodology.
 
 ### Which is the best app for personal knowledge management?
-There is no single best app, only the best app for your cognitive style. Obsidian is currently the industry standard for [privacy](/posts/anytype-review-local-first-privacy-lovers/) (local storage) and offline text linking, while Notion excels at visual databases and structured project management. Start with whichever tool feels most intuitive to you.
+There is no single best app, only the best app for your cognitive style. Obsidian is currently the industry standard for [privacy](/posts/anytype-review-local-first-privacy-lovers/) (local storage) and offline text linking, while Notion excels at visual databases and structured [project management](/posts/tana-supertags-for-project-managers-download/). Start with whichever tool feels most intuitive to you.
 
 ### How much time does it take to maintain a PKM system?
 A well-designed system saves time rather than consumes it. Daily capture takes seconds. Processing and organizing your notes during a structured weekly review should take no more than 20 to 30 minutes.

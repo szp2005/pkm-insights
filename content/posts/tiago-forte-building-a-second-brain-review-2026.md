@@ -36,14 +36,14 @@ Capture is about saving only what resonates. Forte warns against the "collector'
 Once information is captured, it must be organized so that your future self can easily find it. This is where Forte's famous PARA method comes into play, organizing files not by their subject matter, but by their actionability. We will explore PARA in greater detail later, as it is the structural backbone of the entire methodology.
 
 ### Distill
-Distillation is the process of summarizing your captured notes down to their absolute essence. Forte uses a technique called "Progressive Summarization," where you highlight the best parts of a text, then bold the best parts of those highlights, and finally write a brief executive summary at the top of the note. In 2026, many users augment this step with AI tools that auto-generate summaries, but manually distilling the information ensures that the concepts actually integrate into your biological memory.
+Distillation is the process of summarizing your captured notes down to their absolute essence. Forte uses a technique called "Progressive Summarization," where you highlight the best parts of a text, then bold the best parts of those highlights, and finally write a brief executive summary at the top of the note. In 2026, many users augment this step with [AI tools](/posts/tana-ai-for-researchers-premium-features/) that auto-generate summaries, but manually distilling the information ensures that the concepts actually integrate into your biological memory.
 
 ### Express
 The final and most important step is expression. A second brain is useless if it only hoards information. The goal is to use your organized, distilled notes to create something new—a blog post, a business proposal, a podcast episode, or a strategic plan. By lowering the friction required to find relevant information, BASB makes the blank page significantly less intimidating.
 
 ## The Structural Backbone: The PARA Method
 
-If CODE is the workflow, PARA is the filing cabinet. The PARA method stands for Projects, Areas, Resources, and Archives. It is a universal organizational system designed to work across any platform, from your computer's local file system to Google Drive, Notion, or Apple Notes.
+If CODE is the workflow, PARA is the filing cabinet. The PARA method stands for Projects, Areas, Resources, and Archives. It is a universal organizational system designed to work across any platform, from your computer's local file system to [Google Drive](/posts/using-the-para-method-in-google-drive/), Notion, or Apple Notes.
 
 - **Projects:** Short-term efforts with a specific goal and a clear deadline. (e.g., "Launch Q3 Marketing Campaign," "Plan Japan Vacation").
 - **Areas:** Ongoing spheres of activity with a standard to maintain over time, without a clear end date. (e.g., "Health," "Finances," "Team Management").
@@ -58,7 +58,7 @@ Tiago Forte offers his methodology in several formats, ranging from a relatively
 
 ### 1. Building a Second Brain (The Book)
 
-**Best for:** Beginners to personal knowledge management and self-starters
+**Best for:** [Beginners](/posts/map-of-content-obsidian-tutorial-for-beginners/) to personal knowledge management and self-starters
 **Price:** $15-$25
 **Rating:** 4.8/5
 

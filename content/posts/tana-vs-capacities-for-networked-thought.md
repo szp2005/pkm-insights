@@ -41,7 +41,7 @@ Tana is a cutting-edge knowledge management tool that redefines how users intera
 - Strong community support and active development.
 
 **Cons:**
-- Steep learning curve for new users due to its advanced concepts.
+- Steep [learning](/posts/how-to-remember-what-you-read-effectively/) curve for new users due to its advanced concepts.
 - Currently web-only, limiting offline access and native app experience.
 - Performance can sometimes be a concern with very large graphs.
 
@@ -121,7 +121,7 @@ The ease of adoption can significantly impact long-term tool usage.
 
 The decision between Tana and Capacities hinges on your primary use case, technical comfort, and preferred workflow.
 
-*   **For the "Architect" or "Engineer" of knowledge:** If you thrive on building intricate systems, defining precise relationships, and leveraging data for powerful insights, **Tana** is likely your superior choice. Its ability to turn unstructured notes into queryable databases, coupled with its AI and automation potential, makes it ideal for managing complex projects, research, or personal CRMs. Be prepared to invest time in learning its unique methodology.
+*   **For the "Architect" or "Engineer" of knowledge:** If you thrive on building intricate systems, defining precise relationships, and leveraging data for powerful insights, **Tana** is likely your superior choice. Its ability to turn unstructured notes into queryable databases, coupled with its AI and automation potential, makes it ideal for managing complex projects, [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), or personal CRMs. Be prepared to invest time in learning its unique methodology.
 
 *   **For the "Artist" or "Librarian" of knowledge:** If you prioritize a beautiful, intuitive interface, a smooth writing experience, and a clear visual organization of diverse content types, **Capacities** will resonate more strongly. It excels at creating a well-categorized, aesthetically pleasing knowledge base for creative projects, personal journaling, or academic studies where visual connections and media handling are key. It offers a more immediate sense of [productivity](/posts/zettelkasten-method-explained/) and joy in use.
 
@@ -131,7 +131,7 @@ Finally, consider the long-term vision. Tana is pushing the boundaries of AI-pow
 
 ## Conclusion: The Best Fit for Your Networked Mind
 
-Both Tana and Capacities represent excellent advancements in the field of networked thought, offering robust tools to connect and organize your ideas. Tana stands out for its unparalleled flexibility in structuring data, powerful querying capabilities, and deep integration with AI, making it the preferred choice for those who demand a highly customizable, database-like system for complex information management. Its learning curve is steeper, but the payoff in control and automation is significant for power users.
+Both Tana and Capacities represent excellent advancements in the field of networked thought, offering robust tools to connect and organize your ideas. Tana stands out for its unparalleled flexibility in structuring data, powerful querying capabilities, and deep integration with AI, making it the preferred choice for those who demand a highly customizable, database-like system for complex [information management](/posts/structural-vs-organic-note-taking-methodologies/). Its learning curve is steeper, but the payoff in control and automation is significant for power users.
 
 Capacities, on the other hand, provides a more accessible, visually appealing, and object-oriented approach. It excels in intuitive organization, media handling, and fostering a delightful writing experience, making it ideal for creatives, students, and anyone who values a clean interface and a more guided path to structured knowledge.
 

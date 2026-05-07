@@ -75,7 +75,7 @@ A well-structured Dashboard includes the following query sections:
 3.  **Recent Processing:** A query showing literature notes related to the project that were modified in the last 7 days.
 4.  **Open Questions:** A query aggregating blocks tagged with `#question` within the project namespace.
 
-This setup ensures that your research workflow remains focused. The Dashboard tells you exactly what needs to be read next, what tasks are pending, and where the gaps in your knowledge reside, all updated dynamically as you work elsewhere in the graph.
+This setup ensures that your [research workflow](/posts/how-to-organize-research-papers-using-zotero-and-obsidian/) remains focused. The Dashboard tells you exactly what needs to be read next, what tasks are pending, and where the gaps in your knowledge reside, all updated dynamically as you work elsewhere in the graph.
 
 ## Managing Literature Notes and Zotero Integration
 
@@ -94,7 +94,7 @@ When you write in the Synthesis section, heavily utilize block references `((blo
 Implementing this system mid-project can be daunting. Follow these concrete steps to structure a new or existing complex research project:
 
 1.  **Define the Nomenclature:** Decide on your root namespace (e.g., `Thesis` or `ClientX`). Stick to it rigorously. Do not use abbreviations on some pages and full names on others.
-2.  **Build the Templates:** Create Logseq templates for your Project Dashboard, Literature Notes, and Meeting Notes. Ensure these templates include the standardized properties you established.
+2.  **Build the [Templates](/posts/logseq-templates-for-doctoral-research-students/):** Create Logseq templates for your Project Dashboard, Literature Notes, and Meeting Notes. Ensure these templates include the standardized properties you established.
 3.  **Log from the Journal, Tag to the Project:** You can still write on the Daily Journal page to maintain momentum. However, when logging a thought related to the project, indent it under a parent block tagged with the specific project namespace (e.g., `[[Project/Name/Drafts]]`). This pushes the block to the correct location while preserving the chronological context of when you wrote it.
 4.  **[Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) the Dashboard Weekly:** Set aside twenty minutes each week to review the Project Dashboard. Clear out completed tasks, update the status properties on literature notes from `#reading` to `#processed`, and ensure no critical queries are breaking due to typos in your tags.
 

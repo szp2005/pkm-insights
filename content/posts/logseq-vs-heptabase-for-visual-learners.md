@@ -46,7 +46,7 @@ The platform uses a proprietary sync engine, which ensures smooth performance ev
 
 ### 2. Logseq
 
-**Best for:** Privacy-focused outliners who occasionally need visual whiteboards
+**Best for:** [Privacy](/posts/obsidian-local-llm-integration-for-privacy/)-focused outliners who occasionally need visual whiteboards
 **Price:** Free (Sync is $5/month)
 **Rating:** 4.6/5
 
@@ -71,7 +71,7 @@ For the visual learner, the primary battleground between these tools is how they
 
 In Heptabase, the whiteboard is not a feature; it is the environment. When you create a note (called a card), it inherently has spatial coordinates. You can place the same card on multiple different whiteboards. For example, a card on "Machine [Learning](/posts/how-to-remember-what-you-read-effectively/)" might exist on your "Computer Science Syllabus" whiteboard and your "Current Work Project" whiteboard. Updating the text on that card updates it everywhere.
 
-Heptabase also allows for visual nesting. You can draw a box around a cluster of cards, turn it into a section, and collapse it. You can draw directional arrows with text labels between cards to explicitly define their relationship (e.g., "causes," "contradicts"). This visual grammar is incredibly sophisticated. When you import a PDF into Heptabase, you can highlight a paragraph, drag that highlight directly onto the whiteboard, and it becomes a card that permanently links back to that exact spot in the source document. For researchers, this workflow is unparalleled.
+Heptabase also allows for visual nesting. You can draw a box around a cluster of cards, turn it into a section, and collapse it. You can draw directional arrows with text labels between cards to explicitly define their relationship (e.g., "causes," "contradicts"). This visual grammar is incredibly sophisticated. When you import a PDF into Heptabase, you can highlight a paragraph, drag that highlight directly onto the whiteboard, and it becomes a card that permanently links back to that exact spot in the source document. For researchers, this [workflow](/posts/using-the-para-method-in-google-drive/) is unparalleled.
 
 ### Logseq's Whiteboard and Knowledge Graph
 
@@ -113,7 +113,7 @@ When deciding between these platforms, look past the feature lists and consider 
 - You prioritize data privacy, local file storage, and open-source software above all other features.
 - You generally think logically in hierarchies and outlines, but occasionally need a visual canvas to supplement your structural planning.
 - Your primary workflow relies heavily on chronological daily journaling and keeping track of tasks day-by-day.
-- You require a completely free core application and enjoy configuring your workspace with community plugins and custom themes.
+- You require a completely free core application and enjoy configuring your workspace with community [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/) and custom themes.
 
 ## Conclusion
 

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Tana Supertags for Freelancer Project Tracking: The Complete Guide
 
-> **Quick Answer:** Tana supertags provide a structured, dynamic system for freelancers to organize project details, tasks, clients, and deadlines within a flexible knowledge graph. They enable custom fields, automated [workflows](/posts/getting-things-done-for-knowledge-workers/), and powerful filtering, transforming raw notes into an integrated project management hub. This approach ensures comprehensive oversight and efficient execution for diverse freelance work, from initial client brief to final delivery.
+> **Quick Answer:** Tana supertags provide a structured, dynamic system for freelancers to organize project details, tasks, clients, and deadlines within a flexible knowledge graph. They enable custom fields, automated [workflows](/posts/getting-things-done-for-knowledge-workers/), and powerful filtering, transforming raw notes into an integrated [project management](/posts/tana-supertags-for-project-managers-download/) hub. This approach ensures comprehensive oversight and efficient execution for diverse freelance work, from initial client brief to final delivery.
 
 The landscape of freelance work demands exceptional organizational skills. Juggling multiple clients, diverse projects, tight deadlines, and varying communication styles can quickly become overwhelming without a robust system in place. Traditional project management [tools](/posts/personal-knowledge-management-tools-comparison/) often feel too rigid or overly complex for the solo operator, while simple [note-taking](/posts/zettelkasten-method-explained/) apps lack the structure needed for effective tracking. This is where Tana, with its powerful supertag functionality, offers a compelling solution for freelancers seeking a more adaptable and integrated approach to project management.
 
@@ -123,7 +123,7 @@ Effective project tracking involves more than just listing tasks; it requires a 
             deadline:: 2026-07-15
             scope:: Develop comprehensive brand guidelines and visual assets.
             tasks::
-                - Research competitor brand identities #task
+                - [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) competitor brand identities #task
                     project:: [[Brand Identity for Stellar Solutions]]
                     due date:: 2026-05-10
                     status:: In Progress
@@ -316,7 +316,7 @@ The recommendation for freelancers is to embrace Tana supertags with an iterativ
 ## Frequently Asked Questions
 
 ### Is Tana suitable for solo freelancers or small teams?
-Tana is exceptionally well-suited for solo freelancers due to its high degree of customization and flexibility, allowing individuals to build a system that perfectly matches their unique workflow. For small teams, Tana can also be effective, particularly if team members are comfortable with the Tana paradigm and consistent supertag usage is enforced. Its real-time collaboration features support shared workspaces, but the learning curve might be steeper for a team compared to dedicated team-focused PM tools.
+Tana is exceptionally well-suited for solo freelancers due to its high degree of customization and flexibility, allowing individuals to build a system that perfectly matches their unique workflow. For small teams, Tana can also be effective, particularly if team members are comfortable with the Tana paradigm and consistent supertag usage is enforced. Its real-time collaboration features support shared workspaces, but the [learning](/posts/how-to-remember-what-you-read-effectively/) curve might be steeper for a team compared to dedicated team-focused PM tools.
 
 ### How do Tana supertags compare to traditional project management software?
 Tana supertags offer a more flexible, graph-based approach compared to the often rigid, hierarchical structures of traditional project management software (e.g., Asana, ClickUp). While traditional tools excel at standardized workflows and large-scale team coordination, Tana shines in its ability to adapt to highly individualized needs, integrate notes with structured data, and create dynamic, interconnected knowledge. It's less about predefined templates and more about building your own bespoke system.

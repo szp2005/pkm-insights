@@ -34,7 +34,7 @@ Obsidian provides several native mechanisms to weave your knowledge web. Masteri
 
 ### 1. Bidirectional Linking: The Engine of Connection
 
-Bidirectional links (or wikilinks) are the defining feature of modern PKM tools. When you create a link from Note A to Note B, Obsidian automatically registers a "backlink" in Note B, pointing back to Note A.
+Bidirectional links (or wikilinks) are the defining feature of modern [PKM tools](/posts/best-pkm-tools-for-architecture-students-2026/). When you create a link from Note A to Note B, Obsidian automatically registers a "backlink" in Note B, pointing back to Note A.
 
 *   **How to do it:** Simply enclose the title of the target note in double square brackets, like this: `[[Target Note Title]]`.
 *   **The Power of Aliases:** Often, a note's title might not perfectly fit the grammatical context of your sentence. Obsidian allows aliases. Use a pipe character: `[[Target Note Title|alternative text]]`. This keeps the link functional while maintaining the flow of your [writing](/posts/zettelkasten-method-for-non-fiction-book-writing/).

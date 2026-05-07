@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing an academic literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) often feels like fighting a losing battle against entropy. As your library of PDFs, citations, and reading notes grows into the hundreds or thousands, traditional folder structures and flat document files break down. You remember reading a brilliant critique of a specific methodology, but locating the exact paper, let alone the specific page and context, becomes a multi-hour archaeological dig.
 
-Tana offers a fundamentally different approach. Rather than acting as a static repository for text, Tana operates as an object-oriented knowledge database. By combining the fluidity of an outliner with the structured data capabilities of a relational database, it provides [academics](/posts/tana-workflows-for-systematic-literature-reviews/) with a powerful environment for synthesizing research.
+Tana offers a fundamentally different approach. Rather than acting as a static repository for text, Tana operates as an object-oriented knowledge database. By combining the fluidity of an outliner with the [structured data](/posts/tana-ai-features-for-structured-data-entry/) capabilities of a relational database, it provides [academics](/posts/tana-workflows-for-systematic-literature-reviews/) with a powerful environment for synthesizing research.
 
 This guide details exactly how to structure a Tana workspace for managing academic citations, from foundational tag architecture to practical [workflows](/posts/getting-things-done-for-knowledge-workers/) for processing new literature and connecting ideas across your research domain.
 
@@ -119,7 +119,7 @@ The bridge between these two applications is the Citation Key (often generated v
 
 When you are writing your manuscript based on your Tana outline, you simply drop the citation key (e.g., `[@doe2024methodology]`) into your text. Later, when you compile the document (using Pandoc, LaTeX, or a standard word processor plugin), the citation key is seamlessly converted into the correct formatting, pulling the data directly from Zotero.
 
-You can also use [tools](/posts/personal-knowledge-management-tools-comparison/) like the Tana API or third-party integration services (like Make or Zapier, if available and supported) to automatically create a `#source` node in Tana whenever a new item is added to a specific Zotero collection, mapping the Zotero metadata to your Tana Supertag fields.
+You can also use [tools](/posts/personal-knowledge-management-tools-comparison/) like the [Tana API](/posts/tana-api-for-developers-integration-guide/) or third-party integration services (like Make or Zapier, if available and supported) to automatically create a `#source` node in Tana whenever a new item is added to a specific Zotero collection, mapping the Zotero metadata to your Tana Supertag fields.
 
 ## Advanced Workspace Architecture: Search Nodes and Dashboards
 
@@ -131,7 +131,7 @@ Create a central node called "Literature Dashboard." Beneath this, place several
 
 1.  **Reading Queue:** A Kanban view of all `#source` nodes, grouped by the "Status" field (To Read, Reading). Filter this to only show items with a Relevance score of 4 or 5.
 2.  **Recent Acquisitions:** A list view of `#source` nodes created in the last 30 days, sorted by creation date.
-3.  **Sources by Topic:** A table view grouped by the "Project/Topic" field, allowing you to see the density of your literature review across different areas of your research.
+3.  **Sources by Topic:** A table view grouped by the "Project/Topic" field, allowing you to see the density of your [literature review](/posts/logseq-for-academic-literature-reviews/) across different areas of your research.
 
 ### The Concept Matrix
 

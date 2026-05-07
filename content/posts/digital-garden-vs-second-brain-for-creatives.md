@@ -88,7 +88,7 @@ Obsidian operates entirely on local plain-text markdown files, offering absolute
 Notion is a block-based workspace that excels at structured [organization](/posts/steps-to-building-a-second-brain/), making it the default, most popular choice for implementing Tiago Forte's Second Brain methodology. It allows creatives to build customized relational databases, Kanban boards, and complex tables to track projects, resources, and tasks in one unified dashboard. While highly flexible for structured, top-down data, it lacks the organic, networked feel required for a true digital garden.
 
 **Pros:**
-- Incredible flexibility for database creation and project management
+- Incredible flexibility for database creation and [project management](/posts/tana-supertags-for-project-managers-download/)
 - Visually appealing interface with rich media embedding capabilities
 - Excellent real-time collaboration features for remote teams
 
@@ -119,10 +119,10 @@ Roam Research pioneered the modern block-level bidirectional linking movement, t
 **Price:** Free
 **Rating:** 4.7/5
 
-Logseq combines the privacy of Obsidian's local markdown files with the fluid, block-based outlining experience of Roam Research. It operates completely offline and structures information heavily around a daily journal, making it effortless to capture fleeting ideas that gradually grow into structured knowledge networks. For creatives who prefer bullet-point thinking over long-form writing, Logseq provides an ideal environment.
+Logseq combines the privacy of Obsidian's local markdown files with the fluid, block-based outlining experience of Roam Research. It operates completely offline and structures information heavily around a daily journal, making it effortless to capture fleeting ideas that gradually grow into structured knowledge networks. For creatives who prefer bullet-point thinking over long-form [writing](/posts/atomic-notes-writing-guide/), Logseq provides an ideal environment.
 
 **Pros:**
-- Fully open-source architecture with a strong focus on data privacy
+- Fully open-source architecture with a strong [focus](/posts/managing-digital-information-overload-tips/) on data privacy
 - Excellent daily journal and block-referencing workflow out of the box
 - Built-in PDF annotation and [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) flashcard capabilities
 

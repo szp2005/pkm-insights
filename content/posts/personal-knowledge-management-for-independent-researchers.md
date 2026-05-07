@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Personal Knowledge Management for Independent Researchers Guide
 
-> **Quick Answer:** Personal knowledge management for independent researchers requires a resilient, decentralized system for capturing, processing, and retrieving information without institutional support. The most effective approach combines a dedicated reference manager (like Zotero) with a networked note-taking tool (like Obsidian or Logseq) to build a sustainable database of interconnected research insights.
+> **Quick Answer:** Personal knowledge management for independent researchers requires a resilient, decentralized system for capturing, processing, and retrieving information without institutional support. The most effective approach combines a dedicated reference manager (like Zotero) with a networked note-taking tool (like Obsidian or Logseq) to build a sustainable database of interconnected [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) insights.
 
 Operating outside the structure of a formal academic institution presents a distinct set of challenges. Without access to university librarians, enterprise-grade storage solutions, or rigid departmental timelines, independent researchers must become their own infrastructure managers. The sheer volume of journal articles, archival documents, interview transcripts, and disparate data sources can quickly overwhelm anyone lacking a robust organizational framework. 
 
@@ -43,9 +43,9 @@ Effective capture involves standardizing inputs. When you encounter a useful PDF
 
 ### Knowledge Processing and Synthesis
 
-Processing is where raw data is transformed into usable knowledge. This involves reading, highlighting, and—crucially—extracting those highlights into your own words. Merely highlighting a PDF is a passive act; it creates the illusion of learning without actual comprehension. 
+Processing is where raw data is transformed into usable knowledge. This involves reading, highlighting, and—crucially—extracting those highlights into your own words. Merely highlighting a PDF is a passive act; it creates the illusion of [learning](/posts/how-to-remember-what-you-read-effectively/) without actual comprehension. 
 
-A strong processing workflow requires translating highlights into atomic notes. Each note should contain a single, discrete idea, written in your own voice, with a clear citation pointing back to the original source. By standardizing the format of these notes, you create a database of interchangeable parts that can be rearranged to support various arguments.
+A strong processing workflow requires translating highlights into [atomic notes](/posts/atomic-notes-writing-guide/). Each note should contain a single, discrete idea, written in your own voice, with a clear citation pointing back to the original source. By standardizing the format of these notes, you create a database of interchangeable parts that can be rearranged to support various arguments.
 
 ### Output Generation
 

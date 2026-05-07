@@ -25,7 +25,7 @@ The "Second Brain" concept was popularized by Tiago Forte through his framework 
 
 ### The Core Philosophy of the Second Brain
 
-The Second Brain is highly utilitarian and action-oriented. Its primary philosophy is that we consume too much information and execute too little. The goal of a Second Brain is to offload the burden of remembering from your biological brain so that you can focus entirely on problem-solving, creativity, and execution. 
+The Second Brain is highly utilitarian and action-oriented. Its primary philosophy is that we consume too much information and execute too little. The goal of a Second Brain is to offload the burden of remembering from your biological brain so that you can [focus](/posts/managing-digital-information-overload-tips/) entirely on problem-solving, creativity, and execution. 
 
 Forte emphasizes that your system should not just be an encyclopedia of random facts; it should be a working engine that drives your current and future projects to completion.
 
@@ -97,7 +97,7 @@ To truly grasp the digital garden vs second brain difference, we need to compare
 *   **Digital Garden:** Inherently predisposed to being public (though it doesn't *have* to be). The ethos involves sharing your work-in-progress, letting others wander through your associative thoughts, and fostering community discussion.
 
 ### 5. Tooling Preferences
-*   **Second Brain:** Often thrives in hierarchical tools like Notion, Evernote, or Apple Notes, where folders and databases excel.
+*   **Second Brain:** Often thrives in hierarchical tools like [Notion](/posts/second-brain-dashboard-for-notion-power-users/), Evernote, or Apple Notes, where folders and databases excel.
 *   **Digital Garden:** Thrives in networked thought tools like [Obsidian](/posts/personal-knowledge-management-tools-comparison/), [Roam Research](/posts/roam-research-vs-obsidian-comparison/), Logseq, or specialized static site generators (like Astro or Hugo) that natively support bidirectional linking and graph views.
 
 ## Which System is Right for You?
@@ -133,7 +133,7 @@ For example, inside a tool like Obsidian, you might use a loose PARA folder stru
 Whether you lean toward a digital garden or a second brain, the most important step is simply starting. 
 
 1.  **Choose your tool:** If you lean toward a Second Brain, try Notion or Apple Notes. If you prefer a Digital Garden, download Obsidian or Logseq.
-2.  **Don't over-engineer:** The biggest mistake beginners make is spending weeks designing complex folder structures or tagging taxonomies before writing a single note. 
+2.  **Don't over-engineer:** The biggest mistake beginners make is spending weeks designing complex folder structures or tagging taxonomies before [writing](/posts/atomic-notes-writing-guide/) a single note. 
 3.  **Start capturing:** Write down the ideas that resonate with you today.
 4.  **Iterate:** Let your system evolve. If you find folders too restrictive, start using more links. If your links feel like a chaotic mess, introduce some high-level folders.
 

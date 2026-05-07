@@ -49,11 +49,11 @@ Information does not become knowledge until it is actively processed. The distil
 When you revisit a saved article or a book highlight, reading the entire text again is highly inefficient. Instead, employ progressive summarization. Read through the organized notes and bold the most critical points. On a subsequent review, highlight the best of the bolded sections. Finally, write an executive summary in your own words at the top of the note. This layered approach ensures that future retrieval yields high-signal insights instantly.
 
 ### Evergreen Notes and Zettelkasten
-The distillation layer is where atomic, evergreen notes are forged. Rather than maintaining long, chronological documents, break concepts down into single, discrete ideas. Connect these atomic notes to other related concepts in your system. This process of intentional connection forces you to evaluate the logic of your arguments and reveals gaps in your understanding, transforming passive archiving into active [learning](/posts/how-to-remember-what-you-read-effectively/).
+The distillation layer is where atomic, evergreen notes are forged. Rather than maintaining long, chronological documents, break concepts down into single, discrete ideas. Connect these [atomic notes](/posts/atomic-notes-writing-guide/) to other related concepts in your system. This process of intentional connection forces you to evaluate the logic of your arguments and reveals gaps in your understanding, transforming passive archiving into active [learning](/posts/how-to-remember-what-you-read-effectively/).
 
 ## Layer 4: The Expression Output (Tangible Value)
 
-A PKM system that does not produce output is merely an exercise in digital organization. The expression layer is the ultimate justification for the previous three layers. It is the environment where you leverage your distilled knowledge to create essays, design project plans, draft reports, or formulate business strategies.
+A PKM system that does not produce output is merely an exercise in [digital organization](/posts/second-brain-dashboard-for-notion-power-users/). The expression layer is the ultimate justification for the previous three layers. It is the environment where you leverage your distilled knowledge to create essays, design project plans, draft reports, or formulate business strategies.
 
 ### Separation of Creation and Reference
 Your writing or output environment should ideally be separated from your mass storage environment. When you sit down to create, you should pull only the specific distilled notes required for the task at hand. This prevents the distraction of falling down reference rabbit holes when you should be generating new material.
@@ -85,7 +85,7 @@ Optimizing your personal knowledge management is an ongoing process of refining 
 Skipping the distillation layer results in a system filled with raw, uncontextualized data. When you eventually need to use the information for a project, you will be forced to reread and process everything from scratch, neutralizing the efficiency gains of taking notes in the first place.
 
 ### Can I use a single app for the entire four-layer stack?
-While applications like Notion or Obsidian can technically handle all four layers, doing so often introduces unnecessary friction. A dedicated quick-capture tool is almost always faster than opening a heavy database app, and a dedicated writing environment provides better focus than an interface cluttered with your entire knowledge graph.
+While applications like Notion or Obsidian can technically handle all four layers, doing so often introduces unnecessary friction. A dedicated quick-capture tool is almost always faster than opening a heavy database app, and a dedicated writing environment provides better [focus](/posts/managing-digital-information-overload-tips/) than an interface cluttered with your entire knowledge graph.
 
 ### How do I know if my organization layer is too complex?
 Your organization layer is too complex if you frequently hesitate when deciding where to place a new note, or if you spend more than 10 seconds trying to locate an existing piece of information. If this occurs, flatten your folder structure and rely more heavily on search and bidirectional links.

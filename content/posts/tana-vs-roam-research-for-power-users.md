@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Tana vs Roam Research for Power Users: Which Is Better in 2026?
 
-> **Quick Answer:** Roam Research remains the top choice for pure, unstructured academic research and organic [Zettelkasten](/posts/zettelkasten-method-explained/) [workflows](/posts/getting-things-done-for-knowledge-workers/) where serendipity is key. Tana is superior for structured knowledge workers, project managers, and systems architects who need to blend frictionless outlining with rigorous, query-driven database capabilities via Supertags.
+> **Quick Answer:** Roam Research remains the top choice for pure, unstructured [academic research](/posts/tana-workspace-for-managing-academic-citations/) and organic [Zettelkasten](/posts/zettelkasten-method-explained/) [workflows](/posts/getting-things-done-for-knowledge-workers/) where serendipity is key. Tana is superior for structured knowledge workers, project managers, and systems architects who need to blend frictionless outlining with rigorous, query-driven database capabilities via Supertags.
 
 For power users in the [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) space, the choice of a primary tool is structural. It dictates how you capture passing thoughts, how you retrieve complex research, and ultimately, how your digital brain operates. A few years ago, Roam Research revolutionized this space by popularizing block-level bidirectional linking and the networked graph. It shifted the paradigm from rigid folders to fluid, associative networks.
 
@@ -35,7 +35,7 @@ Tana, conversely, is an object-oriented database masked as an outliner. While it
 **Price:** $15/month ($165/year)
 **Rating:** 4.2/5
 
-Roam Research pioneered the modern networked thought movement. Its interface is intentionally spartan, focusing almost entirely on text entry, block-level referencing, and bidirectional linking. For users who practice a strict Zettelkasten method or who find structural constraints creatively stifling, Roam provides a frictionless canvas. Its greatest strength lies in transclusion—the ability to embed and edit a block of text from one page directly inside another page, creating a genuinely modular knowledge base. Over the years, its ecosystem has matured significantly through the Roam Depot, offering hundreds of extensions that add functionality like [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) and advanced charting.
+Roam Research pioneered the modern [networked thought](/posts/tana-vs-capacities-networked-thought/) movement. Its interface is intentionally spartan, focusing almost entirely on text entry, block-level referencing, and bidirectional linking. For users who practice a strict Zettelkasten method or who find structural constraints creatively stifling, Roam provides a frictionless canvas. Its greatest strength lies in transclusion—the ability to embed and edit a block of text from one page directly inside another page, creating a genuinely modular knowledge base. Over the years, its ecosystem has matured significantly through the Roam Depot, offering hundreds of extensions that add functionality like [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) and advanced charting.
 
 **Pros:**
 - Frictionless daily journaling and raw idea capture
@@ -83,7 +83,7 @@ Tana treats queries as first-class citizens. Because your data is structured via
 
 Roam Research built its reputation on block-level mechanics. Every single bullet point has a unique ID. You can reference that block anywhere else, or embed it entirely (transclusion). When you edit the transcluded block, it updates the original. This is vital for researchers compiling papers from dozens of separate notes. Roam handles these deep, interwoven block citations flawlessly, maintaining stable references even as pages are renamed or heavily edited.
 
-Tana also supports block-level referencing and transclusion (called "Clone nodes"). However, Tana’s implementation is inherently tied to its object-oriented nature. When you clone a node in Tana, you are essentially instantiating that object in multiple places. If the node has a Supertag, the clone retains that structure. While powerful, some power users find Roam's plain-text transclusion slightly faster and more intuitive for heavy academic writing, whereas Tana's cloning is more suited for moving database records across different contextual dashboards.
+Tana also supports block-level referencing and transclusion (called "Clone nodes"). However, Tana’s implementation is inherently tied to its object-oriented nature. When you clone a node in Tana, you are essentially instantiating that object in multiple places. If the node has a Supertag, the clone retains that structure. While powerful, some power users find Roam's plain-text transclusion slightly faster and more intuitive for heavy academic [writing](/posts/atomic-notes-writing-guide/), whereas Tana's cloning is more suited for moving database records across different contextual dashboards.
 
 ## AI Integration and Automation
 

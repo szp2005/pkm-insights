@@ -17,7 +17,7 @@ For centuries, thinkers, writers, and scientists relied on commonplace books to 
 
 Today, the volume of information we encounter daily vastly exceeds what any physical notebook can handle. We consume podcasts at 1.5x speed, read dozens of articles, and scroll through hundreds of insights weekly. Without a system to capture and contextualize this incoming stream, valuable knowledge evaporates within hours. 
 
-Transitioning the analog commonplace book into a digital workflow solves the fundamental problem of modern media consumption: retention. A digital commonplace book leverages searchability, ubiquitous access, and relational linking to turn fragmented consumption into compounding knowledge. 
+Transitioning the analog commonplace book into a digital [workflow](/posts/using-the-para-method-in-google-drive/) solves the fundamental problem of modern media consumption: retention. A digital commonplace book leverages searchability, ubiquitous access, and relational linking to turn fragmented consumption into compounding knowledge. 
 
 ## Understanding the Digital Commonplace Philosophy
 
@@ -45,8 +45,8 @@ A commonplace book is a working environment, not an archive. Storing information
 The software market for [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) is saturated. The best tool is the one that aligns with how your brain naturally categorizes information. Broadly, applications fall into three architectural categories.
 
 ### Networked Thinkers (Obsidian, Logseq, Roam Research)
-If you think in webs rather than hierarchies, networked note-taking apps are the ideal choice. These [tools](/posts/personal-knowledge-management-tools-comparison/) rely on bidirectional linking, allowing you to connect thoughts organically without rigid folder structures. 
-*   **Obsidian** operates on local Markdown files, ensuring you own your data forever. It is highly customizable through community plugins.
+If you think in webs rather than hierarchies, networked [note-taking apps](/posts/reflect-notes-vs-obsidian-for-quick-capture/) are the ideal choice. These [tools](/posts/personal-knowledge-management-tools-comparison/) rely on bidirectional linking, allowing you to connect thoughts organically without rigid folder structures. 
+*   **Obsidian** operates on local Markdown files, ensuring you own your data forever. It is highly customizable through community [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/).
 *   **Logseq** is an outliner, meaning every note is a bullet point, which excels at rapid, chronological daily logging.
 *   **Best for:** Writers, researchers, and users who want their notes to surface unexpected connections over time.
 

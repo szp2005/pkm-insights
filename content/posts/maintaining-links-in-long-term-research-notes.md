@@ -57,7 +57,7 @@ This allows you to link to the permanent ID while displaying the natural languag
 The manual maintenance of thousands of links is impossible. You need software that treats links as first-class citizens. Applications like Obsidian, Logseq, and Zettlr operate on local Markdown files but overlay a graph database on top of them.
 
 ### Automatic Link Updating
-When you rename a file in a traditional text editor, any note linking to that file immediately contains a broken link. Bidirectional linking tools actively monitor your file system. If you change a file's name from `machine-learning.md` to `artificial-neural-networks.md`, the software searches your entire vault and automatically updates every inbound link to reflect the new filename.
+When you rename a file in a traditional text editor, any note linking to that file immediately contains a broken link. Bidirectional linking tools actively monitor your file system. If you change a file's name from `machine-[learning](/posts/how-to-remember-what-you-read-effectively/).md` to `artificial-neural-networks.md`, the software searches your entire vault and automatically updates every inbound link to reflect the new filename.
 
 ### Backlinks and Unlinked Mentions
 Bidirectional tools also show you "backlinks"—a list of every note that links to the current note. This ensures that context flows in both directions. Furthermore, the "unlinked mentions" feature scans your vault for the title of the current note in standard text and offers to convert those text instances into explicit links. This is a critical tool for maintaining the density of your knowledge graph over time, ensuring that newly added notes retroactively connect to older research.
@@ -94,7 +94,7 @@ While tags (`#biology`) are useful for categorization, they lack context. A tag 
 No system is entirely autonomous. Maintaining links in long term research notes requires deliberate, periodic maintenance—often referred to as "digital gardening."
 
 ### Identifying and Resolving Orphans
-An orphaned note is a file that has no inbound or outbound links. In a connected PKM system, an orphan is practically invisible; you will only find it if you specifically search for its exact title. Make it a monthly practice to run a script or use a built-in plugin (like the Obsidian Graph View filtered for orphans) to identify disconnected files. Review these notes and integrate them into an appropriate Map of Content or link them to related concepts.
+An orphaned note is a file that has no inbound or outbound links. In a connected PKM system, an orphan is practically invisible; you will only find it if you specifically search for its exact title. Make it a monthly practice to run a script or use a built-in plugin (like the Obsidian Graph View filtered for orphans) to identify disconnected files. [Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) these notes and integrate them into an appropriate Map of Content or link them to related concepts.
 
 ### Pruning and Refactoring
 Over time, single notes can become bloated with too many concepts, or a single topic might become fragmented across dozens of overlapping notes. Regular maintenance involves:
@@ -109,7 +109,7 @@ Beyond the five core steps, several practical strategies will ensure your resear
 ### Avoid Deep Folder Hierarchies
 Folder structures are rigid and brittle. If you organize by folders (e.g., `Science > Biology > Genetics > CRISPR.md`), you are forced to make a definitive choice about where a note lives. If CRISPR also relates to Ethics, the folder structure fails. 
 
-By keeping folders to a minimum (e.g., one folder for Notes, one for Attachments, one for MoCs) and relying on links for structure, you eliminate the risk of breaking links when reorganizing your folder tree. Link-based organization is fluid; folder-based organization is static.
+By keeping folders to a minimum (e.g., one folder for Notes, one for Attachments, one for MoCs) and relying on links for structure, you eliminate the risk of breaking links when reorganizing your folder tree. Link-based [organization](/posts/steps-to-building-a-second-brain/) is fluid; folder-based organization is static.
 
 ### Future-Proof Your Attachments
 When linking to images or PDFs within your notes, ensure those assets are stored locally within your vault, preferably in a centralized `assets` folder. Use standard embedding syntax: `![[diagram.png]]` or `![diagram](assets/diagram.png)`. Never link to images hosted on external servers or in temporary system folders, as these paths will eventually expire or change.

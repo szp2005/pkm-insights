@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Logseq Workflow for Managing YouTube Scripts: A Creator's Guide
 
-> **Quick Answer:** A Logseq workflow for managing YouTube scripts leverages its block-based outlining, linked references, and property system to streamline ideation, [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), writing, and revision. By creating dedicated pages for videos and using specific properties, creators can efficiently track progress, integrate research, and maintain a clear, iterative script development process.
+> **Quick Answer:** A Logseq workflow for managing YouTube scripts leverages its block-based outlining, linked references, and property system to streamline ideation, [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), [writing](/posts/atomic-notes-writing-guide/), and revision. By creating dedicated pages for videos and using specific properties, creators can efficiently track progress, integrate research, and maintain a clear, iterative script development process.
 
 Creating engaging YouTube content requires more than just a good idea; it demands a structured approach to script development, research integration, and project management. Many content creators find themselves juggling disparate notes, struggling with version control, and losing track of vital research links across various applications. This fragmentation often leads to inefficiencies, missed deadlines, and a less polished final product.
 
@@ -40,7 +40,7 @@ To streamline the creation of new video pages and ensure all essential metadata 
 - script-version:: 1.0
 ```
 
-When you create a new video page, simply insert this template and populate the properties. The `type:: YouTube Script` property is crucial as it allows you to easily query and filter all your script-related pages. The `status::` property is dynamic, evolving as your script progresses from `Ideation` to `Drafting`, `Review`, `Filming`, `Editing`, and finally `Published`. `topic::` can link to broader subject pages, enabling you to see all videos related to a specific theme.
+When you create a new video page, simply insert this template and populate the properties. The `type:: YouTube Script` property is crucial as it allows you to easily query and filter all your script-related pages. The `status::` property is dynamic, evolving as your script progresses from `Ideation` to `Drafting`, `[Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/)`, `Filming`, `Editing`, and finally `Published`. `topic::` can link to broader subject pages, enabling you to see all videos related to a specific theme.
 
 ### Leveraging Properties for Organization and Queries
 
@@ -191,7 +191,7 @@ These embedded cues act as a mini-storyboard within your script. During filming,
 
 ### Post-Production Notes and Learnings
 
-The learning doesn't stop once the video is published. After your YouTube video goes live, return to its dedicated Logseq page to add post-production notes and insights. This practice creates a valuable feedback loop that informs future content creation.
+The [learning](/posts/how-to-remember-what-you-read-effectively/) doesn't stop once the video is published. After your YouTube video goes live, return to its dedicated Logseq page to add post-production notes and insights. This practice creates a valuable feedback loop that informs future content creation.
 
 Consider adding sections or properties for:
 

@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 The modern knowledge worker is drowning in information. We consume podcasts, articles, books, and videos at an unprecedented rate, yet often struggle to recall key insights when we need them. In the quest to manage this cognitive overload, two dominant [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) frameworks have emerged: Tiago Forte's Building a Second Brain (BASB) and Nick Milo's Linking Your Thinking (LYT). 
 
-While both systems aim to transform scattered notes into a reliable external brain, their philosophies and daily workflows sit at opposite ends of the spectrum. One treats knowledge as an inventory to be deployed for immediate output; the other treats it as an interconnected web meant to cultivate original thought. Choosing the wrong system can lead to abandoned [note-taking](/posts/differences-between-fleeting-and-permanent-notes-explained/) apps and persistent friction, while choosing the right one can fundamentally upgrade how you process the world.
+While both systems aim to transform scattered notes into a reliable external brain, their philosophies and daily [workflows](/posts/getting-things-done-for-knowledge-workers/) sit at opposite ends of the spectrum. One treats knowledge as an inventory to be deployed for immediate output; the other treats it as an interconnected web meant to cultivate original thought. Choosing the wrong system can lead to abandoned [note-taking](/posts/differences-between-fleeting-and-permanent-notes-explained/) apps and persistent friction, while choosing the right one can fundamentally upgrade how you process the world.
 
 This comprehensive guide breaks down the core mechanics of Linking Your Thinking vs Building a Second Brain, evaluating their distinct methodologies, ideal use cases, and structural trade-offs to help you determine which framework aligns best with your cognitive style.
 
@@ -102,14 +102,14 @@ While both systems are technically platform-agnostic, their structural preferenc
 **Best Apps for BASB:**
 Because BASB relies heavily on folders, fast capture, and multimedia storage, traditional note-taking applications excel here.
 - **Evernote:** The original inspiration for BASB, featuring robust web clipping and deep search.
-- **Notion:** Excellent for structured databases, project management, and embedding files.
+- **[Notion](/posts/personal-knowledge-management-tools-comparison/):** Excellent for structured databases, project management, and embedding files.
 - **Apple Notes:** Fast, ubiquitous, and easily organized via folders and tags.
 
 **Best Apps for LYT:**
 LYT requires software built around bidirectional linking, local storage, and graph views.
 - **[Obsidian](/posts/what-is-personal-knowledge-management/):** The gold standard for LYT, offering rapid offline performance, powerful backlinking, and visual graphs.
 - **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** An outliner-based alternative that excels at block-level referencing and chronological journaling.
-- **Roam Research:** The pioneer of networked thought, ideal for pure text-based idea generation.
+- **Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/):** The pioneer of networked thought, ideal for pure text-based idea generation.
 
 ## Practical Advice: Choosing the Right Approach
 

@@ -34,7 +34,7 @@ Configure this object type with essential properties that will help you filter a
 *   **Status (Single-select):** Options like "To Read," "Reading," "To Process," and "Archived."
 *   **URL/DOI (Text):** For easy retrieval of the original document.
 
-By giving your PDFs a dedicated object type, you ensure they do not get lost among your daily notes, tasks, or random thoughts.
+By giving your PDFs a dedicated object type, you ensure they do not get lost among your [daily notes](/posts/tana-commands-for-automated-daily-note-setup/), tasks, or random thoughts.
 
 ### Define an Atomic Idea Object Type
 The second required object type is the destination for your highlights. You might call this "Idea," "Concept," "Zettel," or "Note."
@@ -93,13 +93,13 @@ In Capacities, tags are global. Use tags to identify broad themes, topics, or pr
 Avoid using tags for status tracking or structural organization (that is what object properties are for). Keep tags focused entirely on the subject matter of the highlight. Because tags act as nodes in the Capacities graph, extensively tagging your extracted highlights ensures they will surface alongside other relevant notes when you explore a specific topic.
 
 ### Utilizing Collections
-Collections in Capacities allow you to group objects of the same type. You might create a collection within your Source objects called "Q3 Research Sprints" or a collection within your Idea objects called "Thesis Arguments." 
+Collections in Capacities allow you to group objects of the same type. You might create a collection within your Source objects called "Q3 Research Sprints" or a collection within your Idea objects called "[Thesis](/posts/obsidian-academic-workflow-for-thesis-2026/) Arguments." 
 
 Collections provide a softer, more flexible version of folders. A single Idea object extracted from a PDF can live in multiple collections simultaneously without being duplicated, allowing you to organize the same highlight for different writing projects.
 
 ## Practical Advice for Managing Volume
 
-If you deal with a high volume of PDFs—such as during a literature review or a major research project—the extraction and atomization process can feel overwhelming. To maintain momentum, adhere to these practical boundaries:
+If you deal with a high volume of PDFs—such as during a [literature review](/posts/logseq-for-academic-literature-reviews/) or a major research project—the extraction and atomization process can feel overwhelming. To maintain momentum, adhere to these practical boundaries:
 
 *   **Batch Processing:** Do not read a PDF, extract highlights, and atomize them all in the same session. Separate reading (ingestion) from processing (synthesis). Process your highlights in batches of 3-5 PDFs at a time to maintain cognitive [focus](/posts/managing-digital-information-overload-tips/).
 *   **The 20% Rule:** Aim to atomize only the top 20% of your highlights. Not every highlighted sentence deserves its own Idea object. Focus on the core arguments, novel methodologies, and surprising conclusions. 

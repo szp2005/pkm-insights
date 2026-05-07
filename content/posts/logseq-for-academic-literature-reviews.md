@@ -27,7 +27,7 @@ To understand why Logseq is highly effective for literature reviews, you must un
 
 In a traditional application like Evernote or Microsoft Word, the foundational unit of information is the document. If you read a paper by Smith (2025) and extract ten distinct insights, they all live inside the "Smith 2025" document. If you later write a thematic review on "Machine [Learning](/posts/how-to-remember-what-you-read-effectively/) in Healthcare," you must manually copy and paste those insights into your new draft, severing the connection to the source context.
 
-Logseq operates on an outliner model where the foundational unit is the "block" (a single bullet point). Every paragraph, quote, or highlight is its own distinct entity in the database. When you are writing your literature review, you do not copy and paste. Instead, you embed the original block. Clicking on that block immediately opens the original source context—including the exact PDF highlight. This prevents context collapse, ensuring you never misrepresent a cited author's original intent.
+Logseq operates on an outliner model where the foundational unit is the "block" (a single bullet point). Every paragraph, quote, or highlight is its own distinct entity in the database. When you are [writing](/posts/atomic-notes-writing-guide/) your literature review, you do not copy and paste. Instead, you embed the original block. Clicking on that block immediately opens the original source context—including the exact PDF highlight. This prevents context collapse, ensuring you never misrepresent a cited author's original intent.
 
 ## Top Tools Evaluated for Literature Reviews
 
@@ -99,7 +99,7 @@ Notion is fundamentally different from Logseq; it is a block-based workspace hea
 **Pros:**
 - Exceptional database capabilities for creating systematic literature matrices
 - Best-in-class real-time collaboration for research teams
-- Highly visual and flexible interface for project management
+- Highly visual and flexible interface for [project management](/posts/tana-supertags-for-project-managers-download/)
 
 **Cons:**
 - No offline mode, making travel or field research difficult
@@ -158,7 +158,7 @@ Logseq is an outliner, meaning it exports text as bulleted lists. When your lite
 
 ## Conclusion
 
-Logseq removes the artificial boundaries between reading, annotating, and synthesizing. By treating information as interconnected blocks rather than isolated documents, it aligns perfectly with the cognitive demands of an academic literature review. While the learning curve for queries and Datalog can be intimidating, mastering Logseq's PDF and Zotero workflows will drastically reduce the time you spend managing citations and searching for lost highlights, freeing you to focus on actual critical analysis.
+Logseq removes the artificial boundaries between reading, annotating, and synthesizing. By treating information as interconnected blocks rather than isolated documents, it aligns perfectly with the cognitive demands of an academic literature review. While the learning curve for queries and Datalog can be intimidating, mastering Logseq's PDF and Zotero workflows will drastically reduce the time you spend managing citations and searching for lost highlights, freeing you to [focus](/posts/managing-digital-information-overload-tips/) on actual critical analysis.
 
 ## Frequently Asked Questions
 

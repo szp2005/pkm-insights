@@ -72,7 +72,7 @@ A robust personal information management system setup relies on a stack of speci
 - **The File Vault (Storage):** For heavy assets (PDFs, images, videos, spreadsheets), rely on a cloud storage provider with robust syncing. *Google Drive*, *iCloud*, *OneDrive*, or a local *NAS* work best.
 - **The Knowledge Base (Synthesis):** This is the brain of your operation. Modern tools rely on plain text and bidirectional linking.
   - *[Obsidian](/posts/roam-research-vs-obsidian-comparison/):* Unparalleled customization, [local-first](/posts/anytype-review-local-first-privacy-lovers/) architecture, future-proof Markdown files. Highly recommended for power users.
-  - *Notion:* Excellent for structured data, databases, and collaboration. Great if your PIM leans heavily into project management.
+  - *[Notion](/posts/second-brain-dashboard-for-notion-power-users/):* Excellent for structured data, databases, and collaboration. Great if your PIM leans heavily into project management.
   - *[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) / Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/):* Outliner-based tools perfect for granular, block-level note-taking and rapid logging.
 
 ### Phase 3: Architecting the System

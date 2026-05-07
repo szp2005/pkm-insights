@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing a large corpus of research in a local knowledge base can quickly transition from liberating to overwhelming. As your collection of literature notes, primary sources, and reading highlights expands into the thousands, finding specific connections relying solely on folder structures and manual links becomes impossible. The Dataview plugin for [Obsidian](/posts/what-is-personal-knowledge-management/) transforms a static directory of Markdown files into a dynamic, queryable database. 
 
-However, without a systematic approach, complex Dataview queries can severely impact application performance, causing long render times and UI stuttering. Optimizing the Dataview plugin for research workflows involves more than just writing functional queries; it requires a holistic approach to how you structure data, define metadata schemas, and request information from the index. 
+However, without a systematic approach, complex Dataview queries can severely impact application performance, causing long render times and UI stuttering. Optimizing the Dataview plugin for research workflows involves more than just [writing](/posts/atomic-notes-writing-guide/) functional queries; it requires a holistic approach to how you structure data, define metadata schemas, and request information from the index. 
 
 This guide details the architectural decisions and specific syntax optimizations necessary to build a high-performance research environment using Dataview.
 
@@ -60,7 +60,7 @@ If all your academic papers are in a `Sources/Literature` folder, you should alw
 
 `FROM "Sources/Literature"`
 
-This single line tells Dataview to ignore the thousands of daily notes, project files, and attachments elsewhere in your vault, immediately reducing the processing pool before any filtering logic is applied.
+This single line tells Dataview to ignore the thousands of [daily notes](/posts/tana-commands-for-automated-daily-note-setup/), project files, and attachments elsewhere in your vault, immediately reducing the processing pool before any filtering logic is applied.
 
 ### Combining FROM Modifiers
 
@@ -79,7 +79,7 @@ The optimized approach utilizes Dataview's cached index of tags and backlinks to
 
 ## DQL vs. DataviewJS: Choosing the Right Engine
 
-Dataview offers two querying languages: the standard Dataview Query Language (DQL) and DataviewJS. Understanding when to use each is critical for a high-performance research workflow.
+Dataview offers two querying languages: the standard Dataview Query Language (DQL) and DataviewJS. Understanding when to use each is critical for a high-performance research [workflow](/posts/using-the-para-method-in-google-drive/).
 
 ### When to Use DQL
 

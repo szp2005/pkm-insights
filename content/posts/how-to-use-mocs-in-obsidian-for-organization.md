@@ -41,7 +41,7 @@ Most effective PKM systems operate on 4 to 8 high-level pillars. If you use the 
 
 Typical core pillars might include:
 - Professional Work / Career
-- Personal Development / Health
+- [Personal Development](/posts/how-to-build-a-digital-commonplace-book/) / Health
 - Hobbies / Creative Outputs
 - Consumption (Books, Articles, Podcasts)
 - Technical Knowledge / Coding

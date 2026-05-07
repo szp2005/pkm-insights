@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Zettelkasten method for academic writers is a [note-taking](/posts/zettelkasten-method-explained/) system that relies on creating decentralized, highly interconnected notes (Zettels) to form a web of knowledge. By capturing atomic ideas, cross-referencing them, and letting themes emerge organically, researchers can permanently eliminate the "blank page" problem and streamline the transition from reading to publishing.
 
-Academic writing is rarely bottlenecked by a lack of ideas or insufficient reading. More often, the friction occurs during the synthesis phase. You read dozens of papers, highlight key passages, and drop them into folders organized by project or class. Months later, when it is time to write the literature review, those insights are siloed, forgotten, or completely detached from their original context. The cognitive load required to hold hundreds of disparate [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) threads in your head simultaneously is overwhelming.
+Academic writing is rarely bottlenecked by a lack of ideas or insufficient reading. More often, the friction occurs during the synthesis phase. You read dozens of papers, highlight key passages, and drop them into folders organized by project or class. Months later, when it is time to write the literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/), those insights are siloed, forgotten, or completely detached from their original context. The cognitive load required to hold hundreds of disparate [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) threads in your head simultaneously is overwhelming.
 
 The traditional hierarchical approach to note-taking—sorting information into rigid folders and subfolders—forces you to decide where an idea belongs before you fully understand its implications. This top-down structure limits serendipity. 
 
@@ -35,7 +35,7 @@ For an academic, this means you do not write a single document summarizing an en
 
 A Zettelkasten derives its value from the links between notes, not the volume of notes it contains. When you add a new note, your primary task is not to categorize it, but to ask: *What existing ideas does this relate to? Does it support, contradict, or expand upon something I already know?*
 
-In practice, this creates a bottom-up structure. You do not outline a dissertation and then look for research to fill the gaps. You follow the connections between your atomic notes, and the structure of your arguments emerges naturally from the clusters of links.
+In practice, this creates a bottom-up structure. You do not outline a dissertation and then look for research to fill the gaps. You follow the connections between your [atomic notes](/posts/atomic-notes-writing-guide/), and the structure of your arguments emerges naturally from the clusters of links.
 
 ### Writing in Your Own Words
 

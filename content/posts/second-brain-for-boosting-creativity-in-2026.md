@@ -31,7 +31,7 @@ The current paradigm emphasizes synthesis over storage. Modern applications util
 
 ### The Role of Local Intelligence
 
-The most significant shift in 2026 is the seamless integration of localized, [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first machine learning models directly into personal knowledge management systems. Instead of relying on external cloud APIs that parse your private thoughts, modern [tools](/posts/roam-research-vs-obsidian-comparison/) use lightweight, on-device models to assist in the creative process.
+The most significant shift in 2026 is the seamless integration of localized, [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first machine [learning](/posts/how-to-remember-what-you-read-effectively/) models directly into personal knowledge management systems. Instead of relying on external cloud APIs that parse your private thoughts, modern [tools](/posts/roam-research-vs-obsidian-comparison/) use lightweight, on-device models to assist in the creative process.
 
 These systems do not generate ideas for you; rather, they act as sophisticated librarians. They can suggest connections between a note you wrote three years ago and an article you captured this morning based on semantic similarity. They help surface forgotten concepts precisely when they are relevant to your current project, effectively increasing the surface area for serendipitous creative collisions.
 
@@ -53,7 +53,7 @@ Incubation requires active engagement. It involves rewriting captured material i
 
 ### Output Generation
 
-A second brain is only valuable if it leads to tangible output. Whether you are writing a novel, designing a product, or formulating a business strategy, your system should seamlessly transition from an archive of interconnected thoughts to an active workspace.
+A second brain is only valuable if it leads to tangible output. Whether you are [writing](/posts/atomic-notes-writing-guide/) a novel, designing a product, or formulating a business strategy, your system should seamlessly transition from an archive of interconnected thoughts to an active workspace.
 
 The output phase involves gathering all the relevant nodes of information you have cultivated around a specific topic and assembling them into a coherent structure. Because the information has already been processed and contextualized during the incubation phase, the friction of starting a new project is drastically reduced. You are never staring at a blank page; you are simply organizing the insights you have already developed.
 
@@ -69,7 +69,7 @@ Networked thinking relies on bi-directional links and tags to create a fluid, no
 
 ### The Concept of Evergreen Notes
 
-To maximize the long-term value of your system, focus on creating evergreen notes. An evergreen note is a single, fundamental concept written in your own words, stripped of specific context so it can be applied to various future projects. 
+To maximize the long-term value of your system, [focus](/posts/managing-digital-information-overload-tips/) on creating evergreen notes. An evergreen note is a single, fundamental concept written in your own words, stripped of specific context so it can be applied to various future projects. 
 
 Instead of keeping a long document detailing everything you read in a specific book, you break the book down into individual, atomic concepts. Each concept becomes its own interconnected note. This modular approach ensures that your knowledge remains usable and discoverable years after you initially captured it.
 

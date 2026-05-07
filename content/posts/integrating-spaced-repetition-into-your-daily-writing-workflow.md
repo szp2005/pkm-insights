@@ -9,7 +9,7 @@ slug: "integrating-spaced-repetition-into-your-daily-writing-workflow"
 type: "informational"
 ---
 
-# Integrate Spaced Repetition Into Your Daily Writing Workflow: 5-Step Guide
+# Integrate Spaced Repetition Into Your Daily Writing [Workflow](/posts/using-the-para-method-in-google-drive/): 5-Step Guide
 
 > **Quick Answer:** Integrating spaced repetition into your daily writing workflow involves breaking down [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and insights into [atomic notes](/posts/atomic-notes-writing-guide/), scheduling them for periodic [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) using an algorithm-based system, and systematically synthesizing these resurfaced concepts into active writing projects. This approach ensures critical ideas remain at the top of your mind, ready to be deployed when drafting.
 
@@ -50,7 +50,7 @@ Transitioning from a traditional [note-taking](/posts/zettelkasten-method-explai
 
 ### Step 1: Capture Information Uniformly
 
-The workflow begins at the point of consumption. Whether you are reading on a Kindle, browsing the web, or listening to an audiobook, you need a frictionless capture mechanism. Send all highlights, annotations, and fleeting thoughts to a single, centralized inbox. Do not attempt to format or organize these clippings at the point of capture; focus entirely on gathering raw material without interrupting your reading state.
+The workflow begins at the point of consumption. Whether you are reading on a Kindle, browsing the web, or listening to an audiobook, you need a frictionless capture mechanism. Send all highlights, annotations, and fleeting thoughts to a single, centralized inbox. Do not attempt to format or organize these clippings at the point of capture; [focus](/posts/managing-digital-information-overload-tips/) entirely on gathering raw material without interrupting your reading state.
 
 ### Step 2: Process Notes into Prompts
 

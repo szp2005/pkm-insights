@@ -23,7 +23,7 @@ Learning how to capture ideas on the go requires shifting from complex organizat
 
 ## The Friction Problem: Why Ideas Vanish
 
-Friction is the enemy of capture. Every extra step required to record a thought reduces the probability that it will be recorded. If you have to unlock your phone, find a specific folder within Notion or [Obsidian](/posts/what-is-personal-knowledge-management/), create a new page, and add tags, the idea will often slip away before you type the first word.
+Friction is the enemy of capture. Every extra step required to record a thought reduces the probability that it will be recorded. If you have to unlock your phone, find a specific folder within [Notion](/posts/personal-knowledge-management-tools-comparison/) or [Obsidian](/posts/what-is-personal-knowledge-management/), create a new page, and add tags, the idea will often slip away before you type the first word.
 
 This friction compounds when we try to enforce organization at the point of entry. Trying to categorize an idea while generating it interrupts the creative flow. The mobile capture phase must be strictly separated from the organization phase. 
 
@@ -71,7 +71,7 @@ Processing involves clarifying the note. You might expand a quick voice memo int
 
 ## Practical Tool Recommendations and Tradeoffs
 
-Choosing the right equipment determines whether your capture system creates friction or removes it. Here are concrete configurations based on different workflows.
+Choosing the right equipment determines whether your capture system creates friction or removes it. Here are concrete configurations based on different [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 **Analog Configurations:**
 *   **Notebooks:** Field Notes (3.5" x 5.5", 48 pages) or Leuchtturm1917 Pocket A6. Field Notes are slim and flexible, easily conforming to a pocket, but fill up quickly. Leuchtturm provides a hard cover for writing while standing, but is bulkier.

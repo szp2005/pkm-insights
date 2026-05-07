@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Obsidian Plugins for Creative Professionals in 2026
 
-> **Quick Answer:** The best Obsidian plugins for creative professionals in 2026 significantly enhance idea generation, project management, and content creation. Top picks include Canvas for visual organization, Excalidraw for sketching, Dataview for dynamic data management, Longform for structured writing, and QuickAdd for rapid capture and automation, all tailored to streamline complex creative workflows.
+> **Quick Answer:** The best Obsidian plugins for creative professionals in 2026 significantly enhance idea generation, project management, and content creation. Top picks include Canvas for visual [organization](/posts/steps-to-building-a-second-brain/), Excalidraw for sketching, Dataview for dynamic data management, Longform for structured writing, and QuickAdd for rapid capture and automation, all tailored to streamline complex creative [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 In the dynamic landscape of creative work, managing ideas, projects, and vast amounts of information can be a significant challenge. Creative professionals, from writers and designers to researchers and developers, constantly seek [tools](/posts/personal-knowledge-management-tools-comparison/) that not only organize their thoughts but also empower their creative process. Obsidian, with its plain-text markdown foundation and powerful linking capabilities, has emerged as a cornerstone for many. However, its true potential is unlocked through its vibrant ecosystem of community plugins.
 
@@ -23,7 +23,7 @@ As we look to 2026, the evolution of these plugins continues to offer unpreceden
 
 Obsidian's core strength lies in its flexibility, allowing users to build a personalized [knowledge management](/posts/knowledge-management-strategies-for-students/) system. For creative professionals, this means constructing an environment that supports every stage of their work, from initial brainstorming to final output. The right plugins can bridge gaps in functionality, automate repetitive tasks, and provide new ways to visualize and interact with your ideas.
 
-Whether you're struggling with scattered notes, complex project timelines, or the sheer volume of research material, there's likely an Obsidian plugin designed to address your specific needs. The selections below [focus](/posts/digital-decluttering-for-information-overload/) on tools that offer tangible benefits for creative endeavors, emphasizing capabilities like visual thinking, structured writing, efficient task management, and seamless information retrieval.
+Whether you're struggling with scattered notes, complex project timelines, or the sheer volume of [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) material, there's likely an Obsidian plugin designed to address your specific needs. The selections below [focus](/posts/digital-decluttering-for-information-overload/) on tools that offer tangible benefits for creative endeavors, emphasizing capabilities like visual thinking, structured writing, efficient task management, and seamless information retrieval.
 
 ## Top Obsidian Plugins for Creative Professionals in 2026
 

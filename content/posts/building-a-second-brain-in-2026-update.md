@@ -11,7 +11,7 @@ type: "informational"
 
 # Building a Second Brain in 2026 Update: Complete Setup Guide
 
-> **Quick Answer:** Building a Second Brain in 2026 shifts focus from manual curation to AI-assisted [knowledge management](/posts/knowledge-management-strategies-for-students/). Modern setups rely on local LLMs to automatically tag, summarize, and connect notes within applications like [Obsidian](/posts/what-is-personal-knowledge-management/) and Anytype, reducing the friction of the CODE (Capture, Organize, Distill, Express) methodology while maintaining strict data privacy.
+> **Quick Answer:** Building a Second Brain in 2026 shifts [focus](/posts/managing-digital-information-overload-tips/) from manual curation to AI-assisted [knowledge management](/posts/knowledge-management-strategies-for-students/). Modern setups rely on local LLMs to automatically tag, summarize, and connect notes within applications like [Obsidian](/posts/what-is-personal-knowledge-management/) and Anytype, reducing the friction of the CODE (Capture, Organize, Distill, Express) methodology while maintaining strict data privacy.
 
 The concept of a second brain has evolved significantly over the past half-decade. Originally structured around rigorous manual filing and the PARA method (Projects, Areas, Resources, Archives), personal knowledge management (PKM) has entered a new phase. We are no longer just storing information; we are interacting with it. The core philosophy remains: externalizing your thoughts frees your biological brain for deep focus. However, the execution has fundamentally changed.
 
@@ -23,7 +23,7 @@ Tiago Forte’s CODE methodology—Capture, Organize, Distill, Express—is stil
 
 ### Capture: Frictionless and Multimodal
 
-In the past, capturing meant forwarding emails or using web clippers to save text. Today, capturing is entirely multimodal. Tools like Whisper-based audio transcription allow you to record voice memos that are automatically transcribed, summarized, and sent directly into your inbox. 
+In the past, capturing meant forwarding emails or using web clippers to save text. Today, capturing is entirely multimodal. [Tools](/posts/roam-research-vs-obsidian-comparison/) like Whisper-based audio transcription allow you to record voice memos that are automatically transcribed, summarized, and sent directly into your inbox. 
 
 Visual capture has also improved. Mobile applications now routinely extract structured text from photos and screenshots, placing them into your system with basic metadata already attached. The goal in 2026 is zero-friction capture. If it takes more than three seconds to record a thought, the system is too slow.
 
@@ -35,7 +35,7 @@ When you drop a note into your system, semantic search capabilities allow you to
 
 ### Distill: Automated Summarization
 
-Distillation used to require progressive summarization—manually highlighting, bolding, and eventually rewriting the core concepts of a note. While this manual process is still valuable for deep learning, AI assistants running locally on your machine can now generate instant structural summaries.
+Distillation used to require progressive summarization—manually highlighting, bolding, and eventually rewriting the core concepts of a note. While this manual process is still valuable for deep [learning](/posts/how-to-remember-what-you-read-effectively/), AI assistants running locally on your machine can now generate instant structural summaries.
 
 By utilizing local models, you can have your PKM tool automatically append a bulleted summary to the top of any long article or transcript. This preserves the original context while providing an immediate entry point when you revisit the note months later.
 

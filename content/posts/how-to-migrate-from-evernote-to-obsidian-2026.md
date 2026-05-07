@@ -108,7 +108,7 @@ After the import completes, your data is officially liberated. However, Obsidian
 ### Replicating Notebooks as Folders
 If you utilized the "Output to sub-folders" option during import, your vault will now contain folders matching your former Evernote notebooks. In Obsidian, folders are useful for broad categorization (e.g., `Work`, `Personal`, `Finances`), but relying strictly on folders limits the power of a networked note system. 
 
-Unlike Evernote, Obsidian notes can be linked together using bidirectional wiki-links (`[[Note Title]]`). Over time, you should aim to transition from a rigid folder hierarchy to a more fluid, link-based structure, often referred to as a [Zettelkasten](/posts/zettelkasten-method-explained/) or digital garden.
+Unlike Evernote, Obsidian notes can be linked together using bidirectional wiki-links (`[[Note Title]]`). Over time, you should aim to transition from a rigid folder hierarchy to a more fluid, link-based structure, often referred to as a [Zettelkasten](/posts/zettelkasten-method-explained/) or [digital garden](/posts/how-to-start-a-digital-garden-for-writers/).
 
 ### Migrating Tags to Obsidian's Format
 The Importer plugin successfully extracts your Evernote tags and places them at the top of your newly created Markdown files. Obsidian natively recognizes `#tags` in the body text or in the YAML frontmatter.
@@ -135,7 +135,7 @@ Migrating a massive database will inevitably surface edge cases. Here are concre
 
 - **File Size Limits:** Evernote restricts single notes to 200MB. Obsidian has no file size limit for notes, but extremely large Markdown files (over 50,000 words) may experience slight rendering delays on older hardware. Keep your notes atomic and focused.
 - **Attachment Handling:** Evernote hides attachments inside the note interface. Obsidian extracts them as standalone files (PDFs, PNGs, MP4s) and links to them within the Markdown text `![[document.pdf]]`. If you delete the link in the note, the attachment file remains in your vault. Periodically use community plugins like 'Clear Unused Images' to prune orphaned attachments and save disk space.
-- **Syncing Cross-Platform:** If you need access to your vault on iOS or Android, do not rely on third-party cloud syncing providers like Dropbox or Google Drive, as mobile operating systems restrict app access to those folders. You must use either Obsidian Sync (paid, seamless), iCloud Drive (Apple ecosystem only), or Git/Syncthing (free, high technical setup).
+- **Syncing Cross-Platform:** If you need access to your vault on iOS or Android, do not rely on third-party cloud syncing providers like Dropbox or Google Drive, as mobile operating systems restrict app access to those folders. You must use either [Obsidian Sync](/posts/setup-guide-for-obsidian-sync-on-android/) (paid, seamless), iCloud Drive (Apple ecosystem only), or Git/Syncthing (free, high technical setup).
 
 ## Conclusion
 

@@ -69,7 +69,7 @@ Anytype is a [local-first](/posts/anytype-review-local-first-privacy-lovers/), p
 **Price:** $0-$17/user/month
 **Rating:** 4.7/5
 
-While Tana is currently tailored for individuals and small setups, Fibery is designed to scale object-based structures across entire companies. Fibery allows you to build custom workspaces where every entity (Bug, Feature, Candidate, Article) has strict structural relationships. It bridges the gap between a PKM and a project management tool. If you need structured data that integrates deeply with API connections, automated rules, and granular team permissions, Fibery outperforms Tana.
+While Tana is currently tailored for individuals and small setups, Fibery is designed to scale object-based structures across entire companies. Fibery allows you to build custom workspaces where every entity (Bug, Feature, Candidate, Article) has strict structural relationships. It bridges the gap between a PKM and a [project management](/posts/tana-supertags-for-project-managers-download/) tool. If you need structured data that integrates deeply with API connections, automated rules, and granular team permissions, Fibery outperforms Tana.
 
 **Pros:**
 - Unmatched deep relational database architecture
@@ -86,7 +86,7 @@ While Tana is currently tailored for individuals and small setups, Fibery is des
 **Price:** Free ($50/year for Sync)
 **Rating:** 4.9/5
 
-Obsidian is fundamentally a markdown text editor, but through community plugins like Dataview (or the newer Datacore) and Metadata Menu, it transforms into a powerhouse for structured data. You can define YAML frontmatter for your files and query them across your vault exactly like a database. While it requires manual configuration to mimic Tana's supertags, the ceiling for what you can build is entirely up to your coding comfort level.
+Obsidian is fundamentally a markdown text editor, but through community plugins like [Dataview](/posts/optimizing-dataview-plugin-for-research-workflows/) (or the newer Datacore) and Metadata Menu, it transforms into a powerhouse for structured data. You can define YAML frontmatter for your files and query them across your vault exactly like a database. While it requires manual configuration to mimic Tana's supertags, the ceiling for what you can build is entirely up to your coding comfort level.
 
 **Pros:**
 - 100% local, future-proof markdown files
@@ -121,7 +121,7 @@ Transitioning from one structured data tool to another is notoriously difficult 
 1. **Map Your Ontology First:** Do not start moving data until you have mapped your types on paper. Identify your core objects (e.g., People, Projects, Notes) and the properties they require.
 2. **Flatten Your Outlines:** Tana allows infinite nesting, but tools like Notion or Capacities prefer document-level structures. You will need to decide which nested nodes deserve to become their own standalone objects in the new system.
 3. **Standardize Export Formats:** Export your Tana workspace as JSON. You will likely need a transition script or a tool like [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) (which handles JSON well) to parse your supertags into standard YAML properties or CSV files before importing them into Anytype or Notion.
-4. **Start Small:** Rebuild your daily logging workflow first. Ensure your daily driver works seamlessly before attempting to migrate massive archives of interconnected data.
+4. **Start Small:** Rebuild your daily logging [workflow](/posts/using-the-para-method-in-google-drive/) first. Ensure your daily driver works seamlessly before attempting to migrate massive archives of interconnected data.
 
 ## Conclusion
 

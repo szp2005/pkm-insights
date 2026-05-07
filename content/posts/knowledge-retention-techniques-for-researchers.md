@@ -15,9 +15,9 @@ type: "informational"
 
 The modern [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) process is characterized by an overwhelming volume of information. A researcher might read a dozen peer-reviewed papers in a single week, process hundreds of datasets, and attend multiple seminars. Yet, without a deliberate system for capturing and integrating that information, up to 70% of new knowledge degrades within 24 hours. The gap between merely reading a paper and actually internalizing its methodology and findings is where most academic and professional research stalls. 
 
-Passive consumption—highlighting text, dropping PDFs into a sprawling folder hierarchy, or starring references in a citation manager—creates an illusion of knowledge. You remember that a paper exists, but you cannot recall its specific arguments, sample sizes, or limitations when you sit down to draft a literature review or design a new experiment. 
+Passive consumption—highlighting text, dropping PDFs into a sprawling folder hierarchy, or starring references in a citation manager—creates an illusion of knowledge. You remember that a paper exists, but you cannot recall its specific arguments, sample sizes, or limitations when you sit down to draft a literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) or design a new experiment. 
 
-True knowledge retention requires shifting from a filing mindset to a synthesis mindset. It involves creating friction during the reading process to force cognitive engagement, followed by structured, low-friction retrieval mechanisms. The strategies outlined below transition the burden of memory from your biological brain to an engineered, reliable external system, allowing your working memory to focus on pattern recognition and novel hypothesis generation.
+True knowledge retention requires shifting from a filing mindset to a synthesis mindset. It involves creating friction during the reading process to force cognitive engagement, followed by structured, low-friction retrieval mechanisms. The strategies outlined below transition the burden of [memory](/posts/how-to-remember-what-you-read-effectively/) from your biological brain to an engineered, reliable external system, allowing your working memory to focus on pattern recognition and novel hypothesis generation.
 
 ## The Science of Memory and Forgetting
 
@@ -93,7 +93,7 @@ An effective research knowledge base must possess three attributes:
 
 ### Tool Selection Strategies
 
-While the methodology is more important than the software, certain architectures support these techniques better than others. Networked thought tools like [Obsidian](/posts/what-is-personal-knowledge-management/), Logseq, and [Roam Research](/posts/roam-research-vs-obsidian-comparison/) are specifically designed for the atomic, linked note-taking required by the Zettelkasten method. Hierarchical tools like [Notion](/posts/personal-knowledge-management-tools-comparison/) or Evernote can be adapted, but they naturally encourage filing over linking, which can inhibit the synthesis of disparate research fields.
+While the methodology is more important than the software, certain architectures support these techniques better than others. Networked thought [tools](/posts/how-to-build-a-second-brain/) like [Obsidian](/posts/what-is-personal-knowledge-management/), Logseq, and [Roam Research](/posts/roam-research-vs-obsidian-comparison/) are specifically designed for the atomic, linked note-taking required by the Zettelkasten method. Hierarchical tools like [Notion](/posts/personal-knowledge-management-tools-comparison/) or Evernote can be adapted, but they naturally encourage filing over linking, which can inhibit the synthesis of disparate research fields.
 
 ## Practical Implementation Strategies
 

@@ -21,7 +21,7 @@ Building this infrastructure requires an upfront investment of time, but the com
 
 ## What Exactly Is a Personal Information Management System?
 
-A PIMS is not a single piece of software. It is a behavioral framework supported by a carefully selected stack of tools. A complete system manages three distinct categories of digital assets:
+A PIMS is not a single piece of software. It is a behavioral framework supported by a carefully selected stack of tools. A complete system manages three distinct categories of [digital assets](/posts/knowledge-asset-product-group-strategy/):
 
 1. **Actionable Tasks:** What you need to do, tracked by deadlines and priority.
 2. **Reference Knowledge:** What you need to know, encompassing notes, articles, [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), and documentation.
@@ -80,7 +80,7 @@ Avoid the trap of attempting to find one "super app" that handles files, tasks, 
 ### Note-Taking and Knowledge Base
 Your knowledge base is where you synthesize ideas, draft documents, and store text-based reference material.
 * **[Obsidian](/posts/personal-knowledge-management-tools-comparison/):** Ideal for [privacy](/posts/anytype-review-local-first-privacy-lovers/)-focused users. It stores notes as local Markdown files on your hard drive, ensuring you own your data forever. It uses bi-directional linking to connect related concepts, functioning like a personal Wikipedia.
-* **Notion:** Better for highly visual thinkers and team collaboration. It utilizes a block-based, database-driven architecture, allowing you to create custom dashboards, kanban boards, and relational databases. 
+* **[Notion](/posts/second-brain-dashboard-for-notion-power-users/):** Better for highly visual thinkers and team collaboration. It utilizes a block-based, database-driven architecture, allowing you to create custom dashboards, kanban boards, and relational databases. 
 * **Apple Notes / UpNote:** Best for users who prioritize speed, deep operating system integration, and simplicity over complex database structures.
 
 ### Task Management and Calendars

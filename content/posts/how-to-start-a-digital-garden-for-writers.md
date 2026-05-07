@@ -19,7 +19,7 @@ Writers often struggle with the limitations of chronological content structures.
 
 A digital garden offers an alternative. It is an online space at the intersection of a personal notebook and a public blog. Instead of organizing writing by publication date, digital gardens are organized by context and connection. Ideas are planted as "seeds," tended to over time, and allowed to grow alongside related concepts.
 
-Understanding how to start a digital garden for writers can fundamentally shift your relationship with drafting. It removes the friction of perfectionism, encourages continuous iteration, and builds a compounding personal knowledge base that makes your writing richer. This guide outlines the exact steps to build, structure, and maintain a digital garden tailored for the writing workflow.
+Understanding how to start a digital garden for writers can fundamentally shift your relationship with drafting. It removes the friction of perfectionism, encourages continuous iteration, and builds a compounding personal knowledge base that makes your writing richer. This guide outlines the exact steps to build, structure, and maintain a digital garden tailored for the [writing workflow](/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/).
 
 ## Understanding the Digital Garden Philosophy
 
@@ -85,7 +85,7 @@ Begin by creating ten notes based on your current writing projects or obsessions
 
 ### Atomic Note-Taking
 
-Keep your notes atomic. An atomic note contains one single, irreducible idea. Instead of writing a massive 3,000-word document called "My Novel Research," break it down. Have one note for "FTL Travel Mechanics," another for "The Politics of the Mars Colony," and another for "Character Motivation: Betrayal." Atomic notes are easier to link together in novel ways. 
+Keep your notes atomic. An atomic note contains one single, irreducible idea. Instead of writing a massive 3,000-word document called "My Novel [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/)," break it down. Have one note for "FTL Travel Mechanics," another for "The Politics of the Mars Colony," and another for "Character Motivation: Betrayal." Atomic notes are easier to link together in novel ways. 
 
 ## Step 4: Cultivate and Connect
 

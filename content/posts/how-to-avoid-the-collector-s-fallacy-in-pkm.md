@@ -11,7 +11,7 @@ type: "informational"
 
 # Avoiding Collector's Fallacy in PKM: 5-Step Guide
 
-> **Quick Answer:** To avoid the collector's fallacy in PKM, you must shift your focus from capturing information to processing it. Implement high-friction capture methods, establish strict limits on your reading inbox, prioritize progressive summarization, and aggressively purge unread material to ensure you are building knowledge rather than simply hoarding data.
+> **Quick Answer:** To avoid the collector's fallacy in PKM, you must shift your [focus](/posts/managing-digital-information-overload-tips/) from capturing information to processing it. Implement high-friction capture methods, establish strict limits on your reading inbox, prioritize progressive summarization, and aggressively purge unread material to ensure you are building knowledge rather than simply hoarding data.
 
 Your read-it-later app is overflowing with hundreds of unread articles. Your browser has three windows open, each with twenty tabs containing [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) you intend to [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/). Your [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system is bloated with thousands of bookmarks, clipped web pages, and highlighted PDF files that you have never revisited. You feel a sense of [productivity](/posts/zettelkasten-method-explained/) when you save these items, but your actual output remains stagnant. 
 
@@ -65,7 +65,7 @@ Require a justification for every item you capture. Before saving a resource, ar
 You still need a place to store articles and resources you genuinely intend to read later. However, this inbox must be strictly quarantined from your permanent notes, and it must have physical constraints.
 
 ### The Separation of Triage and Storage
-Your read-it-later app (like Instapaper, Omnivore, or a specific folder in [Obsidian](/posts/personal-knowledge-management-tools-comparison/)/Notion) is a triage zone, not an archive. It is a waiting room. Items in this inbox must either be processed into permanent notes or deleted. They cannot remain there indefinitely.
+Your read-it-later app (like Instapaper, Omnivore, or a specific folder in [Obsidian](/posts/personal-knowledge-management-tools-comparison/)/[Notion](/posts/second-brain-dashboard-for-notion-power-users/)) is a triage zone, not an archive. It is a waiting room. Items in this inbox must either be processed into permanent notes or deleted. They cannot remain there indefinitely.
 
 ### Implementing Hard Limits
 Apply the principles of Kanban to your reading inbox by setting a Work In Progress (WIP) limit. For example, mandate that your reading inbox can hold a maximum of 20 items. 

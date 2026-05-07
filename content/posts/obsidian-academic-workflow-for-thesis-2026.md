@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The optimal Obsidian academic workflow for thesis 2026 relies on a streamlined literature pipeline integrating Zotero with Obsidian via the Zotero Integration plugin. By structuring your vault around atomic concept notes and utilizing bidirectional links rather than rigid folders, researchers can easily surface connections across thousands of sources and directly export networked thoughts into structured thesis drafts.
 
-Writing a thesis requires managing an overwhelming volume of information. Between hundreds of peer-reviewed papers, experimental data, theoretical frameworks, and your own evolving arguments, traditional linear word processors quickly become inadequate. Researchers often find themselves lost in a maze of disconnected PDFs and isolated Word documents, struggling to synthesize their reading into a coherent narrative.
+[Writing](/posts/zettelkasten-method-for-non-fiction-book-writing/) a thesis requires managing an overwhelming volume of information. Between hundreds of peer-reviewed papers, experimental data, theoretical frameworks, and your own evolving arguments, traditional linear word processors quickly become inadequate. Researchers often find themselves lost in a maze of disconnected PDFs and isolated Word documents, struggling to synthesize their reading into a coherent narrative.
 
 The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) has matured significantly. As we look at the requirements for serious academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), Obsidian stands out not just as a [note-taking](/posts/zettelkasten-method-explained/) application, but as a comprehensive database for thought. Its [local-first](/posts/anytype-review-local-first-privacy-lovers/), plain-text architecture ensures that years of research remain accessible decades from now, immune to the shifting pricing models or server shutdowns of cloud-based alternatives.
 
@@ -36,7 +36,7 @@ Out of the box, Obsidian is a capable markdown editor. For a thesis workflow, sp
 **Zotero Integration**
 The bridge between your reference manager and your knowledge base. This plugin replaces older, more fragile citation [tools](/posts/personal-knowledge-management-tools-comparison/). It allows you to define customizable templates that automatically pull metadata, PDF highlights, and annotations directly from Zotero into Obsidian. When you finish reading a paper in Zotero, a single hotkey generates a fully formatted literature note in your vault.
 
-**Dataview**
+**[Dataview](/posts/optimizing-dataview-plugin-for-research-workflows/)**
 The engine that powers vault [organization](/posts/steps-to-building-a-second-brain/). Dataview treats your markdown files as a database, allowing you to write queries that automatically aggregate notes based on tags, folders, or YAML frontmatter. For a thesis, Dataview is indispensable for creating dynamic dashboards that track unread papers, summarize literature by methodology, or list all concept notes related to a specific chapter.
 
 **Omnisearch**
@@ -117,7 +117,7 @@ No programming experience is required. While Obsidian uses Markdown for formatti
 Obsidian operates locally on your machine using plain text markdown files, making it significantly faster, accessible entirely offline, and future-proof. Notion relies on cloud servers and a proprietary database structure, which can cause lag with large volumes of text and risks data lock-in if the company changes its access models or goes offline.
 
 ### Can I collaborate with my supervisor using this system?
-Obsidian is primarily designed for individual knowledge management. For collaboration, researchers typically export their drafted chapters from Obsidian to Microsoft Word or Google Docs using Pandoc. This allows supervisors to use track changes and comment features they are familiar with, while you maintain your core research database undisturbed in Obsidian.
+Obsidian is primarily designed for individual knowledge management. For [collaboration](/posts/supernotes-vs-obsidian-for-collaborative-knowledge-sharing/), researchers typically export their drafted chapters from Obsidian to Microsoft Word or Google Docs using Pandoc. This allows supervisors to use track changes and comment features they are familiar with, while you maintain your core research database undisturbed in Obsidian.
 
 ### What happens if I have thousands of PDFs, will Obsidian slow down?
 Obsidian handles thousands of text files effortlessly. However, storing thousands of large PDFs directly within the Obsidian vault can increase sync times and backup sizes. It is highly recommended to store your PDFs externally in a designated Zotero folder and use Obsidian purely for your markdown notes, utilizing URI links to open the external PDFs when needed.

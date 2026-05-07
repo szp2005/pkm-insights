@@ -22,7 +22,7 @@ To effectively combat knowledge decay, one must first understand the mechanisms 
 
 The transition from working memory to long-term memory requires a biological process called *consolidation*, where neural pathways are forged and strengthened. In the late 19th century, psychologist Hermann Ebbinghaus empirically demonstrated the rapid decay of newly acquired information, formulating the famous "Forgetting Curve." Ebbinghaus found that without any reinforcement or connection to prior knowledge, humans forget approximately 50% of new information within an hour, and up to 80% within a month.
 
-The key to flattening this curve is disrupting the natural decay process. Passive learning methods—such as rereading text, highlighting, or passively listening to a lecture—create a dangerous illusion of competence. Because the material feels familiar when reviewed, we falsely assume it has been embedded in long-term memory. True retention demands cognitive friction; it requires the brain to work to retrieve the information, signaling its importance and solidifying the neural connections.
+The key to flattening this curve is disrupting the natural decay process. Passive [learning](/posts/effective-note-taking-techniques-for-learning/) methods—such as rereading text, highlighting, or passively listening to a lecture—create a dangerous illusion of competence. Because the material feels familiar when reviewed, we falsely assume it has been embedded in long-term memory. True retention demands cognitive friction; it requires the brain to work to retrieve the information, signaling its importance and solidifying the neural connections.
 
 ## Evidence-Based Strategies for Maximum Retention
 
@@ -62,13 +62,13 @@ Dual coding involves combining verbal materials with visual materials. Human mem
 
 While internal cognitive techniques are vital, modern knowledge workers must manage a volume of information that far exceeds human biological capacity. The best practice for knowledge retention in the digital age involves marrying cognitive techniques with a robust external Personal Knowledge Management (PKM) system—often referred to as building a "[Second Brain](/posts/what-is-personal-knowledge-management/)."
 
-A PKM system is a digital repository where you capture, organize, and distill insights, freeing your biological brain from the burden of remembering raw data so it can [focus](/posts/digital-decluttering-for-information-overload/) on synthesis, problem-solving, and creativity.
+A PKM system is a digital repository where you capture, organize, and distill insights, freeing your biological brain from the burden of remembering raw data so it can [focus](/posts/digital-decluttering-for-information-overload/) on synthesis, problem-solving, and [creativity](/posts/second-brain-for-boosting-creativity/).
 
 ### 1. The Capture Habit and Progressive Summarization
 
 The first step is establishing a frictionless, reliable system for capturing information. Whether using [tools](/posts/roam-research-vs-obsidian-comparison/) like [Obsidian](/posts/personal-knowledge-management-tools-comparison/), [Notion](/posts/second-brain-dashboard-for-notion-power-users/), Logseq, or Apple Notes, the goal is to get valuable insights out of your head and into a trusted system. However, capturing is not enough; copied-and-pasted text is quickly forgotten and essentially useless.
 
-Employ Tiago Forte's method of *progressive summarization*: read an article, highlight the best parts, then extract those highlights into a separate note. Later, bold the most critical sentences within those highlights. Finally, write a brief, executive summary of the core ideas in your own words at the top of the note. This layered process of distillation forces engagement and ensures future-you can grasp the concept in seconds.
+Employ [Tiago Forte](/posts/tiago-forte-building-a-second-brain-review/)'s method of *progressive summarization*: read an article, highlight the best parts, then extract those highlights into a separate note. Later, bold the most critical sentences within those highlights. Finally, write a brief, executive summary of the core ideas in your own words at the top of the note. This layered process of distillation forces engagement and ensures future-you can grasp the concept in seconds.
 
 ### 2. The Zettelkasten Method
 

@@ -81,10 +81,10 @@ Notion remains the standard for structured knowledge management. While Notion AI
 **Pros:**
 - Unmatched flexibility for creating custom databases and workflows
 - Excellent team collaboration and permission controls
-- AI tools integrate seamlessly into block-based writing
+- AI tools integrate seamlessly into block-based [writing](/posts/atomic-notes-writing-guide/)
 
 **Cons:**
-- High learning curve to build an effective workspace
+- High [learning](/posts/how-to-remember-what-you-read-effectively/) curve to build an effective workspace
 - Requires constant maintenance to prevent organizational chaos
 
 ### 3. Obsidian with Smart Connections
@@ -93,7 +93,7 @@ Notion remains the standard for structured knowledge management. While Notion AI
 **Price:** Free (Sync/Publish are extra)
 **Rating:** 4.7/5
 
-Obsidian is a local-first markdown editor that relies on manual bi-directional linking. However, via community plugins like Smart Connections, users can integrate OpenAI's API to analyze their local vault. This provides semantic search and AI chat capabilities while maintaining complete data ownership. It is the antithesis of Mem's cloud-based automated approach, demanding manual effort but rewarding it with absolute control.
+Obsidian is a [local-first](/posts/anytype-review-local-first-privacy-lovers/) markdown editor that relies on manual bi-directional linking. However, via community plugins like Smart Connections, users can integrate OpenAI's API to analyze their local vault. This provides semantic search and AI chat capabilities while maintaining complete data ownership. It is the antithesis of Mem's cloud-based automated approach, demanding manual effort but rewarding it with absolute control.
 
 **Pros:**
 - 100% local, secure, and future-proof markdown files

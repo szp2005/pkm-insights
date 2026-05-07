@@ -30,7 +30,7 @@ In 1885, German psychologist Hermann Ebbinghaus pioneered the experimental study
 His [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) demonstrated that within 24 hours of reading something new, you will typically forget up to 70% of it. Within a month, that number climbs to an astonishing 90%. The brain operates on a ruthless "use it or lose it" principle. If a neural pathway is not repeatedly activated, the brain literally prunes those synaptic connections to save metabolic energy. Forgetting is not a bug in the human operating system; it is a feature designed to clear out irrelevant data. Our job is to signal to the brain that what we are reading *is* relevant.
 
 ### The Illusion of Competence
-When we read a well-written, eloquently argued text, the cognitive fluency of the writing makes the concepts feel intuitive. We nod along, experiencing what psychologists call the "illusion of competence." 
+When we read a well-written, eloquently argued text, the cognitive fluency of the [writing](/posts/atomic-notes-writing-guide/) makes the concepts feel intuitive. We nod along, experiencing what psychologists call the "illusion of competence." 
 
 We mistakenly confuse the *recognition* of an idea on the page with the *recall* of that idea from our own memory. Recognition is easy—it requires the external trigger of the text. True learning and retention only happen when you can generate the information independently, from scratch, without looking at the source material. 
 
@@ -84,7 +84,7 @@ SQ3R is a highly effective, structured methodology for reading dense, informativ
 *   **Question:** Turn chapter headings into interrogatives. If the heading is "The Mechanics of Inflation," ask yourself, "What are the specific, step-by-step mechanisms that drive inflation?"
 *   **Read:** Read the section with the active, aggressive intent of answering the question you just formulated.
 *   **Recite:** Look away from the text. Summarize the answer out loud or scribble it down without checking the book. This forced retrieval is the exact moment a memory is forged.
-*   **Review:** At the end of your reading session, mentally review the core concepts you just processed to solidify them.
+*   **[Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/):** At the end of your reading session, mentally review the core concepts you just processed to solidify them.
 
 ---
 

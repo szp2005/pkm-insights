@@ -39,7 +39,7 @@ Anytype takes a different approach, leaning heavily into a graph-based, object-o
 
 Obsidian has established itself as the gold standard for text-based personal knowledge management. Because it functions as an Integrated Development Environment (IDE) for your thoughts, its blank-slate nature allows you to construct [workflows](/posts/getting-things-done-for-knowledge-workers/) ranging from simple daily journaling to complex academic [Zettelkasten](/posts/zettelkasten-method-explained/) systems. The software is exceptionally lightweight, opening massive vaults containing tens of thousands of text files in mere milliseconds. 
 
-The true power of Obsidian lies in its community. With over 1,500 community plugins and hundreds of custom themes, you can bolt on functionality as needed. Want a visual kanban board? There is a plugin for that. Need to execute Python scripts directly inside your notes or query your notes like a SQL database? Plugins like Dataview make it possible. However, this level of freedom means you are responsible for building your own system, which can easily lead to procrastination through endless tweaking.
+The true power of Obsidian lies in its community. With over 1,500 community plugins and hundreds of custom themes, you can bolt on functionality as needed. Want a visual kanban board? There is a plugin for that. Need to execute Python scripts directly inside your notes or query your notes like a SQL database? Plugins like [Dataview](/posts/optimizing-dataview-plugin-for-research-workflows/) make it possible. However, this level of freedom means you are responsible for building your own system, which can easily lead to procrastination through endless tweaking.
 
 **Pros:**
 - Complete data ownership in universally readable plain text Markdown
@@ -87,7 +87,7 @@ Anytype offers a rich block-based editor similar to Notion. You can drag and dro
 
 Syncing local files has historically been the primary friction point for local-first applications. 
 
-With Obsidian, you have several choices. You can pay for Obsidian Sync (currently around $8 to $10 per month depending on billing), which is seamless, end-to-end encrypted, and handles plugin syncing beautifully. Alternatively, because they are just files, you can use iCloud, Google Drive, or Syncthing. However, mobile syncing via third-party cloud providers can sometimes result in duplicated files or slow indexing times on iOS due to aggressive background app restrictions.
+With Obsidian, you have several choices. You can pay for Obsidian Sync (currently around $8 to $10 per month depending on billing), which is seamless, end-to-end encrypted, and handles plugin syncing beautifully. Alternatively, because they are just files, you can use iCloud, [Google Drive](/posts/using-the-para-method-in-google-drive/), or Syncthing. However, mobile syncing via third-party cloud providers can sometimes result in duplicated files or slow indexing times on iOS due to aggressive background app restrictions.
 
 Anytype has a massive advantage here with its peer-to-peer Any-Sync protocol. Your devices form a secure mesh. If your laptop and phone are nearby, they sync directly over the local network. For asynchronous syncing (when one device is offline), Anytype provides up to 1GB of free storage on their encrypted backup nodes. Because the data is encrypted locally before transmission, Anytype's servers never see your unencrypted text. For power users, you can even self-host your own Any-Sync node.
 
@@ -123,7 +123,7 @@ Yes, Anytype has a built-in Markdown importer. It will parse your folders and ma
 Not at all. Both applications offer fully functional mobile apps for iOS and Android. "Local-first" simply means the primary copy of the data lives on your device hardware, rather than being solely hosted on a cloud server that requires an internet connection to view. 
 
 ### Which app is better for academic research and zettelkasten?
-Obsidian is generally better suited for traditional Zettelkasten and academic research. Its plain-text nature, unparalleled speed with tens of thousands of individual notes, and specific community plugins designed for citation management (like Zotero integrations) make it the industry standard for researchers.
+Obsidian is generally better suited for traditional Zettelkasten and academic research. Its plain-text nature, unparalleled speed with tens of thousands of individual notes, and specific community plugins designed for [citation management](/posts/tana-workspace-for-managing-academic-citations/) (like Zotero integrations) make it the industry standard for researchers.
 
 ### How large can my vaults or spaces grow before performance drops?
 Obsidian is known to comfortably handle vaults exceeding 50,000 plaintext files without significant lag, provided you are not running heavy, unoptimized plugins. Anytype's performance is also excellent due to its underlying local database architecture, but users with massively dense graph structures may experience slightly longer load times on older mobile devices compared to raw text parsing.

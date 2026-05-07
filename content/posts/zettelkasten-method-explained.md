@@ -92,18 +92,18 @@ Once a permanent note is in the slip-box, it is never thrown away. It contribute
 
 ## Step-by-Step Guide: How to Start Your Zettelkasten
 
-Starting a Zettelkasten can feel overwhelming, especially if you are transitioning from a traditional folder-based system. Here is a practical, expert-level workflow to get you started immediately.
+Starting a Zettelkasten can feel overwhelming, especially if you are transitioning from a traditional folder-based system. Here is a practical, expert-level [workflow](/posts/using-the-para-method-in-google-drive/) to get you started immediately.
 
 ### Step 1: Choose Your Medium (Digital vs. Analog)
 While Luhmann used physical index cards, modern digital tools have drastically lowered the barrier to entry. While analog systems offer a tactile, distraction-free experience, digital tools provide frictionless linking, full-text search, and automated backups. 
 
-For the modern knowledge worker, software is highly recommended. Tools designed specifically for networked thought, such as **[Obsidian](/posts/personal-knowledge-management-tools-comparison/)**, **[Roam Research](/posts/roam-research-vs-obsidian-comparison/)**, or **Logseq**, are ideal. They natively support bidirectional linking and visualize your notes as a sprawling graph.
+For the modern knowledge worker, software is highly recommended. Tools designed specifically for [networked thought](/posts/tana-vs-capacities-networked-thought/), such as **[Obsidian](/posts/personal-knowledge-management-tools-comparison/)**, **[Roam Research](/posts/roam-research-vs-obsidian-comparison/)**, or **Logseq**, are ideal. They natively support bidirectional linking and visualize your notes as a sprawling graph.
 
 ### Step 2: Establish an Inbox for Fleeting Notes
 Decide on a single, frictionless capture tool for your fleeting thoughts. Don't overcomplicate this. A standard notebook or the default notes app on your phone works perfectly. The goal is zero-resistance capture.
 
 ### Step 3: Read with a Pen in Hand
-When reading a book, do not just highlight. Keep a notebook nearby (or a digital scratchpad) and write down literature notes. Summarize the core arguments as you go. Limit yourself to a few sentences per chapter to force brevity and focus.
+When reading a book, do not just highlight. Keep a notebook nearby (or a digital scratchpad) and write down literature notes. Summarize the core arguments as you go. Limit yourself to a few sentences per chapter to force brevity and [focus](/posts/managing-digital-information-overload-tips/).
 
 ### Step 4: The Processing Ritual
 Set aside dedicated time (ideally daily, but at least weekly) to process your inbox. 

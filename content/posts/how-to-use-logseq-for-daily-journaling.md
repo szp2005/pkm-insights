@@ -19,7 +19,7 @@ Keeping a daily journal often devolves into an administrative chore. Many digita
 
 When you learn how to use Logseq for daily journaling, you stop worrying about where information belongs. The journal becomes a friction-free inbox. Because Logseq operates at the block level—meaning every bullet point is a discrete, referenceable node in a database—you can drop a meeting note, a grocery list, and a profound philosophical realization into the exact same page. Through bidirectional linking, those isolated thoughts automatically route themselves to the correct conceptual pages. 
 
-This guide breaks down exactly how to transition to a bottom-up journaling system in Logseq, complete with practical strategies for [templates](/posts/logseq-templates-for-doctoral-research-students/), task management, and avoiding common structural mistakes.
+This guide breaks down exactly how to transition to a bottom-up journaling system in Logseq, complete with practical strategies for [templates](/posts/logseq-templates-for-doctoral-research-students/), [task management](/posts/implementing-a-gtd-system-within-obsidian/), and avoiding common structural mistakes.
 
 ## The Philosophy of Logseq Journals
 

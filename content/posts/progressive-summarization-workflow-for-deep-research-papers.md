@@ -83,9 +83,9 @@ Finally, avoid perfectly summarizing papers that have no immediate utility. The 
 
 To execute this workflow effectively, your tooling must support both deep academic reading and flexible text formatting. 
 
-**Zotero + [Obsidian](/posts/personal-knowledge-management-tools-comparison/) integration:** This is widely considered the gold standard for academic PKM. You can read and annotate PDFs directly in Zotero, extracting those highlights (Layer 1) automatically into Obsidian via plugins. Obsidian’s markdown structure makes bolding (Layer 2) and highlighting (Layer 3) frictionless, while its linking capabilities perfectly support Layer 5 integration.
+**Zotero + [Obsidian](/posts/personal-knowledge-management-tools-comparison/) integration:** This is widely considered the gold standard for academic PKM. You can read and annotate PDFs directly in Zotero, extracting those highlights (Layer 1) automatically into Obsidian via [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/). Obsidian’s markdown structure makes bolding (Layer 2) and highlighting (Layer 3) frictionless, while its linking capabilities perfectly support Layer 5 integration.
 
-**Readwise Reader:** For researchers who read across various formats (PDFs, web articles, newsletters), Reader allows you to capture highlights universally. It syncs these highlights directly into note-taking apps like [Notion](/posts/second-brain-dashboard-for-notion-power-users/), Roam, or [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), providing a clean baseline for Layer 1.
+**[Readwise Reader](/posts/readwise-reader-for-deep-engagement-research/):** For researchers who read across various formats (PDFs, web articles, newsletters), Reader allows you to capture highlights universally. It syncs these highlights directly into note-taking apps like [Notion](/posts/second-brain-dashboard-for-notion-power-users/), Roam, or [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), providing a clean baseline for Layer 1.
 
 **Logseq:** This outliner-based tool is excellent for researchers who prefer hierarchical block structures. Its block-referencing capabilities make Layer 5 integration incredibly powerful, allowing you to embed a specific finding from a paper directly into an outline for a new article you are drafting.
 

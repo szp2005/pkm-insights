@@ -81,7 +81,7 @@ The administrative overhead required to maintain a shared workspace cannot be ig
 
 Supernotes requires virtually zero setup. You create an account, invite users, and start creating cards. The platform handles database management, hosting, backups, and user permissions invisibly. The tradeoff is trusting a third-party server with your proprietary business knowledge.
 
-Obsidian requires significant initial architecture. A vault administrator must define the folder structure, enforce tagging taxonomy, and standardize the plugin stack across the team to ensure everyone has a unified experience. If you opt for the Git route, you must train the team on pushing, pulling, and resolving merge conflicts. However, this upfront investment yields a highly customized environment. Teams can build custom dashboards using plugins like Dataview, automating project tracking directly within their markdown files.
+Obsidian requires significant initial architecture. A vault administrator must define the folder structure, enforce tagging taxonomy, and standardize the plugin stack across the team to ensure everyone has a unified experience. If you opt for the Git route, you must train the team on pushing, pulling, and resolving merge conflicts. However, this upfront investment yields a highly customized environment. Teams can build custom dashboards using plugins like [Dataview](/posts/optimizing-dataview-plugin-for-research-workflows/), automating [project tracking](/posts/tana-supertags-for-freelancer-project-tracking/) directly within their markdown files.
 
 ## Pricing and Value for Teams
 
