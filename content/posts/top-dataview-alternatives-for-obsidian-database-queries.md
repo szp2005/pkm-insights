@@ -21,6 +21,8 @@ As Obsidian vaults grow in size and complexity, many users find themselves seeki
 
 This guide breaks down the top Dataview alternatives for Obsidian database queries, evaluating each plugin based on its usability, visual customization, and approach to data management. We will explore the strengths and limitations of each tool so you can choose the right database system for your personal knowledge management (PKM) workflow.
 
+If your current setup already depends on Dataview, start by tightening the query layer with an [optimized Dataview research workflow](/posts/optimizing-dataview-plugin-for-research-workflows/) before migrating dashboards to a visual database plugin.
+
 ## Why Look for Dataview Alternatives?
 
 While Dataview is powerful, it is not without friction points. Understanding these limitations helps clarify why other plugins have gained traction.
