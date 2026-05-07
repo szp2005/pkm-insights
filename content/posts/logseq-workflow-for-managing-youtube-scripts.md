@@ -52,7 +52,7 @@ For example, to see all scripts currently in the drafting phase, you could use a
 {{query (and (property type "YouTube Script") (property status "Drafting"))}}
 ```
 
-This query will dynamically display a list of all pages tagged as "YouTube Script" where the status property is set to "Drafting." Similarly, you can query for scripts related to a specific `topic::` or those awaiting a `publish-date::`. This level of organization transforms Logseq from a simple note-taking app into a powerful content management system, allowing you to quickly assess your workload, identify bottlenecks, and prioritize tasks without manually sifting through numerous files. The consistent application of these properties is the backbone of an efficient Logseq workflow for managing YouTube scripts.
+This query will dynamically display a list of all pages tagged as "YouTube Script" where the status property is set to "Drafting." Similarly, you can query for scripts related to a specific `topic::` or those awaiting a `publish-date::`. This level of organization transforms Logseq from a simple [note-taking](/posts/zettelkasten-method-explained/) app into a powerful content management system, allowing you to quickly assess your workload, identify bottlenecks, and prioritize tasks without manually sifting through numerous files. The consistent application of these properties is the backbone of an efficient Logseq workflow for managing YouTube scripts.
 
 ## From Idea to Outline: Brainstorming and Structuring
 
@@ -238,7 +238,7 @@ Logseq allows you to export individual pages or your entire graph to Markdown (`
 
 ### Is Logseq suitable for very long, complex scripts?
 
-Absolutely. Logseq's hierarchical outlining and block-based structure are exceptionally well-suited for managing long and complex scripts. You can collapse sections to focus on specific parts, use linked references to connect related ideas across different pages, and leverage queries to navigate large amounts of content efficiently, preventing information overload.
+Absolutely. Logseq's hierarchical outlining and block-based structure are exceptionally well-suited for managing long and complex scripts. You can collapse sections to focus on specific parts, use linked references to connect related ideas across different pages, and leverage queries to navigate large amounts of content efficiently, preventing [information overload](/posts/digital-decluttering-for-information-overload/).
 
 ### How do I manage multiple YouTube channels with this workflow?
 
@@ -246,7 +246,7 @@ To manage multiple YouTube channels, you can add a `channel::` property to your 
 
 ### What if I prefer a visual script layout?
 
-Logseq is primarily a text-based outliner, focusing on content and structure rather than visual layout. While you can use custom CSS to slightly adjust the appearance, it won't replicate a dedicated visual scriptwriting application. For final visual formatting, it's best to export your Logseq script to Markdown and then import it into a specialized scriptwriting software or word processor for layout and formatting.
+Logseq is primarily a text-based outliner, focusing on content and structure rather than visual layout. While you can use custom CSS to slightly adjust the appearance, it won't replicate a dedicated visual scriptwriting application. For final visual formatting, it's best to export your Logseq script to Markdown and then import it into a specialized scriptwriting [software](/posts/best-apps-for-personal-knowledge-management/) or word processor for layout and formatting.
 
 ---
 

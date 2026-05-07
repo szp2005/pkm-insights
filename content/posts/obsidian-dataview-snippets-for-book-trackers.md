@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Dataview Snippets for Book Trackers: Master Your Reading
 
-> **Quick Answer:** Obsidian Dataview snippets provide a highly customizable and dynamic way to track books, manage reading lists, and visualize progress directly within your knowledge base. By leveraging specific DataviewJS or DQL queries, users can create automated tables, lists, and dashboards that update in real-time based on book metadata embedded in their notes, significantly streamlining literary organization and analysis.
+> **Quick Answer:** Obsidian Dataview snippets provide a highly customizable and dynamic way to track books, manage reading lists, and visualize progress directly within your knowledge base. By leveraging specific DataviewJS or DQL queries, users can create automated tables, lists, and dashboards that update in real-time based on book metadata embedded in their notes, significantly streamlining literary [organization](/posts/steps-to-building-a-second-brain/) and analysis.
 
 For many avid readers and knowledge workers, managing a growing library of books—whether physical or digital—can become an organizational challenge. Tracking what you've read, what you're currently reading, and what's on your wishlist often involves disparate systems: a physical notebook, a spreadsheet, or various online platforms. This fragmentation can hinder a holistic view of your reading habits and make it difficult to extract meaningful insights from your literary journey.
 
-Obsidian, a powerful knowledge management tool, offers a robust solution to this problem, especially when combined with its Dataview plugin. Dataview transforms your plain text notes into a dynamic database, allowing you to query and display information based on metadata embedded within your files. For book tracking, this means moving beyond static lists to create living, interactive dashboards that reflect your entire reading universe. This article will guide you through implementing effective Dataview snippets to build a comprehensive and personalized book tracking system within Obsidian.
+Obsidian, a powerful [knowledge management](/posts/knowledge-management-strategies-for-students/) tool, offers a robust solution to this problem, especially when combined with its Dataview plugin. Dataview transforms your plain text notes into a dynamic database, allowing you to query and display information based on metadata embedded within your files. For book tracking, this means moving beyond static lists to create living, interactive dashboards that reflect your entire reading universe. This article will guide you through implementing effective Dataview snippets to build a comprehensive and personalized book tracking system within Obsidian.
 
 ## Setting Up Your Obsidian Book Tracking System
 
@@ -374,7 +374,7 @@ Obsidian, powered by the Dataview plugin, offers an unparalleled environment for
 ## Frequently Asked Questions
 
 ### What is Dataview and why should I use it for book tracking?
-Dataview is an Obsidian plugin that turns your notes into a queryable database. You should use it for book tracking because it allows you to create dynamic, automatically updating lists and tables of your books based on metadata embedded in your notes, offering far greater flexibility and insight than static lists or external tools.
+Dataview is an Obsidian plugin that turns your notes into a queryable database. You should use it for book tracking because it allows you to create dynamic, automatically updating lists and tables of your books based on metadata embedded in your notes, offering far greater flexibility and insight than static lists or external [tools](/posts/personal-knowledge-management-tools-comparison/).
 
 ### How do I add metadata to my book notes for Dataview to use?
 Metadata can be added as YAML frontmatter at the top of your note (e.g., `--- title: "Book Title" author: "Author Name" ---`) or as inline fields anywhere in the note (e.g., `status:: reading`). YAML frontmatter is generally recommended for structured data.

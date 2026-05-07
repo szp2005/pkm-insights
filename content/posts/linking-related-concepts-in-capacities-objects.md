@@ -45,7 +45,7 @@ When you extract a thought from a podcast, you create an Idea object. You then l
 
 The most frictionless way to build relationships is through inline linking. As you type notes within an object, use the `@` or `[[` command to instantly reference another object in the middle of a sentence.
 
-For example, if you are writing notes in a meeting object, you might type: "Discussed the implementation of the `[[Flywheel Effect]]` strategy with `@Jane Doe`." 
+For example, if you are [writing](/posts/atomic-notes-writing-guide/) notes in a meeting object, you might type: "Discussed the implementation of the `[[Flywheel Effect]]` strategy with `@Jane Doe`." 
 
 This action accomplishes three things simultaneously:
 1.  It creates a direct pathway between the meeting and the concept.
@@ -76,7 +76,7 @@ Links degrade in value if they are never revisited. To make the most of your int
 
 During this review, open your most important Concept objects and examine their backlinks. Look at the new sources or meeting notes that have referenced the concept recently. Use this new context to update the main Concept object, refining its definition based on recent real-world applications.
 
-This process, often referred to as gardening, ensures that linking related concepts in Capacities objects remains an active mechanism for learning rather than a passive archiving chore.
+This process, often referred to as gardening, ensures that linking related concepts in Capacities objects remains an active mechanism for [learning](/posts/how-to-remember-what-you-read-effectively/) rather than a passive archiving chore.
 
 ## Practical Advice for Managing Links
 
@@ -100,7 +100,7 @@ Capacities uses dynamic linking. If you update the title of an object, all links
 Yes, Capacities supports block-level linking. You can copy the link to a specific block of text within an object and paste it elsewhere, allowing for precise, granular connections rather than just linking to the entire document.
 
 ### Is there a limit to how many objects I can link together?
-There is no hard limit to the number of links you can create. However, excessive linking without purpose can make the graph view cluttered and difficult to navigate. Focus on creating meaningful, high-signal connections.
+There is no hard limit to the number of links you can create. However, excessive linking without purpose can make the graph view cluttered and difficult to navigate. [Focus](/posts/managing-digital-information-overload-tips/) on creating meaningful, high-signal connections.
 
 ### How do tags differ from object links in Capacities?
 Tags apply a label to an object (e.g., `#urgent` or `#draft`), primarily for filtering and sorting. Object links create a bi-directional relationship between two distinct entities with their own properties, which is better for connecting ideas and building a knowledge graph.

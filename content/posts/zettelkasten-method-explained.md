@@ -12,7 +12,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # The Zettelkasten Method Explained: A Comprehensive Guide to Master [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/)
 
-> **Quick Answer:** The Zettelkasten Method Explained matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the principles, history, and practical applications of the Zettelkasten method to build a [second brain](/posts/best-apps-for-personal-knowledge-management/) and supercharge your note-taking and thinking process.
+> **Quick Answer:** The Zettelkasten Method Explained matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the principles, history, and practical applications of the Zettelkasten method to build a [second brain](/posts/best-apps-for-personal-knowledge-management/) and supercharge your [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) and thinking process.
 
 In an era of relentless information overload, the way we capture, process, and retrieve knowledge determines our intellectual output. We consume podcasts, read dense articles, and highlight books, yet a fraction of that information actually translates into coherent original thoughts or actionable insights. Enter the **Zettelkasten method**—a revolutionary note-taking and personal knowledge management (PKM) system designed not just to store information, but to generate ideas.
 
@@ -97,7 +97,7 @@ Starting a Zettelkasten can feel overwhelming, especially if you are transitioni
 ### Step 1: Choose Your Medium (Digital vs. Analog)
 While Luhmann used physical index cards, modern digital tools have drastically lowered the barrier to entry. While analog systems offer a tactile, distraction-free experience, digital tools provide frictionless linking, full-text search, and automated backups. 
 
-For the modern knowledge worker, software is highly recommended. Tools designed specifically for networked thought, such as **Obsidian**, **Roam Research**, or **Logseq**, are ideal. They natively support bidirectional linking and visualize your notes as a sprawling graph.
+For the modern knowledge worker, software is highly recommended. Tools designed specifically for networked thought, such as **[Obsidian](/posts/personal-knowledge-management-tools-comparison/)**, **[Roam Research](/posts/roam-research-vs-obsidian-comparison/)**, or **Logseq**, are ideal. They natively support bidirectional linking and visualize your notes as a sprawling graph.
 
 ### Step 2: Establish an Inbox for Fleeting Notes
 Decide on a single, frictionless capture tool for your fleeting thoughts. Don't overcomplicate this. A standard notebook or the default notes app on your phone works perfectly. The goal is zero-resistance capture.

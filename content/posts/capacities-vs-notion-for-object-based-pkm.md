@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Capacities is better if you want a ready-to-use, natively object-oriented system that organizes your knowledge by types (People, Books, Ideas) without manual database setup. Notion is the superior choice if you need maximum customization, team collaboration features, and the ability to build complex, interconnected database systems from scratch.
 
-The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) has evolved significantly from the rigid folder hierarchies of the past. As our digital inputs have multiplied, the limitations of filing a note into a single specific folder have become apparent. This friction gave rise to networked thought and, more recently, object-based note-taking. In an object-based system, information is categorized not by where it lives, but by what it intrinsically is. 
+The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) has evolved significantly from the rigid folder hierarchies of the past. As our digital inputs have multiplied, the limitations of filing a note into a single specific folder have become apparent. This friction gave rise to networked thought and, more recently, object-based [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/). In an object-based system, information is categorized not by where it lives, but by what it intrinsically is. 
 
 Rather than creating a page inside a "Work" folder, you create an instance of a "Meeting" object. Instead of a "Readings" directory, you create a "Book" object. Both Capacities and Notion are capable of facilitating this object-oriented approach, but they arrive at the solution from fundamentally different architectural philosophies. Understanding these differing philosophies is crucial for selecting the environment where your personal knowledge base will thrive.
 
@@ -29,7 +29,7 @@ To understand which application suits your specific needs, we must first look at
 **Price:** $0-$12/month
 **Rating:** 4.7/5
 
-Capacities is built from the ground up as a "studio for your mind," leveraging a strict object-based architecture. Unlike traditional note-taking apps that rely on nested folders or endless documents, Capacities forces you to define what type of information you are capturing before you capture it. Every piece of content is an object—a Person, a Company, a Book, or a Meeting. This native ontology means the software inherently understands the relationships between different types of data, automatically generating interconnected webs of knowledge, rich context panels, and a visual graph view without requiring the user to architect the underlying database logic.
+Capacities is built from the ground up as a "studio for your mind," leveraging a strict object-based architecture. Unlike traditional note-taking apps that rely on nested folders or endless documents, Capacities forces you to define what type of information you are capturing before you capture it. Every piece of content is an object—a Person, a Company, a Book, or a Meeting. This native ontology means the [software](/posts/best-apps-for-personal-knowledge-management/) inherently understands the relationships between different types of data, automatically generating interconnected webs of knowledge, rich context panels, and a visual graph view without requiring the user to architect the underlying database logic.
 
 **Pros:**
 - Native object-based architecture requires zero backend database setup
@@ -38,7 +38,7 @@ Capacities is built from the ground up as a "studio for your mind," leveraging a
 - Seamless WhatsApp integration for capturing thoughts on the go
 
 **Cons:**
-- Less flexible for non-standard data layouts compared to blank-canvas tools
+- Less flexible for non-standard data layouts compared to blank-canvas [tools](/posts/personal-knowledge-management-tools-comparison/)
 - Primarily focused on single-player mode with limited team collaboration features
 
 ### 2. Notion

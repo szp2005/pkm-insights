@@ -22,7 +22,7 @@ Before implementing solutions, it is crucial to understand why digital overload 
 Information overload manifests in three distinct ways:
 
 1.  **Input Overload:** The sheer volume of raw data (emails, Slack messages, social media feeds) exceeding processing capacity.
-2.  **Context Switching:** The cognitive penalty incurred when rapidly shifting attention between disparate tools and tasks. Research indicates it can take up to 23 minutes to fully regain deep focus after an interruption.
+2.  **Context Switching:** The cognitive penalty incurred when rapidly shifting attention between disparate [tools](/posts/personal-knowledge-management-tools-comparison/) and tasks. Research indicates it can take up to 23 minutes to fully regain deep focus after an interruption.
 3.  **Information Entropy:** The chaos of disorganized data scattered across multiple platforms, making retrieval difficult and causing anxiety about lost knowledge.
 
 To combat this, we must shift from being passive consumers of information to intentional architects of our digital ecosystems.
@@ -49,7 +49,7 @@ Be merciless. Use tools to bulk-unsubscribe from newsletters you haven't opened 
 Just as athletes carefully curate their physical diets, knowledge workers must curate their information diets. Unrestricted access to real-time data is the enemy of deep work.
 
 ### Embrace Asynchronous Communication
-The expectation of immediate responsiveness is a primary driver of overload. Transition your workflows toward asynchronous communication wherever possible. Set clear expectations with colleagues about your response times. For instance, communicate that you check email twice a day, rather than maintaining an open tab all day.
+The expectation of immediate responsiveness is a primary driver of overload. Transition your [workflows](/posts/getting-things-done-for-knowledge-workers/) toward asynchronous communication wherever possible. Set clear expectations with colleagues about your response times. For instance, communicate that you check email twice a day, rather than maintaining an open tab all day.
 
 ### Batch Processing
 Instead of processing information as it arrives (the "push" model), adopt a "pull" model through batch processing. Allocate specific time blocks in your calendar for handling inputs:
@@ -87,7 +87,7 @@ Change your default relationship with notifications. Instead of allowing all not
 ### Utilizing Focus Modes
 Modern operating systems (macOS, iOS, Windows, Android) offer robust "Focus" or "Do Not Disturb" profiles. Configure these aggressively:
 - **Deep Work Mode:** Allows zero notifications. Only calls from a starred list of emergency contacts can break through.
-- **Reading Mode:** Disables all communication apps, allowing only your e-reader or note-taking apps to function.
+- **Reading Mode:** Disables all communication apps, allowing only your e-reader or [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) apps to function.
 
 ### The Badge App Icon Fallacy
 Turn off the red badge notification icons on your apps, particularly for email and messaging. These badges leverage psychological pressure (the Zeigarnik effect—the human tendency to remember uncompleted tasks) to force you to open the app. Check your applications on your schedule, not when the red dot dictates.

@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** Setting up a family knowledge base for genealogy requires selecting a flexible digital platform (like Obsidian, Notion, or specialized wiki software), defining a standardized naming convention for files, and creating interconnected profiles for individuals, places, and events. This centralized system transforms scattered documents, photos, and DNA results into a searchable, permanent archive that protects against data loss and vendor lock-in.
 
-Genealogy research often starts as a small collection of names and dates on a notepad, but it rapidly scales into thousands of disparate files. Within a few months of research, you accumulate census records, birth and death certificates, DNA match data, oral history transcripts, and fragile historical photographs. Without a robust structural foundation, this invaluable information becomes fragmented. It scatters across desktop folders, disparate cloud drives, physical binders, and proprietary commercial genealogy websites. 
+Genealogy [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) often starts as a small collection of names and dates on a notepad, but it rapidly scales into thousands of disparate files. Within a few months of research, you accumulate census records, birth and death certificates, DNA match data, oral history transcripts, and fragile historical photographs. Without a robust structural foundation, this invaluable information becomes fragmented. It scatters across desktop folders, disparate cloud drives, physical binders, and proprietary commercial genealogy websites. 
 
 When your research is trapped in silos, recognizing patterns or sharing findings with family members becomes nearly impossible. Relying solely on commercial platforms like Ancestry or MyHeritage also introduces risk; if your subscription lapses or the company changes its terms of service, you lose access to the structural connections you spent years building. 
 
@@ -86,7 +86,7 @@ A family history hidden on a single computer serves limited utility. The final s
 If you use a local Markdown tool, you can use site-generation plugins to convert your notes into a static HTML website. This allows you to publish a read-only version of your research that family members can browse on their phones or tablets without needing to install software or register for accounts. 
 
 ### Collaborative Workflows
-If using a cloud platform, set clear permissions. Give read-only access to the broader family, but grant comment or edit access to specific relatives who are actively helping you identify people in unnamed photographs or translating foreign documents. Create a dedicated "Inbox" or "Needs Identification" board where family members can review unknown photos and leave their insights.
+If using a cloud platform, set clear permissions. Give read-only access to the broader family, but grant comment or edit access to specific relatives who are actively helping you identify people in unnamed photographs or translating foreign documents. Create a dedicated "Inbox" or "Needs Identification" board where family members can [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) unknown photos and leave their insights.
 
 ## Practical Advice for Long-Term Preservation
 
@@ -99,7 +99,7 @@ Building a family knowledge base is an investment of hundreds of hours. Protecti
 
 ## Conclusion
 
-Setting up a family knowledge base for genealogy transforms you from a passive collector of documents into an active curator of your family's history. By moving away from restrictive, platform-dependent tree builders and adopting flexible [knowledge management](/posts/knowledge-management-strategies-for-students/) tools, you gain total control over how your research is organized, analyzed, and preserved. Whether you choose the privacy of local Markdown files or the collaborative power of a cloud database, a centralized system ensures that the stories of your ancestors survive the test of time, intact and easily accessible.
+Setting up a family knowledge base for genealogy transforms you from a passive collector of documents into an active curator of your family's history. By moving away from restrictive, platform-dependent tree builders and adopting flexible [knowledge management](/posts/knowledge-management-strategies-for-students/) tools, you gain total control over how your research is organized, analyzed, and preserved. Whether you choose the [privacy](/posts/anytype-review-local-first-privacy-lovers/) of local Markdown files or the collaborative power of a cloud database, a centralized system ensures that the stories of your ancestors survive the test of time, intact and easily accessible.
 
 ## Frequently Asked Questions
 

@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Tana API enables programmatic access to your workspace via RESTful endpoints, allowing developers to manipulate nodes, apply supertags, and trigger complex automations. You will need a workspace-specific API token to authenticate requests and interact with core data structures securely.
 
-For engineering teams and independent developers, the true power of a [knowledge management](/posts/knowledge-management-strategies-for-students/) system lies in its extensibility. While Tana offers an unparalleled visual interface for ontological mapping, manual data entry simply does not scale for enterprise workflows or complex [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) pipelines. As organizations increasingly adopt node-based graph databases for daily operations, programmatically controlling that data becomes essential. 
+For engineering teams and independent developers, the true power of a [knowledge management](/posts/knowledge-management-strategies-for-students/) system lies in its extensibility. While Tana offers an unparalleled visual interface for ontological mapping, manual data entry simply does not scale for enterprise [workflows](/posts/getting-things-done-for-knowledge-workers/) or complex [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) pipelines. As organizations increasingly adopt node-based graph databases for daily operations, programmatically controlling that data becomes essential. 
 
 The Tana Input API bridges this gap, transforming a standalone workspace into a deeply integrated component of your broader tech stack. Whether you are piping in bug reports from GitHub, syncing calendar events, or pushing AI-processed summaries back into your graph, the API is the critical infrastructure making these workflows possible.
 
@@ -23,7 +23,7 @@ This integration guide breaks down the architecture of the Tana API, providing p
 
 ## Understanding the Tana API Architecture
 
-Before writing integration code, it is critical to understand how Tana structures data. Unlike traditional relational databases or flat document stores, Tana operates entirely on a graph-based node structure enhanced by metadata overlays called supertags.
+Before [writing](/posts/atomic-notes-writing-guide/) integration code, it is critical to understand how Tana structures data. Unlike traditional relational databases or flat document stores, Tana operates entirely on a graph-based node structure enhanced by metadata overlays called supertags.
 
 ### Nodes as the Core Primitive
 
@@ -127,7 +127,7 @@ Always implement comprehensive logging. When an API call to Tana fails silently,
 
 ## Conclusion
 
-The Tana API empowers developers to transform a static knowledge base into a dynamic, automated operating system. By mastering token authentication, payload construction, and bidirectional webhook communication, you can integrate Tana into virtually any [software](/posts/best-apps-for-personal-knowledge-management/) stack. Focus on building resilient logic that respects rate limits, handles errors gracefully, and leverages batch operations. With these principles applied, the Tana API transitions from a simple input mechanism into a robust engine for complex workflow automation.
+The Tana API empowers developers to transform a static knowledge base into a dynamic, automated operating system. By mastering token authentication, payload construction, and bidirectional webhook communication, you can integrate Tana into virtually any [software](/posts/best-apps-for-personal-knowledge-management/) stack. [Focus](/posts/managing-digital-information-overload-tips/) on building resilient logic that respects rate limits, handles errors gracefully, and leverages batch operations. With these principles applied, the Tana API transitions from a simple input mechanism into a robust engine for complex workflow automation.
 
 ## Frequently Asked Questions
 

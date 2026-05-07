@@ -44,7 +44,7 @@ When configuring your master database, assign the following property types to en
 
 *   **Asset Name (Title):** A clear, standardized name (e.g., `Brand_Logo_Primary_Dark.svg`).
 *   **File (Files & Media):** The actual uploaded file or an embedded link to an external cloud drive.
-*   **Status (Status):** Set options like `Draft`, `In Review`, `Approved`, and `Archived`.
+*   **Status (Status):** Set options like `Draft`, `In [Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/)`, `Approved`, and `Archived`.
 *   **Asset Type (Select):** Broad categories like `Image`, `Video`, `Audio`, `Document`, `Vector`.
 *   **Format (Select):** Specific file extensions like `PNG`, `MP4`, `SVG`, `PDF`.
 *   **Tags/Keywords (Multi-Select):** Descriptive words for searchability (e.g., `Summer`, `Campaign`, `Headshot`).
@@ -92,7 +92,7 @@ Using [tools](/posts/personal-knowledge-management-tools-comparison/) like Make 
 
 ## The Reality of Using Notion as a DAM
 
-Using a template for organizing digital assets in Notion provides unmatched flexibility. You dictate the metadata, you control the views, and the system lives exactly where your project management and documentation already exist. 
+Using a template for organizing digital assets in Notion provides unmatched flexibility. You dictate the metadata, you control the views, and the system lives exactly where your [project management](/posts/tana-supertags-for-project-managers-download/) and [documentation](/posts/self-healing-knowledge-base-principles/) already exist. 
 
 However, it is vital to acknowledge the tradeoffs. Dedicated DAM [software](/posts/best-apps-for-personal-knowledge-management/) often features automatic metadata extraction (reading EXIF data from photos), AI-powered auto-tagging, and direct integrations with Adobe Creative Cloud. Notion requires manual data entry for tags and properties. If you process hundreds of new photographs daily, Notion's manual tagging will become a bottleneck. If you manage curated sets of final deliverables, marketing collateral, and brand assets, Notion's relational structure offers a vastly superior organizational experience compared to a standard folder hierarchy.
 

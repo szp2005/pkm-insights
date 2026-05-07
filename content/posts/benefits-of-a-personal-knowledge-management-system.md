@@ -12,13 +12,13 @@ type: "informational"
 
 In an era defined by an unprecedented deluge of information, our cognitive limits are constantly tested. We consume podcasts at 2x speed, skim dozens of articles daily, read insightful books, and attend myriad meetings. Yet, weeks or even days later, the residual knowledge we retain is frustratingly minimal. We are suffering from an acute case of digital amnesia. 
 
-The antidote to this modern affliction is the adoption of a Personal Knowledge Management (PKM) system. A PKM is not merely a digital filing cabinet or a glorified list of bookmarks. It is a deliberate, structured approach to capturing, refining, and utilizing the information you encounter. It is a dynamic "Second Brain" that works in tandem with your biological mind. 
+The antidote to this modern affliction is the adoption of a Personal Knowledge Management (PKM) system. A PKM is not merely a digital filing cabinet or a glorified list of bookmarks. It is a deliberate, structured approach to capturing, refining, and utilizing the information you encounter. It is a dynamic "[Second Brain](/posts/personal-knowledge-management-tools-comparison/)" that works in tandem with your biological mind. 
 
 Whether you are an academic researcher, a software engineer, a creative writer, or an entrepreneur, implementing a robust PKM system will fundamentally alter how you interact with information. The transition from a passive consumer to an active synthesizer of knowledge yields compounding returns. Below, we explore the profound, multifaceted benefits of developing a Personal Knowledge Management system and provide actionable advice on how to leverage them.
 
 ## 1. Conquering Information Overload and Cognitive Fatigue
 
-The human brain is a marvel of evolutionary engineering, but it was designed to process the sensory inputs of the immediate environment, not the firehose of global digital media. Cognitive psychology dictates that our "working memory"—the mental scratchpad we use to hold information currently in use—can only juggle a handful of distinct items at any given moment.
+The human brain is a marvel of evolutionary engineering, but it was designed to process the sensory inputs of the immediate environment, not the firehose of global digital media. Cognitive psychology dictates that our "working [memory](/posts/how-to-remember-what-you-read-effectively/)"—the mental scratchpad we use to hold information currently in use—can only juggle a handful of distinct items at any given moment.
 
 When we attempt to remember every insightful quote, project deadline, and strategic idea without an external system, we suffer from "cognitive load." This invisible weight saps our mental energy, leads to decision fatigue, and increases baseline anxiety. The feeling of "I know I read about this somewhere" is the symptom; cognitive overload is the disease.
 
@@ -71,7 +71,7 @@ Financial capital compounds through interest; intellectual capital compounds thr
 A well-maintained PKM ensures that every book read, every problem solved, and every insight gained becomes a permanent asset. A note taken in 2026 will still be searchable, linkable, and useful in 2036. 
 
 ### Building a Legacy of Thought
-Over decades, your PKM transitions from a simple note-taking tool into a comprehensive map of your intellectual journey. It becomes a deeply personal, localized search engine tailored exactly to your interests and expertise. The larger the database grows, the more valuable it becomes, as the potential for unexpected connections scales exponentially with the number of nodes in your network.
+Over decades, your PKM transitions from a simple [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) tool into a comprehensive map of your intellectual journey. It becomes a deeply personal, localized search engine tailored exactly to your interests and expertise. The larger the database grows, the more valuable it becomes, as the potential for unexpected connections scales exponentially with the number of nodes in your network.
 
 **Practical Advice:**
 Treat your PKM like a digital garden. It requires regular weeding, pruning, and harvesting. Dedicate 30 minutes a week to "Knowledge Gardening." Review orphaned notes, add new links between recent concepts, and refine the titles of your entries so they are easily discoverable by your future self.

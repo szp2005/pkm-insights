@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The progressive summarization workflow for deep research papers involves processing a text multiple times, adding layers of formatting (bolding, highlighting, and executive summaries) at each stage. This method compresses dense academic literature into highly discoverable, easily reviewable notes without losing the original context or critical methodology.
 
-Reading academic literature is notoriously inefficient. Researchers, graduate students, and knowledge workers frequently fall into the trap of spending hours reading a complex paper, only to forget its core arguments and methodology weeks later. When you attempt to revisit the paper for a literature review or project, you find yourself essentially reading it from scratch. The sheer density of peer-reviewed articles demands a systematic approach to knowledge retention.
+Reading academic literature is notoriously inefficient. Researchers, graduate students, and knowledge workers frequently fall into the trap of spending hours reading a complex paper, only to forget its core arguments and methodology weeks later. When you attempt to revisit the paper for a literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) or project, you find yourself essentially reading it from scratch. The sheer density of peer-reviewed articles demands a systematic approach to knowledge retention.
 
 The solution lies in applying Tiago Forte’s concept of progressive summarization specifically to academic literature. This methodology shifts the focus from simply hoarding PDFs to designing your notes for future discoverability. Instead of trying to memorize a 30-page paper on neural networks or behavioral economics, you create a tiered summary that allows your future self to grasp the paper's essence in under two minutes.
 
@@ -83,9 +83,9 @@ Finally, avoid perfectly summarizing papers that have no immediate utility. The 
 
 To execute this workflow effectively, your tooling must support both deep academic reading and flexible text formatting. 
 
-**Zotero + Obsidian integration:** This is widely considered the gold standard for academic PKM. You can read and annotate PDFs directly in Zotero, extracting those highlights (Layer 1) automatically into Obsidian via plugins. Obsidian’s markdown structure makes bolding (Layer 2) and highlighting (Layer 3) frictionless, while its linking capabilities perfectly support Layer 5 integration.
+**Zotero + [Obsidian](/posts/personal-knowledge-management-tools-comparison/) integration:** This is widely considered the gold standard for academic PKM. You can read and annotate PDFs directly in Zotero, extracting those highlights (Layer 1) automatically into Obsidian via plugins. Obsidian’s markdown structure makes bolding (Layer 2) and highlighting (Layer 3) frictionless, while its linking capabilities perfectly support Layer 5 integration.
 
-**Readwise Reader:** For researchers who read across various formats (PDFs, web articles, newsletters), Reader allows you to capture highlights universally. It syncs these highlights directly into note-taking apps like Notion, Roam, or Logseq, providing a clean baseline for Layer 1.
+**Readwise Reader:** For researchers who read across various formats (PDFs, web articles, newsletters), Reader allows you to capture highlights universally. It syncs these highlights directly into note-taking apps like Notion, Roam, or [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), providing a clean baseline for Layer 1.
 
 **Logseq:** This outliner-based tool is excellent for researchers who prefer hierarchical block structures. Its block-referencing capabilities make Layer 5 integration incredibly powerful, allowing you to embed a specific finding from a paper directly into an outline for a new article you are drafting.
 

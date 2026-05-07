@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Building a Second Brain for Fiction Authors: 5-Step Guide
 
-> **Quick Answer:** Building a second brain for fiction authors involves adapting personal knowledge management systems to organize world-building, character bibles, plot outlines, and research into an interconnected digital vault. By using tools like Obsidian or Notion and applying the CODE (Capture, Organize, Distill, Express) methodology, writers can eliminate lost ideas and maintain absolute continuity across complex narratives.
+> **Quick Answer:** Building a second brain for fiction authors involves adapting [personal knowledge management](/posts/digital-decluttering-for-information-overload/) systems to organize world-building, character bibles, plot outlines, and research into an interconnected digital vault. By using tools like [Obsidian](/posts/what-is-personal-knowledge-management/) or Notion and applying the CODE (Capture, Organize, Distill, Express) methodology, writers can eliminate lost ideas and maintain absolute continuity across complex narratives.
 
 Every novelist has experienced the frustration of the lost detail. You are 60,000 words into a draft and suddenly need to remember the exact eye color of a secondary character introduced in chapter two, or the specific political structure of a neighboring kingdom you outlined six months ago. Relying on biological memory for a task as complex as writing a novel inevitably leads to plot holes, continuity errors, and workflow friction. 
 
@@ -125,7 +125,7 @@ Contemporary authors benefit equally from a second brain. Instead of magic syste
 
 ## Related Reading
 
-- [Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide](/posts/zettelkasten-method-for-non-fiction-book-writing/)
+- [[Zettelkasten](/posts/zettelkasten-method-explained/) Method for Non-Fiction Book Writing: 5-Step Guide](/posts/zettelkasten-method-for-non-fiction-book-writing/)
 
 - [Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide](/posts/zettelkasten-method-for-non-fiction-book-writing/)
 

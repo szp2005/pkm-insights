@@ -21,7 +21,7 @@ This comprehensive review dissects the BASB system, evaluating its core componen
 
 At its heart, Building a Second Brain addresses a modern crisis: we consume exponentially more information than we can process or remember. Forte argues that relying on our biological memory to store facts, insights, and tasks is a fundamental misallocation of cognitive resources. The brain, as David Allen famously noted, is for having ideas, not holding them.
 
-BASB proposes creating a centralized digital repository—your "Second Brain"—using note-taking software (like Obsidian, Notion, Apple Notes, or Evernote). This repository acts as an extension of your mind, safeguarding information until you are ready to synthesize it into creative output.
+BASB proposes creating a centralized digital repository—your "Second Brain"—using [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) software (like Obsidian, Notion, Apple Notes, or Evernote). This repository acts as an extension of your mind, safeguarding information until you are ready to synthesize it into creative output.
 
 The brilliance of BASB lies not in the invention of note-taking, but in the systematization of it. Forte provides a structured, actionable workflow to transform raw consumption into tangible creation.
 
@@ -33,7 +33,7 @@ The operational workflow of the Second Brain is encapsulated in the acronym **CO
 
 The first step is establishing a reliable system for capturing information. Forte emphasizes capturing only what truly "resonates"—ideas that spark joy, curiosity, or immediate utility. This is a critical distinction from digital hoarding. 
 
-**Expert Insight:** The success of the Capture phase depends entirely on removing friction. If capturing a quote from a podcast takes more than three clicks, you won't do it. Utilizing quick-capture tools (like Drafts, Readwise, or native OS shortcuts) is essential. However, the requirement to filter strictly by "resonance" requires discipline. It's easy for the capture inbox to become a graveyard of good intentions if regular review habits are not established.
+**Expert Insight:** The success of the Capture phase depends entirely on removing friction. If capturing a quote from a podcast takes more than three clicks, you won't do it. Utilizing quick-capture [tools](/posts/personal-knowledge-management-tools-comparison/) (like Drafts, Readwise, or native OS shortcuts) is essential. However, the requirement to filter strictly by "resonance" requires discipline. It's easy for the capture inbox to become a graveyard of good intentions if regular review habits are not established.
 
 ### 2. Organize: Save for Actionability
 
@@ -119,7 +119,7 @@ Tiago Forte’s *Building a Second Brain* is a landmark contribution to personal
 
 If you constantly feel overwhelmed by information, struggle to locate files you know you saved, or find it difficult to transition from researching a topic to actually producing work, **Building a Second Brain is an essential system to learn.** 
 
-You do not need to follow it dogmatically. The most successful implementations of BASB are those that users adapt to their specific workflows. Adopt the action-oriented philosophy of PARA, build a frictionless capture habit, and remember that the ultimate goal of a Second Brain is not to build a perfect library, but to empower your biological brain to do what it does best: create.
+You do not need to follow it dogmatically. The most successful implementations of BASB are those that users adapt to their specific [workflows](/posts/getting-things-done-for-knowledge-workers/). Adopt the action-oriented philosophy of PARA, build a frictionless capture habit, and remember that the ultimate goal of a Second Brain is not to build a perfect library, but to empower your biological brain to do what it does best: create.
 ```
 
 ## Frequently Asked Questions

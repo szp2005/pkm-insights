@@ -11,7 +11,7 @@ type: "informational"
 
 # Best Second Brain Template for Podcasters in 2026
 
-> **Quick Answer:** The ideal second brain template for podcasters in 2026 integrates guest management, show note outlining, and research clipping into a unified workspace like Notion or [Obsidian](/posts/what-is-personal-knowledge-management/). It replaces scattered Google Docs and bookmark folders with a dedicated pipeline tracking every episode from initial idea to published distribution.
+> **Quick Answer:** The ideal second brain template for podcasters in 2026 integrates guest management, show note outlining, and [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) clipping into a unified workspace like [Notion](/posts/personal-knowledge-management-tools-comparison/) or [Obsidian](/posts/what-is-personal-knowledge-management/). It replaces scattered Google Docs and bookmark folders with a dedicated pipeline tracking every episode from initial idea to published distribution.
 
 Managing a podcast requires juggling multiple moving parts simultaneously. You are researching future topics, coordinating with upcoming guests, recording current episodes, and promoting past ones. Without a centralized system, details slip through the cracks. A guest's bio gets lost in an email thread, or a brilliant interview question thought of during a commute is forgotten by recording time. 
 
@@ -44,7 +44,7 @@ Podcasters consume vast amounts of information—articles, books, and other podc
 
 ## Choosing the Right Platform
 
-The underlying software dictates the structure of your template. In 2026, two platforms dominate the second brain ecosystem for creators, each serving different workflows.
+The underlying software dictates the structure of your template. In 2026, two platforms dominate the second brain ecosystem for creators, each serving different [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 ### Notion: The Relational Powerhouse
 Notion remains the standard for team-based podcasts or creators who prefer highly structured, visual dashboards. 

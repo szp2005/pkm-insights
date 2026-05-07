@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 For visual learners, traditional linear [note-taking](/posts/zettelkasten-method-explained/) apps often feel like a straightjacket. Trying to force complex, interconnected ideas into top-down folders and sequential text files strips away the spatial context that makes the information meaningful. When you need to see the forest and the trees simultaneously, the choice often narrows down to two heavyweights in the [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) space: Logseq vs Heptabase. 
 
-Both tools recognize that thinking is non-linear, but they approach the solution from fundamentally different starting points. Logseq builds outward from an outliner and daily journal, adding visual tools as an extension of its core text-based graph. Heptabase, conversely, treats the visual whiteboard itself as the foundational operating system for your knowledge.
+Both [tools](/posts/personal-knowledge-management-tools-comparison/) recognize that thinking is non-linear, but they approach the solution from fundamentally different starting points. Logseq builds outward from an outliner and daily journal, adding visual tools as an extension of its core text-based graph. Heptabase, conversely, treats the visual whiteboard itself as the foundational operating system for your knowledge.
 
 Choosing the right platform determines whether you spend your time wrestling with the interface or entering a state of flow. This guide breaks down exactly how these two tools compare for spatial thinkers, researchers, and project managers trying to map out their digital brains.
 
@@ -50,7 +50,7 @@ The platform uses a proprietary sync engine, which ensures smooth performance ev
 **Price:** Free (Sync is $5/month)
 **Rating:** 4.6/5
 
-Logseq is a local-first, privacy-centric outliner that operates entirely on standard Markdown text files. Its core philosophy revolves around the daily journal and block-level referencing. Every bullet point is an atomic node that can be embedded or linked anywhere else. While Logseq is primarily a text-based outliner, it features a robust Whiteboard function that allows you to pull blocks, pages, and external media onto a spatial canvas.
+Logseq is a [local-first](/posts/anytype-review-local-first-privacy-lovers/), privacy-centric outliner that operates entirely on standard Markdown text files. Its core philosophy revolves around the daily journal and block-level referencing. Every bullet point is an atomic node that can be embedded or linked anywhere else. While Logseq is primarily a text-based outliner, it features a robust Whiteboard function that allows you to pull blocks, pages, and external media onto a spatial canvas.
 
 Because Logseq uses local Markdown files, you have total ownership over your data without vendor lock-in. It heavily appeals to developers, privacy advocates, and outliners who want the flexibility of a visual whiteboard without sacrificing the structured, query-driven power of a text-first database.
 
@@ -133,7 +133,7 @@ Yes, Logseq is designed to be entirely offline and local-first. You do not need 
 Yes, the text editor inside Heptabase cards supports standard Markdown formatting for headers, bolding, and lists. You can easily export your entire Heptabase workspace into Markdown files, ensuring you are never permanently locked out of your raw text data.
 
 ### Can I import my Obsidian or Logseq vault into Heptabase?
-Yes, Heptabase has a dedicated import feature that allows you to bring in Markdown files from other tools like Obsidian and Logseq. However, because bidirectional links and block references function slightly differently across platforms, some manual visual organization is usually required after the import is complete.
+Yes, Heptabase has a dedicated import feature that allows you to bring in Markdown files from other tools like Obsidian and Logseq. However, because bidirectional links and block references function slightly differently across platforms, some manual visual [organization](/posts/steps-to-building-a-second-brain/) is usually required after the import is complete.
 
 ### Are Heptabase whiteboards infinite?
 Yes, the whiteboards in Heptabase operate on an infinite canvas model. You can zoom in and out endlessly and pan in any direction, allowing you to map out massive, complex projects without ever running out of screen real estate.

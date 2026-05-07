@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Logseq Whiteboards for Visual Knowledge Mapping: A Complete Guide
 
-> **Quick Answer:** Logseq whiteboards enable visual knowledge mapping by allowing you to drag and drop existing networked notes (blocks and pages) onto an infinite spatial canvas. This hybrid approach combines the power of structured, bidirectional database links with free-form spatial organization, helping you uncover hidden connections, outline complex projects, and process dense information visually.
+> **Quick Answer:** Logseq whiteboards enable visual knowledge mapping by allowing you to drag and drop existing networked notes (blocks and pages) onto an infinite spatial canvas. This hybrid approach combines the power of structured, bidirectional database links with free-form spatial [organization](/posts/steps-to-building-a-second-brain/), helping you uncover hidden connections, outline complex projects, and process dense information visually.
 
 Linear [note-taking](/posts/zettelkasten-method-explained/) is highly efficient for capturing information chronologically, but it frequently fails when you need to synthesize complex, multi-layered concepts. Human cognition is inherently spatial. We understand relationships better when we can see them mapped out in two dimensions, moving ideas around until the structure makes sense. This cognitive bottleneck is exactly where visual knowledge mapping excels.
 
-For users of networked thought tools, transitioning from text-based linking to a spatial environment has historically meant copying text into a separate mind-mapping application. This fragmented the workflow and severed the dynamic links between underlying concepts. The introduction and continuous refinement of Logseq whiteboards has fundamentally resolved this issue. By integrating an infinite canvas directly into the outliner database, Logseq allows your notes to exist simultaneously as structured lists and spatial objects.
+For users of networked thought [tools](/posts/personal-knowledge-management-tools-comparison/), transitioning from text-based linking to a spatial environment has historically meant copying text into a separate mind-mapping application. This fragmented the workflow and severed the dynamic links between underlying concepts. The introduction and continuous refinement of Logseq whiteboards has fundamentally resolved this issue. By integrating an infinite canvas directly into the outliner database, Logseq allows your notes to exist simultaneously as structured lists and spatial objects.
 
 This guide explores the mechanics and methodologies of using Logseq whiteboards for visual knowledge mapping, providing a structured approach to leveraging spatial thinking for research, project management, and creative synthesis.
 
@@ -65,7 +65,7 @@ Logseq allows you to embed live queries directly onto a whiteboard. If you are t
 
 ## Advanced Techniques for Visual Knowledge Mapping
 
-Once the basic mechanics are mastered, you can apply visual knowledge mapping to complex, demanding workflows.
+Once the basic mechanics are mastered, you can apply visual knowledge mapping to complex, demanding [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 ### Mind Mapping and Concept Trees
 
@@ -117,6 +117,8 @@ While Logseq can handle hundreds of objects on a single canvas, extremely dense 
 ---
 
 ## Related Reading
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
 
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
 

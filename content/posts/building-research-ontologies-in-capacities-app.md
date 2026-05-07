@@ -74,7 +74,7 @@ An ontology is only as useful as the data within it. The friction of adding new 
 ### Handling Daily Notes and Fleeting Thoughts
 Not every piece of information belongs in your formal ontology immediately. Capacities uses a Daily Note structure as a staging ground. 
 
-When you encounter an interesting quote or have a sudden realization, log it on the Daily Note without worrying about its final destination. During a weekly review, you can transform these generic blocks into specific objects (e.g., turning a bullet point into a `Concept` object) and link them appropriately. This separates the act of capturing from the act of structuring.
+When you encounter an interesting quote or have a sudden realization, log it on the Daily Note without worrying about its final destination. During a weekly [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/), you can transform these generic blocks into specific objects (e.g., turning a bullet point into a `Concept` object) and link them appropriately. This separates the act of capturing from the act of structuring.
 
 ### Web Clipping and External Integrations
 For robust research, manual data entry is unsustainable. Use the Capacities web clipper or mobile integration (via Telegram or WhatsApp) to send articles, tweets, and images directly into your workspace. 
@@ -108,12 +108,12 @@ Even the best-designed ontology requires maintenance. Without regular pruning an
 Do not try to map your entire research domain on day one. Start with three object types (e.g., Source, Person, Concept) and use them for a week. Notice where you experience friction. Are you trying to force a methodology into a `Concept` object when it really needs its own `Framework` object type? Adjust your schema based on actual usage, not theoretical perfection.
 
 ### The Two-Minute Linking Rule
-When creating a new object, spend a maximum of two minutes linking it to existing objects. If you read a new article on machine learning, immediately link it to the author, the core concepts discussed, and any related projects. If you cannot find the relevant links within two minutes, create the object anyway and rely on full-text search later. The goal is adequate connection, not exhaustive indexing.
+When creating a new object, spend a maximum of two minutes linking it to existing objects. If you read a new article on machine [learning](/posts/how-to-remember-what-you-read-effectively/), immediately link it to the author, the core concepts discussed, and any related projects. If you cannot find the relevant links within two minutes, create the object anyway and rely on full-text search later. The goal is adequate connection, not exhaustive indexing.
 
 ### Distinguish Between Tags and Objects
 A common mistake when building research ontologies is confusing tags with objects. 
 
-**Use Objects for entities that have their own properties and notes.** "Artificial Intelligence" should be a `Concept` object because you will want to write notes about it, define it, and link sources to it.
+**Use Objects for entities that have their own properties and notes.** "[Artificial Intelligence](/posts/self-healing-knowledge-base-principles/)" should be a `Concept` object because you will want to write notes about it, define it, and link sources to it.
 
 **Use Tags for status, context, or workflow states.** "#review_later", "#high_priority", or "#needs_citation" are tags. They describe the state of the information, not the information itself. Mixing these up leads to cluttered graphs and confusing property fields.
 
@@ -137,3 +137,9 @@ It depends on your technical preference. Capacities provides a structured, out-o
 
 ### Do I need to fill out every property when creating a new object?
 No. Properties should serve as prompts, not mandatory forms. Fill out the properties that are immediately useful for future retrieval (like Author or Date) and leave the rest blank. You can always enrich the metadata later as the object becomes more central to your research.
+
+---
+
+## Related Reading
+
+- [Structuring Obsidian Folders for Academic Writing: 5-Step System](/posts/structuring-obsidian-folders-for-academic-writing/)

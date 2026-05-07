@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The fastest way to optimize Tana for project management is to import a pre-configured workspace. Our downloadable PM Supertag bundle includes `#project`, `#task`, `#meeting`, and `#person` tags, complete with inherited fields for status, priority, and deadlines, instantly transforming your daily node structure into a functional project management dashboard.
 
-Managing multiple projects across distributed teams requires a system that handles both granular task details and high-level portfolio overviews. Traditional project management tools often force you into rigid hierarchies, while unstructured [note-taking](/posts/zettelkasten-method-explained/) apps leave you searching for lost action items. Tana bridges this gap through its unique database-in-a-node architecture, specifically driven by Supertags.
+Managing multiple projects across distributed teams requires a system that handles both granular task details and high-level portfolio overviews. Traditional project management [tools](/posts/personal-knowledge-management-tools-comparison/) often force you into rigid hierarchies, while unstructured [note-taking](/posts/zettelkasten-method-explained/) apps leave you searching for lost action items. Tana bridges this gap through its unique database-in-a-node architecture, specifically driven by Supertags.
 
 Setting up a robust schema from scratch, however, takes hours of trial and error. Defining the right fields, setting up the inheritance logic, and ensuring your queries pull the correct data requires a deep understanding of how Tana's ontology works. 
 
@@ -46,7 +46,7 @@ The project tag is the parent container for your initiatives. It serves as the m
 
 ### The `#task` Tag
 
-Tasks are the atomic units of work. This tag is designed to be applied rapidly during meetings or deep-work sessions.
+Tasks are the atomic units of work. This tag is designed to be applied rapidly during meetings or [deep-work](/posts/getting-things-done-for-knowledge-workers/) sessions.
 
 *   **Parent Project:** A relation field linking back to a `#project`.
 *   **Assignee:** Relation field linking to a `#person`.
@@ -134,7 +134,7 @@ Maintaining a clean database requires discipline. Tana will accommodate any data
 
 ## Conclusion
 
-Tana's Supertag system offers an unparalleled level of customization for project managers who find traditional tools too rigid and standard note-taking apps too loose. By downloading and importing a pre-configured schema, you bypass the steep learning curve of database architecture. The combination of `#project`, `#task`, `#meeting`, and `#person` tags provides a foundational ecosystem that captures data organically and surfaces it systematically, allowing you to [focus](/posts/digital-decluttering-for-information-overload/) on managing the work rather than managing the software.
+Tana's Supertag system offers an unparalleled level of customization for project managers who find traditional tools too rigid and standard note-taking apps too loose. By downloading and importing a pre-configured schema, you bypass the steep [learning](/posts/how-to-remember-what-you-read-effectively/) curve of database architecture. The combination of `#project`, `#task`, `#meeting`, and `#person` tags provides a foundational ecosystem that captures data organically and surfaces it systematically, allowing you to [focus](/posts/digital-decluttering-for-information-overload/) on managing the work rather than managing the software.
 
 ## Frequently Asked Questions
 

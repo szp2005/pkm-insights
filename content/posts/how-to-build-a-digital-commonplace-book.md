@@ -25,7 +25,7 @@ A digital commonplace book is a centralized database for your intellectual input
 
 The shift from analog to digital introduces three massive advantages. First, text is infinitely searchable, eliminating the need to remember exactly where you wrote something down. Second, digital platforms allow for ubiquitous capture; you can save an idea from your phone while walking, your tablet while reading, or your desktop while working. Finally, modern [software](/posts/best-apps-for-personal-knowledge-management/) allows for bidirectional linking, meaning an idea saved today can automatically surface alongside related ideas saved three years ago.
 
-However, the ease of digital saving also introduces the "Collector's Fallacy"—the illusion that saving a piece of information is the same as understanding it. A successful digital commonplace book requires more than just dumping links into a folder; it requires a deliberate workflow of capture, organization, and synthesis.
+However, the ease of digital saving also introduces the "Collector's Fallacy"—the illusion that saving a piece of information is the same as understanding it. A successful digital commonplace book requires more than just dumping links into a folder; it requires a deliberate workflow of capture, [organization](/posts/steps-to-building-a-second-brain/), and synthesis.
 
 ## Core Principles of Effective Commonplacing
 
@@ -45,7 +45,7 @@ A commonplace book is a working environment, not an archive. Storing information
 The software market for [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) is saturated. The best tool is the one that aligns with how your brain naturally categorizes information. Broadly, applications fall into three architectural categories.
 
 ### Networked Thinkers (Obsidian, Logseq, Roam Research)
-If you think in webs rather than hierarchies, networked note-taking apps are the ideal choice. These tools rely on bidirectional linking, allowing you to connect thoughts organically without rigid folder structures. 
+If you think in webs rather than hierarchies, networked note-taking apps are the ideal choice. These [tools](/posts/personal-knowledge-management-tools-comparison/) rely on bidirectional linking, allowing you to connect thoughts organically without rigid folder structures. 
 *   **Obsidian** operates on local Markdown files, ensuring you own your data forever. It is highly customizable through community plugins.
 *   **Logseq** is an outliner, meaning every note is a bullet point, which excels at rapid, chronological daily logging.
 *   **Best for:** Writers, researchers, and users who want their notes to surface unexpected connections over time.
@@ -100,7 +100,7 @@ Schedule a weekly review session. Empty your "Inbox" by categorizing new notes, 
 
 ## Common Pitfalls to Avoid
 
-As you build your system, watch out for these frequent traps that derail personal knowledge management workflows.
+As you build your system, watch out for these frequent traps that derail personal knowledge management [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 **Over-Engineering:** Do not spend three weeks configuring plugins, custom CSS, and complex databases before writing a single note. Start with plain text and let the complexity emerge naturally as your database grows and your specific needs become clear.
 

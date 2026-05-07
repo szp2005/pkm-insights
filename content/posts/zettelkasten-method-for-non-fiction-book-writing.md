@@ -94,7 +94,7 @@ The most severe error is the collector's fallacy—the assumption that saving a 
 
 Another frequent mistake is building complex, hierarchical folder structures. A true Zettelkasten relies on links, not folders. Forcing notes into rigid categories (e.g., "Chapter 1," "Chapter 2") limits their utility. A note about behavioral economics might fit perfectly in Chapter 2, but later prove vital for the conclusion. Rely on tags and bidirectional links to maintain fluidity.
 
-Finally, many authors overcomplicate their software setup. Whether you use plain text files, Obsidian, Roam Research, or physical index cards, the tool must disappear into the background. If you spend more time managing plugins and formatting than writing permanent notes, you have lost the plot.
+Finally, many authors overcomplicate their [software](/posts/best-apps-for-personal-knowledge-management/) setup. Whether you use plain text files, [Obsidian](/posts/what-is-personal-knowledge-management/), Roam Research, or physical index cards, the tool must disappear into the background. If you spend more time managing plugins and formatting than writing permanent notes, you have lost the plot.
 
 ## Conclusion
 
@@ -121,9 +121,13 @@ No. Luhmann built his entire system using physical paper slips and wooden cabine
 
 ## Related Reading
 
+- [How to Create a Zettelkasten Index in Obsidian: 5-Step Guide](/posts/how-to-create-a-zettelkasten-index-in-obsidian/)
+
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
 
-- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
+
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
 

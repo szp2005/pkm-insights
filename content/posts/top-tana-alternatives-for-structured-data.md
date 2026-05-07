@@ -25,7 +25,7 @@ If you are looking for systems that handle typed objects, metadata, and relation
 
 Before diving into specific [software](/posts/best-apps-for-personal-knowledge-management/), it is vital to understand what makes Tana unique: the object-based framework. Traditional [note-taking](/posts/zettelkasten-method-explained/) apps rely on folders (hierarchies) or bidirectional links (networks). Object-based apps force you to define *what* a note is (a book, a meeting, a person) and automatically assign structured properties to it. 
 
-When evaluating alternatives, the core requirement is the ability to create templates or "types" that automatically populate with specific fields, while still allowing the fluid linking of those objects across a graph. The tools below excel at this exact paradigm.
+When evaluating alternatives, the core requirement is the ability to create templates or "types" that automatically populate with specific fields, while still allowing the fluid linking of those objects across a graph. The [tools](/posts/personal-knowledge-management-tools-comparison/) below excel at this exact paradigm.
 
 ## Best Tana Alternatives Evaluated
 
@@ -52,7 +52,7 @@ Capacities is arguably the closest spiritual successor to the object-based philo
 **Price:** Free (open-source with paid sync tiers)
 **Rating:** 4.6/5
 
-Anytype is a local-first, peer-to-peer alternative that uses a similar object-and-relation architecture. In Anytype, everything is an Object with a specific Type, and you define Relations between them. Because it runs locally on your machine, it is incredibly fast and highly secure. For users who love the concept of typed nodes but refuse to keep their sensitive data on a remote server, Anytype is the definitive solution.
+Anytype is a [local-first](/posts/anytype-review-local-first-privacy-lovers/), peer-to-peer alternative that uses a similar object-and-relation architecture. In Anytype, everything is an Object with a specific Type, and you define Relations between them. Because it runs locally on your machine, it is incredibly fast and highly secure. For users who love the concept of typed nodes but refuse to keep their sensitive data on a remote server, Anytype is the definitive solution.
 
 **Pros:**
 - Local-first architecture guarantees privacy and speed
@@ -120,7 +120,7 @@ Transitioning from one structured data tool to another is notoriously difficult 
 
 1. **Map Your Ontology First:** Do not start moving data until you have mapped your types on paper. Identify your core objects (e.g., People, Projects, Notes) and the properties they require.
 2. **Flatten Your Outlines:** Tana allows infinite nesting, but tools like Notion or Capacities prefer document-level structures. You will need to decide which nested nodes deserve to become their own standalone objects in the new system.
-3. **Standardize Export Formats:** Export your Tana workspace as JSON. You will likely need a transition script or a tool like Logseq (which handles JSON well) to parse your supertags into standard YAML properties or CSV files before importing them into Anytype or Notion.
+3. **Standardize Export Formats:** Export your Tana workspace as JSON. You will likely need a transition script or a tool like [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) (which handles JSON well) to parse your supertags into standard YAML properties or CSV files before importing them into Anytype or Notion.
 4. **Start Small:** Rebuild your daily logging workflow first. Ensure your daily driver works seamlessly before attempting to migrate massive archives of interconnected data.
 
 ## Conclusion

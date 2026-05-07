@@ -56,7 +56,7 @@ Obsidian has rapidly become the darling of the PKM community, and for good reaso
 - **Local-First Architecture:** Your data lives on your hard drive. This guarantees privacy, offline access, and complete data ownership. You are never locked into a proprietary database format.
 - **Bidirectional Linking and Graph View:** Obsidian visualizes the connections between your notes using a stunning interactive graph, allowing you to see clusters of knowledge.
 - **Unrivaled Extensibility:** The community plugin ecosystem is massive. Whether you need Kanban boards, advanced table functionalities, or integration with task managers, there is likely a plugin for it.
-- **Canvas:** A built-in infinite canvas for spatial reasoning, mind mapping, and visual organization.
+- **Canvas:** A built-in infinite canvas for spatial reasoning, mind mapping, and visual [organization](/posts/steps-to-building-a-second-brain/).
 
 **Expert Advice:** Obsidian is the ultimate tool for developers, researchers, and long-term thinkers who demand complete control over their data. Its learning curve can be steep if you dive deeply into community plugins, but out of the box, it is a fast and responsive Markdown editor. If future-proofing your knowledge is your top priority, Obsidian is the definitive choice.
 
@@ -70,7 +70,7 @@ Notion approaches knowledge management from a completely different angle. Rather
 - **Collaboration First:** Notion thrives in multiplayer mode. It is the best tool on this list for teams, offering robust sharing, commenting, and real-time editing features.
 - **Notion AI:** Deeply integrated AI tools help summarize, write, and ideate directly within your workspace.
 
-**Expert Advice:** Choose Notion if your PKM system needs to seamlessly integrate with your project management, task tracking, and team collaboration. It is less suited for pure, fast, offline note-taking (as it requires an internet connection for full functionality) but is unmatched in its ability to build custom dashboards and relational workflows.
+**Expert Advice:** Choose Notion if your PKM system needs to seamlessly integrate with your project management, task tracking, and team collaboration. It is less suited for pure, fast, offline note-taking (as it requires an internet connection for full functionality) but is unmatched in its ability to build custom dashboards and relational [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 ### 3. Logseq: The Open-Source Outliner
 
@@ -79,7 +79,7 @@ Logseq is a privacy-first, open-source outliner that operates on local plain tex
 **Key Features:**
 - **Block-Level Referencing:** Every bullet point in Logseq is a distinct database entry. You can embed, reference, and query individual bullet points across your entire knowledge base.
 - **Journal-First Workflow:** Logseq encourages you to start your day on a "Daily Note." You jot down tasks, thoughts, and meeting notes chronologically, tagging them as you go. The system automatically routes the information to the correct pages.
-- **Built-in Flashcards (Spaced Repetition):** Logseq natively supports spaced repetition, making it an incredible tool for students and lifelong learners trying to memorize complex subjects.
+- **Built-in [Flashcards](/posts/remnote-vs-logseq-for-medical-students-comparison/) (Spaced Repetition):** Logseq natively supports spaced repetition, making it an incredible tool for students and lifelong learners trying to memorize complex subjects.
 - **PDF Annotation:** You can highlight and annotate PDFs directly within the app, and those highlights become referenceable blocks in your notes.
 
 **Expert Advice:** Logseq is perfect for academics, researchers, and outliners who think in bullet points rather than paragraphs. If you experience friction when deciding "where to put" a note, Logseq’s journal-centric approach eliminates that friction entirely.

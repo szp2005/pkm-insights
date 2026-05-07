@@ -73,7 +73,7 @@ Both tools boast passionate communities, but the way they handle extensibility d
 ### Roam: JavaScript Extensions and Roam Depot
 For a long time, customizing Roam required injecting custom JavaScript and CSS directly into your graph—a powerful but brittle and technically daunting process for average users. 
 
-Roam has since introduced "Roam Depot," a centralized marketplace for community plugins and themes. This has stabilized the ecosystem. Plugins can dramatically alter Roam's functionality, adding everything from Spaced Repetition systems (SRS) to complex task management workflows. However, because Roam is a hosted web app, there are inherent limits to what plugins can interact with on your local machine.
+Roam has since introduced "Roam Depot," a centralized marketplace for community plugins and themes. This has stabilized the ecosystem. Plugins can dramatically alter Roam's functionality, adding everything from [Spaced Repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) systems (SRS) to complex task management [workflows](/posts/getting-things-done-for-knowledge-workers/). However, because Roam is a hosted web app, there are inherent limits to what plugins can interact with on your local machine.
 
 ### Obsidian: The Extensibility Juggernaut
 Obsidian's true superpower is its plugin architecture. Because it runs locally and is built on web technologies (Electron), developers have nearly unfettered access to the application's API. 
@@ -116,7 +116,7 @@ The decision between Roam Research and Obsidian boils down to your specific cogn
 ### Choose Obsidian If:
 1. **You value data privacy and ownership:** If the thought of a startup hosting your private journals makes you uncomfortable, Obsidian's local-first architecture is non-negotiable.
 2. **You are a long-form writer:** If your notes eventually turn into blog posts, essays, scripts, or books, Obsidian's file-based Markdown environment is far superior to an outliner.
-3. **You are a tinkerer:** If you enjoy building bespoke workflows, writing custom queries, and tailoring your software precisely to your needs, Obsidian's plugin ecosystem will be a playground.
+3. **You are a tinkerer:** If you enjoy building bespoke workflows, writing custom queries, and tailoring your [software](/posts/best-apps-for-personal-knowledge-management/) precisely to your needs, Obsidian's plugin ecosystem will be a playground.
 4. **You are cost-conscious:** A free, world-class tool that only charges for convenience features (syncing/publishing) is hard to beat.
 
 *Best suited for: Writers, developers, privacy advocates, students, and system architects who want to build a highly customized 'Second Brain'.*

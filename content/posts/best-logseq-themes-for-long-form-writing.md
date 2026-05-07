@@ -88,7 +88,7 @@ The dark mode is particularly well-executed, utilizing deep, cool greys that pre
 
 Despite the name, the Dev theme is remarkably well-suited for long-form writing, particularly for those who intersperse code, data, or complex formatting within their prose. It uses a monospaced-inspired aesthetic but applies it with enough refinement that standard prose remains highly readable.
 
-The Dev theme excels in its structural clarity. It makes block references, tags, and page links distinct without being glaring. If your long-form writing involves heavy research linking or technical documentation, this theme ensures your formatting never gets lost in a wall of text.
+The Dev theme excels in its structural clarity. It makes block references, tags, and page links distinct without being glaring. If your long-form writing involves heavy [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) linking or technical documentation, this theme ensures your formatting never gets lost in a wall of text.
 
 **Pros:**
 - Superior formatting for technical content
@@ -124,7 +124,7 @@ For long-form writing, the theme uses rounded UI elements and slightly tighter l
 **Price:** Free
 **Rating:** 4.5/5
 
-The Dracula theme is a ubiquitous presence across developer tools, but its Logseq port is surprisingly effective for creative writing. It uses a specific palette of dark purples, pinks, and cyans that manage to be vibrant without being blinding. 
+The Dracula theme is a ubiquitous presence across developer [tools](/posts/personal-knowledge-management-tools-comparison/), but its Logseq port is surprisingly effective for [creative writing](/posts/bi-directional-linking-for-creative-writing-workflows/). It uses a specific palette of dark purples, pinks, and cyans that manage to be vibrant without being blinding. 
 
 For writers working in low-light environments, Dracula provides a backdrop that is significantly less fatiguing than default dark modes. The bright accent colors make it incredibly easy to spot tags, links, and highlights when reviewing your draft, though the main body text remains a comfortable, readable off-white.
 

@@ -19,7 +19,7 @@ When you first start using Obsidian, the freedom of a folderless, link-based sys
 
 This is the exact problem a Map of Content (MOC) solves. Originating from Nick Milo's Linking Your Thinking framework, an MOC is a structural tool that bridges the gap between rigid folder hierarchies and chaotic, free-flowing backlinks. It provides just enough structure to navigate your knowledge base without restricting your ability to connect disparate ideas.
 
-If you are struggling to find old notes or feeling overwhelmed by the sheer volume of information in your vault, implementing MOCs is the next logical step in your personal knowledge management journey. This guide will walk you through the process of building and maintaining MOCs, specifically tailored for beginners.
+If you are struggling to find old notes or feeling overwhelmed by the sheer volume of information in your vault, implementing MOCs is the next logical step in your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) journey. This guide will walk you through the process of building and maintaining MOCs, specifically tailored for beginners.
 
 ## Understanding the Role of a Map of Content
 
@@ -27,7 +27,7 @@ Before building an MOC, it is necessary to understand how it functions within yo
 
 ### The Problem with Folders and Tags
 
-Folders force a note to live in exactly one place. If you have a note on "The Psychology of Habit Formation," does it go in the `Psychology` folder, the `Productivity` folder, or the `Book Summaries` folder? Folders demand mutually exclusive decisions.
+Folders force a note to live in exactly one place. If you have a note on "The Psychology of Habit Formation," does it go in the `Psychology` folder, the `[Productivity](/posts/zettelkasten-method-explained/)` folder, or the `Book Summaries` folder? Folders demand mutually exclusive decisions.
 
 Tags, on the other hand, apply globally. Tagging fifty notes with `#productivity` creates a massive list of notes, but it provides zero context about how those notes relate to one another.
 
@@ -161,7 +161,7 @@ Set aside 15 minutes once a month to review your vault. Look at your "Orphans" (
 
 ### Use MOCs for Output
 
-MOCs are incredibly effective tools for generating output, such as writing articles, outlining books, or preparing presentations. Because you have already done the work of gathering and structuring related ideas, an MOC functions as an advanced, interactive outline. You can drag and drop links to rearrange the flow of an argument, ensuring you have covered all necessary subtopics before you write a single paragraph of your final draft.
+MOCs are incredibly effective [tools](/posts/personal-knowledge-management-tools-comparison/) for generating output, such as writing articles, outlining books, or preparing presentations. Because you have already done the work of gathering and structuring related ideas, an MOC functions as an advanced, interactive outline. You can drag and drop links to rearrange the flow of an argument, ensuring you have covered all necessary subtopics before you write a single paragraph of your final draft.
 
 ## Conclusion
 

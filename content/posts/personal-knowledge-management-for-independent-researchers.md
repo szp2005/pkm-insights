@@ -19,7 +19,7 @@ Operating outside the structure of a formal academic institution presents a dist
 
 This is where an intentional approach to handling information becomes critical. When you lack external structures, your internal systems must compensate. Relying on scattered desktop folders, disorganized browser bookmarks, and fragmented physical notebooks inevitably leads to duplicated effort, lost insights, and significant friction when it comes time to synthesize your findings into a cohesive output. 
 
-Developing a reliable system allows you to shift cognitive load away from remembering where a specific piece of information is stored, enabling you to focus entirely on analysis and synthesis. A well-constructed framework acts as an external brain, compounding in value over time as distinct pieces of knowledge connect in unexpected ways.
+Developing a reliable system allows you to shift cognitive load away from remembering where a specific piece of information is stored, enabling you to [focus](/posts/digital-decluttering-for-information-overload/) entirely on analysis and synthesis. A well-constructed framework acts as an external brain, compounding in value over time as distinct pieces of knowledge connect in unexpected ways.
 
 ## The Unique Challenges of Independent Research
 
@@ -81,7 +81,7 @@ When you add a paper to Zotero, it automatically retrieves the title, authors, a
 
 Your note-taking app is the engine of your system. For independent researchers prioritizing data longevity, local-first markdown tools are highly recommended. 
 
-Obsidian and Logseq are the current leaders in this space. Both store your notes as plain text markdown files on your local hard drive. This ensures that even if the software ceases to exist in ten years, your notes will remain perfectly readable by any text editor. Both tools support robust bi-directional linking, tagging, and complex querying.
+Obsidian and Logseq are the current leaders in this space. Both store your notes as plain text markdown files on your local hard drive. This ensures that even if the [software](/posts/best-apps-for-personal-knowledge-management/) ceases to exist in ten years, your notes will remain perfectly readable by any text editor. Both tools support robust bi-directional linking, tagging, and complex querying.
 
 ### Reading and Annotation Tools
 
@@ -137,7 +137,7 @@ No. While Zettelkasten is powerful for complex synthesis, a simpler system of we
 Follow the 3-2-1 backup strategy: maintain three copies of your data, on two different media formats, with one copy stored offsite. Practically, this means keeping your local files on your hard drive, utilizing an automated cloud sync (like Dropbox or a Git repository), and running a weekly backup to an external hard drive.
 
 ### Can I migrate my existing notes to a new PKM tool?
-Yes, provided your current notes are in a standard format. If you currently use Evernote or Notion, you will need to use an export tool to convert your data to markdown format first. Once converted to plain markdown, tools like Obsidian or Logseq can read the files immediately without a complex import process.
+Yes, provided your current notes are in a standard format. If you currently use Evernote or [Notion](/posts/what-is-personal-knowledge-management/), you will need to use an export tool to convert your data to markdown format first. Once converted to plain markdown, tools like Obsidian or Logseq can read the files immediately without a complex import process.
 
 ---
 

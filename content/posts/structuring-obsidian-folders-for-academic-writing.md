@@ -1,4 +1,5 @@
 ---
+image: "/og/structuring-obsidian-folders-for-academic-writing.webp"
 title: "Structuring Obsidian Folders for Academic Writing: 5-Step System"
 description: "Learn a proven system for structuring Obsidian folders for academic writing. Organize research, source literature, and drafts to write academic papers efficiently."
 pubDate: "2026-05-07"
@@ -12,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Structuring Obsidian Folders for Academic Writing: 5-Step System
 
-> **Quick Answer:** The most effective approach to structuring Obsidian folders for academic writing uses a hybrid system combining the PARA method with Zettelkasten principles. Create numbered, top-level folders for active papers (`01-Projects`), broad research domains (`02-Areas`), literature notes (`03-Resources`), and a flat slip-box for interconnected ideas (`04-Zettelkasten`), keeping folder depth to a maximum of three levels to reduce cognitive friction.
+> **Quick Answer:** The most effective approach to structuring Obsidian folders for academic writing uses a hybrid system combining the PARA method with [Zettelkasten](/posts/zettelkasten-method-explained/) principles. Create numbered, top-level folders for active papers (`01-Projects`), broad research domains (`02-Areas`), literature notes (`03-Resources`), and a flat slip-box for interconnected ideas (`04-Zettelkasten`), keeping folder depth to a maximum of three levels to reduce cognitive friction.
 
 Transitioning from consuming academic literature to producing original research is a notoriously inefficient process. The traditional academic workflow often involves PDFs scattered across a desktop, highlights trapped inside reference managers, and fragmented ideas lost in endless Word documents. Obsidian offers a powerful alternative by utilizing plain text and bidirectional linking to build a personal knowledge graph. However, because Obsidian provides a completely blank slate upon creation, the lack of an imposed structure can quickly lead to an unnavigable vault.
 
@@ -68,7 +69,7 @@ A highly effective sub-structure for this folder includes:
 
 *   **`03-Resources/Literature Notes`**: Notes generated from reading papers, books, and articles. 
 *   **`03-Resources/Meeting Notes`**: Notes from lab meetings, advisor check-ins, or thesis committees.
-*   **`03-Resources/Methodologies`**: Standard operating procedures, lab protocols, or software manuals.
+*   **`03-Resources/Methodologies`**: Standard operating procedures, lab protocols, or [software](/posts/best-apps-for-personal-knowledge-management/) manuals.
 
 **The Literature Note Protocol:**
 When processing a journal article, do not copy and paste the entire text. Instead, create a single Literature Note named with the citekey (e.g., `@Smith2023_UrbanDynamics`). This note should contain standard frontmatter (authors, year, tags) and your brief, high-level summary of the paper's thesis and methodology. 
@@ -119,7 +120,7 @@ When a specific task arises within an Area—for example, actually writing a spe
 
 ## Practical Advice: Technical Implementations and Limits
 
-To make this structure functional, you must adhere to strict limits regarding folder depth and utilize specific ecosystem tools.
+To make this structure functional, you must adhere to strict limits regarding folder depth and utilize specific ecosystem [tools](/posts/personal-knowledge-management-tools-comparison/).
 
 ### Limit Folder Depth
 A deep folder hierarchy causes cognitive friction. If you have to click through `01-Projects > 2026 > Spring > Papers > Microplastics > Drafts > Final`, you will inevitably stop filing things correctly. Enforce a strict three-level maximum limit. The root folder is level one. `01-Projects` is level two. The specific paper folder (e.g., `Microplastics_Review`) is level three. Drafts and outlines sit directly inside that folder.

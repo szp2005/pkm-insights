@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The core premium features of Tana AI for researchers include unbounded AI commands for automated literature summarization, advanced semantic search across large reference databases, unlimited voice transcription for field notes, and priority access to state-of-the-art language models (like GPT-4o and Claude 3.5 Sonnet). Upgrading unlocks the computing power necessary to process hundreds of academic papers simultaneously without hitting usage caps.
 
-Managing an academic research workflow requires more than just a place to store text. Modern researchers must aggregate hundreds of PDFs, synthesize complex arguments across different domains, track citations, and slowly build a coherent ontology of knowledge. Traditional [note-taking](/posts/zettelkasten-method-explained/) applications often force a choice between rigid databases and unstructured text files, leaving researchers to manually bridge the gap between their reference manager and their drafting environment.
+Managing an academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) workflow requires more than just a place to store text. Modern researchers must aggregate hundreds of PDFs, synthesize complex arguments across different domains, track citations, and slowly build a coherent ontology of knowledge. Traditional [note-taking](/posts/zettelkasten-method-explained/) applications often force a choice between rigid databases and unstructured text files, leaving researchers to manually bridge the gap between their reference manager and their drafting environment.
 
 Tana has emerged as a specialized environment that combines the structural rigor of a database with the fluidity of an outliner. However, the true leverage for academics lies within its AI integrations. While the free tier offers a glimpse into semantic [knowledge management](/posts/knowledge-management-strategies-for-students/), the premium tier transforms the application into an active research assistant.
 
@@ -23,7 +23,7 @@ By integrating large language models directly into the node structure, Tana AI a
 
 ## Advanced Custom AI Commands
 
-The defining feature of Tana's premium offering is the ability to construct, refine, and execute complex custom AI commands without stringent rate limits. In standard workflows, researchers often copy text out of their notes, paste it into an external AI interface like ChatGPT, and copy the result back. Tana eliminates this friction by executing prompts directly on your existing nodes.
+The defining feature of Tana's premium offering is the ability to construct, refine, and execute complex custom AI commands without stringent rate limits. In standard [workflows](/posts/getting-things-done-for-knowledge-workers/), researchers often copy text out of their notes, paste it into an external AI interface like ChatGPT, and copy the result back. Tana eliminates this friction by executing prompts directly on your existing nodes.
 
 ### Automated Literature Processing
 With premium access, you can build multi-step AI commands tailored specifically to academic papers. When you import a new paper, an AI command can automatically execute a sequence:
@@ -106,7 +106,7 @@ While you can supply your own OpenAI or Anthropic API key on lower tiers, the pr
 Yes. You can build a custom AI command that takes a standard `#paper` node containing the author, title, and journal fields, and instructs the language model to format a perfect APA 7th edition or Chicago style citation, outputting it directly into a designated text field.
 
 ### Is my unpublished research data used to train Tana's AI models?
-Tana has established strict data privacy policies, especially for premium and enterprise users. Data processed through their official API integrations with providers like OpenAI is typically excluded from being used for underlying model training, ensuring that your pre-published findings remain confidential. Always verify the current terms of service for specific model routing.
+Tana has established strict data [privacy](/posts/anytype-review-local-first-privacy-lovers/) policies, especially for premium and enterprise users. Data processed through their official API integrations with providers like OpenAI is typically excluded from being used for underlying model training, ensuring that your pre-published findings remain confidential. Always verify the current terms of service for specific model routing.
 
 ---
 

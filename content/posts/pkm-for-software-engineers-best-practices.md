@@ -15,13 +15,13 @@ type: "informational"
 
 As a software engineer, your output is code, but your primary raw material is context. Every day involves navigating shifting requirements, undocumented legacy systems, complex deployment pipelines, and obscure error messages. When an engineer gets stuck, it is rarely because they do not know how to write a loop; it is because they have lost the thread of why a system was designed a certain way six months ago. 
 
-This is where [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) becomes a foundational engineering skill. A reliable PKM system acts as an external brain, capturing the ephemeral context that IDEs and source control systems miss. However, developers face unique challenges that generic note-taking advice fails to address. Engineers deal with proprietary code, require specialized formatting for syntax highlighting and diagrams, and operate under heavy cognitive load where minimizing friction is paramount. 
+This is where [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) becomes a foundational engineering skill. A reliable PKM system acts as an external brain, capturing the ephemeral context that IDEs and source control systems miss. However, developers face unique challenges that generic [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) advice fails to address. Engineers deal with proprietary code, require specialized formatting for syntax highlighting and diagrams, and operate under heavy cognitive load where minimizing friction is paramount. 
 
 Implementing a robust PKM system prevents the repetitive cycle of researching the same obscure API behavior or rewriting the same bash script. It transforms fleeting daily problem-solving into a compounding asset.
 
 ## Why Software Engineers Need a Specialized Approach
 
-Standard [productivity](/posts/zettelkasten-method-explained/) advice often recommends elaborate tagging systems, rigid folder hierarchies, or visually heavy database tools. For software engineers, these approaches typically fail under the pressure of daily development workflows.
+Standard [productivity](/posts/zettelkasten-method-explained/) advice often recommends elaborate tagging systems, rigid folder hierarchies, or visually heavy database tools. For software engineers, these approaches typically fail under the pressure of daily development [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 ### The Context Switching Penalty
 
@@ -137,7 +137,7 @@ Use standard Markdown code fences (e.g., ````javascript`) within dedicated notes
 Yes, it is highly recommended to maintain strict separation. Use a dedicated vault for employer-specific notes, architecture, and daily logs, stored exclusively on your work machine. Use your personal vault for evergreen skills, language learning, and side projects to ensure you don't violate data privacy or intellectual property agreements.
 
 ### How is a personal PKM different from internal wikis like Confluence?
-Confluence and Notion workspaces are designed for team alignment, consensus, and formal documentation. A personal PKM is messy, optimized purely for your individual cognitive style, and designed for speed. Your PKM is where you figure out *how* to solve the problem; the internal wiki is where you document the final solution for the team.
+Confluence and [Notion](/posts/personal-knowledge-management-tools-comparison/) workspaces are designed for team alignment, consensus, and formal documentation. A personal PKM is messy, optimized purely for your individual cognitive style, and designed for speed. Your PKM is where you figure out *how* to solve the problem; the internal wiki is where you document the final solution for the team.
 
 ### Can I use GitHub or a private repo as my primary knowledge base?
 Yes. Storing a folder of Markdown files in a private GitHub repository is a highly effective, version-controlled method for syncing notes across machines. You can edit the files locally with Obsidian or Neovim and push changes at the end of the day, ensuring data ownership and full history tracking.

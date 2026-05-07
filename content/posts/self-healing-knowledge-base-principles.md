@@ -23,7 +23,7 @@ This guide explores the foundational self-healing knowledge base principles requ
 
 To understand the necessity of self-healing principles, it is helpful to look at how knowledge management has evolved. The first generation of digital knowledge bases consisted of flat file systems and basic wikis. These required strict human governance; when a product feature changed, an author had to remember to update the corresponding guide. The second generation introduced better search algorithms and basic templating, but still relied entirely on manual input and scheduled audits to maintain accuracy.
 
-The third generation—the self-healing knowledge base—shifts the paradigm from reactive maintenance to proactive preservation. It treats documentation not as isolated text files, but as a graph of interconnected data points. When an API endpoint changes in a code repository, a self-healing system recognizes that a specific tutorial depends on that endpoint and automatically flags the tutorial for review, or in advanced setups, rewrites the affected code snippet automatically.
+The third generation—the self-healing knowledge base—shifts the paradigm from reactive maintenance to proactive preservation. It treats documentation not as isolated text files, but as a graph of interconnected data points. When an API endpoint changes in a code repository, a self-healing system recognizes that a specific tutorial depends on that endpoint and automatically flags the tutorial for [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/), or in advanced setups, rewrites the affected code snippet automatically.
 
 This evolution is driven by the realization that human attention is too scarce and expensive to be spent on routine documentation audits. By treating knowledge as code and applying software engineering principles—like continuous integration and automated testing—to documentation, organizations can achieve a state where their knowledge base scales infinitely without a proportional increase in maintenance overhead.
 
@@ -35,7 +35,7 @@ Designing a self-healing system requires a fundamental shift in how documentatio
 
 A self-healing system never assumes that existing information remains correct indefinitely. Instead, it employs continuous content validation, constantly checking its internal state against external realities. This principle relies on the concept of "time-to-live" (TTL) for information. Just as caching systems expire old data, a knowledge base should assign a confidence score to documents based on their age, the volatility of their subject matter, and user engagement metrics.
 
-When a document exceeds its TTL or its confidence score drops below a specific threshold, the system initiates a validation protocol. This might involve pinging the original author via Slack or Teams, cross-referencing the text with recent product release notes using an LLM, or deploying an automated survey to the top users of that specific document asking if it still accurately reflects their workflow. 
+When a document exceeds its TTL or its confidence score drops below a specific threshold, the system initiates a validation protocol. This might involve pinging the original author via Slack or Teams, cross-referencing the text with recent product release notes using an LLM, or deploying an automated survey to the top users of that specific document asking if it still accurately reflects their [workflow](/posts/using-the-para-method-in-google-drive/). 
 
 ### Automated Redundancy Resolution
 
@@ -90,7 +90,7 @@ Without this metadata, automated triggers have no framework to operate within.
 
 ### Setting Up Automated Review Triggers
 
-Begin with simple programmatic triggers before moving to complex AI interventions. Implement a script that queries your documentation repository daily. If a document passes its verification interval, the script should automatically create a task in your project management tool (like Jira or Asana) assigning the review to the document's owner.
+Begin with simple programmatic triggers before moving to complex AI interventions. Implement a script that queries your documentation repository daily. If a document passes its verification interval, the script should automatically create a task in your [project management](/posts/tana-supertags-for-project-managers-download/) tool (like Jira or Asana) assigning the review to the document's owner.
 
 If the owner fails to verify the document within 14 days, the system should automatically apply a highly visible banner to the top of the article stating: "Warning: This information has not been verified since [Date] and may be out of date." This protects the user from acting on bad information while simultaneously pressuring the owner to update the content.
 

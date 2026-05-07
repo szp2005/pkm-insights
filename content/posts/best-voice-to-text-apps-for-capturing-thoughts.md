@@ -37,7 +37,7 @@ While cloud-based AI models offer the highest accuracy, relying entirely on a st
 Human thought is rarely linear. When we dictate ideas, we often repeat ourselves, use filler words ("um," "like"), and meander. Modern voice-to-text apps leverage AI (often OpenAI's Whisper model) to clean up the transcript. Instead of a verbatim block of messy text, the best tools remove filler words, add correct punctuation, and can even summarize a three-minute ramble into a concise bulleted list.
 
 ### Seamless Export and Integration
-A captured thought is useless if it dies inside the dictation app. The goal is to move that thought into your task manager, PKM (Personal Knowledge Management) system like Obsidian or Notion, or your daily notes. Apps that support automatic exporting via webhooks, email forwarding, or native integrations with tools like Drafts or Apple Shortcuts hold a significant advantage.
+A captured thought is useless if it dies inside the dictation app. The goal is to move that thought into your task manager, PKM (Personal Knowledge Management) system like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or Notion, or your daily notes. Apps that support automatic exporting via webhooks, email forwarding, or native integrations with tools like Drafts or Apple Shortcuts hold a significant advantage.
 
 ## Top Voice-to-Text Apps for Capturing Thoughts
 
@@ -146,13 +146,13 @@ If your thoughts are brief and speed is everything, you need a tool that activat
 
 If you tend to talk through complex problems, outlining articles or mapping out project architectures while walking or driving, you need an app that acts as an editor. Both Whisper Memos and AudioPen excel here. They take your messy, non-linear rambling and return a structured summary. If you want to keep the raw audio alongside the transcript, Otter.ai is the superior choice.
 
-If you want your voice notes to automatically trigger workflows—such as sending tasks to a specific project board, logging an entry in a daily journal, or appending text to a specific Markdown file—Drafts is the undisputed champion. It requires setup time, but once configured, it turns your voice into an automated command center.
+If you want your voice notes to automatically trigger [workflows](/posts/getting-things-done-for-knowledge-workers/)—such as sending tasks to a specific project board, logging an entry in a daily journal, or appending text to a specific Markdown file—Drafts is the undisputed champion. It requires setup time, but once configured, it turns your voice into an automated command center.
 
 ## Building a Voice Capture Habit
 
 The best app in the world won't help if you don't build the habit of talking out loud to your devices. To effectively integrate voice capture into your routine, focus on reducing friction to zero. Move your chosen app to your phone's dock, assign it to a hardware button, or put a massive widget on your primary home screen. The goal is one-tap access.
 
-Embrace the mess. Do not try to speak perfectly. The advantage of modern AI transcription is that it understands context. Stutter, pause, repeat yourself, and let the software clean it up. Finally, establish a triage routine. Captured thoughts decay quickly. Set aside five minutes at the end of every day to review your voice notes. Move the action items to your task manager and the ideas to your note-taking system. Treat your voice app as an inbox, not a permanent archive.
+Embrace the mess. Do not try to speak perfectly. The advantage of modern AI transcription is that it understands context. Stutter, pause, repeat yourself, and let the [software](/posts/best-apps-for-personal-knowledge-management/) clean it up. Finally, establish a triage routine. Captured thoughts decay quickly. Set aside five minutes at the end of every day to review your voice notes. Move the action items to your task manager and the ideas to your note-taking system. Treat your voice app as an inbox, not a permanent archive.
 
 ## Frequently Asked Questions
 

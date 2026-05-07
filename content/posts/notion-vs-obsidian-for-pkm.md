@@ -9,7 +9,7 @@ tags: ["PKM", "Notion", "Obsidian", "Knowledge Management", "Note-Taking"]
 type: "review"
 ---
 
-> **Quick Answer:** Notion vs Obsidian for PKM matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. A comprehensive, deep-dive comparison between Notion and Obsidian for [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM). Discover which tool aligns with your workflow, data philosophy, and long-term goals.
+> **Quick Answer:** Notion vs [Obsidian](/posts/personal-knowledge-management-tools-comparison/) for PKM matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. A comprehensive, deep-dive comparison between Notion and Obsidian for [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM). Discover which tool aligns with your workflow, data philosophy, and long-term goals.
 
 In the evolving landscape of Personal Knowledge Management (PKM), the debate often crystallizes around two dominant platforms: Notion and Obsidian. Both have amassed passionate followings and feature robust ecosystems, but beneath the surface, they are built upon fundamentally opposed architectural philosophies.
 
@@ -63,11 +63,11 @@ For example, if you are writing about "Artificial Intelligence," you simply type
 Both tools boast massive communities and customization options, but they manifest differently.
 
 ### Notion: Templates and Integrations
-Notion's customization is largely visual and structural. The community has produced thousands of meticulously designed templates for everything from student planners to enterprise CRM systems. Furthermore, Notion features a robust, official API. It integrates beautifully with Zapier, Make, Slack, and Google Drive, making it a powerful hub for automating workflows across different software platforms.
+Notion's customization is largely visual and structural. The community has produced thousands of meticulously designed templates for everything from student planners to enterprise CRM systems. Furthermore, Notion features a robust, official API. It integrates beautifully with Zapier, Make, Slack, and Google Drive, making it a powerful hub for automating workflows across different [software](/posts/best-apps-for-personal-knowledge-management/) platforms.
 
 ### Obsidian: The Wild West of Plugins
 Obsidian's customization is functional and deeply technical. Because it is essentially a Markdown reader, developers have built an astonishing ecosystem of community plugins. 
-Want to run Python scripts directly inside a note? There's a plugin for that. Want to integrate advanced spaced repetition algorithms (like Anki)? There's a plugin for that. Want to turn your notes into a fully functioning Kanban board or draw complex diagrams using Excalidraw? Yes, there are plugins for those too.
+Want to run Python scripts directly inside a note? There's a plugin for that. Want to integrate advanced [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) algorithms (like Anki)? There's a plugin for that. Want to turn your notes into a fully functioning Kanban board or draw complex diagrams using Excalidraw? Yes, there are plugins for those too.
 
 The caveat is that maintaining a heavily customized Obsidian vault can sometimes feel like managing a software project. Plugins can occasionally break with updates, and the learning curve for advanced features (like the powerful `Dataview` plugin, which adds database-like queries to Obsidian) can be steep.
 

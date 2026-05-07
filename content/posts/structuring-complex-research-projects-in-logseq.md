@@ -23,11 +23,11 @@ Successfully structuring complex research projects in Logseq requires a paradigm
 
 ## The Limits of the Daily Journal
 
-The default Logseq workflow encourages writing everything on the Journal page and relying on tags to resurface information later. While excellent for quick capture, this method breaks down under the weight of complex research.
+The default Logseq workflow encourages [writing](/posts/atomic-notes-writing-guide/) everything on the Journal page and relying on tags to resurface information later. While excellent for quick capture, this method breaks down under the weight of complex research.
 
 When you have hundreds of annotations on fifty different PDF sources, tagging a block with `#MyProject` is insufficient. The resulting linked reference section on the `MyProject` page becomes an unreadable, chronological dump of isolated thoughts. You lose the ability to see relationships between arguments, track the status of specific drafts, or isolate open questions from settled conclusions.
 
-To scale up, your research materials must be explicitly categorized. You need distinct areas for raw literature notes, processed synthesis, project management tasks, and final drafting.
+To scale up, your research materials must be explicitly categorized. You need distinct areas for raw literature notes, processed synthesis, [project management](/posts/tana-supertags-for-project-managers-download/) tasks, and final drafting.
 
 ## Establishing Hierarchies with Namespaces
 
@@ -96,7 +96,7 @@ Implementing this system mid-project can be daunting. Follow these concrete step
 1.  **Define the Nomenclature:** Decide on your root namespace (e.g., `Thesis` or `ClientX`). Stick to it rigorously. Do not use abbreviations on some pages and full names on others.
 2.  **Build the Templates:** Create Logseq templates for your Project Dashboard, Literature Notes, and Meeting Notes. Ensure these templates include the standardized properties you established.
 3.  **Log from the Journal, Tag to the Project:** You can still write on the Daily Journal page to maintain momentum. However, when logging a thought related to the project, indent it under a parent block tagged with the specific project namespace (e.g., `[[Project/Name/Drafts]]`). This pushes the block to the correct location while preserving the chronological context of when you wrote it.
-4.  **Review the Dashboard Weekly:** Set aside twenty minutes each week to review the Project Dashboard. Clear out completed tasks, update the status properties on literature notes from `#reading` to `#processed`, and ensure no critical queries are breaking due to typos in your tags.
+4.  **[Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) the Dashboard Weekly:** Set aside twenty minutes each week to review the Project Dashboard. Clear out completed tasks, update the status properties on literature notes from `#reading` to `#processed`, and ensure no critical queries are breaking due to typos in your tags.
 
 ## Conclusion
 

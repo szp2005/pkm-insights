@@ -17,11 +17,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing research effectively means moving beyond rigid folders and scattered text files. Traditional [note-taking](/posts/zettelkasten-method-explained/) apps force you to organize by location, which quickly breaks down when a single source relates to multiple cross-disciplinary projects. Enter Capacities, a tool that has steadily gained traction among academics, analysts, and deep thinkers seeking a more structural approach to their digital brain.
 
-This Capacities review for personal research management examines whether its unique "object-based" approach truly solves the friction of managing complex information. Unlike standard outliners or flat-file Markdown editors, Capacities treats every piece of information as a typed object. We will break down how this works in practice, where it shines, and where it falls short for heavy research workflows.
+This Capacities review for personal research management examines whether its unique "object-based" approach truly solves the friction of managing complex information. Unlike standard outliners or flat-file Markdown editors, Capacities treats every piece of information as a typed object. We will break down how this works in practice, where it shines, and where it falls short for heavy research [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 ## The Object-Based Architecture Explained
 
-Traditional [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tools typically use either hierarchical folders (Evernote) or a flat network of interlinked Markdown files (Obsidian, Roam). Capacities takes a different route, heavily inspired by object-oriented programming and databases.
+Traditional [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) [tools](/posts/personal-knowledge-management-tools-comparison/) typically use either hierarchical folders (Evernote) or a flat network of interlinked Markdown files (Obsidian, Roam). Capacities takes a different route, heavily inspired by object-oriented programming and databases.
 
 In Capacities, you define "Objects." If you are writing a literature review, you might create an object type called "Paper." Every time you add a new paper, Capacities prompts you to fill out specific properties for that object type: author, publication year, DOI, and a short summary.
 
@@ -129,7 +129,7 @@ Use tags for cross-cutting themes (e.g., `#urgent` or `#to-read`) rather than cr
 
 ## Conclusion
 
-For personal research management, Capacities occupies a highly effective middle ground. It provides the structured properties and organization of Notion with the frictionless daily notes and networked linking of Roam or Obsidian. If you find traditional markdown tools too technical and enterprise database tools too rigid, Capacities offers an elegant, powerful solution that natively understands the difference between a passing thought, an academic author, and a peer-reviewed paper.
+For personal research management, Capacities occupies a highly effective middle ground. It provides the structured properties and [organization](/posts/steps-to-building-a-second-brain/) of Notion with the frictionless daily notes and networked linking of Roam or Obsidian. If you find traditional markdown tools too technical and enterprise database tools too rigid, Capacities offers an elegant, powerful solution that natively understands the difference between a passing thought, an academic author, and a peer-reviewed paper.
 
 ## Frequently Asked Questions
 

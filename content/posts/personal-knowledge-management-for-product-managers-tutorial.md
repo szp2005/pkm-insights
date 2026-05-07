@@ -57,7 +57,7 @@ Create a core set of templates tailored to your regular outputs. The most critic
 
 **The User Interview Template:** Every interview note must capture the user's metadata (segment, company size), the core problem discussed, specific feature requests mentioned, and direct quotes. Crucially, it must include a section for "Linked Entities"—forcing you to link the interview to existing product areas or known bugs in your system.
 
-**The PRD (Product Requirements Document) Template:** While your official PRD might live in Confluence or Notion for the engineering team, your PKM should hold the generative draft. The template should prompt you for the problem statement, target audience, technical constraints, and out-of-scope items. 
+**The PRD (Product Requirements Document) Template:** While your official PRD might live in Confluence or [Notion](/posts/personal-knowledge-management-tools-comparison/) for the engineering team, your PKM should hold the generative draft. The template should prompt you for the problem statement, target audience, technical constraints, and out-of-scope items. 
 
 **The Decision Log Template:** Product managers make dozens of micro-decisions weekly. A lightweight template documenting the context of a decision, the options considered, and the rationale for the final choice is invaluable when a stakeholder questions a path taken three months ago.
 
@@ -85,7 +85,7 @@ This weekly habit is non-negotiable. It is the mechanism that upgrades raw data 
 
 ## Practical Advice: Tool Stack and Setup Constraints
 
-Selecting the software to run your PKM system is a common stumbling block. Avoid the trap of endlessly migrating between tools in search of the perfect feature set. The methodology matters far more than the software. However, for a PM, certain features are mandatory.
+Selecting the [software](/posts/best-apps-for-personal-knowledge-management/) to run your PKM system is a common stumbling block. Avoid the trap of endlessly migrating between tools in search of the perfect feature set. The methodology matters far more than the software. However, for a PM, certain features are mandatory.
 
 Your tool must support frictionless bidirectional linking, robust offline access (for flights or spotty office Wi-Fi), and high-speed global search. 
 
@@ -95,7 +95,7 @@ If you prioritize speed, local storage, and high customization, [Obsidian](/post
 
 If your role requires heavy collaboration, visual database management, and structured tables, Notion provides a more rigid but highly capable environment. It allows you to build relational databases to track user research against product features, though it lacks the fluid, text-first linking speed of local markdown tools.
 
-If you prefer a networked thought approach with minimal structural overhead, Roam Research or Logseq offer out-of-the-box daily journal interfaces that naturally encourage bidirectional linking without the need to maintain complex folder hierarchies.
+If you prefer a networked thought approach with minimal structural overhead, Roam Research or [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) offer out-of-the-box daily journal interfaces that naturally encourage bidirectional linking without the need to maintain complex folder hierarchies.
 
 Regardless of the tool, adhere to these constraints: Keep formatting minimal. Rely on text, links, and simple bullet points. The moment you start embedding complex widgets, formatting tables heavily, or worrying about aesthetics, you are degrading the system's efficiency. [Focus](/posts/digital-decluttering-for-information-overload/) entirely on the rapid capture and retrieval of information.
 

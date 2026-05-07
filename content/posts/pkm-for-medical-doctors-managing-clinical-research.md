@@ -31,12 +31,12 @@ Zotero is currently the industry standard for this workflow. Unlike proprietary 
 ### Linked Note-Taking Applications
 The actual knowledge synthesis occurs in the note-taking application. Hierarchical, folder-based apps (like Evernote or OneNote) force information into silos. Medical knowledge, however, is deeply interconnected; a specific biochemical pathway relates to a pathology, which relates to a pharmacology class, which in turn relates to a specific clinical trial.
 
-Networked thought tools—specifically Obsidian and Logseq—utilize bidirectional linking to map these relationships. Obsidian operates on a local directory of plain Markdown files, ensuring that your research notes are future-proof and never locked behind a proprietary cloud subscription. When you take a note on a new randomized controlled trial (RCT), you can instantly link it to existing notes on the disease state, the intervention, and the primary investigator.
+Networked thought tools—specifically Obsidian and [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/)—utilize bidirectional linking to map these relationships. Obsidian operates on a local directory of plain Markdown files, ensuring that your research notes are future-proof and never locked behind a proprietary cloud subscription. When you take a note on a new randomized controlled trial (RCT), you can instantly link it to existing notes on the disease state, the intervention, and the primary investigator.
 
 ### Data Security and Regulatory Compliance
 For medical doctors, data security is not optional. HIPAA (in the US), GDPR (in Europe), and institutional data governance policies dictate how clinical data must be handled. 
 
-A fundamental rule of the clinical PKM: **Your PKM is not an EHR.** Protected Health Information (PHI) must never enter your PKM environment unless it has been rigorously de-identified according to IRB protocols and the software environment explicitly supports HIPAA compliance via a Business Associate Agreement (BAA). 
+A fundamental rule of the clinical PKM: **Your PKM is not an EHR.** Protected Health Information (PHI) must never enter your PKM environment unless it has been rigorously de-identified according to IRB protocols and the [software](/posts/best-apps-for-personal-knowledge-management/) environment explicitly supports HIPAA compliance via a Business Associate Agreement (BAA). 
 
 This is another reason local-first tools like Obsidian are preferred by medical researchers. Because the files live directly on your device's hard drive—rather than on third-party cloud servers—you maintain total control over data residency. You can secure the local directory using native OS encryption (like FileVault or BitLocker) and sync the data securely using end-to-end encrypted solutions.
 
@@ -135,7 +135,7 @@ Obsidian is widely considered the best PKM for medical researchers due to its lo
 ### How do I integrate PubMed into my PKM workflow?
 The most efficient method is using Zotero as an intermediary. Install the Zotero Connector browser extension. When viewing an article on PubMed, click the extension to save the metadata and PDF. Then, use a community plugin in your PKM (like Obsidian's Zotero Integration) to automatically generate a formatted literature note based on that imported PubMed data.
 
-### Can I store patient data in tools like Obsidian or Notion?
+### Can I store patient data in tools like Obsidian or [Notion](/posts/personal-knowledge-management-tools-comparison/)?
 No, you should never store identifiable patient data or Protected Health Information (PHI) in standard PKM tools unless you are using an enterprise version with a signed Business Associate Agreement (BAA) and explicit institutional approval. For personal research notes, all clinical scenarios, case reports, or data points must be rigorously de-identified prior to entry.
 
 ### How long does it take to set up a medical PKM system?

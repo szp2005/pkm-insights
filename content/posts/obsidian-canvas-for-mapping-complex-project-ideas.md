@@ -19,7 +19,7 @@ Managing a multi-faceted project using traditional, linear note-taking apps ofte
 
 This is exactly where local, markdown-based visual boards become essential. Leveraging Obsidian Canvas for mapping complex project ideas bridges the gap between text-heavy [knowledge management](/posts/knowledge-management-strategies-for-students/) and free-form spatial reasoning. Because it integrates directly with your existing Obsidian vault, you never have to choose between writing deep-dive documentation and visualizing the big picture.
 
-In this guide, we will break down the mechanics of spatial organization within Obsidian. You will learn how to construct foundational project maps, connect disparate data types securely, and implement practical workflows that scale from small feature releases to enterprise-level product roadmaps.
+In this guide, we will break down the mechanics of spatial [organization](/posts/steps-to-building-a-second-brain/) within Obsidian. You will learn how to construct foundational project maps, connect disparate data types securely, and implement practical [workflows](/posts/getting-things-done-for-knowledge-workers/) that scale from small feature releases to enterprise-level product roadmaps.
 
 ## The Paradigm Shift: From Linear Notes to Spatial Boards
 
@@ -59,7 +59,7 @@ Once the raw materials are on the board, begin physically moving related items c
 With your clusters defined, start drawing connections. Identify the dependencies. If "Database Migration" must happen before "API Rate Limits" can be tested, draw a directional arrow from the former to the latter. By visually mapping these dependencies, bottlenecks become immediately apparent before any actual work begins.
 
 ### 4. Injecting Depth with Vault Notes
-Replace temporary text cards with actual Obsidian notes where deep work is required. If the "Marketing Copy" node needs a 1,000-word draft, convert that card into a permanent file in your vault. Now, your canvas acts as a high-level dashboard that allows you to zoom in to execute deep work and zoom out to see the strategic overview.
+Replace temporary text cards with actual Obsidian notes where [deep work](/posts/four-layer-stack-for-pkm-optimization/) is required. If the "Marketing Copy" node needs a 1,000-word draft, convert that card into a permanent file in your vault. Now, your canvas acts as a high-level dashboard that allows you to zoom in to execute deep work and zoom out to see the strategic overview.
 
 ## Advanced Techniques for Visual Project Management
 

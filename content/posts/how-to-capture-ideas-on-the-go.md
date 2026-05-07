@@ -47,7 +47,7 @@ For this to work, the notebook must actually fit in your pocket or a small every
 
 ## Step 3: Fast Digital Text Capture
 
-For text-heavy ideas or situations where you only have one hand free, a smartphone is necessary. However, most note-taking apps are designed for desktop-first organization, making them slow to load on mobile.
+For text-heavy ideas or situations where you only have one hand free, a smartphone is necessary. However, most [note-taking](/posts/zettelkasten-method-explained/) apps are designed for desktop-first organization, making them slow to load on mobile.
 
 To optimize a smartphone for idea capture, strip away the interface. You need an application that opens directly to a blank keyboard interface, bypassing folders and menus. 
 
@@ -83,13 +83,13 @@ Choosing the right equipment determines whether your capture system creates fric
 
 **Audio Configurations:**
 *   **Apple Watch / Wearables:** Using a smartwatch complication to trigger a voice memo is the fastest hands-free capture method. It requires zero phone interaction. 
-*   **AI Transcription Apps:** Tools like AudioPen or Voicenotes.com. You speak naturally, and the software provides a clean, summarized text version. The tradeoff is privacy (audio is processed on remote servers) and a subscription cost compared to native device apps.
+*   **AI Transcription Apps:** Tools like AudioPen or Voicenotes.com. You speak naturally, and the [software](/posts/best-apps-for-personal-knowledge-management/) provides a clean, summarized text version. The tradeoff is privacy (audio is processed on remote servers) and a subscription cost compared to native device apps.
 
 ## Building a Resilient Capture Ecosystem
 
 Capturing ideas on the go is an infrastructural challenge, not a creative one. By acknowledging that working memory is fragile, you can build a system designed to catch thoughts before they fade. 
 
-The most effective setup is a hybrid approach: a pocket notebook for tactile, spatial thinking and a heavily optimized smartphone for text routing and audio dictation. Prioritize speed over structure at the point of capture. Keep the tools within physical reach, ruthlessly eliminate interface friction, and funnel everything into a central inbox. When you trust your system to catch every stray thought, your mind is free to focus entirely on generating the next one.
+The most effective setup is a hybrid approach: a pocket notebook for tactile, spatial thinking and a heavily optimized smartphone for text routing and audio dictation. Prioritize speed over structure at the point of capture. Keep the tools within physical reach, ruthlessly eliminate interface friction, and funnel everything into a central inbox. When you trust your system to catch every stray thought, your mind is free to [focus](/posts/digital-decluttering-for-information-overload/) entirely on generating the next one.
 
 ## Frequently Asked Questions
 

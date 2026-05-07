@@ -19,7 +19,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 In an increasingly fragmented digital landscape, the ability to engage in "deep work"—focused, uninterrupted concentration on a cognitively demanding task—has become a critical skill. Knowledge workers, researchers, and creators constantly battle a barrage of notifications, complex interfaces, and visual clutter that pull attention away from essential tasks. Logseq, as a powerful open-source knowledge base and outliner, offers a unique opportunity to cultivate a deep work environment. However, its default appearance may not always be optimized for this specific goal.
 
-The visual aesthetics and functional layout of your Logseq interface play a significant, often underestimated, role in your ability to maintain focus. A well-chosen or custom-designed theme can transform Logseq from a mere note-taking tool into a dedicated sanctuary for thought. This article explores how to select, understand, and implement Logseq themes that actively support high focus deep work, ensuring your digital workspace is an asset, not a liability, in your pursuit of sustained concentration.
+The visual aesthetics and functional layout of your Logseq interface play a significant, often underestimated, role in your ability to maintain focus. A well-chosen or custom-designed theme can transform Logseq from a mere [note-taking](/posts/zettelkasten-method-explained/) tool into a dedicated sanctuary for thought. This article explores how to select, understand, and implement Logseq themes that actively support high focus deep work, ensuring your digital workspace is an asset, not a liability, in your pursuit of sustained concentration.
 
 ## Defining a "High Focus Deep Work" Theme for Logseq
 
@@ -32,7 +32,7 @@ The primary objective is to remove any non-essential UI elements. This includes 
 High contrast is paramount for readability, especially during long deep work sessions. This typically involves dark text on a light background or light text on a dark background (dark mode) with sufficient luminance difference. The contrast should be strong enough to prevent eye strain but not so stark as to be jarring. Furthermore, the theme must ensure that different states of text (e.g., active block, linked reference, completed task) are distinguishable without being overly distracting. Readability extends to the differentiation of various markdown elements like headings, bold text, and code blocks, ensuring they stand out appropriately without breaking the flow.
 
 ### Thoughtful Typography
-Font choice, size, and line spacing are critical for sustained reading and writing. A deep work theme should employ a highly legible font, often a sans-serif for body text or a carefully chosen serif for headings, that is comfortable to read for extended periods. The font size should be generous enough to prevent squinting but not so large as to reduce the amount of visible content on screen. Line height (or leading) is equally important; a line height between 1.5 and 1.8 times the font size typically offers optimal readability, preventing lines from merging while guiding the eye smoothly from one line to the next.
+Font choice, size, and line spacing are critical for sustained reading and [writing](/posts/atomic-notes-writing-guide/). A deep work theme should employ a highly legible font, often a sans-serif for body text or a carefully chosen serif for headings, that is comfortable to read for extended periods. The font size should be generous enough to prevent squinting but not so large as to reduce the amount of visible content on screen. Line height (or leading) is equally important; a line height between 1.5 and 1.8 times the font size typically offers optimal readability, preventing lines from merging while guiding the eye smoothly from one line to the next.
 
 ## Key Elements of an Effective Logseq Deep Work Theme
 
@@ -56,7 +56,7 @@ Most teams need an intake source, a workflow automation tool, a database or CRM,
 
 ### How do you avoid automation mistakes?
 
-Keep approvals on sensitive steps, log every run, and test with a small sample before enabling the workflow for all users. A short human review checkpoint is usually cheaper than debugging a silent bad handoff later.
+Keep approvals on sensitive steps, log every run, and test with a small sample before enabling the workflow for all users. A short human [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) checkpoint is usually cheaper than debugging a silent bad handoff later.
 
 ### How do you measure whether logseq theme for high focus deep work is working?
 

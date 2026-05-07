@@ -23,9 +23,9 @@ This guide details the mechanics of semantic knowledge retrieval, the underlying
 
 For decades, knowledge retrieval relied on lexical search algorithms like TF-IDF (Term Frequency-Inverse Document Frequency) and BM25. These algorithms analyze the frequency of words in a document relative to their frequency across the entire corpus. 
 
-While highly efficient and straightforward to implement using tools like Elasticsearch or Apache Solr, lexical search suffers from inherent structural flaws.
+While highly efficient and straightforward to implement using [tools](/posts/personal-knowledge-management-tools-comparison/) like Elasticsearch or Apache Solr, lexical search suffers from inherent structural flaws.
 
-First, lexical search relies entirely on exact string overlap. If a user queries "how to fix an automobile engine" and the internal documentation uses the phrase "car motor repair," a purely lexical system will fail to return the document. The system cannot comprehend that "automobile" and "car" represent the same concept.
+First, lexical search relies entirely on exact string overlap. If a user queries "how to fix an automobile engine" and the internal [documentation](/posts/self-healing-knowledge-base-principles/) uses the phrase "car motor repair," a purely lexical system will fail to return the document. The system cannot comprehend that "automobile" and "car" represent the same concept.
 
 Second, keyword search struggles with contextual ambiguity. The word "apple" means entirely different things in a financial report compared to a botanical text. BM25 evaluates the token independently of the surrounding syntax, leading to high recall but extremely poor precision in specialized datasets.
 

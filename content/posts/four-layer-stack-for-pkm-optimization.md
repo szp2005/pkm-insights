@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The four-layer stack for PKM optimization consists of Capture, Organize, Distill, and Express. By separating these functions into distinct layers using dedicated tools and methodologies, you eliminate friction, prevent information overload, and create a sustainable pipeline that transforms raw data into actionable insights.
 
-Information overload is the defining occupational hazard of modern knowledge work. We consume articles, podcasts, meeting notes, and research papers at an unprecedented rate, yet our ability to retain and utilize this information often degrades proportionally to the volume we ingest. When your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system consists of an unstructured folder of disconnected notes, you are not building a system; you are simply hoarding digital text.
+Information overload is the defining occupational hazard of modern knowledge work. We consume articles, podcasts, meeting notes, and [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) papers at an unprecedented rate, yet our ability to retain and utilize this information often degrades proportionally to the volume we ingest. When your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system consists of an unstructured folder of disconnected notes, you are not building a system; you are simply hoarding digital text.
 
 The solution is not a single, monolithic application that attempts to do everything. Instead, the most resilient systems rely on a layered architecture. Much like software engineering employs distinct layers for database, logic, and presentation, a robust PKM system requires discrete stages to handle the lifecycle of an idea. 
 
@@ -39,7 +39,7 @@ Once information is captured and deemed valuable, it moves to the organization l
 Traditional categorization relies heavily on topics (e.g., "Psychology," "Marketing," "Finance"). However, for PKM optimization, organizing by actionability is far more effective. Methodologies like PARA (Projects, Areas, Resources, Archives) excel because they group information based on when and how you will use it next, rather than what the information broadly represents.
 
 ### The Role of Metadata
-Instead of deep folder hierarchies, leverage metadata such as tags, bidirectional links, and frontmatter. Tags should be functional rather than descriptive (e.g., `#to-process`, `#reference`, `#draft`). Bidirectional linking, a staple in modern PKM tools like Obsidian or Logseq, allows you to create associative networks, mimicking how the human brain naturally connects discrete concepts.
+Instead of deep folder hierarchies, leverage metadata such as tags, bidirectional links, and frontmatter. Tags should be functional rather than descriptive (e.g., `#to-process`, `#reference`, `#draft`). Bidirectional linking, a staple in modern PKM tools like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), allows you to create associative networks, mimicking how the human brain naturally connects discrete concepts.
 
 ## Layer 3: The Distillation Engine (Active Synthesis)
 

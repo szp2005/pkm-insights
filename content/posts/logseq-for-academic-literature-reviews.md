@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Conducting a systematic literature review requires managing hundreds of PDFs, extracting thousands of annotations, and synthesizing disparate arguments into a cohesive narrative. Traditional word processors and folder-based [note-taking](/posts/zettelkasten-method-explained/) applications routinely fail at this scale. They trap knowledge in isolated documents, making it nearly impossible to trace a specific counter-argument back to its original source without breaking your workflow.
 
-Over the past few years, networked thought tools have emerged as the standard for academic research. Among them, Logseq stands out specifically for the academic use case. As a privacy-first, open-source knowledge graph built on local plain-text Markdown and EDN files, it offers a distinct advantage: block-level referencing combined with native PDF reading capabilities. 
+Over the past few years, networked thought [tools](/posts/personal-knowledge-management-tools-comparison/) have emerged as the standard for academic research. Among them, Logseq stands out specifically for the academic use case. As a privacy-first, open-source knowledge graph built on local plain-text Markdown and EDN files, it offers a distinct advantage: block-level referencing combined with native PDF reading capabilities. 
 
 This review will break down exactly how Logseq functions as a literature review engine, evaluate it against top alternatives in the [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) space, and provide a practical architectural guide for setting up your academic graph.
 
@@ -39,7 +39,7 @@ While Logseq is powerful, the academic PKM landscape features several compelling
 **Price:** Free
 **Rating:** 4.8/5
 
-Logseq is an open-source, local-first outliner that stores your data in plain Markdown. Its standout feature for academics is the built-in PDF reader. You can upload a research paper, highlight text within Logseq, and drag those highlights directly into your notes. Each highlight becomes a block that links perfectly back to the exact coordinate in the PDF. When paired with its native Zotero integration, it eliminates the friction of managing external reference managers.
+Logseq is an open-source, [local-first](/posts/anytype-review-local-first-privacy-lovers/) outliner that stores your data in plain Markdown. Its standout feature for academics is the built-in PDF reader. You can upload a research paper, highlight text within Logseq, and drag those highlights directly into your notes. Each highlight becomes a block that links perfectly back to the exact coordinate in the PDF. When paired with its native Zotero integration, it eliminates the friction of managing external reference managers.
 
 **Pros:**
 - Built-in PDF reader with bidirectional annotation linking
@@ -67,7 +67,7 @@ Obsidian is the heavyweight champion of local Markdown notes. Unlike Logseq's ou
 - Highly customizable graph view for visualizing research clusters
 
 **Cons:**
-- Requires significant upfront configuration and plugin management for PDF/Zotero workflows
+- Requires significant upfront configuration and plugin management for PDF/Zotero [workflows](/posts/getting-things-done-for-knowledge-workers/)
 - Block-referencing exists but is clunkier than Logseq's native block architecture
 
 ### 3. Roam Research

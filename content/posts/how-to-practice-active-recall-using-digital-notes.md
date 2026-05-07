@@ -11,7 +11,7 @@ type: "informational"
 
 # Practice Active Recall Using Digital Notes: 5-Step Guide
 
-> **Quick Answer:** To practice active recall using digital notes, format your notes as questions rather than statements, use toggle lists to hide the answers, and test yourself on these questions regularly before reviewing the source material. Combining this self-testing method with a spaced repetition schedule will reliably transfer information into your long-term memory.
+> **Quick Answer:** To practice active recall using digital notes, format your notes as questions rather than statements, use toggle lists to hide the answers, and test yourself on these questions regularly before reviewing the source material. Combining this self-testing method with a [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) schedule will reliably transfer information into your long-term memory.
 
 The traditional method of studying—reading a textbook, highlighting key phrases, and passively reviewing notes—is highly inefficient. Cognitive science has repeatedly demonstrated that retrieving information from your brain, rather than repeatedly putting it in, is the most robust mechanism for learning. This process, known as active recall, forces your neural pathways to strengthen, making the information easier to access in the future. 
 
@@ -48,7 +48,7 @@ By formatting your notes this way, you immediately create a testing environment.
 
 Writing questions is only effective if you cannot immediately see the answer. If the answer sits directly below the question, your eyes will inevitably drift downward, ruining the retrieval attempt.
 
-This is where digital tools outshine paper. Applications like Notion, [Obsidian](/posts/what-is-personal-knowledge-management/), and Roam Research feature "toggle" or "fold" functionalities. A toggle allows you to nest text inside a collapsible bullet point.
+This is where digital tools outshine paper. Applications like [Notion](/posts/personal-knowledge-management-tools-comparison/), [Obsidian](/posts/what-is-personal-knowledge-management/), and Roam Research feature "toggle" or "fold" functionalities. A toggle allows you to nest text inside a collapsible bullet point.
 
 To implement this:
 1. Write your question as the top-level toggle block.
@@ -68,7 +68,7 @@ To do this digitally, you need a system for tracking when you last reviewed a sp
 There are two primary ways to handle this digitally:
 
 **The Algorithmic Approach:**
-Tools like Anki or RemNote have spaced repetition algorithms built-in. When you reveal an answer, the software asks you to rate how difficult the retrieval was (e.g., Hard, Good, Easy). Based on your rating, the algorithm automatically schedules the next review. If you forgot the answer, you will see it again in 10 minutes. If it was easy, you might not see it for three weeks. This is the most efficient method for high-volume memorization, such as medical school terminology or language learning.
+Tools like Anki or RemNote have spaced repetition algorithms built-in. When you reveal an answer, the [software](/posts/best-apps-for-personal-knowledge-management/) asks you to rate how difficult the retrieval was (e.g., Hard, Good, Easy). Based on your rating, the algorithm automatically schedules the next review. If you forgot the answer, you will see it again in 10 minutes. If it was easy, you might not see it for three weeks. This is the most efficient method for high-volume memorization, such as medical school terminology or language learning.
 
 **The Manual System Approach:**
 If you prefer keeping your notes in a standard document structure (like Notion or Evernote), you can build a manual spaced repetition system using a spreadsheet or database. 

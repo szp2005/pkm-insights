@@ -24,7 +24,7 @@ Building this infrastructure requires an upfront investment of time, but the com
 A PIMS is not a single piece of software. It is a behavioral framework supported by a carefully selected stack of tools. A complete system manages three distinct categories of digital assets:
 
 1. **Actionable Tasks:** What you need to do, tracked by deadlines and priority.
-2. **Reference Knowledge:** What you need to know, encompassing notes, articles, research, and documentation.
+2. **Reference Knowledge:** What you need to know, encompassing notes, articles, [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), and documentation.
 3. **Static Files:** The raw assets you need to store, including PDFs, images, receipts, and source documents.
 
 When these three pillars operate in isolation, friction occurs. You might have a task to "Review Q3 tax documents," but the documents are buried in an unorganized Downloads folder, and your notes from the accountant are trapped in an email thread from six months ago. A functional PIMS creates connective tissue between your tasks, files, and notes through consistent naming conventions and a unified organizational philosophy.
@@ -79,7 +79,7 @@ Avoid the trap of attempting to find one "super app" that handles files, tasks, 
 
 ### Note-Taking and Knowledge Base
 Your knowledge base is where you synthesize ideas, draft documents, and store text-based reference material.
-* **[Obsidian](/posts/personal-knowledge-management-tools-comparison/):** Ideal for privacy-focused users. It stores notes as local Markdown files on your hard drive, ensuring you own your data forever. It uses bi-directional linking to connect related concepts, functioning like a personal Wikipedia.
+* **[Obsidian](/posts/personal-knowledge-management-tools-comparison/):** Ideal for [privacy](/posts/anytype-review-local-first-privacy-lovers/)-focused users. It stores notes as local Markdown files on your hard drive, ensuring you own your data forever. It uses bi-directional linking to connect related concepts, functioning like a personal Wikipedia.
 * **Notion:** Better for highly visual thinkers and team collaboration. It utilizes a block-based, database-driven architecture, allowing you to create custom dashboards, kanban boards, and relational databases. 
 * **Apple Notes / UpNote:** Best for users who prioritize speed, deep operating system integration, and simplicity over complex database structures.
 
@@ -138,7 +138,7 @@ Building the system is a technical exercise; maintaining it requires discipline.
 
 ## Synthesizing Your Digital Life
 
-A fully realized Personal Information Management System removes the anxiety of forgotten details. When you trust your system completely, your brain stops trying to hold onto raw data and instead focuses on creative problem-solving and deep work. Start with the audit, choose a structural philosophy, commit to your core tools, and fiercely protect your Weekly Review habit. 
+A fully realized Personal Information Management System removes the anxiety of forgotten details. When you trust your system completely, your brain stops trying to hold onto raw data and instead focuses on creative problem-solving and [deep work](/posts/four-layer-stack-for-pkm-optimization/). Start with the audit, choose a structural philosophy, commit to your core tools, and fiercely protect your Weekly Review habit. 
 
 ## Frequently Asked Questions
 

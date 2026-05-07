@@ -11,7 +11,7 @@ type: "informational"
 
 # Readwise Reader for Deep Engagement Research: A Complete Guide
 
-> **Quick Answer:** Using Readwise Reader for deep engagement research requires shifting from passive reading to active synthesis. By leveraging its robust annotation tools, customized tagging systems, and seamless export to knowledge bases like Obsidian or Notion, researchers can systematically capture, connect, and retain complex concepts across PDFs, web articles, and books.
+> **Quick Answer:** Using Readwise Reader for deep engagement research requires shifting from passive reading to active synthesis. By leveraging its robust annotation tools, customized tagging systems, and seamless export to knowledge bases like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or Notion, researchers can systematically capture, connect, and retain complex concepts across PDFs, web articles, and books.
 
 Digital reading is often defined by speed and volume. We scroll through dozens of newsletters, save countless tabs, and skim academic papers, mistaking the act of collecting for the act of learning. This paradigm breaks down when tackling complex subjects that require synthesis. Deep engagement research demands a different approach—one where friction is intentionally introduced to force comprehension, and where the reading environment is designed to extract lasting value rather than brief dopamine hits.
 
@@ -59,7 +59,7 @@ When you sit down for deep engagement, minimize the Reader interface to remove a
 Do not highlight on the first pass of a paragraph. Read the entire section to understand the context, then return to highlight only the most critical phrase or sentence. Immediately attach a note to the highlight explaining *why* you saved it. Was it a surprising statistic? A flaw in the methodology? A concept that connects to a previous project? A highlight without a contextual note is essentially useless weeks later.
 
 ### Phase 3: The Review Cycle
-Reader integrates natively with the original Readwise spaced repetition engine. However, for deep research, daily review of random highlights is less effective than project-based review. Use Reader’s filtering tools to pull up all highlights and notes associated with a specific document or tag before beginning your writing or synthesis phase. Reviewing your own marginalia, rather than the source text, forces your brain to engage with your synthesized understanding.
+Reader integrates natively with the original Readwise [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) engine. However, for deep research, daily review of random highlights is less effective than project-based review. Use Reader’s filtering tools to pull up all highlights and notes associated with a specific document or tag before beginning your writing or synthesis phase. Reviewing your own marginalia, rather than the source text, forces your brain to engage with your synthesized understanding.
 
 ## Advanced Annotation and Tagging Strategies
 
@@ -94,7 +94,7 @@ While Reader is not a reference manager like Zotero or Mendeley, it serves as th
 
 ## Practical Advice: Designing Your Research System
 
-The ultimate goal of deep engagement research is not to keep information inside Readwise Reader, but to export your synthesized thoughts into a permanent knowledge management system.
+The ultimate goal of deep engagement research is not to keep information inside Readwise Reader, but to export your synthesized thoughts into a permanent [knowledge management](/posts/knowledge-management-strategies-for-students/) system.
 
 ### Configuring the Export Pipeline
 Readwise offers native integrations with Obsidian, Notion, Roam Research, and Logseq. The success of this pipeline depends entirely on how you configure the export template. Do not settle for the default formatting.

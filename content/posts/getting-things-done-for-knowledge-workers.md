@@ -31,7 +31,7 @@ The first step in GTD is capturing all inputs. For a knowledge worker, inputs co
 ### The Omnipresent Inbox
 You need a universal capture mechanism. This is not about organizing; it is strictly about raw ingestion. 
 *   **Quick Entry:** Your capture tool must have a global keyboard shortcut on your computer and a one-tap widget on your phone.
-*   **Voice Capture:** Leverage AI-driven transcription for when you are walking or driving. Modern tools can transcribe and summarize unstructured audio directly into your inbox.
+*   **Voice Capture:** Leverage AI-driven transcription for when you are walking or driving. Modern [tools](/posts/personal-knowledge-management-tools-comparison/) can transcribe and summarize unstructured audio directly into your inbox.
 *   **Browser Extensions:** A significant portion of knowledge work involves reading and researching. A web clipper that captures URLs, highlights, and your initial thoughts directly to your inbox is non-negotiable.
 
 **Practical Advice:** Do not categorize during the capture phase. If you are in a meeting and an idea strikes, capture the raw thought ("Talk to Sarah about the API rate limit bug") and immediately return your attention to the meeting. The inbox is meant to be messy.
@@ -97,10 +97,10 @@ Review your Next Actions list and physically drag blocks of time onto your calen
 
 ## Advanced GTD: Integration with PKM and Automation
 
-For the elite knowledge worker, GTD is just the execution layer. The true power unlocks when you integrate GTD with a Personal Knowledge Management (PKM) system and automated workflows.
+For the elite knowledge worker, GTD is just the execution layer. The true power unlocks when you integrate GTD with a Personal Knowledge Management (PKM) system and automated [workflows](/posts/personal-knowledge-management-for-product-managers-tutorial/).
 
 ### GTD + Zettelkasten
-Your task manager should hold actionable items. Your PKM (your "second brain") should hold information, reference material, and interconnected ideas. When a project requires research, the tasks live in the GTD system ("Read 3 articles on vector databases"), but the output of that research lives in the PKM system as linked notes. When it is time to write the final report, your PKM serves up the synthesized knowledge, and your GTD system tracks the writing process.
+Your task manager should hold actionable items. Your PKM (your "second brain") should hold information, reference material, and interconnected ideas. When a project requires [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), the tasks live in the GTD system ("Read 3 articles on vector databases"), but the output of that research lives in the PKM system as linked notes. When it is time to write the final report, your PKM serves up the synthesized knowledge, and your GTD system tracks the writing process.
 
 ### Strategic Automation
 Do not automate a broken process, but aggressively automate your trusted GTD workflows:

@@ -65,7 +65,7 @@ Outlining is excellent for highly structured subjects with clear categorization 
 
 ### 3. The Mapping Method (Mind Mapping): Visualizing Connections
 
-For visual learners and complex, interrelated topics, Mind Mapping is unparalleled. Developed by Tony Buzan, this non-linear technique mirrors the brain's associative nature, moving away from rigid lists and embracing spatial organization.
+For visual learners and complex, interrelated topics, Mind Mapping is unparalleled. Developed by Tony Buzan, this non-linear technique mirrors the brain's associative nature, moving away from rigid lists and embracing spatial [organization](/posts/steps-to-building-a-second-brain/).
 
 **How it works:**
 *   Begin with the central topic or core concept in the middle of a blank page (landscape orientation works best).
@@ -131,7 +131,7 @@ Notes that sit unreviewed are essentially useless. The true magic of learning ha
 ### 5. Leverage Digital Tools for PKM
 
 For modern learners, managing the sheer volume of information requires robust digital tools. Applications designed for Personal Knowledge Management (PKM) have revolutionized how we interact with our notes.
-*   **Roam Research & Obsidian:** These bi-directional linking tools are heavily inspired by the Zettelkasten method, allowing you to build intricate webs of connected knowledge.
+*   **Roam Research & [Obsidian](/posts/personal-knowledge-management-tools-comparison/):** These bi-directional linking tools are heavily inspired by the Zettelkasten method, allowing you to build intricate webs of connected knowledge.
 *   **Notion:** Offers unparalleled flexibility for creating structured databases, Kanbans, and highly organized hierarchical note systems.
 *   **Evernote & OneNote:** Excellent for comprehensive digital filing cabinets, document scanning, and general organizational capture.
 
@@ -175,7 +175,7 @@ Follow a "spaced repetition" schedule: review your notes within 24 hours to clar
 
 - [Reflect Notes App Review for Minimalist Users (2026)](/posts/reflect-notes-app-review-for-minimalist-users/)
 
-- [Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
+- [Digital [Note-Taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) Strategies for Productivity: The Ultimate Expert Guide](/posts/digital-note-taking-strategies-for-productivity/)
 - [How to Take Smart Notes: A Comprehensive Summary and Practical Guide](/posts/how-to-take-smart-notes-summary/)
 - [The PARA Method for Digital Organization: A Comprehensive Expert Guide](/posts/para-method-for-digital-organization/)
 - [Digital Decluttering for Information Overload: A Comprehensive Guide to Reclaiming Your Focus](/posts/digital-decluttering-for-information-overload/)

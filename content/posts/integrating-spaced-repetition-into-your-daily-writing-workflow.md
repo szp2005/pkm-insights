@@ -11,7 +11,7 @@ type: "informational"
 
 # Integrate Spaced Repetition Into Your Daily Writing Workflow: 5-Step Guide
 
-> **Quick Answer:** Integrating spaced repetition into your daily writing workflow involves breaking down research and insights into atomic notes, scheduling them for periodic review using an algorithm-based system, and systematically synthesizing these resurfaced concepts into active writing projects. This approach ensures critical ideas remain at the top of your mind, ready to be deployed when drafting.
+> **Quick Answer:** Integrating spaced repetition into your daily writing workflow involves breaking down [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and insights into atomic notes, scheduling them for periodic review using an algorithm-based system, and systematically synthesizing these resurfaced concepts into active writing projects. This approach ensures critical ideas remain at the top of your mind, ready to be deployed when drafting.
 
 Every writer faces the same fundamental challenge: managing the gap between consumption and creation. You read dozens of articles, highlight chapters in books, and listen to hours of podcasts, accumulating a vast repository of insights. Yet, when you sit down to draft an article or a chapter, the precise statistic or the perfect analogy you encountered three weeks ago completely vanishes from your working memory.
 
@@ -108,7 +108,7 @@ The success of your system hinges entirely on the quality of your prompts. Poorl
 
 Implementing this workflow is structurally simple but practically challenging. Writers frequently encounter specific hurdles that cause them to abandon the system.
 
-The most common pitfall is the "Collector's Fallacy"—the belief that merely capturing information is equivalent to learning it. Writers will aggressively clip hundreds of articles, generate automated flashcards, and immediately overwhelm their daily review queue. You must be highly selective. Only process notes into your spaced repetition system that provoke genuine curiosity or have clear, immediate relevance to your overarching creative themes.
+The most common pitfall is the "Collector's Fallacy"—the belief that merely capturing information is equivalent to learning it. Writers will aggressively clip hundreds of articles, generate automated [flashcards](/posts/remnote-vs-logseq-for-medical-students-comparison/), and immediately overwhelm their daily review queue. You must be highly selective. Only process notes into your spaced repetition system that provoke genuine curiosity or have clear, immediate relevance to your overarching creative themes.
 
 Another frequent error is writing prompts that are too easy. If your prompt provides too much context, your brain does not have to work to retrieve the answer. Without the "desirable difficulty" of retrieval, the synaptic connection is not strengthened, and the idea will not surface naturally when you are free-drafting.
 
@@ -141,5 +141,5 @@ If a card is flagged as "hard" repeatedly, it is usually poorly written. You mus
 
 - [How to Use Anki for Professional Skill Development: 5-Step Guide](/posts/how-to-use-anki-for-professional-skill-development/)
 
-- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

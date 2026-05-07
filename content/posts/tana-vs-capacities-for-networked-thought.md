@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## Understanding Networked Thought and PKM
 
-In an era of information overload, the ability to connect disparate ideas, insights, and data points into a coherent, actionable knowledge base is paramount. This concept, often termed "networked thought" or "Personal Knowledge Management (PKM)," moves beyond simple note-taking. It involves creating a web of interconnected information where every piece of data can relate to others, fostering deeper understanding, creative synthesis, and efficient retrieval. Tools designed for networked thought aim to mimic the brain's associative nature, allowing users to build rich, contextual relationships between their notes, tasks, and projects.
+In an era of information overload, the ability to connect disparate ideas, insights, and data points into a coherent, actionable knowledge base is paramount. This concept, often termed "networked thought" or "[Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM)," moves beyond simple [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/). It involves creating a web of interconnected information where every piece of data can relate to others, fostering deeper understanding, creative synthesis, and efficient retrieval. Tools designed for networked thought aim to mimic the brain's associative nature, allowing users to build rich, contextual relationships between their notes, tasks, and projects.
 
 The market for PKM tools has expanded rapidly, offering diverse approaches to this challenge. Two prominent contenders, Tana and Capacities, have emerged with distinct philosophies for organizing and connecting information. While both promise to elevate your knowledge management, their underlying data models, user interfaces, and core strengths cater to different user needs and workflows. Understanding these differences is crucial for selecting the platform that will best support your unique approach to thinking and working.
 
@@ -123,7 +123,7 @@ The decision between Tana and Capacities hinges on your primary use case, techni
 
 *   **For the "Architect" or "Engineer" of knowledge:** If you thrive on building intricate systems, defining precise relationships, and leveraging data for powerful insights, **Tana** is likely your superior choice. Its ability to turn unstructured notes into queryable databases, coupled with its AI and automation potential, makes it ideal for managing complex projects, research, or personal CRMs. Be prepared to invest time in learning its unique methodology.
 
-*   **For the "Artist" or "Librarian" of knowledge:** If you prioritize a beautiful, intuitive interface, a smooth writing experience, and a clear visual organization of diverse content types, **Capacities** will resonate more strongly. It excels at creating a well-categorized, aesthetically pleasing knowledge base for creative projects, personal journaling, or academic studies where visual connections and media handling are key. It offers a more immediate sense of productivity and joy in use.
+*   **For the "Artist" or "Librarian" of knowledge:** If you prioritize a beautiful, intuitive interface, a smooth writing experience, and a clear visual organization of diverse content types, **Capacities** will resonate more strongly. It excels at creating a well-categorized, aesthetically pleasing knowledge base for creative projects, personal journaling, or academic studies where visual connections and media handling are key. It offers a more immediate sense of [productivity](/posts/zettelkasten-method-explained/) and joy in use.
 
 Consider your existing workflow: Do you start with free-form notes and then want to impose structure? Tana's daily note-first approach might fit. Do you prefer to categorize information into predefined types from the outset? Capacities' object-oriented model could be more natural.
 
@@ -158,6 +158,8 @@ Tana uses "supernodes," where any block of text can become a structured entity w
 ---
 
 ## Related Reading
+
+- [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)
 
 - [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)
 

@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-create-a-zettelkasten-index-in-obsidian.webp"
 title: "How to Create a Zettelkasten Index in Obsidian: 5-Step Guide"
 description: "Learn how to create a zettelkasten index in Obsidian to organize your notes, find connections faster, and build a scalable personal knowledge system."
 pubDate: "2026-05-07"
@@ -28,7 +29,7 @@ In Obsidian, the mechanism changes, but the principle remains identical. The ind
 
 ### Folders vs. Tags vs. Indexes
 
-It is helpful to distinguish the index from other organizational tools in Obsidian. Folders force a note to live in exactly one place. Tags (`#topic`) are useful for filtering but lack context and order. An index is a dedicated markdown file where you curate links manually, allowing you to add context, group related topics dynamically, and place the same note in multiple categories if necessary.
+It is helpful to distinguish the index from other organizational [tools](/posts/personal-knowledge-management-tools-comparison/) in Obsidian. Folders force a note to live in exactly one place. Tags (`#topic`) are useful for filtering but lack context and order. An index is a dedicated markdown file where you curate links manually, allowing you to add context, group related topics dynamically, and place the same note in multiple categories if necessary.
 
 ## Step 1: Create Your Root Index Note
 
@@ -44,7 +45,7 @@ Keep the initial structure of this note completely blank. Resist the urge to pre
 
 Look at your existing notes and identify the broad domains of knowledge you interact with frequently. These should be high-level categories that encompass dozens of potential notes. If you are just starting your Zettelkasten, think about the 3 to 5 main areas you plan to research or write about.
 
-For a software developer, these categories might look like:
+For a [software](/posts/best-apps-for-personal-knowledge-management/) developer, these categories might look like:
 - Software Architecture
 - Programming Languages
 - Career Progression
@@ -145,3 +146,11 @@ Update them dynamically during your note-writing process. When you finalize a ne
 
 ### What is the difference between an Index and a Map of Content (MOC)?
 In practice, they serve the same function. "Index" usually refers to the absolute top-level entry point (the root note), while "Maps of Content" refer to the intermediate, topic-specific hubs that the root index points to. Together, they form your indexing system.
+
+---
+
+## Related Reading
+
+- [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)
+
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

@@ -19,7 +19,7 @@ The shift from linear document editing to spatial, visual sense-making has trans
 
 Two [tools](/posts/personal-knowledge-management-tools-comparison/) have emerged as the heavyweights in the visual [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) space: Heptabase and Scrintal. Both offer an infinite canvas where notes become physical cards you can arrange, connect, and synthesize. However, beneath their similar whiteboard interfaces lie distinct philosophies about how we learn, organize, and output information. 
 
-This comprehensive comparison breaks down Heptabase vs Scrintal across core workflows, feature sets, and performance to help you decide which spatial environment will best support your cognitive process.
+This comprehensive comparison breaks down Heptabase vs Scrintal across core [workflows](/posts/getting-things-done-for-knowledge-workers/), feature sets, and performance to help you decide which spatial environment will best support your cognitive process.
 
 ## The Rise of the Spatial Canvas
 
@@ -105,10 +105,10 @@ Choosing between these tools comes down to your primary friction points.
 
 If your bottleneck is **comprehension**—processing dense textbooks, technical PDFs, and complex datasets—Heptabase provides the structured environment necessary to break down and assimilate that information. The investment in learning its keyboard shortcuts and workflow pays dividends in retention.
 
-If your bottleneck is **organization and output**—taking scattered thoughts, meeting notes, and web clippings and turning them into a cohesive narrative or project plan—Scrintal offers the path of least resistance. Its interface stays out of your way, allowing for rapid, intuitive mapping.
+If your bottleneck is **[organization](/posts/steps-to-building-a-second-brain/) and output**—taking scattered thoughts, meeting notes, and web clippings and turning them into a cohesive narrative or project plan—Scrintal offers the path of least resistance. Its interface stays out of your way, allowing for rapid, intuitive mapping.
 
 **Consider the following technical dimensions:**
-- **Offline Capability:** Heptabase operates as a local-first application, meaning your data lives on your device and syncs to the cloud. It works flawlessly offline and feels incredibly snappy. Scrintal is primarily web-based (with web-wrapper desktop apps), which requires an internet connection for full functionality.
+- **Offline Capability:** Heptabase operates as a [local-first](/posts/anytype-review-local-first-privacy-lovers/) application, meaning your data lives on your device and syncs to the cloud. It works flawlessly offline and feels incredibly snappy. Scrintal is primarily web-based (with web-wrapper desktop apps), which requires an internet connection for full functionality.
 - **Data Export:** Both tools allow for Markdown export, ensuring you are not locked into their ecosystems. However, because visual layouts do not translate perfectly to standard Markdown folders, expect some loss of spatial context if you migrate away from either platform.
 - **Mobile Experience:** Visual canvases are notoriously difficult to implement on small screens. Both apps have mobile companions, but they are primarily for capturing quick text notes or reviewing existing cards, rather than doing heavy spatial mapping on the go.
 

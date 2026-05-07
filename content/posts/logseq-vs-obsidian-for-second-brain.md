@@ -8,9 +8,9 @@ tags: ["second brain", "logseq", "obsidian", "pkm", "knowledge management"]
 type: "review"
 ---
 
-> **Quick Answer:** Choosing between Logseq and Obsidian depends on whether you prefer a bullet-based outliner with a "journal-first" workflow or a file-based markdown editor with total architectural freedom. While Logseq excels at granular block referencing and frictionless daily logging, Obsidian offers an unparalleled plugin ecosystem and a superior environment for long-form writing and structured data.
+> **Quick Answer:** Choosing between [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) and Obsidian depends on whether you prefer a bullet-based outliner with a "journal-first" workflow or a file-based markdown editor with total architectural freedom. While Logseq excels at granular block referencing and frictionless daily logging, Obsidian offers an unparalleled plugin ecosystem and a superior environment for long-form writing and structured data.
 
-Building a "Second Brain"—a digital repository for your ideas, knowledge, and actionable tasks—has evolved from a niche [productivity](/posts/what-is-personal-knowledge-management/) hack into an essential practice for modern knowledge workers, researchers, and creatives. 
+Building a "[Second Brain](/posts/best-apps-for-personal-knowledge-management/)"—a digital repository for your ideas, knowledge, and actionable tasks—has evolved from a niche [productivity](/posts/what-is-personal-knowledge-management/) hack into an essential practice for modern knowledge workers, researchers, and creatives. 
  While the core philosophy popularized by Tiago Forte relies on capturing, organizing, distilling, and expressing information, the tools you choose to implement this framework drastically dictate your workflow's friction and fluidity.
 
 In the landscape of [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) in 2026, two titans consistently dominate the conversation: **Logseq** and **Obsidian**. Both are incredibly powerful, both respect your data sovereignty by utilizing local, plain-text files, and both feature robust bi-directional linking. Yet, their underlying philosophies, user experiences, and architectural paradigms are fundamentally divergent.
@@ -130,7 +130,7 @@ The debate between Logseq and Obsidian isn't about which tool is objectively bet
 
 If you are an architect who wants to construct a customized, long-form knowledge base using an interconnected web of documents, **Obsidian** is your IDE for thought. It gives you the freedom to build a system as simple or as complex as your mind requires.
 
-If you are a rapid-fire thinker who wants a frictionless inbox that relies on daily journaling, granular bullet points, and automatic aggregation of scattered blocks, **Logseq** is your outliner of choice. It removes the friction of organization, allowing you to simply write.
+If you are a rapid-fire thinker who wants a frictionless inbox that relies on daily journaling, granular bullet points, and automatic aggregation of scattered blocks, **Logseq** is your outliner of choice. It removes the friction of [organization](/posts/steps-to-building-a-second-brain/), allowing you to simply write.
 
 Ultimately, your Second Brain is a deeply personal system. The best practical advice in 2026 remains the same: download both (they are free), spend exactly one week putting your real work and thoughts into each, and listen to what your intuition tells you. The tool that gets out of your way and lets you think is the one you should keep.
 

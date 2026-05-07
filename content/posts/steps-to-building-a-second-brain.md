@@ -35,7 +35,7 @@ The very first of the steps to building a second brain is learning how to captur
 You should only capture information that genuinely resonates with you. Ask yourself: Is this surprising? Is it inspiring? Is it directly applicable to a current project? Does it challenge my existing beliefs? If the answer is yes, capture it. If it is just mildly interesting, let it go. Treat your Second Brain like an exclusive club, where only the most valuable and actionable insights gain entry.
 
 ### Practical Capture Strategies
-*   **Frictionless Tools:** Your capture tools must be lightning-fast and available on all your devices. If it takes more than three clicks or taps to save a note, you will likely abandon the effort. Use quick-capture apps like Apple Notes, Google Keep, or the quick-capture widgets of advanced tools like Notion or Obsidian.
+*   **Frictionless Tools:** Your capture tools must be lightning-fast and available on all your devices. If it takes more than three clicks or taps to save a note, you will likely abandon the effort. Use quick-capture apps like Apple Notes, Google Keep, or the quick-capture widgets of advanced tools like Notion or [Obsidian](/posts/personal-knowledge-management-tools-comparison/).
 *   **Read-It-Later Apps:** Do not interrupt your current workflow to read a long article. Send it to a read-it-later app like Instapaper, Pocket, or Matter. Highlight the best parts later when you have dedicated reading time, and only export those highlights to your Second Brain.
 *   **The 12 Favorite Problems:** Physicist Richard Feynman famously kept a mental list of his favorite open problems. When he learned something new, he tested it against each problem to see if it provided a clue. Maintain a list of 10 to 12 open questions or challenges you are currently facing in your life or work. Capture information that helps answer these specific questions.
 
@@ -46,7 +46,7 @@ Once you have captured valuable information, the next step is organization. The 
 Instead, you must organize for **actionability**. You should organize information based on *where you will use it next*. The gold standard for this is the P.A.R.A. method: Projects, Areas, Resources, and Archives.
 
 ### The P.A.R.A. Method Explained
-1.  **Projects:** These are short-term efforts with a specific, clear goal and a concrete deadline. Examples include "Launch Website Redesign," "Write Q3 Marketing Report," or "Plan Summer Vacation." Any note, file, or piece of research directly related to an active project goes here. This folder should be your primary focus.
+1.  **Projects:** These are short-term efforts with a specific, clear goal and a concrete deadline. Examples include "Launch Website Redesign," "Write Q3 Marketing Report," or "Plan Summer Vacation." Any note, file, or piece of [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) directly related to an active project goes here. This folder should be your primary focus.
 2.  **Areas (of Responsibility):** These are ongoing spheres of activity with a standard to be maintained over time. They have no final deadline. Examples include "Health and Fitness," "Finances," "Team Management," or "Productivity System." Information here supports your ongoing roles in life.
 3.  **Resources:** This is a catch-all for topics or interests of ongoing usefulness. It is your personal reference library. Examples include "Graphic Design Assets," "Python Code Snippets," "Favorite Recipes," or "Notes on Stoicism." When a project ends, useful material often migrates to Resources.
 4.  **Archives:** This is the cold storage of your Second Brain. It contains inactive items from the other three categories: completed projects, areas you are no longer responsible for, or resources you are no longer interested in. Archiving removes clutter from your active workspace while keeping the information searchable for future reference.
@@ -96,7 +96,7 @@ If you love structure, databases, and highly customizable dashboards, tools like
 *   **Cons:** Can be slow, offline mode is lacking, high risk of spending more time "building the system" than doing actual work.
 
 ### The Gardeners: Obsidian, Roam Research, and Logseq
-If you prefer a fluid, organic, and interconnected approach to note-taking, these "networked thought" tools are the gold standard. They rely on bidirectional linking to create a web of knowledge rather than rigid folders.
+If you prefer a fluid, organic, and interconnected approach to [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/), these "networked thought" tools are the gold standard. They rely on bidirectional linking to create a web of knowledge rather than rigid folders.
 *   **Pros:** Exceptional for discovering hidden connections, future-proof (files are stored locally as plain markdown), incredibly fast.
 *   **Cons:** Steeper learning curve, less intuitive for project management compared to Notion, can feel chaotic to highly structured thinkers.
 

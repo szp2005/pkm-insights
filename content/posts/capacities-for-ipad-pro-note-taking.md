@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Using Capacities for iPad Pro note taking transforms the device from a simple media tablet into a structured, object-based knowledge hub. While it relies primarily on typed input rather than native Apple Pencil inking, pairing the iPad Pro with a Magic Keyboard allows you to leverage Capacities' dynamic linking, Daily Notes, and custom object types for highly efficient research, meeting management, and project organization on the go.
 
-The iPad Pro has long been hailed as the ultimate portable machine, yet finding a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool that properly utilizes its power without forcing you into a rigid folder structure remains a challenge. Traditional note-taking applications often treat the iPad as a digital piece of paper, focusing heavily on handwriting. However, as workflows become more complex and interconnected, the need for a networked, database-driven approach on mobile devices has grown significantly. 
+The iPad Pro has long been hailed as the ultimate portable machine, yet finding a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool that properly utilizes its power without forcing you into a rigid folder structure remains a challenge. Traditional [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) applications often treat the iPad as a digital piece of paper, focusing heavily on handwriting. However, as [workflows](/posts/getting-things-done-for-knowledge-workers/) become more complex and interconnected, the need for a networked, database-driven approach on mobile devices has grown significantly. 
 
 This is where Capacities enters the ecosystem. By introducing a studio-like environment based on objects rather than files and folders, it fundamentally changes how information is stored and retrieved. Instead of asking "Where should I save this note?", Capacities prompts you to ask "What kind of object is this?"—a person, a meeting, a book, or a project. 
 
@@ -35,7 +35,7 @@ The iPad OS application of Capacities translates the robust desktop experience i
 
 ### Magic Keyboard Integration and Command Navigation
 
-For heavy text input and structuring, the Magic Keyboard (or any compatible Bluetooth keyboard) is practically mandatory for getting the most out of Capacities on the iPad Pro. Capacities relies heavily on slash commands (`/`) and block-based editing, similar to Notion. 
+For heavy text input and structuring, the Magic Keyboard (or any compatible Bluetooth keyboard) is practically mandatory for getting the most out of Capacities on the iPad Pro. Capacities relies heavily on slash commands (`/`) and block-based editing, similar to [Notion](/posts/personal-knowledge-management-tools-comparison/). 
 
 Using the Magic Keyboard, you can trigger the command palette instantly, allowing you to convert text blocks, embed images, or create new linked objects without reaching for the screen. The tactile feedback and trackpad support mean you can navigate your daily notes, drag and drop blocks of text, and establish bi-directional links seamlessly. Because the iPad app recognizes standard keyboard shortcuts (like `Cmd + K` for linking or `Cmd + Enter` to complete tasks), your muscle memory from desktop applications transfers directly to your mobile setup.
 

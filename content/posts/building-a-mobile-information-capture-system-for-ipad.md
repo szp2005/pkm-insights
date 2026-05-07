@@ -11,7 +11,7 @@ type: "informational"
 
 # Building a Mobile Information Capture System for iPad: Complete Guide
 
-> **Quick Answer:** Building a mobile information capture system for iPad requires combining the right hardware (Apple Pencil, Magic Keyboard) with low-friction software (Apple Notes, Drafts, Readwise) to immediately store ideas, links, and documents. The core principle is separating the "capture" phase from the "processing" phase, using cloud sync and automation to funnel raw data into your permanent [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system like Obsidian or Notion.
+> **Quick Answer:** Building a mobile information capture system for iPad requires combining the right hardware (Apple Pencil, Magic Keyboard) with low-friction software (Apple Notes, Drafts, Readwise) to immediately store ideas, links, and documents. The core principle is separating the "capture" phase from the "processing" phase, using cloud sync and automation to funnel raw data into your permanent [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or Notion.
 
 The iPad occupies a unique space in modern computing. It is more expansive than a smartphone but more portable and tactile than a traditional laptop. This positions it perfectly as the ultimate mobile capture device—a digital field notebook that can seamlessly integrate handwriting, text, audio, and visual data into a cohesive workflow. However, without a deliberate system, an iPad quickly devolves into an expensive media consumption device rather than a [productivity](/posts/zettelkasten-method-explained/) engine.
 
@@ -71,7 +71,7 @@ More importantly, every highlight or note you make within Reader automatically s
 
 For handwritten notes, diagrams, and document scanning, Apple Notes has become incredibly robust. Its deep integration with iPadOS—specifically the ability to swipe up from the bottom right corner with the Apple Pencil to immediately start a Quick Note—makes it the lowest-friction option for visual capture.
 
-If you require more structured notebooks, PDF templates, and advanced organization for handwritten content, GoodNotes remains a top-tier choice. However, remember the golden rule: anything captured here must eventually be processed and linked to your main system.
+If you require more structured notebooks, PDF templates, and advanced [organization](/posts/steps-to-building-a-second-brain/) for handwritten content, GoodNotes remains a top-tier choice. However, remember the golden rule: anything captured here must eventually be processed and linked to your main system.
 
 ### Task Capture: Things 3 or Todoist
 
@@ -132,7 +132,7 @@ Building a mobile information capture system for iPad transforms the device from
 ## Frequently Asked Questions
 
 ### Which iPad model is best for a purely mobile capture workflow?
-The iPad mini (6th Generation or later) is generally the best choice for pure mobile capture. Its compact 8.3-inch size makes it easy to handle in one hand, it supports the Apple Pencil 2 for instant note-taking, and it fits into almost any bag, reducing the barrier to pulling it out when an idea strikes.
+The iPad mini (6th Generation or later) is generally the best choice for pure mobile capture. Its compact 8.3-inch size makes it easy to handle in one hand, it supports the Apple Pencil 2 for instant [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/), and it fits into almost any bag, reducing the barrier to pulling it out when an idea strikes.
 
 ### Do I really need to use Drafts instead of Apple Notes for text?
 While Apple Notes is excellent, Drafts is vastly superior for rapid text capture because it opens directly to a blank keyboard screen instantly. It acts as a routing station, allowing you to capture the text first and decide later whether it should be a text message, an email, or a Markdown file in your notes app.

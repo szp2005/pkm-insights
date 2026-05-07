@@ -15,11 +15,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Johnny Decimal system for organizing digital files is a rigorous folder classification method that uses short numeric codes (e.g., `12.03`) to categorize information. It eliminates deep folder nesting by forcing all files into exactly 10 broad areas, each containing up to 10 subcategories, and a final two-digit ID, allowing you to locate any document instantly via search or direct navigation.
 
-Navigating a hard drive filled with deeply nested folders, vaguely named files, and duplicate directories is a massive drain on daily productivity. Most default approaches to digital organization rely on organic growth: you create a folder when you need it, put files inside it, and eventually create subfolders when the parent folder becomes too crowded. Over several years, this creates an unnavigable labyrinth where finding a specific tax document or project brief requires relying heavily on imperfect operating system search functions.
+Navigating a hard drive filled with deeply nested folders, vaguely named files, and duplicate directories is a massive drain on daily [productivity](/posts/knowledge-management-strategies-for-students/). Most default approaches to digital organization rely on organic growth: you create a folder when you need it, put files inside it, and eventually create subfolders when the parent folder becomes too crowded. Over several years, this creates an unnavigable labyrinth where finding a specific tax document or project brief requires relying heavily on imperfect operating system search functions.
 
 The Johnny Decimal system, created by John Noble, offers an alternative. It is an artificial constraint applied to your file system that prioritizes logical grouping, fixed depth, and rapid retrieval. By assigning a specific numeric code to every folder and file, the system bridges the gap between human memory and machine sorting algorithms. You no longer have to remember *where* you put a file; you only need to know its number.
 
-This guide details exactly how to implement the Johnny Decimal system for organizing digital files, structured for modern workflows across local storage, cloud drives, and personal knowledge management databases.
+This guide details exactly how to implement the Johnny Decimal system for organizing digital files, structured for modern workflows across local storage, cloud drives, and [personal knowledge management](/posts/digital-decluttering-for-information-overload/) databases.
 
 ## How the Johnny Decimal Architecture Works
 
@@ -137,7 +137,7 @@ Users of software like Obsidian, Notion, or Roam Research often use Johnny Decim
 *   `20-29: Learning & Courses`
     *   `21: Web Development Bootcamps`
     *   `22: Language Studies`
-*   `30-39: Zettelkasten / Permanent Notes`
+*   `30-39: [Zettelkasten](/posts/zettelkasten-method-explained/) / Permanent Notes`
     *   `31: Technology`
     *   `32: Philosophy`
 

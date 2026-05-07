@@ -26,11 +26,11 @@ Before exploring the technical execution, it is crucial to understand *why* conn
 1.  **Fostering Serendipity:** Connections breed serendipity. By linking seemingly unrelated concepts, you create an environment where unexpected insights and innovative ideas emerge naturally.
 2.  **Enhancing Recall:** The brain remembers through association. A networked knowledge base mirrors this cognitive process, making it significantly easier to retrieve information when you need it.
 3.  **Building Compound Knowledge:** Isolated notes stagnate. Connected notes compound in value. Each new link adds context and depth, making the entire system more robust over time.
-4.  **Exposing Gaps:** Visualizing the connections (or lack thereof) highlights gaps in your understanding, guiding your future research and reading.
+4.  **Exposing Gaps:** Visualizing the connections (or lack thereof) highlights gaps in your understanding, guiding your future [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and reading.
 
 ## Core Mechanisms for Connecting Ideas in Obsidian
 
-Obsidian provides several native mechanisms to weave your knowledge web. Mastering these tools is the cornerstone of effective PKM.
+Obsidian provides several native mechanisms to weave your knowledge web. Mastering these [tools](/posts/personal-knowledge-management-tools-comparison/) is the cornerstone of effective PKM.
 
 ### 1. Bidirectional Linking: The Engine of Connection
 
@@ -63,7 +63,7 @@ As your vault grows, relying solely on organic links can lead to a messy, unnavi
 Sometimes, you don't need to link to an entire note; you only need to reference a specific paragraph or idea.
 
 *   **Block References:** Obsidian allows you to link directly to a specific block of text (like a paragraph or a list item) within another note. You do this by typing `[[Note Title^` and selecting the block from the dropdown menu.
-*   **Transclusion (Embedding):** Transclusion takes linking a step further by embedding the content of the linked note (or block) directly into the current note. You add an exclamation mark before the link: `![[Note Title]]` or `![[Note Title^block-id]]`. This is incredibly powerful for compiling research or drafting long-form content from atomic notes.
+*   **Transclusion (Embedding):** Transclusion takes linking a step further by embedding the content of the linked note (or block) directly into the current note. You add an exclamation mark before the link: `![[Note Title]]` or `![[Note Title^block-id]]`. This is incredibly powerful for compiling research or drafting long-form content from [atomic notes](/posts/atomic-notes-writing-guide/).
 
 ## Advanced Strategies for Meaningful Connections
 

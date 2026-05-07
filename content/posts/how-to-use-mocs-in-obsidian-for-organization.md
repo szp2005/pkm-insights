@@ -27,7 +27,7 @@ A Map of Content is exactly what it sounds like: a note whose primary purpose is
 
 To understand the value of an MOC, it helps to look at the limitations of default organizational [tools](/posts/personal-knowledge-management-tools-comparison/):
 
-- **Folders** enforce strict hierarchy. A note can only live in one place. If you have a note on "Machine Learning in Healthcare," does it go in your "Tech" folder or your "Medicine" folder? Folders force premature categorization.
+- **Folders** enforce strict hierarchy. A note can only live in one place. If you have a note on "Machine [Learning](/posts/how-to-remember-what-you-read-effectively/) in Healthcare," does it go in your "Tech" folder or your "Medicine" folder? Folders force premature categorization.
 - **Tags** offer flexibility but lack context. A `#machine-learning` tag might bring up 150 notes, but it doesn't tell you how those notes relate to one another or which ones are the most important foundational texts.
 - **MOCs** provide curated context. An MOC allows you to group notes logically, add explanatory text explaining *why* they are grouped, and link a single note to multiple different MOCs without duplicating files. 
 
@@ -117,7 +117,7 @@ The most efficient way to maintain MOCs is to update them precisely when you int
 
 ### Periodic reviews
 
-For larger vaults, rely on a weekly or monthly review. You can create a query in Obsidian using the core Search plugin or the Dataview community plugin to find "orphaned notes" (notes with no links) or notes created in the last 7 days. 
+For larger vaults, rely on a weekly or monthly review. You can create a query in Obsidian using the core Search plugin or the [Dataview](/posts/obsidian-dataview-snippets-for-book-trackers/) community plugin to find "orphaned notes" (notes with no links) or notes created in the last 7 days. 
 
 During your review session, quickly skim these new notes and drop their links into the appropriate MOCs. If a note does not fit anywhere, it might be the seed of a future MOC, or it might just be a standalone thought. Not every note requires an MOC, but every highly valuable note should eventually find its way into one.
 
@@ -146,7 +146,7 @@ This query automatically lists all notes tagged `#software-engineering` that hav
 
 If you are a visual thinker, Obsidian's core Canvas feature provides an excellent alternative to text-based MOCs. You can drag and drop notes onto an infinite spatial canvas, group them into colored boxes, and draw connecting arrows.
 
-A Canvas MOC is particularly useful for planning writing projects, mapping out complex architectures, or studying historical timelines where spatial relationship matters more than a linear list. You can easily link to a Canvas file from your Home MOC just as you would a standard markdown text file.
+A Canvas MOC is particularly useful for planning [writing](/posts/atomic-notes-writing-guide/) projects, mapping out complex architectures, or studying historical timelines where spatial relationship matters more than a linear list. You can easily link to a Canvas file from your Home MOC just as you would a standard markdown text file.
 
 ## Practical advice for MOC organization
 

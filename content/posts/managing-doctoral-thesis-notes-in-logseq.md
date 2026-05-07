@@ -17,13 +17,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 The doctoral journey produces an overwhelming volume of disconnected information. Between peer-reviewed journal articles, archival documents, laboratory results, and fleeting midnight epiphanies, the sheer mass of data often becomes a barrier to writing rather than a foundation for it. Traditional folder-based systems fail because they force a rigid hierarchy on ideas that naturally overlap. When you place a paper in a folder labeled "Chapter 2," you artificially isolate it from connections it might have with "Chapter 5."
 
-Logseq fundamentally shifts this paradigm. As a privacy-first, local-only, outliner-based [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool, it excels at handling the non-linear, messy nature of academic research. Instead of organizing files, you organize blocks of thought. 
+Logseq fundamentally shifts this paradigm. As a [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first, local-only, outliner-based [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool, it excels at handling the non-linear, messy nature of academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/). Instead of organizing files, you organize blocks of thought. 
 
 This guide details a comprehensive, scalable system for managing doctoral thesis notes in Logseq, from the initial literature review to the final synthesis of your dissertation chapters.
 
 ## The Block-Level Advantage for Academic Research
 
-Most note-taking applications operate at the document level. If you want to reference a specific argument from a 30-page paper, you link to the entire note containing your summary of that paper. Logseq operates on an outliner model where every bullet point is an individual block with its own unique identifier.
+Most [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) applications operate at the document level. If you want to reference a specific argument from a 30-page paper, you link to the entire note containing your summary of that paper. Logseq operates on an outliner model where every bullet point is an individual block with its own unique identifier.
 
 For a thesis, this structural difference is transformative. You can write a synthesis paragraph in a concept note and embed a specific bullet point—a single block—from your reading notes. If you update the block in your reading notes, it updates in your synthesis automatically. This ensures your claims remain strictly tied to your evidence. 
 

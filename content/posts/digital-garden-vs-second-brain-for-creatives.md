@@ -60,7 +60,7 @@ While both systems can be kept entirely private, digital gardens have a strong t
 
 ## Top Tools for Building Your Knowledge System
 
-The software you choose will heavily dictate the framework you adopt. Here is a breakdown of the best tools currently available for implementing these systems.
+The [software](/posts/best-apps-for-personal-knowledge-management/) you choose will heavily dictate the framework you adopt. Here is a breakdown of the best tools currently available for implementing these systems.
 
 ### 1. Obsidian
 
@@ -124,7 +124,7 @@ Logseq combines the privacy of Obsidian's local markdown files with the fluid, b
 **Pros:**
 - Fully open-source architecture with a strong focus on data privacy
 - Excellent daily journal and block-referencing workflow out of the box
-- Built-in PDF annotation and spaced repetition flashcard capabilities
+- Built-in PDF annotation and [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) flashcard capabilities
 
 **Cons:**
 - Syncing between mobile and desktop platforms can occasionally be buggy
@@ -142,7 +142,7 @@ When designing your system, prioritize friction reduction. If you find yourself 
 
 The debate between a digital garden vs second brain for creatives ultimately comes down to your primary bottleneck. If your struggle is execution—missing deadlines, losing track of client assets, or failing to push projects across the finish line—you need the rigorous, action-oriented structure of a Second Brain. 
 
-However, if your bottleneck is ideation—staring at blank pages, struggling to connect disparate concepts, or losing brilliant thoughts because they didn't fit into a current project—you should cultivate a Digital Garden. By choosing the architecture that supports your natural cognitive tendencies, you transform your note-taking system from a passive storage locker into an active partner in your creative process.
+However, if your bottleneck is ideation—staring at blank pages, struggling to connect disparate concepts, or losing brilliant thoughts because they didn't fit into a current project—you should cultivate a Digital Garden. By choosing the architecture that supports your natural cognitive tendencies, you transform your [note-taking](/posts/digital-garden-vs-second-brain-difference/) system from a passive storage locker into an active partner in your creative process.
 
 ## Frequently Asked Questions
 

@@ -23,7 +23,7 @@ At its core, every line of text in Tana is a node. In traditional [note-taking](
 
 Think of a Supertag as a class in object-oriented programming, or a highly advanced template. When you assign a Supertag to a node by typing `@`, you apply a predefined set of fields and characteristics to it. For example, applying the `@person` Supertag to the name "Jane Doe" might automatically generate fields for Email, Company, and Last Contact Date. 
 
-This approach solves the primary problem of traditional database tools like [Notion](/posts/what-is-personal-knowledge-management/), where information is locked inside specific tables. In Tana, information lives anywhere—most commonly on your daily page—and the Supertag dictates how that information is formatted and retrieved. This bottom-up structure allows you to capture ideas at the speed of thought without context switching.
+This approach solves the primary problem of traditional database [tools](/posts/personal-knowledge-management-tools-comparison/) like [Notion](/posts/what-is-personal-knowledge-management/), where information is locked inside specific tables. In Tana, information lives anywhere—most commonly on your daily page—and the Supertag dictates how that information is formatted and retrieved. This bottom-up structure allows you to capture ideas at the speed of thought without context switching.
 
 ## Setting Up Your First Supertag
 
@@ -66,12 +66,12 @@ By default, Tana displays search results as a simple list. However, because your
 
 ## Practical Tana Supertag Architectures for Beginners
 
-When starting out, it is tempting to create a tag for everything. This leads to friction and tag fatigue. Instead, focus on a few core architectures that provide immediate value.
+When starting out, it is tempting to create a tag for everything. This leads to friction and tag fatigue. Instead, [focus](/posts/managing-digital-information-overload-tips/) on a few core architectures that provide immediate value.
 
 ### The CRM Configuration
 Managing contacts is a perfect use case for Supertags. 
 Create a `@person` tag with fields: `Email` (URL field), `Company` (Node field linked to an `@company` tag), and `Relationship Strength` (Number or Options field).
-Whenever you have a meeting, you simply tag the attendees on your daily page with `@person`. You never have to open a separate "Contacts" database to add them; they are integrated directly into your workflow.
+Whenever you have a meeting, you simply tag the attendees on your daily page with `@person`. You never have to open a separate "Contacts" database to add them; they are integrated directly into your [workflow](/posts/using-the-para-method-in-google-drive/).
 
 ### The Meeting Notes System
 Meetings generate actionable data that often gets lost in long text documents.

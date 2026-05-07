@@ -23,7 +23,7 @@ This guide breaks down exactly how to use Tana commands for automated data proce
 
 ## Understanding the Tana Command Architecture
 
-Before building complex [workflows](/posts/getting-things-done-for-knowledge-workers/), it is necessary to understand how Tana structures its automation capabilities. Tana does not rely on traditional folder structures; everything is a node, and nodes are defined by Supertags. Commands live natively within this ecosystem.
+Before building complex [workflows](/posts/getting-things-done-for-knowledge-workers/), it is necessary to understand how Tana structures its [automation](/posts/self-healing-knowledge-base-principles/) capabilities. Tana does not rely on traditional folder structures; everything is a node, and nodes are defined by Supertags. Commands live natively within this ecosystem.
 
 ### Where Commands Live
 Commands in Tana are typically housed in two places:
@@ -62,7 +62,7 @@ Furthermore, the `Make API Request` command allows Tana to send and receive JSON
 
 ## Building Your First Automated Data Pipeline
 
-To demonstrate how these commands work together, let us build a standard pipeline: processing raw web clippings into structured research assets.
+To demonstrate how these commands work together, let us build a standard pipeline: processing raw web clippings into structured [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) assets.
 
 ### Step 1: Define the Ingestion Supertag
 Create a `#clipping` Supertag. Give it fields for `URL`, `Author`, `Summary`, and `Status` (defaulting to 'Unprocessed').
@@ -74,7 +74,7 @@ Within the `#clipping` Supertag configuration, navigate to the Commands section 
 Configure the `Process Article` command to execute the following sequence:
 1. **Ask AI:** Read the `URL` (using Tana's native web reading capabilities) and generate a 3-bullet summary.
 2. **Set Field:** Target the `Summary` field and insert the result from the AI step.
-3. **Set Field:** Target the `Status` field and change it from 'Unprocessed' to 'Ready for Review'.
+3. **Set Field:** Target the `Status` field and change it from 'Unprocessed' to 'Ready for [Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/)'.
 4. **Move Node:** Send the structured node to your `#research-database`.
 
 By typing Cmd/Ctrl + K and selecting `Process Article`, Tana handles four distinct administrative steps in roughly two seconds, completely automating the structural data processing.

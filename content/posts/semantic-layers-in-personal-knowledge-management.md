@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** A semantic layer in personal knowledge management (PKM) is an invisible structural framework that adds machine-readable metadata and explicit relationships to your notes. By using typed links, properties, and ontologies, it transforms a flat collection of text files into a queryable, interconnected database where the relationships between ideas are explicitly defined.
 
-The digital [note-taking](/posts/zettelkasten-method-explained/) landscape has evolved from hierarchical folders to networked graphs, yet many users still struggle to retrieve the exact information they need when they need it. A vault of 5,000 interlinked Markdown files might look impressive in a graph view, but without structured relationships, it is merely a dense thicket of text. Finding the connection between a project management concept and a specific piece of software often relies on memory or exact keyword matches.
+The digital [note-taking](/posts/zettelkasten-method-explained/) landscape has evolved from hierarchical folders to networked graphs, yet many users still struggle to retrieve the exact information they need when they need it. A vault of 5,000 interlinked Markdown files might look impressive in a graph view, but without structured relationships, it is merely a dense thicket of text. Finding the connection between a [project management](/posts/tana-supertags-for-project-managers-download/) concept and a specific piece of software often relies on memory or exact keyword matches.
 
 This is where semantic layers bridge the gap. By explicitly defining the nature of the connections between your notes—rather than just noting that a connection exists—you upgrade your personal knowledge system from a passive storage repository to an active, relational database. 
 
@@ -73,7 +73,7 @@ Transitioning from a flat text system to a semantic knowledge base requires a sy
 ### 1. Define Your Core Entity Types
 Begin by identifying the fundamental categories of information you manage. Most knowledge workers operate with 5 to 10 primary entity types. Common examples include:
 - `Person`
-- `Organization`
+- `[Organization](/posts/steps-to-building-a-second-brain/)`
 - `Project`
 - `Source` (Books, Articles, Podcasts)
 - `Concept` (Evergreen notes, atomic ideas)
@@ -112,7 +112,7 @@ By investing the time to define your ontologies and structure your metadata toda
 A tag is an unstructured label applied to the body of a note, useful for broad categorization but prone to inconsistencies. A property is a structured key-value pair defined in the note's metadata, enabling precise database-style queries and strict organizational rules.
 
 ### Do I need to know how to code to use a semantic layer?
-No coding experience is required to build the foundational metadata, as most modern PKM tools offer visual property editors. However, constructing advanced, automated dashboards using plugins like Dataview requires learning a basic SQL-like query syntax.
+No coding experience is required to build the foundational metadata, as most modern PKM tools offer visual property editors. However, constructing advanced, automated dashboards using plugins like Dataview requires [learning](/posts/how-to-remember-what-you-read-effectively/) a basic SQL-like query syntax.
 
 ### How many properties should I add to a single note?
 Limit your properties to 4 to 7 highly functional metrics per entity type. Creating dozens of granular properties leads to metadata fatigue, where the friction of filling out the required fields outweighs the utility of the resulting queries.

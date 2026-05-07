@@ -13,11 +13,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Obsidian Local LLM Integration for Privacy: Complete Setup Guide
 
-> **Quick Answer:** Obsidian local LLM integration for privacy involves running open-weights language models directly on your hardware using tools like Ollama or LM Studio, connected via plugins like BMO Chatbot or Text Generator. This guarantees 100% data sovereignty since your notes never leave your machine, requiring at least 16GB of system RAM or an Apple Silicon Mac for optimal performance.
+> **Quick Answer:** Obsidian local LLM integration for privacy involves running open-weights language models directly on your hardware using [tools](/posts/personal-knowledge-management-tools-comparison/) like Ollama or LM Studio, connected via plugins like BMO Chatbot or Text Generator. This guarantees 100% data sovereignty since your notes never leave your machine, requiring at least 16GB of system RAM or an Apple Silicon Mac for optimal performance.
 
 Integrating artificial intelligence into a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) system offers obvious benefits, from synthesizing complex notes to generating structure from scattered thoughts. However, sending highly personal journals, proprietary code, or confidential client notes to cloud providers like OpenAI or Anthropic introduces significant security and privacy risks. 
 
-As open-weights models become increasingly capable, routing your [note-taking](/posts/zettelkasten-method-explained/) workflows through external servers is no longer a strict requirement. Setting up an Obsidian local LLM integration for privacy allows you to retain the analytical power of artificial intelligence while maintaining the core philosophy of local-first [software](/posts/best-apps-for-personal-knowledge-management/). Your vault remains on your machine, and the computing happens on your hardware.
+As open-weights models become increasingly capable, routing your [note-taking](/posts/zettelkasten-method-explained/) [workflows](/posts/getting-things-done-for-knowledge-workers/) through external servers is no longer a strict requirement. Setting up an Obsidian local LLM integration for privacy allows you to retain the analytical power of artificial intelligence while maintaining the core philosophy of [local-first](/posts/anytype-review-local-first-privacy-lovers/) [software](/posts/best-apps-for-personal-knowledge-management/). Your vault remains on your machine, and the computing happens on your hardware.
 
 This guide outlines the exact hardware requirements, engine configurations, and plugin settings necessary to build a completely private, offline AI assistant directly within your Obsidian vault.
 

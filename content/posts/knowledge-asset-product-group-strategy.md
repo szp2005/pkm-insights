@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Knowledge Asset Product Group Strategy: Complete Guide to Monetization
 
-> **Quick Answer:** A Knowledge Asset Product Group strategy is the systematic framework of auditing, categorizing, and packaging an organization's internal intellectual property into distinct, marketable product tiers. It transforms raw expertise, proprietary methodologies, and internal data into scalable revenue streams through structured formats like courses, API access, consulting frameworks, and subscription libraries.
+> **Quick Answer:** A Knowledge Asset Product Group strategy is the systematic framework of auditing, categorizing, and packaging an [organization](/posts/steps-to-building-a-second-brain/)'s internal intellectual property into distinct, marketable product tiers. It transforms raw expertise, proprietary methodologies, and internal data into scalable revenue streams through structured formats like courses, API access, consulting frameworks, and subscription libraries.
 
 Organizations continuously generate intellectual property. Frameworks, templates, proprietary data models, and operational playbooks are created daily to solve internal problems. However, most companies view these assets merely as cost centers or operational exhaust. They remain siloed within departments, utilized once, and subsequently forgotten. 
 
@@ -47,7 +47,7 @@ If your organization processes significant volume in any sector, the aggregated,
 This involves translating internal onboarding or specialized skills into external educational products. Examples include asynchronous video courses, cohort-based training programs, and certification tracks. Structured curriculum transitions passive information into active skill acquisition. It requires higher production value but commands significantly higher price points than static methodologies.
 
 ### 4. Tooling and Calculators (The Software)
-Often, internal teams build lightweight calculators, scripts, or rudimentary software to automate their own workflows. These internal tools can be polished, wrapped in a basic user interface, and licensed as SaaS products or one-time utility purchases. Examples include ROI calculators, code libraries, or specialized API endpoints.
+Often, internal teams build lightweight calculators, scripts, or rudimentary software to automate their own [workflows](/posts/getting-things-done-for-knowledge-workers/). These internal tools can be polished, wrapped in a basic user interface, and licensed as SaaS products or one-time utility purchases. Examples include ROI calculators, code libraries, or specialized API endpoints.
 
 ## How to Audit and Categorize Intellectual Property
 
@@ -108,7 +108,7 @@ A standard digital download is often a single, static document like an ebook. A 
 If the internal IP is well-documented, the process of auditing, abstracting, and packaging the first entry-level and mid-tier assets typically takes 6 to 8 weeks. The majority of this time is spent on productizing the delivery mechanism and writing the sales copy, rather than creating the underlying content.
 
 ### Do we need specialized software to host these assets?
-For entry-level tiers, simple digital delivery platforms like Gumroad or standard Shopify setups are sufficient. For structured curriculum or enterprise tiers, learning management systems (LMS) like Teachable, or custom-gated portals using tools like Memberstack or Outseta, provide the necessary access control and user experience.
+For entry-level tiers, simple digital delivery platforms like Gumroad or standard Shopify setups are sufficient. For structured curriculum or enterprise tiers, [learning](/posts/how-to-remember-what-you-read-effectively/) management systems (LMS) like Teachable, or custom-gated portals using tools like Memberstack or Outseta, provide the necessary access control and user experience.
 
 ### How do we protect our intellectual property once it is sold?
 While standard copyright notices and terms of service are necessary, you cannot technically prevent a determined buyer from sharing a PDF. The real protection lies in the product group structure. You protect the IP by constantly updating the mid-tier assets, requiring license keys for tools, and pairing high-level frameworks with gated community access that cannot be copied.

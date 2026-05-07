@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** To migrate from Evernote to Obsidian in 2026, first export your Evernote notebooks as ENEX files using the desktop application. Then, install Obsidian, create a new local vault, and use the official Obsidian Importer plugin to automatically convert your ENEX files into Markdown notes while preserving attachments and metadata. 
 
-The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) has shifted fundamentally over the past few years. As cloud-based subscription models become increasingly expensive and restrictive, many users are looking for alternatives that offer local storage, data ownership, and format longevity. If you have spent years building a digital brain in Evernote, the idea of moving thousands of notes might feel daunting, but the tools available today have made the process remarkably straightforward.
+The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) has shifted fundamentally over the past few years. As cloud-based subscription models become increasingly expensive and restrictive, many users are looking for alternatives that offer local storage, data ownership, and format longevity. If you have spent years building a digital brain in Evernote, the idea of moving thousands of notes might feel daunting, but the [tools](/posts/personal-knowledge-management-tools-comparison/) available today have made the process remarkably straightforward.
 
 Migrating your note-keeping system is not just about changing [software](/posts/best-apps-for-personal-knowledge-management/); it is about taking control of your data. Evernote relies on a proprietary database structure and cloud synchronization. Obsidian, conversely, operates on a local folder of plain text Markdown files. This fundamental difference means your data will remain accessible decades from now, independent of any specific application or corporate server.
 
@@ -139,7 +139,7 @@ Migrating a massive database will inevitably surface edge cases. Here are concre
 
 ## Conclusion
 
-Learning how to migrate from Evernote to Obsidian in 2026 requires methodical preparation and a willingness to adapt to a file-based workflow. By meticulously exporting your ENEX files and utilizing the official Importer plugin, you can transfer your entire knowledge base securely and accurately. While the initial setup demands a few hours of configuration, the reward is total ownership of your data, complete privacy, and an application environment that you can customize to fit your exact cognitive style.
+[Learning](/posts/how-to-remember-what-you-read-effectively/) how to migrate from Evernote to Obsidian in 2026 requires methodical preparation and a willingness to adapt to a file-based workflow. By meticulously exporting your ENEX files and utilizing the official Importer plugin, you can transfer your entire knowledge base securely and accurately. While the initial setup demands a few hours of configuration, the reward is total ownership of your data, complete privacy, and an application environment that you can customize to fit your exact cognitive style.
 
 ## Frequently Asked Questions
 
@@ -164,5 +164,5 @@ Yes, but maintaining two active knowledge bases leads to fragmentation. It is re
 
 - [Building a Mobile Information Capture System for iPad: Complete Guide](/posts/building-a-mobile-information-capture-system-for-ipad/)
 
-- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

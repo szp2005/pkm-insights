@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Anytype vs Obsidian: Best Local-First Knowledge Management?
 
-> **Quick Answer:** For pure local-first knowledge management, choose Obsidian if you demand plain-text markdown, absolute longevity, and infinite customization via plugins. Choose Anytype if you prefer a highly visual, object-based architecture akin to an offline, privacy-focused Notion out of the box with zero configuration required.
+> **Quick Answer:** For pure local-first knowledge management, choose Obsidian if you demand plain-text markdown, absolute longevity, and infinite customization via plugins. Choose Anytype if you prefer a highly visual, object-based architecture akin to an offline, [privacy](/posts/anytype-review-local-first-privacy-lovers/)-focused [Notion](/posts/personal-knowledge-management-tools-comparison/) out of the box with zero configuration required.
 
 The shift toward privacy and data ownership has fundamentally transformed how we approach [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM). Relying on cloud-native solutions that hold your [second brain](/posts/what-is-personal-knowledge-management/) hostage behind subscription paywalls or opaque privacy policies is no longer the only option. Instead, the local-first software movement has gained massive momentum, ensuring that the device in your hands acts as the primary source of truth.
 
@@ -37,7 +37,7 @@ Anytype takes a different approach, leaning heavily into a graph-based, object-o
 **Price:** Free for personal use, $50/user/year for commercial use
 **Rating:** 4.8/5
 
-Obsidian has established itself as the gold standard for text-based personal knowledge management. Because it functions as an Integrated Development Environment (IDE) for your thoughts, its blank-slate nature allows you to construct workflows ranging from simple daily journaling to complex academic [Zettelkasten](/posts/zettelkasten-method-explained/) systems. The software is exceptionally lightweight, opening massive vaults containing tens of thousands of text files in mere milliseconds. 
+Obsidian has established itself as the gold standard for text-based personal knowledge management. Because it functions as an Integrated Development Environment (IDE) for your thoughts, its blank-slate nature allows you to construct [workflows](/posts/getting-things-done-for-knowledge-workers/) ranging from simple daily journaling to complex academic [Zettelkasten](/posts/zettelkasten-method-explained/) systems. The software is exceptionally lightweight, opening massive vaults containing tens of thousands of text files in mere milliseconds. 
 
 The true power of Obsidian lies in its community. With over 1,500 community plugins and hundreds of custom themes, you can bolt on functionality as needed. Want a visual kanban board? There is a plugin for that. Need to execute Python scripts directly inside your notes or query your notes like a SQL database? Plugins like Dataview make it possible. However, this level of freedom means you are responsible for building your own system, which can easily lead to procrastination through endless tweaking.
 

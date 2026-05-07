@@ -25,7 +25,7 @@ The landscape of AI meeting assistants has shifted dramatically over the past th
 
 Today's automated note-taking tools for Zoom meetings operate autonomously. They join meetings as silent participants or function via API integrations on the backend, process multi-channel audio to perfectly isolate speakers, and use advanced large language models to generate contextual summaries rather than rigid transcripts. 
 
-The standard baseline features you should now expect from any enterprise-grade tool include automated joining capabilities, real-time transcription, multi-language support, automatic extraction of action items, and integrations with platforms like Slack, Salesforce, HubSpot, and [Notion](/posts/what-is-personal-knowledge-management/). The differentiators now lie in how effectively these tools fit into specialized workflows for sales teams, product managers, or engineering departments.
+The standard baseline features you should now expect from any enterprise-grade tool include automated joining capabilities, real-time transcription, multi-language support, automatic extraction of action items, and integrations with platforms like Slack, Salesforce, HubSpot, and [Notion](/posts/what-is-personal-knowledge-management/). The differentiators now lie in how effectively these tools fit into specialized [workflows](/posts/getting-things-done-for-knowledge-workers/) for sales teams, product managers, or engineering departments.
 
 ## Top Automated Note-Taking Tools for Zoom Meetings
 
@@ -83,7 +83,7 @@ The AI Companion is included at no additional cost with paid Zoom accounts. It p
 * **In-meeting queries:** The ability for users to privately ask the AI, "Was my name mentioned while I was away?" is a unique and highly practical feature.
 
 **Limitations:**
-* Lacks the deep third-party integration ecosystem of dedicated tools. The post-meeting organization and search capabilities are less robust than platforms like Otter or Fireflies.
+* Lacks the deep third-party integration ecosystem of dedicated tools. The post-meeting [organization](/posts/steps-to-building-a-second-brain/) and search capabilities are less robust than platforms like Otter or Fireflies.
 
 ### Supernormal: Best for Managers and Asynchronous Teams
 
@@ -154,5 +154,5 @@ Not necessarily. Tools like Fathom offer incredibly generous free tiers that inc
 
 ## Related Reading
 
-- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

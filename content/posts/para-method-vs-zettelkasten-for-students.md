@@ -23,7 +23,7 @@ Choosing the right system can mean the difference between scrambling the night b
 
 ## Understanding the Core Philosophies
 
-Before diving into the mechanics, it is essential to understand the underlying philosophy of each framework. Note-taking systems are not just storage cabinets; they dictate how you interact with information.
+Before diving into the mechanics, it is essential to understand the underlying philosophy of each framework. [Note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) systems are not just storage cabinets; they dictate how you interact with information.
 
 The **PARA method**, popularized by Tiago Forte in his "Building a [Second Brain](/posts/what-is-personal-knowledge-management/)" framework, is a top-down organizational system. It categorizes information based on its *actionability*. When you save a document, you do not ask "What is this about?" Instead, you ask "In which project will I use this next?" This shifts the focus from hoarding information to executing tasks, making it a highly pragmatic approach to digital organization.
 
@@ -82,7 +82,7 @@ For business, law, or marketing students, the choice often depends on the specif
 
 ## Practical Advice: How to Implement Them Using Modern Tools
 
-Setting up these systems requires the right software. Attempting to build a Zettelkasten in Microsoft Word is a recipe for disaster, just as using a complex graphing tool for PARA might be overkill.
+Setting up these systems requires the right [software](/posts/best-apps-for-personal-knowledge-management/). Attempting to build a Zettelkasten in Microsoft Word is a recipe for disaster, just as using a complex graphing tool for PARA might be overkill.
 
 ### Implementing the PARA Method
 Because PARA is folder-based, it is highly tool-agnostic. You can set it up natively on your Mac Finder or Windows File Explorer. However, for note-taking, tools like **Notion**, **Evernote**, or **Apple Notes** shine here. 
@@ -91,7 +91,7 @@ Because PARA is folder-based, it is highly tool-agnostic. You can set it up nati
 - Once the paper is submitted or the exam is over, immediately drag that folder into "Archives." This keeps your workspace fiercely clean and focused strictly on the present.
 
 ### Implementing the Zettelkasten System
-Zettelkasten requires bidirectional linking—the ability to link Note A to Note B, and have Note B automatically show that Note A is pointing to it. Standard folder-based apps fail here. You must use networked thought tools like **Obsidian**, **Roam Research**, or **Logseq**.
+Zettelkasten requires bidirectional linking—the ability to link Note A to Note B, and have Note B automatically show that Note A is pointing to it. Standard folder-based apps fail here. You must use networked thought tools like **[Obsidian](/posts/personal-knowledge-management-tools-comparison/)**, **Roam Research**, or **Logseq**.
 - When reading a textbook, take rough "fleeting notes."
 - Within 24 hours, translate these into "permanent notes." Give each note a descriptive title (e.g., "Inflation Disproportionately Impacts Fixed-Income Households").
 - Write 3-4 sentences in your own words. Do not copy and paste.

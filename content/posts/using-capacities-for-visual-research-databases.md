@@ -97,13 +97,13 @@ Utilize the "Relation" property heavily. Instead of typing an artist's name as a
 
 ## Advanced Techniques for Visual Thinkers
 
-Once your foundation is built, Capacities offers advanced workflows that elevate visual research from passive storage to active synthesis.
+Once your foundation is built, Capacities offers advanced [workflows](/posts/getting-things-done-for-knowledge-workers/) that elevate visual research from passive storage to active synthesis.
 
 ### Using the Graph View for Discovery
 
 The Graph View in Capacities is an excellent tool for visual researchers. Because you have explicitly linked your images to concepts, people, and projects, the graph provides a macroscopic view of your research clusters. 
 
-If you notice a dense cluster of connections between seemingly disparate visual assets, it often indicates a thematic intersection worth writing about or exploring further. You can filter the graph view to show only specific Object Types—for example, filtering to show only "Historical Photographs" and "Topics" to see which historical periods have the most visual coverage in your database.
+If you notice a dense cluster of connections between seemingly disparate visual assets, it often indicates a thematic intersection worth [writing](/posts/atomic-notes-writing-guide/) about or exploring further. You can filter the graph view to show only specific Object Types—for example, filtering to show only "Historical Photographs" and "Topics" to see which historical periods have the most visual coverage in your database.
 
 ### Leveraging Daily Notes for Visual Journaling
 
@@ -121,7 +121,7 @@ If you edit images heavily in [software](/posts/best-apps-for-personal-knowledge
 
 ## Conclusion
 
-Using Capacities for visual research databases shifts the focus from merely hoarding images to actively cultivating a visual knowledge graph. By abandoning rigid folders in favor of defined Object Types, structured metadata, and bidirectional links, you create a system that scales gracefully with your research. 
+Using Capacities for visual research databases shifts the [focus](/posts/managing-digital-information-overload-tips/) from merely hoarding images to actively cultivating a visual knowledge graph. By abandoning rigid folders in favor of defined Object Types, structured metadata, and bidirectional links, you create a system that scales gracefully with your research. 
 
 The initial setup requires deliberate thought regarding taxonomies and properties, but the return on investment is a resilient, searchable, and infinitely browsable database. Whether you are archiving historical blueprints, curating UI design patterns, or mapping out an art history thesis, Capacities provides the structural rigor required to turn scattered visuals into cohesive insights.
 

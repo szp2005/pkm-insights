@@ -25,7 +25,7 @@ A PKM system is not just a collection of notes or a digital filing cabinet. It i
 
 At its foundation, personal knowledge management relies on a simple premise: your biological brain is optimized for generating ideas, not storing them. 
 
-When you read a book or attend a seminar, the goal should not be to memorize the content. The goal is to capture the resonance—the specific insights that triggered an emotional or intellectual reaction—and secure them in a trusted external system. Once secured, your mind is free to [focus](/posts/digital-decluttering-for-information-overload/) on critical thinking and deep work, knowing that the information is safely stored and easily retrievable.
+When you read a book or attend a seminar, the goal should not be to memorize the content. The goal is to capture the resonance—the specific insights that triggered an emotional or intellectual reaction—and secure them in a trusted external system. Once secured, your mind is free to [focus](/posts/digital-decluttering-for-information-overload/) on critical thinking and [deep work](/posts/four-layer-stack-for-pkm-optimization/), knowing that the information is safely stored and easily retrievable.
 
 This external system operates on the principle of compound interest. A single note taken today might seem insignificant. However, a repository of 500 interconnected notes accumulated over a year becomes an incredibly powerful engine for problem-solving, writing, and decision-making. The value of a PKM system grows exponentially as the number of connections between your ideas increases.
 
@@ -118,7 +118,7 @@ A system dies without maintenance. Block out 30 minutes every Friday afternoon t
 When importing highlights from Kindle or articles, never leave them as raw quotes. Always write a one-to-two sentence summary in your own words at the top of the note. This forces cognitive engagement. If you cannot summarize the highlight, you do not truly understand it, and it will be useless to your future self.
 
 ### 4. Adopt the "Atomic" Rule
-Keep your notes small and focused. If a note about "SEO Strategy" starts discussing "Content Writing Workflows," split it into two separate notes and link them together. Atomic notes are modular; they can be recombined into different outputs easily. Long, monolithic notes become graveyards of text.
+Keep your notes small and focused. If a note about "SEO Strategy" starts discussing "Content Writing [Workflows](/posts/getting-things-done-for-knowledge-workers/)," split it into two separate notes and link them together. Atomic notes are modular; they can be recombined into different outputs easily. Long, monolithic notes become graveyards of text.
 
 ## Conclusion
 
@@ -130,7 +130,7 @@ Personal knowledge management is the defining skill of the modern information ec
 There is no practical difference; they are terms for the same concept. "Second brain" is a colloquial term popularized by author Tiago Forte to describe the digital implementation of a Personal Knowledge Management methodology.
 
 ### Which is the best app for personal knowledge management?
-There is no single best app, only the best app for your cognitive style. Obsidian is currently the industry standard for privacy (local storage) and offline text linking, while Notion excels at visual databases and structured project management. Start with whichever tool feels most intuitive to you.
+There is no single best app, only the best app for your cognitive style. Obsidian is currently the industry standard for [privacy](/posts/anytype-review-local-first-privacy-lovers/) (local storage) and offline text linking, while Notion excels at visual databases and structured project management. Start with whichever tool feels most intuitive to you.
 
 ### How much time does it take to maintain a PKM system?
 A well-designed system saves time rather than consumes it. Daily capture takes seconds. Processing and organizing your notes during a structured weekly review should take no more than 20 to 30 minutes.

@@ -11,11 +11,11 @@ type: "informational"
 
 # Implement a GTD System Within Obsidian: 5-Step Guide
 
-> **Quick Answer:** Implementing a GTD (Getting Things Done) system within Obsidian requires creating a dedicated inbox folder for rapid capture, organizing files into projects and areas, and utilizing plugins like Obsidian Tasks and Dataview for querying open loops. By separating your capture, clarification, and execution phases, Obsidian transforms from a static knowledge base into a dynamic, offline-first task manager.
+> **Quick Answer:** Implementing a GTD (Getting Things Done) system within Obsidian requires creating a dedicated inbox folder for rapid capture, organizing files into projects and areas, and utilizing plugins like Obsidian Tasks and [Dataview](/posts/obsidian-dataview-snippets-for-book-trackers/) for querying open loops. By separating your capture, clarification, and execution phases, Obsidian transforms from a static knowledge base into a dynamic, offline-first task manager.
 
 [Personal knowledge management](/posts/digital-decluttering-for-information-overload/) [tools](/posts/personal-knowledge-management-tools-comparison/) often struggle with actionable tasks. You might have thousands of connected notes, yet still miss deadlines because your ideas and your to-dos live in separate silos. The Getting Things Done (GTD) methodology, developed by David Allen, solves this by demanding a trusted system where all open loops are captured, clarified, and organized. 
 
-Obsidian’s plain-text, local-first architecture makes it an exceptional candidate for this trusted system. Because you own the files, your GTD system remains future-proof, entirely customizable, and seamlessly integrated with your existing project reference materials. Setting this up requires intentional structure and a reliance on specific community plugins to bridge the gap between static text and dynamic task management.
+Obsidian’s plain-text, [local-first](/posts/anytype-review-local-first-privacy-lovers/) architecture makes it an exceptional candidate for this trusted system. Because you own the files, your GTD system remains future-proof, entirely customizable, and seamlessly integrated with your existing project reference materials. Setting this up requires intentional structure and a reliance on specific community plugins to bridge the gap between static text and dynamic task management.
 
 ## Step 1: Establish the Folder Structure
 
@@ -145,7 +145,7 @@ Do not create complex tagging taxonomies for contexts (e.g., `#context/phone`, `
 
 ## Conclusion
 
-Building a GTD workflow within Obsidian merges your actionable tasks directly with your reference materials and project notes. By establishing a rigid Inbox, utilizing Obsidian Tasks for granular execution, and deploying Dataview for high-level project tracking, you eliminate the friction of switching between applications. The success of this system relies less on complex code blocks and entirely on your commitment to the daily habit of processing your inbox to zero and identifying the concrete next action for every active project.
+Building a GTD workflow within Obsidian merges your actionable tasks directly with your reference materials and project notes. By establishing a rigid Inbox, utilizing Obsidian Tasks for granular execution, and deploying Dataview for high-level [project tracking](/posts/tana-supertags-for-freelancer-project-tracking/), you eliminate the friction of switching between applications. The success of this system relies less on complex code blocks and entirely on your commitment to the daily habit of processing your inbox to zero and identifying the concrete next action for every active project.
 
 ## Frequently Asked Questions
 

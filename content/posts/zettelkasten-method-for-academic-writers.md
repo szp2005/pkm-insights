@@ -19,7 +19,7 @@ Academic writing is rarely bottlenecked by a lack of ideas or insufficient readi
 
 The traditional hierarchical approach to note-taking—sorting information into rigid folders and subfolders—forces you to decide where an idea belongs before you fully understand its implications. This top-down structure limits serendipity. 
 
-Developed by sociologist Niklas Luhmann, who published over 70 books and 400 scholarly articles during his career, the Zettelkasten (German for "slip-box") flips this paradigm. Instead of organizing notes by category, you organize them by connection. This guide breaks down how academic writers can adapt this decades-old system using modern digital tools to build a permanent, evolving research engine.
+Developed by sociologist Niklas Luhmann, who published over 70 books and 400 scholarly articles during his career, the Zettelkasten (German for "slip-box") flips this paradigm. Instead of organizing notes by category, you organize them by connection. This guide breaks down how academic writers can adapt this decades-old system using modern digital [tools](/posts/personal-knowledge-management-tools-comparison/) to build a permanent, evolving research engine.
 
 ## Understanding the Core Philosophy
 
@@ -78,7 +78,7 @@ Transitioning to a Zettelkasten workflow requires a shift in daily habits. Here 
 You need a frictionless way to capture fleeting notes and bibliographic data. Do not mix your capture tool with your main slip-box.
 
 - **Reference Management:** Use Zotero or Mendeley to capture metadata and PDFs automatically. 
-- **Fleeting Thoughts:** Use a pocket notebook, Apple Notes, or a dedicated inbox folder in your primary software. The tool does not matter, only the speed of capture.
+- **Fleeting Thoughts:** Use a pocket notebook, Apple Notes, or a dedicated inbox folder in your primary [software](/posts/best-apps-for-personal-knowledge-management/). The tool does not matter, only the speed of capture.
 
 ### Step 2: The Reading and Extraction Phase
 
@@ -123,7 +123,7 @@ While Luhmann used physical index cards, modern academics should leverage digita
 ### Software Recommendations
 
 - **[Obsidian](/posts/what-is-personal-knowledge-management/):** The most popular choice for academic Zettelkastens. It saves files as local Markdown, meaning your research will remain accessible 50 years from now, regardless of what happens to the software company. It features robust community plugins for Zotero integration.
-- **Logseq:** An outliner-based alternative to Obsidian. Excellent for thinkers who prefer bulleted, hierarchical initial thoughts that can be linked laterally. Also utilizes local files.
+- **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** An outliner-based alternative to Obsidian. Excellent for thinkers who prefer bulleted, hierarchical initial thoughts that can be linked laterally. Also utilizes local files.
 - **Roam Research:** The pioneer of modern networked thought, but relies on a cloud-based subscription model. 
 
 ### Structuring Your Digital Vault

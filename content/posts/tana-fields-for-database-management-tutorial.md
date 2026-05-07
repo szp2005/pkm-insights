@@ -13,13 +13,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Tana Fields for Database Management Tutorial: Complete Guide
 
-> **Quick Answer:** Tana fields are customizable metadata attributes attached to Supertags that allow you to structure, filter, and manage data like a traditional relational database. By defining field types—such as options, dates, or reference links—you transform unstructured text nodes into highly queryable, structured database entries without writing code.
+> **Quick Answer:** Tana fields are customizable metadata attributes attached to Supertags that allow you to structure, filter, and manage data like a traditional relational database. By defining field types—such as options, dates, or reference links—you transform unstructured text nodes into highly queryable, structured database entries without [writing](/posts/atomic-notes-writing-guide/) code.
 
 Transitioning from traditional folder-based [note-taking](/posts/zettelkasten-method-explained/) apps to a graph-based, node-centric system requires a fundamental shift in how you think about data. When everything is a bullet point (or "node"), relying solely on text search quickly becomes unsustainable. You need a structured approach to categorize, sort, and retrieve information reliably. 
 
 This is where Tana's architecture excels, blending the fluidity of an outliner with the structural rigor of a relational database. Unlike [tools](/posts/personal-knowledge-management-tools-comparison/) where databases are rigid tables, Tana builds databases organically through metadata. 
 
-At the center of this capability are Tana Fields. When combined with Supertags, fields allow you to define properties for different types of information, effectively creating database schemas on the fly. Whether you are managing a complex CRM, a content editorial calendar, or an academic research repository, understanding how to configure and deploy fields is the foundation of effective database management in Tana.
+At the center of this capability are Tana Fields. When combined with Supertags, fields allow you to define properties for different types of information, effectively creating database schemas on the fly. Whether you are managing a complex CRM, a content editorial calendar, or an academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) repository, understanding how to configure and deploy fields is the foundation of effective database management in Tana.
 
 ## The Core Concepts: Supertags and Fields
 
@@ -84,7 +84,7 @@ This mechanism replaces the need for complex VLOOKUPs or SQL joins. By utilizing
 
 ## Step 5: Building Live Searches and Views
 
-Data is only useful if it can be retrieved and analyzed. Tana's Live Search is the querying engine that pulls your field-structured data into customized database views.
+Data is only useful if it can be retrieved and analyzed. Tana's Live Search is the querying engine that pulls your field-[structured data](/posts/tana-ai-features-for-structured-data-entry/) into customized database views.
 
 A Live Search is a node that continuously hunts for other nodes matching specific criteria. Because you have structured your data with fields, you can build highly specific queries. 
 

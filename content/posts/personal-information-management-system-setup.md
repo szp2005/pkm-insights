@@ -71,9 +71,9 @@ A robust personal information management system setup relies on a stack of speci
 - **The Read-It-Later App (Processing):** Do not read articles during your workday. Save them to an app like *Omnivore*, *Instapaper*, or *Pocket*. Batch process your reading on weekends or evenings.
 - **The File Vault (Storage):** For heavy assets (PDFs, images, videos, spreadsheets), rely on a cloud storage provider with robust syncing. *Google Drive*, *iCloud*, *OneDrive*, or a local *NAS* work best.
 - **The Knowledge Base (Synthesis):** This is the brain of your operation. Modern tools rely on plain text and bidirectional linking.
-  - *Obsidian:* Unparalleled customization, local-first architecture, future-proof Markdown files. Highly recommended for power users.
+  - *Obsidian:* Unparalleled customization, [local-first](/posts/anytype-review-local-first-privacy-lovers/) architecture, future-proof Markdown files. Highly recommended for power users.
   - *Notion:* Excellent for structured data, databases, and collaboration. Great if your PIM leans heavily into project management.
-  - *Logseq / Roam Research:* Outliner-based tools perfect for granular, block-level note-taking and rapid logging.
+  - *[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) / Roam Research:* Outliner-based tools perfect for granular, block-level note-taking and rapid logging.
 
 ### Phase 3: Architecting the System
 Once your tools are selected, you must architect the internal structure. Consistency is the key to a successful personal information management system setup.
@@ -155,6 +155,6 @@ Avoid copying a complex system before you understand the problem you are solving
 ## Related Reading
 
 - [The Transformative Benefits of a Personal Knowledge Management System](/posts/benefits-of-a-personal-knowledge-management-system/)
-- [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
+- [How to Build a [Second Brain](/posts/personal-knowledge-management-tools-comparison/): The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
 - [Second Brain vs [Zettelkasten](/posts/zettelkasten-method-explained/) Method: The Ultimate Guide to Personal Knowledge Management](/posts/second-brain-vs-zettelkasten-method/)

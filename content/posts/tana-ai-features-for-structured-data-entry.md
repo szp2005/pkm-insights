@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** Tana leverages AI to transform unstructured text into highly structured databases using AI-powered Supertags, semantic field extraction, and automated commands. By integrating large language models directly into the data entry process, Tana eliminates manual tagging and formatting, allowing users to capture raw thoughts that instantly organize themselves into querying, interconnected nodes.
 
-The ongoing battle in [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) has always been the friction between capture and organization. If a system is easy to capture into, it quickly becomes an unstructured mess. If it requires rigid structure, the friction of entering data prevents you from using it. 
+The ongoing battle in [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) has always been the friction between capture and [organization](/posts/steps-to-building-a-second-brain/). If a system is easy to capture into, it quickly becomes an unstructured mess. If it requires rigid structure, the friction of entering data prevents you from using it. 
 
 Tana approaches this problem by treating everything as a node and relying on a concept called "Supertags" to provide structure. However, building out fields and populating them manually can still be tedious. This is where Tana's artificial intelligence capabilities fundamentally change the equation. 
 
@@ -48,7 +48,7 @@ For instance, if you have a `#meeting` tag with a field called `Action Items`, y
 ### Semantic Linking and Auto-Tagging
 Tana's AI can analyze the text you write and suggest appropriate Supertags based on the content. It moves beyond simple keyword matching and understands the semantic meaning of your text. 
 
-If you write, "Need to pick up groceries tomorrow," the AI can recognize this as a task, apply the `#task` tag, and even extract "tomorrow" to populate the `Due Date` field. This allows for incredibly rapid data entry where you only need to focus on capturing the thought, trusting the system to categorize it.
+If you write, "Need to pick up groceries tomorrow," the AI can recognize this as a task, apply the `#task` tag, and even extract "tomorrow" to populate the `Due Date` field. This allows for incredibly rapid data entry where you only need to [focus](/posts/managing-digital-information-overload-tips/) on capturing the thought, trusting the system to categorize it.
 
 ## Setting Up Automated Workflows in Tana
 
@@ -84,7 +84,7 @@ Instead, use prompts like: "Analyze the content of this node. Extract any explic
 If you are unsure how to structure a specific domain (e.g., a CRM or a recipe database), use Tana's built-in conversational AI to help you design the schema. Ask it, "What fields should a comprehensive `#client` Supertag have?" and use its suggestions to build your underlying data structure before you start automating the entry.
 
 ### Monitor and Correct
-AI is probabilistic. It will occasionally miscategorize a node or extract the wrong data. Regularly review the output of your automated workflows, especially when you first set them up. Correcting the data not only keeps your graph clean but also helps you refine your AI prompts for better accuracy in the future.
+AI is probabilistic. It will occasionally miscategorize a node or extract the wrong data. Regularly [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) the output of your automated workflows, especially when you first set them up. Correcting the data not only keeps your graph clean but also helps you refine your AI prompts for better accuracy in the future.
 
 ## Conclusion
 

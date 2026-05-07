@@ -26,7 +26,7 @@ The key to flattening this curve is disrupting the natural decay process. Passiv
 
 ## Evidence-Based Strategies for Maximum Retention
 
-Decades of rigorous cognitive psychology research have identified several highly effective, evidence-based techniques that drastically improve knowledge retention. Implementing these practices transforms the learning process from a passive intake of data into an active construction of durable knowledge.
+Decades of rigorous cognitive psychology [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) have identified several highly effective, evidence-based techniques that drastically improve knowledge retention. Implementing these practices transforms the learning process from a passive intake of data into an active construction of durable knowledge.
 
 ### 1. Spaced Repetition
 
@@ -38,7 +38,7 @@ This practice leverages the "spacing effect." By allowing yourself to *almost* f
 
 Active recall is the process of deliberately retrieving information from memory without looking at the source material. Testing yourself is not merely a way to assess what you know; the act of retrieving the information fundamentally alters and strengthens the memory itself. 
 
-Instead of rereading a chapter, close the book and write down everything you can remember. Use flashcards, take practice quizzes, or mentally summarize the core concepts after reading an article. The cognitive struggle to retrieve the information is precisely what causes it to be retained. If it feels easy, you are likely just recognizing the information, not recalling it.
+Instead of rereading a chapter, close the book and write down everything you can remember. Use [flashcards](/posts/remnote-vs-logseq-for-medical-students-comparison/), take practice quizzes, or mentally summarize the core concepts after reading an article. The cognitive struggle to retrieve the information is precisely what causes it to be retained. If it feels easy, you are likely just recognizing the information, not recalling it.
 
 ### 3. The Feynman Technique
 
@@ -66,7 +66,7 @@ A PKM system is a digital repository where you capture, organize, and distill in
 
 ### 1. The Capture Habit and Progressive Summarization
 
-The first step is establishing a frictionless, reliable system for capturing information. Whether using tools like Obsidian, Notion, Logseq, or Apple Notes, the goal is to get valuable insights out of your head and into a trusted system. However, capturing is not enough; copied-and-pasted text is quickly forgotten and essentially useless.
+The first step is establishing a frictionless, reliable system for capturing information. Whether using tools like [Obsidian](/posts/personal-knowledge-management-tools-comparison/), Notion, Logseq, or Apple Notes, the goal is to get valuable insights out of your head and into a trusted system. However, capturing is not enough; copied-and-pasted text is quickly forgotten and essentially useless.
 
 Employ Tiago Forte's method of *progressive summarization*: read an article, highlight the best parts, then extract those highlights into a separate note. Later, bold the most critical sentences within those highlights. Finally, write a brief, executive summary of the core ideas in your own words at the top of the note. This layered process of distillation forces engagement and ensures future-you can grasp the concept in seconds.
 

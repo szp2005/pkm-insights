@@ -15,11 +15,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Bi-directional linking for creative writing workflows replaces rigid, linear folders with a web of interconnected notes. By automatically linking characters, locations, and plot points to every scene where they are mentioned, writers can track complex lore, visualize narrative threads, and instantly recall critical details without losing creative momentum.
 
-Most creative writing software forces you into a rigid hierarchy. You create a folder for "Characters," a folder for "Locations," and a folder for "Chapters." This structure works well for organizing completed manuscripts, but it actively fights the messy, associative nature of the creative process. When a character's backstory changes, you have to hunt through dozens of chapter files to ensure continuity. 
+Most creative writing [software](/posts/best-apps-for-personal-knowledge-management/) forces you into a rigid hierarchy. You create a folder for "Characters," a folder for "Locations," and a folder for "Chapters." This structure works well for organizing completed manuscripts, but it actively fights the messy, associative nature of the creative process. When a character's backstory changes, you have to hunt through dozens of chapter files to ensure continuity. 
 
 Bi-directional linking fundamentally changes this dynamic. Instead of placing a piece of information inside a single container, you link it to related concepts, allowing your knowledge base to grow organically alongside your manuscript. If you are writing a complex fantasy series or a character-driven mystery, keeping track of every detail can feel like a full-time job. 
 
-This guide breaks down exactly how to implement bi-directional linking into your creative writing process. We will explore how it works, why it outperforms traditional note-taking, and how to build a resilient, interconnected system that keeps your creative momentum high.
+This guide breaks down exactly how to implement bi-directional linking into your creative writing process. We will explore how it works, why it outperforms traditional [note-taking](/posts/zettelkasten-method-explained/), and how to build a resilient, interconnected system that keeps your creative momentum high.
 
 ## The Core Concept: Moving Beyond Folders
 
@@ -74,7 +74,7 @@ Create a tag or a dedicated note for a specific mystery, such as `[[The Stolen H
 
 ## Practical Advice for Setting Up Your Workspace
 
-Transitioning to a linked note system requires a slight shift in mindset. Here are concrete strategies for structuring your creative writing workflow in tools like Obsidian, Logseq, or Roam Research.
+Transitioning to a linked note system requires a slight shift in mindset. Here are concrete strategies for structuring your creative writing workflow in tools like Obsidian, [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), or Roam Research.
 
 ### Use a Flat Folder Structure
 

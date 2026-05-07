@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The most reliable Logseq sync setup for cross platform devices is the official Logseq Sync service ($5/month), which offers end-to-end encrypted real-time syncing across Windows, Mac, iOS, and Android without file duplication issues. For a robust free alternative, using Syncthing provides peer-to-peer file synchronization across desktop and Android, while iOS users will need a compatible client like Mobius Sync to complete the network.
 
-Operating a [local-first](/posts/capacities-vs-anytype-for-local-first-notes/) [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool like Logseq brings immense privacy benefits, but it introduces a distinct challenge: keeping those local markdown files synchronized across disparate hardware ecosystems. If you split your time between a Windows desktop, an M-series MacBook, an Android phone, and an iPad, file conflicts and missing notes can quickly derail your workflow. 
+Operating a [local-first](/posts/capacities-vs-anytype-for-local-first-notes/) [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool like Logseq brings immense [privacy](/posts/anytype-review-local-first-privacy-lovers/) benefits, but it introduces a distinct challenge: keeping those local markdown files synchronized across disparate hardware ecosystems. If you split your time between a Windows desktop, an M-series MacBook, an Android phone, and an iPad, file conflicts and missing notes can quickly derail your [workflow](/posts/using-the-para-method-in-google-drive/). 
 
 Because Logseq reads an entire directory of flat Markdown files and maintains an internal database based on their contents, standard cloud storage providers often struggle to manage the rapid read/write cycles seamlessly across operating systems. A robust syncing architecture is non-negotiable. 
 
@@ -135,7 +135,7 @@ For users comfortable with terminal commands, Git provides the highest level of 
 
 ### Step 3: Automating the Sync Cycle
 
-Manually pushing and pulling before and after using Logseq is tedious and prone to human error. Automation is required for a viable cross-platform setup.
+Manually pushing and pulling before and after using Logseq is tedious and prone to human error. [Automation](/posts/self-healing-knowledge-base-principles/) is required for a viable cross-platform setup.
 
 * **Desktop (Cron/Task Scheduler):** Write a simple bash or batch script that runs `git pull` followed by `git add .`, `git commit -m "Auto-sync $(date)"`, and `git push`. Schedule this script to run every 15 minutes using Cron (macOS/Linux) or Task Scheduler (Windows).
 * **Mobile Working:** Git sync is notoriously difficult on mobile. For Android, you can use Termux to script Git actions, but it requires substantial technical overhead. For iOS, the Working Copy app provides excellent Git integration, allowing you to pull your repository into an iOS Files directory that Logseq can read, though committing changes requires manually switching to the Working Copy app.

@@ -28,14 +28,14 @@ Before implementing a system to counter information overload, it is essential to
 Every unread email, every push notification, and every cluttered desktop icon represents an open loop—a micro-decision waiting to be made. According to the Zeigarnik effect, our brains obsess over uncompleted tasks. When your digital environment is cluttered, your brain is silently expending energy keeping track of these unresolved inputs, leading to rapid decision fatigue. By mid-afternoon, the cognitive depletion is so severe that executive function falters, leaving you prone to procrastination and poor decision-making.
 
 ### The Context Switching Penalty
-Information overload demands constant context switching. You are writing a report, a Slack notification pops up, you check it, and then you return to your report. While this micro-interruption feels instantaneous, cognitive psychology dictates otherwise. Research indicates it takes an average of 23 minutes and 15 seconds to fully return to a state of deep concentration after an interruption. A cluttered digital environment practically guarantees you will spend your entire day in a state of shallow, fragmented attention, never achieving the flow state required for high-impact work.
+Information overload demands constant context switching. You are writing a report, a Slack notification pops up, you check it, and then you return to your report. While this micro-interruption feels instantaneous, cognitive psychology dictates otherwise. [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) indicates it takes an average of 23 minutes and 15 seconds to fully return to a state of deep concentration after an interruption. A cluttered digital environment practically guarantees you will spend your entire day in a state of shallow, fragmented attention, never achieving the flow state required for high-impact work.
 
 ### The Illusion of FOMO vs. JOMO
 Information overload is largely driven by FOMO (Fear Of Missing Out). We subscribe to dozens of newsletters and scroll endlessly because we fear missing a critical piece of data or an industry trend. Digital decluttering requires a paradigm shift toward JOMO (Joy Of Missing Out)—the profound realization that ignoring 99% of the noise is the only way to effectively process the 1% of information that actually matters.
 
 ## What is Digital Decluttering?
 
-Digital decluttering is the systematic elimination of digital noise, the organization of essential digital assets into logical hierarchies, and the implementation of rigid boundaries regarding information consumption. 
+Digital decluttering is the systematic elimination of digital noise, the [organization](/posts/steps-to-building-a-second-brain/) of essential digital assets into logical hierarchies, and the implementation of rigid boundaries regarding information consumption. 
 
 A successful digital decluttering strategy rests on three foundational pillars:
 1. **Elimination:** Ruthlessly cutting off low-value information sources at the root.
@@ -110,7 +110,7 @@ This weekly reset ensures you close out the week with a clear mind and begin the
 While methodology is paramount, deploying the right software tools can automate and enforce your digital decluttering efforts.
 
 *   **Website Blockers (Freedom, Cold Turkey):** For those struggling with compulsive browsing, these tools allow you to block access to distracting websites or the entire internet across all your devices for predetermined blocks of time. It forcibly breaks the dopamine loop of context switching.
-*   **Focus Modes (Apple Focus / Android Digital Wellbeing):** Utilize OS-level features to create distinct digital profiles. Create a "Deep Work" mode that only allows notifications from immediate family and specific work applications, silencing everything else.
+*   **Focus Modes (Apple Focus / Android Digital Wellbeing):** Utilize OS-level features to create distinct digital profiles. Create a "[Deep Work](/posts/four-layer-stack-for-pkm-optimization/)" mode that only allows notifications from immediate family and specific work applications, silencing everything else.
 *   **Search Over Sorting (Raycast / Alfred):** Stop wasting cognitive energy manually clicking through folders. Power users rely on advanced keystroke launchers like Raycast (Mac) or PowerToys Run (Windows) to instantly find files, launch applications, and run scripts with minimal friction.
 
 ## The Psychological Benefits of a Lean Digital Ecosystem

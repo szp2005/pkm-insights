@@ -17,7 +17,7 @@ The digital age has shifted our primary intellectual bottleneck from information
 
 The Zettelkasten method, popularized by prolific German sociologist Niklas Luhmann, solves this structural problem through the creation of a dynamic "[second brain](/posts/best-apps-for-personal-knowledge-management/)." The foundational unit of this system is the atomic note. When you master the art of writing at the atomic level, you stop treating [note-taking](/posts/zettelkasten-method-explained/) as an archival process and start treating it as an active thinking environment.
 
-This atomic notes writing guide for Zettelkasten breaks down exactly how to extract, process, and synthesize complex information into singular, independent ideas. Rather than creating long, chronological documents where ideas are buried, you will learn to build a decentralized network of thought that actively assists in your writing, problem-solving, and professional research.
+This atomic notes writing guide for Zettelkasten breaks down exactly how to extract, process, and synthesize complex information into singular, independent ideas. Rather than creating long, chronological documents where ideas are buried, you will learn to build a decentralized network of thought that actively assists in your writing, problem-solving, and professional [research](/posts/progressive-summarization-workflow-for-deep-research-papers/).
 
 ## What Is an Atomic Note in a Zettelkasten?
 
@@ -98,7 +98,7 @@ Tags are a blunt instrument. If you tag every note with broad terms like `#psych
 
 ## Best Software for Managing Atomic Notes
 
-While you can technically build a Zettelkasten with physical index cards like Luhmann did, modern [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) software makes the process exponentially faster and more powerful. When choosing software, prioritize tools that support bidirectional linking and local file storage.
+While you can technically build a Zettelkasten with physical index cards like Luhmann did, modern [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) software makes the process exponentially faster and more powerful. When choosing software, prioritize [tools](/posts/personal-knowledge-management-tools-comparison/) that support bidirectional linking and local file storage.
 
 ### Obsidian
 Obsidian is the gold standard for atomic note-taking. It uses local Markdown files, ensuring you own your data forever. Its core feature is the graph view, which visually maps the connections between your notes. The bidirectional linking is seamless, and its extensive plugin ecosystem allows you to customize your workflow infinitely. 
@@ -107,7 +107,7 @@ Obsidian is the gold standard for atomic note-taking. It uses local Markdown fil
 Roam pioneered the modern bidirectional linking movement. It uses an outliner format, meaning every bullet point is its own block that can be linked to independently. This makes atomicity almost automatic, though the steep subscription price and cloud-only storage are drawbacks for some users.
 
 ### Logseq
-Logseq is an open-source, privacy-first alternative to Roam. It utilizes the same outliner structure and block-level linking but stores files locally in Markdown or Org-mode formats. It is an excellent choice for users who want Roam's functionality with Obsidian's data ownership.
+Logseq is an open-source, [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first alternative to Roam. It utilizes the same outliner structure and block-level linking but stores files locally in Markdown or Org-mode formats. It is an excellent choice for users who want Roam's functionality with Obsidian's data ownership.
 
 ## Practical Guidelines for Structuring Your Zettelkasten
 

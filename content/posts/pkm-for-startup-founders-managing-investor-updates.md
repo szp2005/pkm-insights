@@ -21,10 +21,10 @@ A PKM system acts as a centralized repository—a "[second brain](/posts/what-is
 
 ## The Architecture of an Investor-Centric PKM
 
-At its core, a PKM for startup founders is distinct from a general [note-taking](/posts/zettelkasten-method-explained/) system. It requires rigid structure and standardized metadata to enable rapid retrieval. An effective investor-centric PKM relies on three foundational pillars: capture, organization, and synthesis.
+At its core, a PKM for startup founders is distinct from a general [note-taking](/posts/zettelkasten-method-explained/) system. It requires rigid structure and standardized metadata to enable rapid retrieval. An effective investor-centric PKM relies on three foundational pillars: capture, [organization](/posts/steps-to-building-a-second-brain/), and synthesis.
 
 ### Daily Capture Mechanisms
-The most common failure point in executive reporting is deferred documentation. Founders often wait until the 30th of the month to record what happened on the 4th. An effective PKM solves this by integrating data capture into daily workflows.
+The most common failure point in executive reporting is deferred documentation. Founders often wait until the 30th of the month to record what happened on the 4th. An effective PKM solves this by integrating data capture into daily [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 Daily notes serve as the primary entry point. Within your PKM tool (whether Obsidian, Logseq, or Roam), every day should have a dedicated page. Throughout the day, log key events, customer feedback, and blocker resolutions directly into this note. Use specific tags or inline properties, such as `#investor-update` or `category:: product-milestone`, to flag items for the monthly report. This micro-journaling approach requires less than five minutes daily but yields a massive return on investment at month's end.
 
@@ -58,7 +58,7 @@ Create a persistent note in your PKM titled "Canonical KPIs." Every monthly upda
 
 While qualitative data (like strategic pivots or hiring challenges) requires manual capture via daily notes, quantitative data should be as automated as possible. Your PKM should act as a dashboard that aggregates data from disparate sources.
 
-Tools like Notion offer native integrations with platforms like Jira, GitHub, and Salesforce. Alternatively, you can use middleware like Zapier or Make to push data via webhooks into your PKM vault. For local markdown-based tools like Obsidian, community plugins or simple Python scripts can fetch metrics via API and write them directly into your daily or weekly markdown files.
+[Tools](/posts/personal-knowledge-management-tools-comparison/) like Notion offer native integrations with platforms like Jira, GitHub, and Salesforce. Alternatively, you can use middleware like Zapier or Make to push data via webhooks into your PKM vault. For local markdown-based tools like Obsidian, community plugins or simple Python scripts can fetch metrics via API and write them directly into your daily or weekly markdown files.
 
 For example, a script can pull the current Stripe MRR and append it to your weekly review note under a `#metrics` header. Automating this ingestion eliminates manual data entry errors and ensures you are working with real-time figures during the synthesis phase.
 

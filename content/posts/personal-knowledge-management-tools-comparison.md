@@ -16,13 +16,13 @@ In an era characterized by an overwhelming deluge of information, our biological
 
 However, the rapid growth of the PKM philosophy has spawned an equally explosive software ecosystem. Today, we have a diverse array of applications promising to be the ultimate solution to our cognitive overload. But not all brains work the same way, and consequently, not all PKM tools are built for the same type of thinker.
 
-This comprehensive guide provides an expert comparison of the leading personal knowledge management tools. We will dissect their architectures, evaluate their core strengths and weaknesses, and provide practical advice on selecting the optimal environment for your intellectual workflows.
+This comprehensive guide provides an expert comparison of the leading personal knowledge management tools. We will dissect their architectures, evaluate their core strengths and weaknesses, and provide practical advice on selecting the optimal environment for your intellectual [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 ## The Evolution of Personal Knowledge Management
 
 To understand the current landscape of PKM tools, it is crucial to recognize how the paradigm has shifted over the past decade. 
 
-Historically, note-taking applications operated on a **hierarchical architecture**. Tools like Evernote and Microsoft OneNote required users to categorize information into a rigid structure of folders, sub-folders, and notebooks. While intuitive for basic storage, this top-down approach inevitably created friction. An insight often belongs in multiple categories, and forcing it into a single folder siloes the information, preventing serendipitous connections.
+Historically, [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) applications operated on a **hierarchical architecture**. Tools like Evernote and Microsoft OneNote required users to categorize information into a rigid structure of folders, sub-folders, and notebooks. While intuitive for basic storage, this top-down approach inevitably created friction. An insight often belongs in multiple categories, and forcing it into a single folder siloes the information, preventing serendipitous connections.
 
 The modern era of PKM is defined by **networked architecture**. Pioneered largely by Roam Research and deeply influenced by the *[Zettelkasten](/posts/zettelkasten-method-explained/)* (slip-box) method developed by sociologist Niklas Luhmann, networked tools use bi-directional linking. Instead of filing a note away in a folder, you link it to related concepts. Over time, these links organically form a knowledge graph—a dynamic web of thought that mimics the associative nature of the human brain.
 
@@ -63,7 +63,7 @@ Notion uses a block-based architecture combined with highly customizable relatio
 *   **Collaboration:** Built from the ground up for teams, Notion makes sharing pages, assigning tasks, and synchronous editing seamless.
 
 **Weaknesses:**
-*   **The "Slow" Graph:** While Notion has introduced backlinking, it is not a native, fluid networked-thought tool. It still leans heavily on hierarchical organization.
+*   **The "Slow" Graph:** While Notion has introduced backlinking, it is not a native, fluid networked-thought tool. It still leans heavily on hierarchical [organization](/posts/steps-to-building-a-second-brain/).
 *   **Performance and Offline Access:** Notion is cloud-first. Large workspaces can become sluggish, and its offline capabilities remain a significant pain point for travelers and remote workers.
 
 **Best For:** The "Librarian" thinker who visualizes knowledge through structured tables, dashboards, and organizational hierarchies, as well as teams needing a shared knowledge base.

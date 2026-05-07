@@ -49,7 +49,7 @@ Perfectionism is the enemy of a functional PKM. Your notes do not need to be pol
 
 ## High-Impact Organization Strategies for Neurodiversity
 
-Implementing these specific strategies can transform a generic note-taking application into a highly effective PKM for ADHD.
+Implementing these specific strategies can transform a generic [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) application into a highly effective PKM for ADHD.
 
 ### Strategy 1: The Daily Note as a Universal Inbox
 
@@ -70,7 +70,7 @@ When you enclose a word in brackets `[[like this]]`, the system automatically cr
 
 For many with ADHD, giant walls of text are overwhelming and unreadable. Visual or spatial organization can drastically improve comprehension and retention. Many modern PKM tools offer a "Canvas" or whiteboard feature. 
 * **Why it works:** It allows you to physically move concepts around, group them spatially, and draw lines between them. This caters to visual learners and helps make abstract connections concrete. 
-* **How to use it:** Use canvases to plan out complex projects, map out the architecture of a new software tool, or simply arrange your current priorities in a way that feels less intimidating than a vertical list.
+* **How to use it:** Use canvases to plan out complex projects, map out the architecture of a new [software](/posts/best-apps-for-personal-knowledge-management/) tool, or simply arrange your current priorities in a way that feels less intimidating than a vertical list.
 
 ### Strategy 4: Strategic Use of Tags
 
@@ -87,7 +87,7 @@ The tool you choose matters less than the system you build within it, but some a
 
 1. **Obsidian:** Highly recommended for ADHD due to its speed, offline nature, and the Daily Notes plugin. It operates on plain text markdown files, ensuring you are never locked into a proprietary format. Its graph view provides a satisfying visual representation of your connected thoughts.
 2. **Logseq:** An outliner-based tool that excels at rapid logging and bulleted lists. It treats every bullet point as an individual block that can be referenced anywhere else. This is excellent for brains that prefer highly granular, modular information.
-3. **Notion:** Visually appealing and incredibly powerful, but it comes with a high risk of "fiddling." The limitless customization can be a massive distraction for ADHD users. If using Notion, rely heavily on simple databases and avoid nested pages.
+3. **[Notion](/posts/personal-knowledge-management-tools-comparison/):** Visually appealing and incredibly powerful, but it comes with a high risk of "fiddling." The limitless customization can be a massive distraction for ADHD users. If using Notion, rely heavily on simple databases and avoid nested pages.
 4. **Apple Notes / Google Keep:** The absolute lowest friction options available. While lacking advanced linking features, their speed and integration with mobile devices make them excellent capture tools. Many users successfully pair a simple app for capture with a heavier tool (like Obsidian) for processing.
 
 ### Building Your First ADHD-Friendly Setup

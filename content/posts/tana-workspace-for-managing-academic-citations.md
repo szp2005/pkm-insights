@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Tana Workspace for Managing Academic Citations: Complete Setup Guide
 
-> **Quick Answer:** A Tana workspace for managing academic citations relies on configuring Supertags (like `#source`, `#author`, and `#claim`) to create an interconnected database of your research. By defining fields for DOI, publication year, and connected concepts, you can transform a flat list of references into a dynamic knowledge graph that surfaces relevant literature exactly when you need it for writing.
+> **Quick Answer:** A Tana workspace for managing academic citations relies on configuring Supertags (like `#source`, `#author`, and `#claim`) to create an interconnected database of your [research](/posts/progressive-summarization-workflow-for-deep-research-papers/). By defining fields for DOI, publication year, and connected concepts, you can transform a flat list of references into a dynamic knowledge graph that surfaces relevant literature exactly when you need it for [writing](/posts/atomic-notes-writing-guide/).
 
-Managing an academic literature review often feels like fighting a losing battle against entropy. As your library of PDFs, citations, and reading notes grows into the hundreds or thousands, traditional folder structures and flat document files break down. You remember reading a brilliant critique of a specific methodology, but locating the exact paper, let alone the specific page and context, becomes a multi-hour archaeological dig.
+Managing an academic literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) often feels like fighting a losing battle against entropy. As your library of PDFs, citations, and reading notes grows into the hundreds or thousands, traditional folder structures and flat document files break down. You remember reading a brilliant critique of a specific methodology, but locating the exact paper, let alone the specific page and context, becomes a multi-hour archaeological dig.
 
 Tana offers a fundamentally different approach. Rather than acting as a static repository for text, Tana operates as an object-oriented knowledge database. By combining the fluidity of an outliner with the structured data capabilities of a relational database, it provides academics with a powerful environment for synthesizing research.
 

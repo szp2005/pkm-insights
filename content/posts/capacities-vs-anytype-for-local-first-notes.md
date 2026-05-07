@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) has evolved significantly from flat text files and simple folders. We are currently in the era of object-based note-taking, where nodes of information (people, books, meetings, ideas) exist as distinct entities with their own properties, connected through dynamic relations. However, as our knowledge bases grow, so does the concern over data sovereignty, privacy, and offline accessibility. 
 
-The debate between Capacities vs Anytype for local first notes is one of the most common among PKM enthusiasts upgrading their workflows. Both tools represent the cutting edge of object-based structuring, yet they approach the "local-first" philosophy from entirely different architectural standpoints. 
+The debate between Capacities vs Anytype for local first notes is one of the most common among PKM enthusiasts upgrading their [workflows](/posts/getting-things-done-for-knowledge-workers/). Both [tools](/posts/personal-knowledge-management-tools-comparison/) represent the cutting edge of object-based structuring, yet they approach the "local-first" philosophy from entirely different architectural standpoints. 
 
 This guide breaks down exactly how these two powerhouses compare, specifically focusing on their offline capabilities, data ownership models, user experience, and practical applications, to help you choose the right home for your [second brain](/posts/what-is-personal-knowledge-management/).
 
@@ -25,7 +25,7 @@ This guide breaks down exactly how these two powerhouses compare, specifically f
 
 Before diving into the direct comparison, it is essential to establish why the "local-first" paradigm matters. In a traditional cloud-first app (like Notion or Evernote), your data lives on a server. Your client app is merely a window into that server. If your internet connection drops, the server goes down, or the company pivots, your access to your own thoughts is compromised.
 
-Local-first software flips this model. The primary copy of your data lives on your local device—your phone, laptop, or desktop. The network is used primarily for syncing that local data to your other devices, rather than serving as the central source of truth. 
+Local-first [software](/posts/best-apps-for-personal-knowledge-management/) flips this model. The primary copy of your data lives on your local device—your phone, laptop, or desktop. The network is used primarily for syncing that local data to your other devices, rather than serving as the central source of truth. 
 
 This architecture provides three massive benefits: immediate load times (because you aren't waiting for a server), offline reliability (you can read, write, and search anywhere), and data privacy (your files aren't sitting readable on a corporate server). When evaluating Capacities and Anytype through this lens, the structural differences become starkly apparent.
 

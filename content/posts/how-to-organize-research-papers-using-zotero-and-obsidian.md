@@ -13,15 +13,15 @@ type: "informational"
 
 > **Quick Answer:** To organize research papers using Zotero and Obsidian, use Zotero to manage PDFs and citations, install the Better BibTeX plugin to generate citekeys, and use Obsidian's Zotero Integration plugin to import your highlights and metadata. This creates a pipeline where reference material lives in Zotero, while active reading notes and knowledge synthesis happen in your Obsidian vault.
 
-Managing a growing library of academic papers often feels like wrestling with a chaotic filing cabinet. You highlight a PDF, close the file, and months later, you cannot remember where you found a specific argument. Traditional reference managers handle citations well but fail at helping you connect ideas. Note-taking apps let you write freely but lack rigorous bibliographic control. 
+Managing a growing library of academic papers often feels like wrestling with a chaotic filing cabinet. You highlight a PDF, close the file, and months later, you cannot remember where you found a specific argument. Traditional reference managers handle citations well but fail at helping you connect ideas. [Note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) apps let you write freely but lack rigorous bibliographic control. 
 
-This disconnect causes friction in the writing process. When it is time to draft a literature review or a thesis chapter, you waste hours hunting down sources and re-reading old highlights instead of synthesizing arguments. 
+This disconnect causes friction in the writing process. When it is time to draft a literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) or a thesis chapter, you waste hours hunting down sources and re-reading old highlights instead of synthesizing arguments. 
 
 Integrating Zotero with Obsidian solves this structural problem. Zotero acts as your structured database for files, metadata, and bibliographies. Obsidian serves as your personal knowledge base, where ideas from those papers are extracted, linked, and developed. By connecting the two, you create a unidirectional flow of information from raw source material to finished academic thought. This guide details the precise mechanics of setting up and maintaining this workflow.
 
 ## The Core Philosophy of the Zotero-Obsidian Workflow
 
-Before configuring [software](/posts/best-apps-for-personal-knowledge-management/), it is vital to understand the division of labor between these two tools. Attempting to make Zotero behave like a note-taking app or forcing Obsidian to manage raw PDF files leads to system bloat and frustration.
+Before configuring [software](/posts/best-apps-for-personal-knowledge-management/), it is vital to understand the division of labor between these two [tools](/posts/personal-knowledge-management-tools-comparison/). Attempting to make Zotero behave like a note-taking app or forcing Obsidian to manage raw PDF files leads to system bloat and frustration.
 
 Zotero is your library. Its job is to capture metadata from the web, store the raw PDF files, generate standard citation keys, and format your final bibliography. You read and highlight the actual PDFs within Zotero's built-in reader. 
 

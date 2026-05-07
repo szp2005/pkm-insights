@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # PDF Highlights in Capacities: 5-Step Guide
 
-> **Quick Answer:** To organize PDF highlights in Capacities, create a dedicated "Source" or "Paper" object type for your PDFs, import your annotations, and break down key insights into individual "Idea" or "Zettel" objects. Link these atomic notes back to the original source using bidirectional links, and use properties and tags to integrate them into your broader knowledge graph.
+> **Quick Answer:** To organize PDF highlights in Capacities, create a dedicated "Source" or "Paper" object type for your PDFs, import your annotations, and break down key insights into individual "Idea" or "Zettel" objects. Link these [atomic notes](/posts/atomic-notes-writing-guide/) back to the original source using bidirectional links, and use properties and tags to integrate them into your broader knowledge graph.
 
-Reading PDFs and highlighting key passages is only the first half of the research process. The real friction—and where most [personal knowledge management](/posts/digital-decluttering-for-information-overload/) systems break down—is getting those highlights out of the document and into an environment where they can be connected, synthesized, and applied. If your highlights remain trapped inside individual PDF files, they are essentially invisible to your future self. 
+Reading PDFs and highlighting key passages is only the first half of the [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) process. The real friction—and where most [personal knowledge management](/posts/digital-decluttering-for-information-overload/) systems break down—is getting those highlights out of the document and into an environment where they can be connected, synthesized, and applied. If your highlights remain trapped inside individual PDF files, they are essentially invisible to your future self. 
 
 Capacities, with its object-based architecture, offers a fundamentally different approach to this problem. Instead of forcing you to organize PDFs into rigid folder hierarchies, Capacities treats every piece of information as a distinct entity with its own properties, tags, and relationships. This structural philosophy makes it exceptionally powerful for managing academic papers, industry reports, and long-form articles.
 
@@ -73,7 +73,7 @@ This process of atomization ensures that each idea can stand on its own, indepen
 
 ## 4. Build Context Through Bidirectional Linking
 
-The true power of Capacities emerges when you start connecting your newly atomized highlights to the rest of your knowledge graph. Organization in an object-based system is not about putting things in the right box; it is about drawing the right lines between them.
+The true power of Capacities emerges when you start connecting your newly atomized highlights to the rest of your knowledge graph. [Organization](/posts/steps-to-building-a-second-brain/) in an object-based system is not about putting things in the right box; it is about drawing the right lines between them.
 
 ### Link to the Source
 Every "Idea" object you create from a highlight must link back to its parent "Source" object. You can do this inline (e.g., "According to @Smith2026...") or by creating a dedicated "Source" property within your Idea object type. This bidirectional link ensures you can always trace a thought back to its original context, providing academic rigor and preventing misquotation.
