@@ -15,9 +15,9 @@ type: "informational"
 
 Managing a growing library of academic papers often feels like wrestling with a chaotic filing cabinet. You highlight a PDF, close the file, and months later, you cannot remember where you found a specific argument. Traditional reference managers handle citations well but fail at helping you connect ideas. [Note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) apps let you write freely but lack rigorous bibliographic control. 
 
-This disconnect causes friction in the writing process. When it is time to draft a literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) or a thesis chapter, you waste hours hunting down sources and re-reading old highlights instead of synthesizing arguments. 
+This disconnect causes friction in the [writing](/posts/atomic-notes-writing-guide/) process. When it is time to draft a literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) or a [thesis](/posts/obsidian-academic-workflow-for-thesis-2026/) chapter, you waste hours hunting down sources and re-reading old highlights instead of synthesizing arguments. 
 
-Integrating Zotero with Obsidian solves this structural problem. Zotero acts as your structured database for files, metadata, and bibliographies. Obsidian serves as your personal knowledge base, where ideas from those papers are extracted, linked, and developed. By connecting the two, you create a unidirectional flow of information from raw source material to finished academic thought. This guide details the precise mechanics of setting up and maintaining this workflow.
+Integrating Zotero with Obsidian solves this structural problem. Zotero acts as your structured database for files, metadata, and bibliographies. Obsidian serves as your personal knowledge base, where ideas from those papers are extracted, linked, and developed. By connecting the two, you create a unidirectional flow of information from raw source material to finished academic thought. This guide details the precise mechanics of setting up and maintaining this [workflow](/posts/using-the-para-method-in-google-drive/).
 
 ## The Core Philosophy of the Zotero-Obsidian Workflow
 

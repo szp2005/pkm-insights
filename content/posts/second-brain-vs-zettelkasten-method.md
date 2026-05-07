@@ -106,14 +106,14 @@ The Second Brain is the superior choice if your primary goal is maximizing execu
 
 ## Deep Dive: When to Choose the Zettelkasten
 
-The Zettelkasten is the superior choice if your primary goal is sense-making, deep learning, original research, and generating novel insights from complex subject matter.
+The Zettelkasten is the superior choice if your primary goal is sense-making, deep [learning](/posts/how-to-remember-what-you-read-effectively/), original [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), and generating novel insights from complex subject matter.
 
 **You should choose a Zettelkasten if you are a:**
 *   **Writer or Author:** You need to weave disparate facts, anecdotes, and theories into long-form narratives. The Zettelkasten does the heavy lifting of outlining for you.
 *   **Academic, Researcher, or Student:** Your job is to understand complex literature, find gaps in existing research, and formulate new hypotheses.
 *   **Strategic Thinker:** If your role requires synthesizing broad industry trends into actionable insights rather than managing day-to-day logistics.
 
-**Practical Implementation Advice:** You *must* use a tool that supports robust, frictionless bi-directional linking. Obsidian, Roam Research, and [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) are the industry standards for building a digital Zettelkasten. Ignore folders; rely entirely on links and localized graph views.
+**Practical Implementation Advice:** You *must* use a tool that supports robust, frictionless bi-directional linking. Obsidian, [Roam Research](/posts/roam-research-vs-obsidian-comparison/), and [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) are the industry standards for building a digital Zettelkasten. Ignore folders; rely entirely on links and localized graph views.
 
 ## The Hybrid Approach: Combining the Best of Both Worlds
 

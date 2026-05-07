@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # PKM for ADHD: Organization Strategies for Neurodiversity
 
-> **Quick Answer:** The most effective PKM for ADHD focuses on capturing ideas instantly and organizing them later through flexible, search-driven systems rather than rigid folders. Strategies like using a "daily note" as a unified inbox, relying on bidirectional links over categories, and leveraging visual mapping help neurodivergent brains bypass working memory deficits and build a reliable external brain.
+> **Quick Answer:** The most effective PKM for ADHD focuses on capturing ideas instantly and organizing them later through flexible, search-driven systems rather than rigid folders. Strategies like using a "daily note" as a unified inbox, relying on bidirectional links over categories, and leveraging visual mapping help neurodivergent brains bypass working [memory](/posts/how-to-remember-what-you-read-effectively/) deficits and build a reliable external brain.
 
 For individuals with ADHD, the modern information landscape often feels like a constant barrage. Thoughts, tasks, articles, and sudden bursts of inspiration appear at random and vanish just as quickly. The traditional advice for managing this chaos usually involves rigid filing cabinets, color-coded planners, and complex nested folders. Yet, for a neurodivergent brain grappling with executive dysfunction and working memory limitations, these high-maintenance systems are practically designed to fail.
 
@@ -61,7 +61,7 @@ This single page acts as a scratchpad for everything that happens that day: meet
 
 ### Strategy 2: Bidirectional Linking for Non-Linear Thinking
 
-Neurodivergent brains are highly associative; one thought rapidly triggers a seemingly unrelated second thought. Bidirectional linking—a feature in tools like [Obsidian](/posts/what-is-personal-knowledge-management/), Logseq, and Roam—mimics this natural brain function. 
+Neurodivergent brains are highly associative; one thought rapidly triggers a seemingly unrelated second thought. Bidirectional linking—a feature in [tools](/posts/roam-research-vs-obsidian-comparison/) like [Obsidian](/posts/what-is-personal-knowledge-management/), Logseq, and Roam—mimics this natural brain function. 
 
 When you enclose a word in brackets `[[like this]]`, the system automatically creates a page for that concept and links the current note to it. If you mention `[[Project Apollo]]` in a meeting note, and later mention `[[Project Apollo]]` in a random brainstorm, both of those notes are now connected to the main project page automatically.
 * **Why it works:** It builds a web of knowledge rather than a filing cabinet. You don't have to put a note in the "Project Apollo" folder. You just mention the project, and the system connects the dots for you, preserving the context in which you originally had the thought.
@@ -81,7 +81,7 @@ Instead of topical tags (like `#marketing` or `#coding`), use status or context 
 
 ## Practical Advice: Choosing and Configuring Your Tools
 
-The tool you choose matters less than the system you build within it, but some applications are inherently more supportive of neurodivergent workflows.
+The tool you choose matters less than the system you build within it, but some applications are inherently more supportive of neurodivergent [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 ### Evaluating the Top PKM Contenders
 

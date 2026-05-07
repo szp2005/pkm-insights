@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** The most effective knowledge retention techniques for researchers combine active reading with [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) and atomic [note-taking](/posts/digital-garden-vs-second-brain-difference/). Instead of passively highlighting PDFs, researchers should extract concepts into a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) system (like a Zettelkasten), rewrite ideas in their own words, and schedule regular reviews of those concepts using spaced repetition algorithms.
 
-The modern research process is characterized by an overwhelming volume of information. A researcher might read a dozen peer-reviewed papers in a single week, process hundreds of datasets, and attend multiple seminars. Yet, without a deliberate system for capturing and integrating that information, up to 70% of new knowledge degrades within 24 hours. The gap between merely reading a paper and actually internalizing its methodology and findings is where most academic and professional research stalls. 
+The modern [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) process is characterized by an overwhelming volume of information. A researcher might read a dozen peer-reviewed papers in a single week, process hundreds of datasets, and attend multiple seminars. Yet, without a deliberate system for capturing and integrating that information, up to 70% of new knowledge degrades within 24 hours. The gap between merely reading a paper and actually internalizing its methodology and findings is where most academic and professional research stalls. 
 
 Passive consumption—highlighting text, dropping PDFs into a sprawling folder hierarchy, or starring references in a citation manager—creates an illusion of knowledge. You remember that a paper exists, but you cannot recall its specific arguments, sample sizes, or limitations when you sit down to draft a literature review or design a new experiment. 
 
@@ -21,7 +21,7 @@ True knowledge retention requires shifting from a filing mindset to a synthesis 
 
 ## The Science of Memory and Forgetting
 
-Before implementing specific workflows, it is critical to understand the biological constraints of human memory. The human brain is ruthlessly efficient; it prunes neural connections that are not actively utilized, prioritizing immediate survival over the retention of abstract academic theories.
+Before implementing specific [workflows](/posts/getting-things-done-for-knowledge-workers/), it is critical to understand the biological constraints of human memory. The human brain is ruthlessly efficient; it prunes neural connections that are not actively utilized, prioritizing immediate survival over the retention of abstract academic theories.
 
 ### The Ebbinghaus Forgetting Curve
 
@@ -93,7 +93,7 @@ An effective research knowledge base must possess three attributes:
 
 ### Tool Selection Strategies
 
-While the methodology is more important than the software, certain architectures support these techniques better than others. Networked thought tools like [Obsidian](/posts/what-is-personal-knowledge-management/), Logseq, and Roam Research are specifically designed for the atomic, linked note-taking required by the Zettelkasten method. Hierarchical tools like [Notion](/posts/personal-knowledge-management-tools-comparison/) or Evernote can be adapted, but they naturally encourage filing over linking, which can inhibit the synthesis of disparate research fields.
+While the methodology is more important than the software, certain architectures support these techniques better than others. Networked thought tools like [Obsidian](/posts/what-is-personal-knowledge-management/), Logseq, and [Roam Research](/posts/roam-research-vs-obsidian-comparison/) are specifically designed for the atomic, linked note-taking required by the Zettelkasten method. Hierarchical tools like [Notion](/posts/personal-knowledge-management-tools-comparison/) or Evernote can be adapted, but they naturally encourage filing over linking, which can inhibit the synthesis of disparate research fields.
 
 ## Practical Implementation Strategies
 

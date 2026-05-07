@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Logseq Theme for High Focus Deep Work: Optimizing Your Workflow
+# Logseq Theme for High Focus Deep Work: Optimizing Your [Workflow](/posts/using-the-para-method-in-google-drive/)
 
 > **Quick Answer:** The ideal Logseq theme for high focus deep work prioritizes minimalist design, high contrast typography, and a decluttered interface to minimize distractions. Customization through CSS snippets allows users to fine-tune elements like line spacing, font sizes, and color palettes, creating an environment specifically tailored for sustained concentration and efficient knowledge processing.
 
@@ -52,7 +52,7 @@ Start by mapping the current manual process from trigger to final handoff. Once 
 
 ### Which tools are usually needed for logseq theme for high focus deep work?
 
-Most teams need an intake source, a workflow automation tool, a database or CRM, and a notification channel. The exact stack matters less than having clear field names, ownership, and error handling.
+Most teams need an intake source, a workflow [automation](/posts/self-healing-knowledge-base-principles/) tool, a database or CRM, and a notification channel. The exact stack matters less than having clear field names, ownership, and error handling.
 
 ### How do you avoid automation mistakes?
 

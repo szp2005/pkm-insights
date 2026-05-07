@@ -41,13 +41,13 @@ You should not create MOCs preemptively. Setting up empty MOCs before you have t
 
 ### The Mental Squeeze Point
 
-The signal to create an MOC is what the PKM community calls the "mental squeeze point." This occurs when you have accumulated enough notes on a single topic that you can no longer keep track of them in your working memory. 
+The signal to create an MOC is what the PKM community calls the "mental squeeze point." This occurs when you have accumulated enough notes on a single topic that you can no longer keep track of them in your working [memory](/posts/how-to-remember-what-you-read-effectively/). 
 
 For most people, this happens when they have between 10 and 20 notes on a related subject. You might notice yourself repeatedly searching for the same concepts, or realizing you accidentally created duplicate notes on the same topic because you forgot the original existed.
 
 ### Auditing Your Current Vault
 
-Take ten minutes to review your vault. Look for clusters of notes that share a common theme. Are there a dozen notes about a specific programming language? Do you have several book notes related to ancient history? Have you been clipping multiple articles about home office ergonomics? These clusters are prime candidates for your first Map of Content.
+Take ten minutes to [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) your vault. Look for clusters of notes that share a common theme. Are there a dozen notes about a specific programming language? Do you have several book notes related to ancient history? Have you been clipping multiple articles about home office ergonomics? These clusters are prime candidates for your first Map of Content.
 
 ## Step 2: Create the Central Hub Note
 
@@ -79,7 +79,7 @@ The next step is to pull your existing notes into the MOC.
 
 ### The Brain Dump Phase
 
-Do not worry about organization yet. Simply use Obsidian's double-bracket syntax `[[ ]]` to link every relevant note you can think of. If you type `[[` and start typing a keyword, Obsidian's auto-complete dropdown will help you surface the notes.
+Do not worry about [organization](/posts/steps-to-building-a-second-brain/) yet. Simply use Obsidian's double-bracket syntax `[[ ]]` to link every relevant note you can think of. If you type `[[` and start typing a keyword, Obsidian's auto-complete dropdown will help you surface the notes.
 
 You can also use the native Search function. Search for keywords related to your MOC topic, and as you find relevant notes, drag and drop them from the search results directly into your MOC note. Obsidian will automatically format them as links.
 

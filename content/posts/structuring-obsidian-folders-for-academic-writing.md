@@ -36,7 +36,7 @@ Academic writing requires synthesizing information across different contexts, ye
 
 The optimal structure for academic writing merges two established methodologies: Tiago Forte's PARA method (Projects, Areas, Resources, Archives) and the Zettelkasten system popularized by Niklas Luhmann. 
 
-The PARA method excels at top-down organization and action-oriented project management. It provides clear boundaries for where administrative files, drafts, and reference materials should live. However, PARA is fundamentally a filing system, not an idea-generation system. 
+The PARA method excels at top-down [organization](/posts/steps-to-building-a-second-brain/) and action-oriented project management. It provides clear boundaries for where administrative files, drafts, and reference materials should live. However, PARA is fundamentally a filing system, not an idea-generation system. 
 
 The Zettelkasten method excels at bottom-up synthesis. It relies on atomic, highly linked notes stored in a flat structure, allowing organic connections to form. But a pure Zettelkasten lacks the scaffolding needed to manage deadlines, co-author feedback, and the linear drafting process required to actually publish a paper.
 
@@ -59,7 +59,7 @@ Keep the root level pristine. Do not allow stray markdown files to accumulate he
 
 The Inbox is the entry point for all new information. When you are moving quickly—attending a lecture, reading an abstract on your phone, or having a sudden insight during a meeting—you need a frictionless place to capture raw text.
 
-Files in the Inbox are unprocessed. They might lack proper tags, citations, or links. The critical rule of the Inbox is that it must be emptied regularly (e.g., every Friday afternoon). During this processing time, you will review the notes, format them, extract the core ideas, and move them into their permanent locations in the `Resources` or `Zettelkasten` folders. If a note stays in the Inbox indefinitely, the system breaks down.
+Files in the Inbox are unprocessed. They might lack proper tags, citations, or links. The critical rule of the Inbox is that it must be emptied regularly (e.g., every Friday afternoon). During this processing time, you will [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) the notes, format them, extract the core ideas, and move them into their permanent locations in the `Resources` or `Zettelkasten` folders. If a note stays in the Inbox indefinitely, the system breaks down.
 
 ## Step 3: Organizing Source Materials (`03-Resources`)
 
@@ -80,7 +80,7 @@ Do not put individual, specific insights directly into the Literature Note. The 
 
 The `04-Zettelkasten` folder is the engine of your academic writing. This folder is intentionally completely flat—it contains zero subfolders. 
 
-This folder houses your "Permanent Notes." A Permanent Note is an atomic concept written entirely in your own words. It contains a single, focused idea. Instead of having one massive document called `Sociology Theories`, you would have dozens of atomic notes such as `Structural Functionalism emphasizes societal equilibrium` or `Conflict Theory critiques institutional power`.
+This folder houses your "Permanent Notes." A Permanent Note is an atomic concept written entirely in your own words. It contains a single, focused idea. Instead of having one massive document called `Sociology Theories`, you would have dozens of [atomic notes](/posts/atomic-notes-writing-guide/) such as `Structural Functionalism emphasizes societal equilibrium` or `Conflict Theory critiques institutional power`.
 
 When you read a paper (and log it in `03-Resources/Literature Notes`), you should extract the 2-3 most critical insights and create new, atomic Permanent Notes in the `04-Zettelkasten` folder. 
 
@@ -162,3 +162,9 @@ Obsidian is fundamentally a single-player tool. Use Obsidian to synthesize your 
 
 ### How do I manage large datasets or image files in this structure?
 Store raw datasets, high-resolution figures, and heavy analytical scripts outside of Obsidian entirely (e.g., in a dedicated local directory backed up to GitHub or cloud storage). Keep only your data dictionaries, code snippets, analysis summaries, and final low-resolution PNG exports for reference within your Obsidian `01-Projects` folder. Keep the vault lightweight and focused on text.
+
+---
+
+## Related Reading
+
+- [Optimizing Dataview Plugin for Research Workflows: A Complete Guide](/posts/optimizing-dataview-plugin-for-research-workflows/)

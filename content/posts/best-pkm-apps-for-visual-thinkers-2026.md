@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best PKM Apps for Visual Thinkers in 2026
 
-> **Quick Answer:** The best PKM apps for visual thinkers in 2026 are Heptabase for intensive research and sense-making, Scrintal for seamless [Zettelkasten](/posts/zettelkasten-method-explained/) mapping, and [Obsidian](/posts/what-is-personal-knowledge-management/) (using Canvas) for combining robust local markdown files with free-form spatial layouts. Muse remains the premium choice for iPad users who rely on hand-drawn conceptualization.
+> **Quick Answer:** The best PKM apps for visual thinkers in 2026 are Heptabase for intensive [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and sense-making, Scrintal for seamless [Zettelkasten](/posts/zettelkasten-method-explained/) mapping, and [Obsidian](/posts/what-is-personal-knowledge-management/) (using Canvas) for combining robust local markdown files with free-form spatial layouts. Muse remains the premium choice for iPad users who rely on hand-drawn conceptualization.
 
 Traditional, linear [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) apps force your thoughts into rigid hierarchies. For visual thinkers—those who process information through spatial relationships, clusters, and mind maps—endless vertical lists of text create structural friction. When your brain works in webs of connection, a folder-based system feels like putting puzzle pieces into separate filing cabinets.
 
@@ -63,7 +63,7 @@ The standout feature of Scrintal is how it handles hierarchical extraction. You 
 
 ### 3. Obsidian (with Canvas)
 
-**Best for:** Privacy advocates and local-first customization
+**Best for:** Privacy advocates and [local-first](/posts/anytype-review-local-first-privacy-lovers/) customization
 **Price:** Free (Sync is $4-$8/month)
 **Rating:** 4.9/5
 
@@ -111,7 +111,7 @@ It excels in collaborative environments. While you can use it purely as a solo P
 
 **Pros:**
 - Superb handling of high-resolution images and visual assets
-- Excellent built-in templates for creative workflows
+- Excellent built-in templates for creative [workflows](/posts/getting-things-done-for-knowledge-workers/)
 - Strong real-time collaboration features
 
 **Cons:**

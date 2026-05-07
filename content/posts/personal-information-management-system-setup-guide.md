@@ -11,7 +11,7 @@ type: "informational"
 
 # Personal Information Management System Setup Guide: 5 Steps
 
-> **Quick Answer:** A Personal Information Management System (PIMS) requires centralizing your digital inputs, defining a strict folder structure (like PARA or Johnny.Decimal), selecting primary tools for notes, tasks, and files, and establishing a weekly review habit. The most effective setup prioritizes frictionless data capture and reliable search retrieval over highly complex, rigid categorization.
+> **Quick Answer:** A Personal Information Management System (PIMS) requires centralizing your digital inputs, defining a strict folder structure (like PARA or Johnny.Decimal), selecting primary [tools](/posts/roam-research-vs-obsidian-comparison/) for notes, tasks, and files, and establishing a weekly [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) habit. The most effective setup prioritizes frictionless data capture and reliable search retrieval over highly complex, rigid categorization.
 
 Navigating modern digital work requires handling a constant stream of PDFs, meeting notes, project deliverables, bookmarks, and fleeting ideas. Without a deliberate structure, this data scatters across local hard drives, cloud storage accounts, email inboxes, and physical notebooks. The result is chronic context switching and wasted time spent searching for misplaced documents.
 
@@ -132,7 +132,7 @@ Building the system is a technical exercise; maintaining it requires discipline.
 
 **Keep folder hierarchies shallow.** Never nest folders more than three levels deep. If you find yourself clicking through `Areas > Finances > Taxes > 2026 > Receipts > Q1 > Jan`, your system is too brittle. Rely on strong search functionality rather than micro-categorization. A flat structure with clear file names is vastly superior to a deep labyrinth.
 
-**Implement the 90-Day software lock.** When setting up a personal information management system, the temptation to switch to a shiny new app is high. Enforce a strict rule: once you select your core stack, you cannot switch apps for 90 days. Most perceived software limitations are actually user workflow issues. Forcing yourself to stick with a tool builds the muscle memory necessary for long-term success.
+**Implement the 90-Day software lock.** When setting up a personal information management system, the temptation to switch to a shiny new app is high. Enforce a strict rule: once you select your core stack, you cannot switch apps for 90 days. Most perceived software limitations are actually user workflow issues. Forcing yourself to stick with a tool builds the muscle [memory](/posts/how-to-remember-what-you-read-effectively/) necessary for long-term success.
 
 **Utilize the 3-2-1 backup strategy.** Your PIMS holds your entire digital life; treating cloud sync as a backup is a dangerous mistake. Syncing replicates errors—if you accidentally delete a file on your laptop, the cloud instantly deletes the backup. Implement a true backup strategy: keep 3 total copies of your data, on 2 different mediums, with 1 copy stored securely offsite (using a service like Backblaze or an encrypted external drive kept at a separate physical location).
 

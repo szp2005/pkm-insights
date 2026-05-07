@@ -37,7 +37,7 @@ The interplay between nodes, fields, and Supertags allows Tana to understand the
 
 ## Essential Tana Commands for Daily Notes
 
-Tana's command palette (accessed via `Cmd/Ctrl + K`) is the gateway to its automation features. Specific commands allow you to manipulate nodes, insert dynamic content, and trigger complex workflows. For daily notes, a select set of commands forms the core of your automation strategy.
+Tana's command palette (accessed via `Cmd/Ctrl + K`) is the gateway to its automation features. Specific commands allow you to manipulate nodes, insert dynamic content, and trigger complex [workflows](/posts/getting-things-done-for-knowledge-workers/). For daily notes, a select set of commands forms the core of your automation strategy.
 
 ### Dynamic Date and Time Commands
 
@@ -49,7 +49,7 @@ One of the most frequent requirements for a daily note is to accurately stamp it
 *   **`Date`**: Allows you to pick any specific date from a calendar, inserting it as a linked date node.
 *   **`Time`**: Inserts the current time.
 
-These commands ensure that your daily notes are not just static entries but are dynamically linked within your graph, making navigation and contextual retrieval seamless. For instance, you might have a field in your daily note template that automatically links to `Yesterday`'s note for easy review.
+These commands ensure that your daily notes are not just static entries but are dynamically linked within your graph, making navigation and contextual retrieval seamless. For instance, you might have a field in your daily note template that automatically links to `Yesterday`'s note for easy [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/).
 
 ### Creating Nodes and Inserting Templates
 
@@ -235,7 +235,7 @@ By adhering to these practical guidelines, you can build a resilient, efficient,
 
 Establishing an automated daily note setup in Tana represents a significant upgrade in [personal knowledge management](/posts/digital-decluttering-for-information-overload/) and productivity. By leveraging Tana's powerful combination of Supertags, fields, and dynamic commands, users can move beyond the friction of manual note creation to a system that is consistent, contextually rich, and highly efficient. From automatically linking to previous and next days to dynamically pulling in unfinished tasks and relevant contextual information, Tana transforms the daily note from a simple entry into a dynamic dashboard for your day.
 
-The process involves defining a robust `#Daily Note` Supertag with carefully chosen fields, embedding Tana commands like `[[Today]]`, `[[Yesterday]]`, and `Insert Template` directly into its structure, and then creating a simple command to instantiate this template daily. Advanced users can further enhance this by integrating live search queries for task carry-over or contextual information. The key is to start with a foundational setup and iterate, ensuring that the automation serves your specific needs and evolves with your workflow. A well-implemented automated daily note system in Tana not only saves time but also fosters a more consistent practice of reflection and planning, ultimately leading to better organization and more focused work.
+The process involves defining a robust `#Daily Note` Supertag with carefully chosen fields, embedding Tana commands like `[[Today]]`, `[[Yesterday]]`, and `Insert Template` directly into its structure, and then creating a simple command to instantiate this template daily. Advanced users can further enhance this by integrating live search queries for task carry-over or contextual information. The key is to start with a foundational setup and iterate, ensuring that the automation serves your specific needs and evolves with your workflow. A well-implemented automated daily note system in Tana not only saves time but also fosters a more consistent practice of reflection and planning, ultimately leading to better [organization](/posts/steps-to-building-a-second-brain/) and more focused work.
 
 ## Frequently Asked Questions
 

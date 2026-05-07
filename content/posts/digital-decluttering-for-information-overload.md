@@ -22,20 +22,20 @@ This comprehensive guide explores the psychological mechanics of information ove
 
 ## The Hidden Cost of Information Overload
 
-Before implementing a system to counter information overload, it is essential to understand the invisible tax it levies on your cognitive resources. Human working memory is strictly limited. When we overwhelm it with disparate data points, we experience a phenomenon known as cognitive overload.
+Before implementing a system to counter information overload, it is essential to understand the invisible tax it levies on your cognitive resources. Human working [memory](/posts/how-to-remember-what-you-read-effectively/) is strictly limited. When we overwhelm it with disparate data points, we experience a phenomenon known as cognitive overload.
 
 ### Cognitive Fatigue and Decision Depletion
 Every unread email, every push notification, and every cluttered desktop icon represents an open loop—a micro-decision waiting to be made. According to the Zeigarnik effect, our brains obsess over uncompleted tasks. When your digital environment is cluttered, your brain is silently expending energy keeping track of these unresolved inputs, leading to rapid decision fatigue. By mid-afternoon, the cognitive depletion is so severe that executive function falters, leaving you prone to procrastination and poor decision-making.
 
 ### The Context Switching Penalty
-Information overload demands constant context switching. You are writing a report, a Slack notification pops up, you check it, and then you return to your report. While this micro-interruption feels instantaneous, cognitive psychology dictates otherwise. [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) indicates it takes an average of 23 minutes and 15 seconds to fully return to a state of deep concentration after an interruption. A cluttered digital environment practically guarantees you will spend your entire day in a state of shallow, fragmented attention, never achieving the flow state required for high-impact work.
+Information overload demands constant context switching. You are [writing](/posts/atomic-notes-writing-guide/) a report, a Slack notification pops up, you check it, and then you return to your report. While this micro-interruption feels instantaneous, cognitive psychology dictates otherwise. [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) indicates it takes an average of 23 minutes and 15 seconds to fully return to a state of deep concentration after an interruption. A cluttered digital environment practically guarantees you will spend your entire day in a state of shallow, fragmented attention, never achieving the flow state required for high-impact work.
 
 ### The Illusion of FOMO vs. JOMO
 Information overload is largely driven by FOMO (Fear Of Missing Out). We subscribe to dozens of newsletters and scroll endlessly because we fear missing a critical piece of data or an industry trend. Digital decluttering requires a paradigm shift toward JOMO (Joy Of Missing Out)—the profound realization that ignoring 99% of the noise is the only way to effectively process the 1% of information that actually matters.
 
 ## What is Digital Decluttering?
 
-Digital decluttering is the systematic elimination of digital noise, the [organization](/posts/steps-to-building-a-second-brain/) of essential digital assets into logical hierarchies, and the implementation of rigid boundaries regarding information consumption. 
+Digital decluttering is the systematic elimination of digital noise, the [organization](/posts/steps-to-building-a-second-brain/) of essential [digital assets](/posts/knowledge-asset-product-group-strategy/) into logical hierarchies, and the implementation of rigid boundaries regarding information consumption. 
 
 A successful digital decluttering strategy rests on three foundational pillars:
 1. **Elimination:** Ruthlessly cutting off low-value information sources at the root.

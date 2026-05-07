@@ -25,7 +25,7 @@ In this comprehensive guide, we will explore the philosophy behind the Second Br
 
 ## What is a Second Brain?
 
-Coined and popularized by [productivity](/posts/zettelkasten-method-explained/) expert Tiago Forte, a Second Brain is an external, centralized, digital repository for the things you learn, the resources you gather, and the ideas you generate. It is a [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system designed not just for hoarding information, but for action.
+Coined and popularized by [productivity](/posts/zettelkasten-method-explained/) expert [Tiago Forte](/posts/tiago-forte-building-a-second-brain-review/), a Second Brain is an external, centralized, digital repository for the things you learn, the resources you gather, and the ideas you generate. It is a [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system designed not just for hoarding information, but for action.
 
 At its core, a Second Brain operates on a simple premise: **Your mind is for having ideas, not holding them.**
 
@@ -109,7 +109,7 @@ The tool you choose should align with how your brain naturally works. Here are t
 If your creativity relies on seeing connections between disparate ideas, Obsidian is arguably the best tool on the market. It uses plain text markdown files (future-proofing your data) and bidirectional linking. It visualizes your notes as a literal neural network, making it incredibly powerful for researchers, writers, and abstract thinkers.
 
 ### 2. Notion: The Architect's Workbench
-If you are a visual, structured thinker who loves databases, Kanban boards, and perfectly aligned dashboards, Notion is ideal. It is less about spontaneous connection and more about rigorous organization and project management. It's fantastic for teams, agencies, and creatives who need to track complex deliverables.
+If you are a visual, structured thinker who loves databases, Kanban boards, and perfectly aligned dashboards, Notion is ideal. It is less about spontaneous connection and more about rigorous [organization](/posts/para-method-for-digital-organization/) and [project management](/posts/tana-supertags-for-project-managers-download/). It's fantastic for teams, agencies, and creatives who need to track complex deliverables.
 
 ### 3. Apple Notes / Bear / Simplenote: The Minimalists
 Sometimes, too many features get in the way of creativity. If you find yourself endlessly tweaking your Obsidian graph instead of writing, a minimalist tool might be better. Apple Notes has robust search and tagging, and its frictionless integration into the Apple ecosystem makes capturing ideas effortless.

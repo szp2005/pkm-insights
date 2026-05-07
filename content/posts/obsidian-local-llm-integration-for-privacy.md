@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Obsidian local LLM integration for privacy involves running open-weights language models directly on your hardware using [tools](/posts/personal-knowledge-management-tools-comparison/) like Ollama or LM Studio, connected via plugins like BMO Chatbot or Text Generator. This guarantees 100% data sovereignty since your notes never leave your machine, requiring at least 16GB of system RAM or an Apple Silicon Mac for optimal performance.
 
-Integrating artificial intelligence into a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) system offers obvious benefits, from synthesizing complex notes to generating structure from scattered thoughts. However, sending highly personal journals, proprietary code, or confidential client notes to cloud providers like OpenAI or Anthropic introduces significant security and privacy risks. 
+Integrating [artificial intelligence](/posts/self-healing-knowledge-base-principles/) into a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) system offers obvious benefits, from synthesizing complex notes to generating structure from scattered thoughts. However, sending highly personal journals, proprietary code, or confidential client notes to cloud providers like OpenAI or Anthropic introduces significant security and privacy risks. 
 
 As open-weights models become increasingly capable, routing your [note-taking](/posts/zettelkasten-method-explained/) [workflows](/posts/getting-things-done-for-knowledge-workers/) through external servers is no longer a strict requirement. Setting up an Obsidian local LLM integration for privacy allows you to retain the analytical power of artificial intelligence while maintaining the core philosophy of [local-first](/posts/anytype-review-local-first-privacy-lovers/) [software](/posts/best-apps-for-personal-knowledge-management/). Your vault remains on your machine, and the computing happens on your hardware.
 
@@ -31,7 +31,7 @@ By running models locally, you achieve absolute data sovereignty. Disconnecting 
 
 ## Hardware Requirements for Local AI
 
-Before configuring the software, you must assess your hardware capabilities. Local LLMs are constrained heavily by memory bandwidth and capacity.
+Before configuring the software, you must assess your hardware capabilities. Local LLMs are constrained heavily by [memory](/posts/how-to-remember-what-you-read-effectively/) bandwidth and capacity.
 
 ### System RAM vs. Video RAM (VRAM)
 Language models require memory to load their "weights" (the neural network parameters). Running an LLM on a standard CPU and system RAM is possible but often agonizingly slow due to limited memory bandwidth. Processing speeds increase dramatically when the model is loaded into a dedicated GPU's VRAM.
@@ -115,7 +115,7 @@ Models downloaded from Hugging Face often use the GGUF format, which includes a 
 The "context window" dictates how much text you can send to the model at once. Sending a 5,000-word note to a local model requires the engine to process all those tokens before generating a single word of output. This can cause massive latency spikes and thermal throttling. Keep your prompt context tight. Only send the specific sections of the note you need analyzed, rather than your entire vault index.
 
 **Battery Management**
-Local inference is computationally expensive. Running an LLM engine at full capacity will drain a laptop battery rapidly and spin up the cooling fans. When working offline on battery power, switch to smaller models like Phi-3, or pause the inference engine entirely when you are strictly writing and not requiring AI assistance.
+Local inference is computationally expensive. Running an LLM engine at full capacity will drain a laptop battery rapidly and spin up the cooling fans. When working offline on battery power, switch to smaller models like Phi-3, or pause the inference engine entirely when you are strictly [writing](/posts/atomic-notes-writing-guide/) and not requiring AI assistance.
 
 ## Conclusion
 

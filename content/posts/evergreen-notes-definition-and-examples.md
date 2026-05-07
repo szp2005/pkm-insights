@@ -117,7 +117,7 @@ The human brain is not designed for parallel processing of complex tasks. What w
 
 Each time we switch contexts (e.g., from writing code to answering an email and back again), there is a cognitive cost known as an "attention residue." A portion of our focus remains stuck on the previous task. Because of this residue, it can take upward of 20 minutes to regain deep focus on the original task. 
 
-Therefore, dividing a day into highly fragmented blocks of different activities does not just reduce the time spent on deep work; it actively depletes the cognitive energy required to do that work at a high level.
+Therefore, dividing a day into highly fragmented blocks of different activities does not just reduce the time spent on [deep work](/posts/four-layer-stack-for-pkm-optimization/); it actively depletes the cognitive energy required to do that work at a high level.
 
 **Links:**
 *   [[Deep work requires long, uninterrupted blocks of time]]
@@ -150,8 +150,8 @@ This is the most crucial step. Search your existing notes. Does this new concept
 While you could theoretically manage evergreen notes with physical index cards, modern software makes the process of linking and searching infinitely easier. The rise of the PKM movement has spawned several tools specifically designed for this purpose:
 
 *   **[Obsidian](/posts/what-is-personal-knowledge-management/):** Currently the most popular tool for building a digital Zettelkasten. It uses local Markdown files, ensuring you always own your data. Its graph view provides a stunning visual representation of how your evergreen notes connect.
-*   **Roam Research:** The tool that popularized bi-directional linking. It operates on an outliner structure and is excellent for rapid, associative thinking.
-*   **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** An open-source alternative to Roam Research that also operates on local Markdown files, combining the privacy of Obsidian with the outliner workflow of Roam.
+*   **Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/):** The tool that popularized bi-directional linking. It operates on an outliner structure and is excellent for rapid, associative thinking.
+*   **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** An open-source alternative to Roam Research that also operates on local Markdown files, combining the [privacy](/posts/anytype-review-local-first-privacy-lovers/) of Obsidian with the outliner workflow of Roam.
 *   **[Notion](/posts/personal-knowledge-management-tools-comparison/):** While Notion is incredibly versatile, it requires more manual setup to function as an evergreen note system. You will need to build specific databases and relations to mimic the frictionless linking of tools like Obsidian.
 
 ## Common Pitfalls to Avoid

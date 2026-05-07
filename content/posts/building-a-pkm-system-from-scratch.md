@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # The Ultimate Guide: Building a PKM System from Scratch
 
-> **Quick Answer:** Building a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system starts with choosing a central tool like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or Notion to store your notes. Next, establish a simple capture habit to easily record ideas and information as you consume them. Finally, develop a consistent organization method, such as the PARA framework, to retrieve and connect your knowledge when you need it.
+> **Quick Answer:** Building a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system starts with choosing a central tool like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/) to store your notes. Next, establish a simple capture habit to easily record ideas and information as you consume them. Finally, develop a consistent organization method, such as the PARA framework, to retrieve and connect your knowledge when you need it.
 
 In an era characterized by relentless information velocity, our brains are constantly bombarded with podcasts, articles, tweets, newsletters, and books. We consume an unprecedented amount of data, yet we retain shockingly little. This is where Personal Knowledge Management (PKM) becomes not just a [productivity](/posts/zettelkasten-method-explained/) hack, but a cognitive necessity. 
 
@@ -29,7 +29,7 @@ Before you download a single app or write a single note, you must define the pur
 
 Ask yourself: **What is the primary output of my life or work?**
 
-*   **The Writer/Creator:** Your system should focus on generating ideas, connecting disparate concepts, and streamlining the drafting process.
+*   **The Writer/Creator:** Your system should [focus](/posts/managing-digital-information-overload-tips/) on generating ideas, connecting disparate concepts, and streamlining the drafting process.
 *   **The Project Manager/Executive:** Your system must prioritize task execution, team updates, meeting minutes, and quick retrieval of project specs.
 *   **The Researcher/Student:** Your system needs robust citation management, deep linking capabilities, and structured literature reviews.
 
@@ -139,7 +139,7 @@ PARA stands for Projects, Areas, Resources, and Archives. It is a system develop
 
 ### How do I avoid "The Collector's Fallacy" when taking notes?
 
-The Collector's Fallacy is the false belief that saving a link or clipping an article is the same as learning it. To avoid this, always "process" what you capture by writing a brief summary in your own words or linking it to an existing idea in your system.
+The Collector's Fallacy is the false belief that saving a link or clipping an article is the same as [learning](/posts/how-to-remember-what-you-read-effectively/) it. To avoid this, always "process" what you capture by writing a brief summary in your own words or linking it to an existing idea in your system.
 
 ### Should I use folders or tags to organize my digital brain?
 

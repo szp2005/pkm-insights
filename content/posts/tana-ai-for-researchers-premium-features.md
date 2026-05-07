@@ -19,7 +19,7 @@ Managing an academic [research](/posts/progressive-summarization-workflow-for-de
 
 Tana has emerged as a specialized environment that combines the structural rigor of a database with the fluidity of an outliner. However, the true leverage for academics lies within its AI integrations. While the free tier offers a glimpse into semantic [knowledge management](/posts/knowledge-management-strategies-for-students/), the premium tier transforms the application into an active research assistant.
 
-By integrating large language models directly into the node structure, Tana AI allows researchers to program their workspace. This guide breaks down the specific premium features that justify the investment for academic and professional researchers, detailing how these capabilities alter the fundamental processes of literature review, data synthesis, and manuscript preparation.
+By integrating large language models directly into the node structure, Tana AI allows researchers to program their workspace. This guide breaks down the specific premium features that justify the investment for academic and professional researchers, detailing how these capabilities alter the fundamental processes of literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/), data synthesis, and manuscript preparation.
 
 ## Advanced Custom AI Commands
 
@@ -49,13 +49,13 @@ For qualitative researchers, premium access allows for the ingestion of much lon
 
 ## Semantic Search and Contextual Retrieval
 
-As a research database grows into the thousands of nodes, exact-match keyword searching becomes inadequate. You may remember reading a paper about "cognitive load in multimedia learning," but the author used the phrase "working memory constraints during dual-channel processing." 
+As a research database grows into the thousands of nodes, exact-match keyword searching becomes inadequate. You may remember reading a paper about "cognitive load in multimedia [learning](/posts/how-to-remember-what-you-read-effectively/)," but the author used the phrase "working memory constraints during dual-channel processing." 
 
 ### Vector-Based Knowledge Retrieval
 Tana's premium tier utilizes advanced vector embeddings to enable true semantic search across your entire workspace. When you query your database, the system retrieves nodes based on conceptual similarity rather than exact string matches. This is critical during the literature review phase when you are trying to find connections between disparate sub-fields that use different terminology for the same underlying phenomena.
 
 ### Uncovering Latent Connections
-The AI can actively suggest connections between your current node and older, forgotten notes. If you are drafting a section on methodology, a premium AI feature can surface a note you took two years ago on a similar statistical approach, even if you never explicitly linked the two documents. This prevents the "black hole" effect common in long-term PhD or postdoctoral research, ensuring that early reading actively informs later writing.
+The AI can actively suggest connections between your current node and older, forgotten notes. If you are drafting a section on methodology, a premium AI feature can surface a note you took two years ago on a similar statistical approach, even if you never explicitly linked the two documents. This prevents the "black hole" effect common in long-term PhD or postdoctoral research, ensuring that early reading actively informs later [writing](/posts/atomic-notes-writing-guide/).
 
 ## Enhanced API Access and Integrations
 

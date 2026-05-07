@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Heptabase vs Scrintal: Best Visual Sense-Making Tool in 2026?
 
-> **Quick Answer:** For rigorous visual sense-making, **Heptabase** excels with its robust PDF annotation, nested whiteboards, and learning-focused architecture, making it the top choice for deep researchers. **Scrintal** provides a cleaner, highly intuitive interface with exceptional card linking and outliner capabilities, serving as the better option for visual writers and project planners who prefer friction-free mapping.
+> **Quick Answer:** For rigorous visual sense-making, **Heptabase** excels with its robust PDF annotation, nested whiteboards, and [learning](/posts/how-to-remember-what-you-read-effectively/)-focused architecture, making it the top choice for deep researchers. **Scrintal** provides a cleaner, highly intuitive interface with exceptional card linking and outliner capabilities, serving as the better option for visual writers and project planners who prefer friction-free mapping.
 
 The shift from linear document editing to spatial, visual sense-making has transformed how knowledge workers process complex information. When you are grappling with dozens of sources, competing concepts, and intricate connections, a standard [note-taking](/posts/zettelkasten-method-explained/) app quickly becomes a restrictive filing cabinet. You need a canvas.
 
@@ -37,7 +37,7 @@ Both Heptabase and Scrintal operate on this premise, utilizing a core architectu
 **Price:** $8.99-$11.99/month
 **Rating:** 4.8/5
 
-Heptabase was built with a specific methodology in mind: helping users deeply understand complex topics. It leans heavily into tools that support rigorous studying, literature review, and academic research. Its canvas allows for extreme granularity, including nested whiteboards within whiteboards, creating a fractal organizational system.
+Heptabase was built with a specific methodology in mind: helping users deeply understand complex topics. It leans heavily into tools that support rigorous studying, literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/), and academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/). Its canvas allows for extreme granularity, including nested whiteboards within whiteboards, creating a fractal organizational system.
 
 The standout feature of Heptabase is its integrated PDF reader and annotation system. You can open a PDF on the side of your whiteboard, highlight text or image areas, and drag those highlights directly onto the canvas as linked cards. This creates a seamless pipeline from raw source material to synthesized knowledge.
 

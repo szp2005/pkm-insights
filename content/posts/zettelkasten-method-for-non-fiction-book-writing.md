@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide
 
-> **Quick Answer:** The Zettelkasten method for non-fiction book writing works by breaking research down into individual, standardized notes (Zettels) that are extensively linked. Instead of starting with a blank page and an outline, authors build a web of interconnected ideas over time, allowing the book's structure and arguments to emerge organically from the bottom up, effectively eliminating writer's block.
+> **Quick Answer:** The Zettelkasten method for non-fiction book writing works by breaking [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) down into individual, standardized notes (Zettels) that are extensively linked. Instead of starting with a blank page and an outline, authors build a web of interconnected ideas over time, allowing the book's structure and arguments to emerge organically from the bottom up, effectively eliminating writer's block.
 
 Writing a non-fiction book is fundamentally an exercise in managing complex information. Most authors begin with a broad outline, gather research into folders or massive documents, and eventually stare down a blank screen, trying to force disparate facts into a coherent narrative. This top-down approach frequently leads to writer's block, discarded drafts, and logical inconsistencies within the manuscript. 
 
@@ -94,7 +94,7 @@ The most severe error is the collector's fallacy—the assumption that saving a 
 
 Another frequent mistake is building complex, hierarchical folder structures. A true Zettelkasten relies on links, not folders. Forcing notes into rigid categories (e.g., "Chapter 1," "Chapter 2") limits their utility. A note about behavioral economics might fit perfectly in Chapter 2, but later prove vital for the conclusion. Rely on tags and bidirectional links to maintain fluidity.
 
-Finally, many authors overcomplicate their [software](/posts/best-apps-for-personal-knowledge-management/) setup. Whether you use plain text files, [Obsidian](/posts/what-is-personal-knowledge-management/), Roam Research, or physical index cards, the tool must disappear into the background. If you spend more time managing plugins and formatting than writing permanent notes, you have lost the plot.
+Finally, many authors overcomplicate their [software](/posts/best-apps-for-personal-knowledge-management/) setup. Whether you use plain text files, [Obsidian](/posts/what-is-personal-knowledge-management/), [Roam Research](/posts/roam-research-vs-obsidian-comparison/), or physical index cards, the tool must disappear into the background. If you spend more time managing plugins and formatting than writing permanent notes, you have lost the plot.
 
 ## Conclusion
 
@@ -121,13 +121,15 @@ No. Luhmann built his entire system using physical paper slips and wooden cabine
 
 ## Related Reading
 
+- [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
+
 - [How to Create a Zettelkasten Index in Obsidian: 5-Step Guide](/posts/how-to-create-a-zettelkasten-index-in-obsidian/)
 
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
 
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
 
-- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First [Knowledge Management](/posts/knowledge-management-strategies-for-students/)?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/posts/atomic-notes-writing-guide/)
 

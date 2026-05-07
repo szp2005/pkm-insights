@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Tana Supertags for Project Managers: Download the Ultimate 2026 Setup
 
-> **Quick Answer:** The fastest way to optimize Tana for project management is to import a pre-configured workspace. Our downloadable PM Supertag bundle includes `#project`, `#task`, `#meeting`, and `#person` tags, complete with inherited fields for status, priority, and deadlines, instantly transforming your daily node structure into a functional project management dashboard.
+> **Quick Answer:** The fastest way to optimize Tana for [project management](/posts/obsidian-canvas-for-mapping-complex-project-ideas/) is to import a pre-configured workspace. Our downloadable PM Supertag bundle includes `#project`, `#task`, `#meeting`, and `#person` tags, complete with inherited fields for status, priority, and deadlines, instantly transforming your daily node structure into a functional project management dashboard.
 
 Managing multiple projects across distributed teams requires a system that handles both granular task details and high-level portfolio overviews. Traditional project management [tools](/posts/personal-knowledge-management-tools-comparison/) often force you into rigid hierarchies, while unstructured [note-taking](/posts/zettelkasten-method-explained/) apps leave you searching for lost action items. Tana bridges this gap through its unique database-in-a-node architecture, specifically driven by Supertags.
 
@@ -27,7 +27,7 @@ In standard project management [software](/posts/best-apps-for-personal-knowledg
 
 If you are taking notes during a daily standup and type an action item, applying a `#task` tag immediately gives that node fields for "Assignee," "Due Date," and "Status." Because Tana is a graph database, that node simultaneously exists in your daily notes and in your global task dashboard. 
 
-For project managers, this eliminates the friction of context switching. You do not need to open a separate application or navigate to a specific folder to log a bug, assign a deliverable, or update a project status. The data structure comes to the data, exactly where you are writing it.
+For project managers, this eliminates the friction of context switching. You do not need to open a separate application or navigate to a specific folder to log a bug, assign a deliverable, or update a project status. The data structure comes to the data, exactly where you are [writing](/posts/atomic-notes-writing-guide/) it.
 
 ## Inside the PM Supertag Bundle: What You Get
 
@@ -50,7 +50,7 @@ Tasks are the atomic units of work. This tag is designed to be applied rapidly d
 
 *   **Parent Project:** A relation field linking back to a `#project`.
 *   **Assignee:** Relation field linking to a `#person`.
-*   **Status:** Backlog, In Progress, Blocked, In Review, Done.
+*   **Status:** Backlog, In Progress, Blocked, In [Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/), Done.
 *   **Priority:** P1 (Critical), P2 (High), P3 (Medium), P4 (Low).
 *   **Sprint:** Relation field linking to a specific sprint cycle.
 *   **Estimated Effort:** Numeric field for hours or story points.

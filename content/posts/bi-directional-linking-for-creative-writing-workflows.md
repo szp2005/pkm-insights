@@ -74,7 +74,7 @@ Create a tag or a dedicated note for a specific mystery, such as `[[The Stolen H
 
 ## Practical Advice for Setting Up Your Workspace
 
-Transitioning to a linked note system requires a slight shift in mindset. Here are concrete strategies for structuring your creative writing workflow in tools like Obsidian, [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), or Roam Research.
+Transitioning to a linked note system requires a slight shift in mindset. Here are concrete strategies for structuring your creative [writing workflow](/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/) in [tools](/posts/personal-knowledge-management-tools-comparison/) like [Obsidian](/posts/what-is-personal-knowledge-management/), [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), or Roam Research.
 
 ### Use a Flat Folder Structure
 

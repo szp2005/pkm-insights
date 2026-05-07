@@ -27,7 +27,7 @@ This guide details exactly how to approach building research ontologies in Capac
 
 To build an effective research ontology, you must first understand the core mechanic of Capacities: objects. 
 
-In traditional note-taking apps (like Evernote or basic Markdown editors), everything is a generic "note." In an object-based system, information is categorized by its fundamental nature. A meeting is not the same as a book, and a psychological concept is not the same as a person. 
+In traditional [note-taking apps](/posts/reflect-notes-vs-obsidian-for-quick-capture/) (like Evernote or basic Markdown editors), everything is a generic "note." In an object-based system, information is categorized by its fundamental nature. A meeting is not the same as a book, and a psychological concept is not the same as a person. 
 
 ### The Shift from Folders to Types
 When building an ontology, your first task is defining your taxonomy. Instead of creating a folder named "Philosophy Research," you define an object type called `Concept` and another called `Philosopher`. 
@@ -115,7 +115,7 @@ A common mistake when building research ontologies is confusing tags with object
 
 **Use Objects for entities that have their own properties and notes.** "[Artificial Intelligence](/posts/self-healing-knowledge-base-principles/)" should be a `Concept` object because you will want to write notes about it, define it, and link sources to it.
 
-**Use Tags for status, context, or workflow states.** "#review_later", "#high_priority", or "#needs_citation" are tags. They describe the state of the information, not the information itself. Mixing these up leads to cluttered graphs and confusing property fields.
+**Use Tags for status, context, or [workflow](/posts/using-the-para-method-in-google-drive/) states.** "#review_later", "#high_priority", or "#needs_citation" are tags. They describe the state of the information, not the information itself. Mixing these up leads to cluttered graphs and confusing property fields.
 
 ## Conclusion
 
@@ -133,7 +133,7 @@ Yes, Capacities supports Markdown imports. However, because imported notes come 
 Aim for 4 to 6 core object types initially: Sources, Authors, Concepts, Claims, and Projects. Keeping the number low reduces cognitive load when entering new information and prevents your database schema from becoming overly complex and difficult to query.
 
 ### Is Capacities better than Obsidian for building ontologies?
-It depends on your technical preference. Capacities provides a structured, out-of-the-box object database that is easier to set up for relational mapping. Obsidian offers more flexibility and local file ownership but requires significant configuration with community plugins (like Dataview) to achieve the same database-like functionality.
+It depends on your technical preference. Capacities provides a structured, out-of-the-box object database that is easier to set up for relational mapping. Obsidian offers more flexibility and local file ownership but requires significant configuration with community [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/) (like Dataview) to achieve the same database-like functionality.
 
 ### Do I need to fill out every property when creating a new object?
 No. Properties should serve as prompts, not mandatory forms. Fill out the properties that are immediately useful for future retrieval (like Author or Date) and leave the rest blank. You can always enrich the metadata later as the object becomes more central to your research.

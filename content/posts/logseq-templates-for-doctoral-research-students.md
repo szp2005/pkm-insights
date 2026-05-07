@@ -19,7 +19,7 @@ Doctoral research is essentially a multi-year project in complex [information ma
 
 Logseq’s outliner structure, [local-first](/posts/anytype-review-local-first-privacy-lovers/) privacy, and bidirectional linking make it uniquely suited for the rigorous, long-term demands of doctoral work. Unlike standard folder-based apps, Logseq allows you to connect ideas at the block level, meaning a single paragraph about a specific methodology can be linked directly to your daily lab notes, a paper by a specific author, and a broader concept note.
 
-However, starting with a blank daily note every morning is a primary source of friction. To harness the full power of networked thought without succumbing to organizational fatigue, you need standardized starting points. Using structured templates ensures that every piece of literature, experiment result, and piece of feedback is tagged consistently, allowing you to use queries to retrieve exact information later. 
+However, starting with a blank daily note every morning is a primary source of friction. To harness the full power of [networked thought](/posts/tana-vs-capacities-networked-thought/) without succumbing to organizational fatigue, you need standardized starting points. Using structured templates ensures that every piece of literature, experiment result, and piece of feedback is tagged consistently, allowing you to use queries to retrieve exact information later. 
 
 This guide provides a comprehensive suite of Logseq templates for doctoral research students, designed to transform your graph into an automated research assistant.
 
@@ -60,14 +60,14 @@ Copy the following structure into a dedicated "Templates" page in your Logseq gr
     - 
   - **5. Critique & Limitations (Mine and Authors):**
     - 
-  - **6. Direct Relevance to My Thesis:**
+  - **6. Direct Relevance to My [Thesis](/posts/obsidian-academic-workflow-for-thesis-2026/):**
     - 
   - **7. Important Quotes & Block References:**
     - 
 ```
 
 ### How to Maximize This Template
-The most critical field in this template is **Direct Relevance to My Thesis**. When you are reading your 200th paper, the general findings will blur together. Forcing yourself to articulate exactly how a paper impacts your specific research question saves countless hours during the writing phase. Change the `Status::` property to `#reading` and then `#processed` to track your progress through heavy reading lists.
+The most critical field in this template is **Direct Relevance to My Thesis**. When you are reading your 200th paper, the general findings will blur together. Forcing yourself to articulate exactly how a paper impacts your specific research question saves countless hours during the [writing](/posts/atomic-notes-writing-guide/) phase. Change the `Status::` property to `#reading` and then `#processed` to track your progress through heavy reading lists.
 
 ## 2. Daily Research & Lab Journal Template
 

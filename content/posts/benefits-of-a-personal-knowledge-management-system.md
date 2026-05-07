@@ -50,7 +50,7 @@ Traditional hierarchical folder systems (e.g., placing a note in `Documents/Work
 When you write a note about "Behavioral Economics" and link it to a note about "User Interface Design," you have created a bridge between two disciplines. Over time, as your network of notes grows, these bridges multiply. You will inevitably stumble across a note from three years ago about "Evolutionary Biology" that perfectly solves a current problem in "Organizational Management." Your PKM acts as an engine for serendipity, forcing ideas to mingle and breed.
 
 **Practical Advice:**
-Embrace the concept of "Tags" and "Backlinks" over rigid folders. When writing a note, proactively ask yourself: *What does this remind me of? Where else could this idea be applied?* Create links to those concepts, even if the destination note doesn't exist yet. You are leaving breadcrumbs for your future self.
+Embrace the concept of "Tags" and "Backlinks" over rigid folders. When [writing](/posts/atomic-notes-writing-guide/) a note, proactively ask yourself: *What does this remind me of? Where else could this idea be applied?* Create links to those concepts, even if the destination note doesn't exist yet. You are leaving breadcrumbs for your future self.
 
 ## 4. Supercharging Productivity and Output
 
@@ -74,7 +74,7 @@ A well-maintained PKM ensures that every book read, every problem solved, and ev
 Over decades, your PKM transitions from a simple [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) tool into a comprehensive map of your intellectual journey. It becomes a deeply personal, localized search engine tailored exactly to your interests and expertise. The larger the database grows, the more valuable it becomes, as the potential for unexpected connections scales exponentially with the number of nodes in your network.
 
 **Practical Advice:**
-Treat your PKM like a digital garden. It requires regular weeding, pruning, and harvesting. Dedicate 30 minutes a week to "Knowledge Gardening." Review orphaned notes, add new links between recent concepts, and refine the titles of your entries so they are easily discoverable by your future self.
+Treat your PKM like a digital garden. It requires regular weeding, pruning, and harvesting. Dedicate 30 minutes a week to "Knowledge Gardening." [Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) orphaned notes, add new links between recent concepts, and refine the titles of your entries so they are easily discoverable by your future self.
 
 ## 6. Improved Decision-Making and Mitigating Biases
 
@@ -90,7 +90,7 @@ Create a template within your PKM tool for major decisions. Include fields for: 
 
 ## Key Principles for Establishing Your System
 
-The benefits of a PKM are undeniable, but the implementation is where many falter. The internet is littered with abandoned, overly complex Notion dashboards and messy Evernote accounts. To succeed, adhere to these core principles:
+The benefits of a PKM are undeniable, but the implementation is where many falter. The internet is littered with abandoned, overly complex [Notion](/posts/second-brain-dashboard-for-notion-power-users/) dashboards and messy Evernote accounts. To succeed, adhere to these core principles:
 
 1.  **Tool Agnosticism:** Do not get caught up in the "tool wars." Whether you use Obsidian, Notion, Apple Notes, or plain text markdown files, the tool matters far less than the workflow. Choose a tool that is fast, reliable, and ideally offers local storage and data portability (like Markdown) so you aren't locked into a proprietary ecosystem.
 2.  **Start Small:** The biggest mistake beginners make is attempting to architect the perfect, all-encompassing ontology from day one. Do not build a massive folder structure you have no notes for. Start by simply taking notes. Let the structure emerge organically from the bottom up as your database grows. 

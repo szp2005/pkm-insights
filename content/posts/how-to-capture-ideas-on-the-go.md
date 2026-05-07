@@ -23,7 +23,7 @@ Learning how to capture ideas on the go requires shifting from complex organizat
 
 ## The Friction Problem: Why Ideas Vanish
 
-Friction is the enemy of capture. Every extra step required to record a thought reduces the probability that it will be recorded. If you have to unlock your phone, find a specific folder within Notion or Obsidian, create a new page, and add tags, the idea will often slip away before you type the first word.
+Friction is the enemy of capture. Every extra step required to record a thought reduces the probability that it will be recorded. If you have to unlock your phone, find a specific folder within Notion or [Obsidian](/posts/what-is-personal-knowledge-management/), create a new page, and add tags, the idea will often slip away before you type the first word.
 
 This friction compounds when we try to enforce organization at the point of entry. Trying to categorize an idea while generating it interrupts the creative flow. The mobile capture phase must be strictly separated from the organization phase. 
 
@@ -35,7 +35,7 @@ Before choosing tools, you must define a destination. An inbox is a temporary ho
 
 Your on-the-go capture tools should all funnel into one primary inbox, or at most two (one physical, one digital). If you write a note on a napkin, text yourself an audio file, or type into an app, you need a guarantee that you will review these items. 
 
-If you use a digital system like Obsidian, Apple Notes, or Logseq, designate a specific "Inbox" folder. Every mobile capture tool should append text or send files directly to this location. Knowing exactly where the idea will end up eliminates the cognitive load of deciding where to put it in the moment.
+If you use a digital system like Obsidian, Apple Notes, or [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), designate a specific "Inbox" folder. Every mobile capture tool should append text or send files directly to this location. Knowing exactly where the idea will end up eliminates the cognitive load of deciding where to put it in the moment.
 
 ## Step 2: Analog Capture Using Pocket Notebooks
 
@@ -111,6 +111,8 @@ Use intermediary apps that support APIs or webhooks. Apps like Drafts or iOS Sho
 ---
 
 ## Related Reading
+
+- [Differences Between Fleeting and Permanent Notes Explained: Complete Guide to [Knowledge Management](/posts/knowledge-management-strategies-for-students/)](/posts/differences-between-fleeting-and-permanent-notes-explained/)
 
 - [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
 

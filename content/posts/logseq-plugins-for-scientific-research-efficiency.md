@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Scientific research requires managing an overwhelming influx of information: hundreds of PDFs, scattered experimental data, grant deadlines, and evolving theories. Traditional [note-taking](/posts/zettelkasten-method-explained/) apps often force this dynamic web of knowledge into rigid folder structures, leading to siloed information and lost insights.
 
-Logseq, with its privacy-first approach and networked block-level referencing, inherently aligns with how the academic mind works. However, out of the box, it is a blank canvas. To truly handle the rigorous demands of a literature review or a multi-year Ph.D. project, you need to extend its capabilities. 
+Logseq, with its privacy-first approach and networked block-level referencing, inherently aligns with how the academic mind works. However, out of the box, it is a blank canvas. To truly handle the rigorous demands of a literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) or a multi-year Ph.D. project, you need to extend its capabilities. 
 
 By carefully selecting the right extensions, you can build an automated, friction-free ecosystem. This guide examines the best Logseq plugins for scientific research efficiency, evaluating them on their reliability, ease of integration, and actual impact on academic [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
@@ -25,7 +25,7 @@ By carefully selecting the right extensions, you can build an automated, frictio
 
 Before evaluating specific tools, it helps to understand why researchers are migrating to Logseq. The core advantage is local storage. Scientific research often involves proprietary data, unpublished manuscripts, or sensitive patient information. Because Logseq operates on local Markdown files, you maintain complete data sovereignty, easily complying with institutional data protection boards.
 
-Furthermore, the outliner structure encourages modular thinking. Instead of writing long, monolithic documents, you write discrete blocks of thought. A single block summarizing a paper's methodology can be embedded in a literature review page, a daily journal entry, and a meeting note with your primary investigator, all simultaneously updating if changed. The plugins reviewed below are chosen specifically because they enhance these native strengths rather than working against them.
+Furthermore, the outliner structure encourages modular thinking. Instead of [writing](/posts/atomic-notes-writing-guide/) long, monolithic documents, you write discrete blocks of thought. A single block summarizing a paper's methodology can be embedded in a literature review page, a daily journal entry, and a meeting note with your primary investigator, all simultaneously updating if changed. The plugins reviewed below are chosen specifically because they enhance these native strengths rather than working against them.
 
 ## Top Logseq Plugins for Scientific Research Efficiency
 
@@ -169,7 +169,7 @@ First, keep your attachments folder outside of your main graph sync if you are u
 
 Second, be aggressive about your query limits. If you build complex dashboards on your Logseq homepage that constantly query thousands of blocks for specific tags, your application will lag. Limit queries to your current active project or cap the returned results to 20 items. 
 
-Finally, routinely audit your plugins. Every active plugin consumes memory. If you installed a timer plugin or a habit tracker that you no longer use, disable it. A lean environment is a fast environment, and speed is critical when you are trying to capture a fleeting scientific insight.
+Finally, routinely audit your plugins. Every active plugin consumes [memory](/posts/how-to-remember-what-you-read-effectively/). If you installed a timer plugin or a habit tracker that you no longer use, disable it. A lean environment is a fast environment, and speed is critical when you are trying to capture a fleeting scientific insight.
 
 ## The Final Verdict on Research Efficiency
 

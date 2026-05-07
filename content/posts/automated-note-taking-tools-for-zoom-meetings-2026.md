@@ -69,7 +69,7 @@ Beyond generating summaries and transcripts, Fireflies tracks speaker talk time,
 * **Extensive app ecosystem:** Fireflies connects natively to nearly every major CRM, project management tool, and applicant tracking system on the market.
 
 **Limitations:**
-* The sheer volume of data and settings requires a steeper learning curve and dedicated administrative setup to get the most value out of the platform.
+* The sheer volume of data and settings requires a steeper [learning](/posts/how-to-remember-what-you-read-effectively/) curve and dedicated administrative setup to get the most value out of the platform.
 
 ### Zoom AI Companion: Best for Native Integration and Security Constraints
 
@@ -154,5 +154,5 @@ Not necessarily. Tools like Fathom offer incredibly generous free tiers that inc
 
 ## Related Reading
 
-- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs [Obsidian](/posts/personal-knowledge-management-tools-comparison/): Best Local-First [Knowledge Management](/posts/knowledge-management-strategies-for-students/)?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

@@ -8,13 +8,13 @@ tags: ["productivity", "gtd", "knowledge-management", "deep-work", "workflows"]
 type: "informational"
 ---
 
-> **Quick Answer:** Getting Things Done for Knowledge Workers matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover how to adapt David Allen's Getting Things Done (GTD) methodology specifically for the unique challenges of modern knowledge work, information overload, and continuous context switching.
+> **Quick Answer:** Getting Things Done for Knowledge Workers matters because it gives knowledge workers, [students](/posts/how-to-practice-active-recall-using-digital-notes/), and creators a practical way to solve the problem behind the search. Discover how to adapt David Allen's Getting Things Done (GTD) methodology specifically for the unique challenges of modern knowledge work, information overload, and continuous context switching.
 
 For knowledge workers, the modern workplace is less of an assembly line and more of a chaotic information bazaar. The inputs are endless: Slack messages, emails, Jira tickets, [Notion](/posts/what-is-personal-knowledge-management/) documents, and impromptu Zoom calls. In this environment, the traditional metrics of [productivity](/posts/zettelkasten-method-explained/)—hours worked or widgets produced—fall apart. Instead, the currency of knowledge work is attention and the ability to systematically synthesize disparate information into high-value outputs.
 
 David Allen’s *Getting Things Done* (GTD) methodology was published in a slightly different era, but its core principles have never been more critical. However, blindly applying 2001-era GTD to a 2026 tech stack often leads to friction, overwhelmed inboxes, and abandoned systems. The problem isn't the methodology; it's the implementation. 
 
-This comprehensive guide dissects how to re-engineer the GTD framework specifically for the cognitive demands of modern knowledge work. We will move beyond simple to-do lists and explore how to build a robust, friction-free system that protects your most valuable asset: your focus.
+This comprehensive guide dissects how to re-engineer the GTD framework specifically for the cognitive demands of modern knowledge work. We will move beyond simple to-do lists and explore how to build a robust, friction-free system that protects your most valuable asset: your [focus](/posts/managing-digital-information-overload-tips/).
 
 ## The Knowledge Worker's Dilemma: Information Exhaustion
 
@@ -106,7 +106,7 @@ Your task manager should hold actionable items. Your PKM (your "second brain") s
 Do not automate a broken process, but aggressively automate your trusted GTD workflows:
 *   **Email Triage:** Use rules to automatically route newsletters to a "Read Later" service (like Readwise or Instapaper) so they never hit your primary task inbox.
 *   **Meeting Actions:** Use AI meeting assistants to auto-extract action items and push them via API directly into your task manager's inbox.
-*   **Recurring Checklists:** For weekly deployments or quarterly reviews, automate the creation of project templates so you never have to remember the sequential steps.
+*   **Recurring Checklists:** For weekly deployments or quarterly reviews, automate the creation of project [templates](/posts/logseq-templates-for-doctoral-research-students/) so you never have to remember the sequential steps.
 
 ## The Pitfalls: What Breaks Knowledge Worker GTD
 

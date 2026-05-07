@@ -11,13 +11,13 @@ type: "informational"
 
 # Integrate Spaced Repetition Into Your Daily Writing Workflow: 5-Step Guide
 
-> **Quick Answer:** Integrating spaced repetition into your daily writing workflow involves breaking down [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and insights into atomic notes, scheduling them for periodic review using an algorithm-based system, and systematically synthesizing these resurfaced concepts into active writing projects. This approach ensures critical ideas remain at the top of your mind, ready to be deployed when drafting.
+> **Quick Answer:** Integrating spaced repetition into your daily writing workflow involves breaking down [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and insights into [atomic notes](/posts/atomic-notes-writing-guide/), scheduling them for periodic [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) using an algorithm-based system, and systematically synthesizing these resurfaced concepts into active writing projects. This approach ensures critical ideas remain at the top of your mind, ready to be deployed when drafting.
 
 Every writer faces the same fundamental challenge: managing the gap between consumption and creation. You read dozens of articles, highlight chapters in books, and listen to hours of podcasts, accumulating a vast repository of insights. Yet, when you sit down to draft an article or a chapter, the precise statistic or the perfect analogy you encountered three weeks ago completely vanishes from your working memory.
 
 This phenomenon is not a personal failing; it is a structural reality of human cognition. The human brain is engineered to ruthlessly discard information that is not actively utilized. For writers, whose primary currency is retained knowledge and the novel synthesis of disparate ideas, this natural forgetting process represents a massive loss of creative capital.
 
-Spaced repetition, a learning technique traditionally confined to language learning and medical school, offers a rigorous solution to this problem. By strategically exposing yourself to your own notes at precisely calculated intervals, you can arrest the forgetting curve. More importantly, adapting this technique for writing transforms your database from a static archive into an active collaborator. 
+Spaced repetition, a [learning](/posts/how-to-remember-what-you-read-effectively/) technique traditionally confined to language learning and medical school, offers a rigorous solution to this problem. By strategically exposing yourself to your own notes at precisely calculated intervals, you can arrest the forgetting curve. More importantly, adapting this technique for writing transforms your database from a static archive into an active collaborator. 
 
 This guide details exactly how to embed this methodology into your daily writing practice, turning isolated facts into deeply internalized knowledge networks.
 

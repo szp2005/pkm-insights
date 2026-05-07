@@ -17,7 +17,7 @@ Product managers operate at the intersection of extreme information density and 
 
 The default state for most product managers is fragmentation. Notes live in scattered Google Docs, insights are buried in Slack threads, and user feedback rots in ticketing systems. When the time comes to write a product requirements document or defend a prioritization decision, you are forced to start from scratch, hunting down context across half a dozen platforms.
 
-Personal Knowledge Management (PKM) solves this structural problem. It shifts the burden of remembering from your brain to an external system, transforming isolated pieces of information into a connected graph of product insights. This tutorial provides a step-by-step framework to build a PKM system specifically optimized for the workflows and demands of product management.
+Personal Knowledge Management (PKM) solves this structural problem. It shifts the burden of remembering from your brain to an external system, transforming isolated pieces of information into a connected graph of product insights. This tutorial provides a step-by-step framework to build a PKM system specifically optimized for the [workflows](/posts/getting-things-done-for-knowledge-workers/) and demands of product management.
 
 ## The Architectural Flaw in Default PM Workflows
 
@@ -35,7 +35,7 @@ Your capture workflow needs to account for the primary streams of product inform
 
 First, establish a universal inbox. This is the single location where all unprocessed notes accumulate. Whether you are using a mobile app to dictate an idea during a commute or a web clipper to save a competitor's landing page, it must route to this inbox. 
 
-Second, standardize your capture formats using basic tagging. For example, when clipping an article on a new competitor, tag it with `#inbox` and `#competitor`. When jotting down a stray idea for a feature, tag it with `#inbox` and `#idea`. The goal at this stage is volume and speed, not perfect organization. You will process the inbox later; the immediate objective is to ensure no valuable signal is lost to short-term memory.
+Second, standardize your capture formats using basic tagging. For example, when clipping an article on a new competitor, tag it with `#inbox` and `#competitor`. When jotting down a stray idea for a feature, tag it with `#inbox` and `#idea`. The goal at this stage is volume and speed, not perfect [organization](/posts/steps-to-building-a-second-brain/). You will process the inbox later; the immediate objective is to ensure no valuable signal is lost to short-term memory.
 
 ## Step 2: Architect Your Vault Using the PARA Method
 
@@ -111,7 +111,7 @@ By building a system that reliably captures raw inputs, structures them by domai
 Keep your PKM system completely separate and private. Use your personal vault to synthesize raw thoughts, draft documents, and connect ideas. Once a PRD or brief is ready for public consumption, copy the final text into Confluence, Jira, or Google Docs. Your PKM is your private sandbox; company tools are the publishing platform.
 
 ### How much time should I spend maintaining this system daily?
-Daily maintenance should take less than five minutes. Your goal during the workday is solely rapid capture into your inbox. All heavy lifting, organizing, and linking should be deferred to a dedicated 30-minute block during your weekly review to protect your deep work time.
+Daily maintenance should take less than five minutes. Your goal during the workday is solely rapid capture into your inbox. All heavy lifting, organizing, and linking should be deferred to a dedicated 30-minute block during your weekly review to protect your [deep work](/posts/four-layer-stack-for-pkm-optimization/) time.
 
 ### How do I handle sensitive company data or confidential product roadmaps in a personal system?
 If you are using a cloud-based tool like Notion or Roam, ensure you review your company's data security policies regarding third-party storage. For maximum security and compliance, use a local-first application like Obsidian, storing the markdown files exclusively on your company-issued encrypted hard drive.

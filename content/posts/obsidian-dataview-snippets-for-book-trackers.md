@@ -25,7 +25,7 @@ Before diving into Dataview snippets, establishing a consistent structure for yo
 
 ### Essential Metadata Fields for Books
 
-To make your book notes queryable by Dataview, you'll need to embed specific fields. These can be added as YAML frontmatter at the top of your note or as inline fields anywhere in the note. YAML frontmatter is generally preferred for structured data.
+To make your book notes queryable by Dataview, you'll need to embed specific fields. These can be added as YAML frontmatter at the top of your note or as inline fields anywhere in the note. YAML frontmatter is generally preferred for [structured data](/posts/tana-ai-features-for-structured-data-entry/).
 
 Here are recommended metadata fields:
 
@@ -304,7 +304,7 @@ A book tracker is a living system. Regular maintenance and a willingness to adap
 
 As your library grows, you might find the need to add a new metadata field to all your existing book notes, or update a field across multiple notes. While Dataview itself doesn't directly modify notes, Obsidian's search and replace functionality (Ctrl/Cmd + Shift + F) can be invaluable. For more advanced batch operations, consider using a text editor with robust regex capabilities or a dedicated script. For example, to add `cover: ""` to all notes in your `02 - Books` folder that don't have it, you could use a regex search and replace.
 
-Alternatively, if you're comfortable with a bit of scripting, the Obsidian API (accessible via plugins like Templater or DataviewJS for more complex scenarios) can be used to iterate through files and programmatically add or modify frontmatter. However, for most users, manual updates or targeted search-and-replace operations are sufficient. The key is to identify the common pattern in your notes and apply changes systematically.
+Alternatively, if you're comfortable with a bit of scripting, the Obsidian API (accessible via [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/) like Templater or DataviewJS for more complex scenarios) can be used to iterate through files and programmatically add or modify frontmatter. However, for most users, manual updates or targeted search-and-replace operations are sufficient. The key is to identify the common pattern in your notes and apply changes systematically.
 
 ### Handling Series and Collections
 
@@ -336,7 +336,7 @@ This creates a table listing all books in "The Lord of the Rings" series, ordere
 
 Your Obsidian vault, including all your book notes and Dataview configurations, is a collection of plain text files. This makes backing up incredibly straightforward. Implement a robust backup strategy:
 
-*   **Cloud Sync:** Use services like Google Drive, Dropbox, or OneDrive to sync your entire Obsidian vault.
+*   **Cloud Sync:** Use services like [Google Drive](/posts/using-the-para-method-in-google-drive/), Dropbox, or OneDrive to sync your entire Obsidian vault.
 *   **Version Control:** For advanced users, using Git to version control your vault provides granular control over changes and easy rollback capabilities.
 *   **Obsidian Sync:** The official Obsidian Sync service offers seamless, encrypted synchronization across devices and version history.
 

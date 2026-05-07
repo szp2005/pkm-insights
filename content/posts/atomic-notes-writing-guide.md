@@ -18,7 +18,7 @@ In the rapidly evolving landscape of knowledge work, the ability to synthesize, 
 
 Originating from the legendary Zettelkasten method popularized by sociologist Niklas Luhmann, atomic notes are the fundamental building blocks of a dynamic, networked thinking system. When executed correctly, they transform your Personal Knowledge Management (PKM) system from a static archive into a vibrant "[second brain](/posts/best-apps-for-personal-knowledge-management/)" that actively generates new insights.
 
-This comprehensive guide will deconstruct the philosophy, mechanics, and advanced workflows of writing perfect atomic notes. Whether you are using [Obsidian](/posts/personal-knowledge-management-tools-comparison/), Roam Research, Logseq, or a physical slip-box, mastering this skill will fundamentally alter how you interact with information.
+This comprehensive guide will deconstruct the philosophy, mechanics, and advanced [workflows](/posts/getting-things-done-for-knowledge-workers/) of writing perfect atomic notes. Whether you are using [Obsidian](/posts/personal-knowledge-management-tools-comparison/), Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/), Logseq, or a physical slip-box, mastering this skill will fundamentally alter how you interact with information.
 
 ## What is an Atomic Note? The Core Philosophy
 
@@ -159,7 +159,7 @@ Unlike highlights, which are passive copies of someone else's words, atomic note
 
 ### Can I create atomic notes in tools like Notion or Evernote?
 
-While possible, atomic notes thrive in "networked thought" tools like Obsidian, Logseq, or Roam Research that prioritize bidirectional linking. These tools allow you to connect atomic units into a web of knowledge rather than burying them in hierarchical folders.
+While possible, atomic notes thrive in "networked thought" tools like Obsidian, Logseq, or [Roam Research](/posts/roam-research-vs-obsidian-comparison/) that prioritize bidirectional linking. These tools allow you to connect atomic units into a web of knowledge rather than burying them in hierarchical folders.
 
 ### What is the difference between a fleeting note and an atomic note?
 

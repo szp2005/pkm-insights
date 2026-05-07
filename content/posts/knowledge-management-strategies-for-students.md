@@ -65,7 +65,7 @@ Distillation is the process of extracting the core message from your notes. It i
 
 ### 4. Express: Creating Value
 
-The ultimate goal of knowledge management is not accumulation, but expression. Your PKM system should serve as a launchpad for your own original work—whether that is writing a stellar research paper, delivering a compelling presentation, or simply participating more actively in class discussions.
+The ultimate goal of knowledge management is not accumulation, but expression. Your PKM system should serve as a launchpad for your own original work—whether that is writing a stellar [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) paper, delivering a compelling presentation, or simply participating more actively in class discussions.
 
 *   **Show Your Work:** Don't wait until you have perfectly mastered a subject to start creating. Use your organized notes to draft outlines, write blog posts, or create study guides. The act of creation solidifies your understanding and reveals new insights.
 
@@ -117,7 +117,7 @@ The effectiveness of your knowledge management strategies depends significantly 
 ### Note-Taking and Linking Apps
 *   **Obsidian:** A powerful, highly customizable tool based on local Markdown files. It excels at creating bidirectional links and visualizing your knowledge graph. It is ideal for students who want full control over their data and prefer a "bottom-up" approach to organizing information like the Zettelkasten method.
 *   **Notion:** A versatile, block-based workspace that combines note-taking, databases, and project management. It is excellent for setting up structured dashboards, tracking assignments, and managing the PARA method.
-*   **Logseq:** An open-source, outliner-style app focused on privacy and linked thinking. It operates similarly to Roam Research but runs locally on your machine.
+*   **Logseq:** An open-source, outliner-style app focused on [privacy](/posts/anytype-review-local-first-privacy-lovers/) and linked thinking. It operates similarly to [Roam Research](/posts/roam-research-vs-obsidian-comparison/) but runs locally on your machine.
 *   **Evernote or OneNote:** Traditional note-taking apps that excel at capturing web clippings, PDFs, and handwritten notes. While they lack advanced bidirectional linking, they are robust tools for straightforward organization.
 
 ### Reference Management Systems

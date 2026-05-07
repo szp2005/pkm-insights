@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The Zettelkasten method for academic writers is a [note-taking](/posts/zettelkasten-method-explained/) system that relies on creating decentralized, highly interconnected notes (Zettels) to form a web of knowledge. By capturing atomic ideas, cross-referencing them, and letting themes emerge organically, researchers can permanently eliminate the "blank page" problem and streamline the transition from reading to publishing.
 
-Academic writing is rarely bottlenecked by a lack of ideas or insufficient reading. More often, the friction occurs during the synthesis phase. You read dozens of papers, highlight key passages, and drop them into folders organized by project or class. Months later, when it is time to write the literature review, those insights are siloed, forgotten, or completely detached from their original context. The cognitive load required to hold hundreds of disparate research threads in your head simultaneously is overwhelming.
+Academic writing is rarely bottlenecked by a lack of ideas or insufficient reading. More often, the friction occurs during the synthesis phase. You read dozens of papers, highlight key passages, and drop them into folders organized by project or class. Months later, when it is time to write the literature review, those insights are siloed, forgotten, or completely detached from their original context. The cognitive load required to hold hundreds of disparate [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) threads in your head simultaneously is overwhelming.
 
 The traditional hierarchical approach to note-taking—sorting information into rigid folders and subfolders—forces you to decide where an idea belongs before you fully understand its implications. This top-down structure limits serendipity. 
 
@@ -39,7 +39,7 @@ In practice, this creates a bottom-up structure. You do not outline a dissertati
 
 ### Writing in Your Own Words
 
-Copying and pasting quotes from PDFs is a passive activity that creates the illusion of learning. In a Zettelkasten, every permanent note must be written entirely in your own words. The act of translating an author's argument into your own vocabulary forces you to understand it deeply. If you cannot articulate the concept clearly in your note, you have not grasped it well enough to use it in your research.
+Copying and pasting quotes from PDFs is a passive activity that creates the illusion of [learning](/posts/how-to-remember-what-you-read-effectively/). In a Zettelkasten, every permanent note must be written entirely in your own words. The act of translating an author's argument into your own vocabulary forces you to understand it deeply. If you cannot articulate the concept clearly in your note, you have not grasped it well enough to use it in your research.
 
 ## The 4 Types of Notes in a Zettelkasten
 
@@ -124,7 +124,7 @@ While Luhmann used physical index cards, modern academics should leverage digita
 
 - **[Obsidian](/posts/what-is-personal-knowledge-management/):** The most popular choice for academic Zettelkastens. It saves files as local Markdown, meaning your research will remain accessible 50 years from now, regardless of what happens to the software company. It features robust community plugins for Zotero integration.
 - **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** An outliner-based alternative to Obsidian. Excellent for thinkers who prefer bulleted, hierarchical initial thoughts that can be linked laterally. Also utilizes local files.
-- **Roam Research:** The pioneer of modern networked thought, but relies on a cloud-based subscription model. 
+- **[Roam Research](/posts/roam-research-vs-obsidian-comparison/):** The pioneer of modern networked thought, but relies on a cloud-based subscription model. 
 
 ### Structuring Your Digital Vault
 

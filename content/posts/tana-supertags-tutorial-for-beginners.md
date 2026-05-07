@@ -11,7 +11,7 @@ type: "informational"
 
 # Tana Supertags Tutorial for Beginners: A Step-by-Step Guide
 
-> **Quick Answer:** Tana Supertags are customizable templates that apply structure, properties, and relationships to individual nodes (bullet points) within your workspace. By typing `@` followed by a tag name, you instantly inherit fields like dates, statuses, or assignees, transforming a simple text bullet into a structured database record.
+> **Quick Answer:** Tana Supertags are customizable [templates](/posts/logseq-templates-for-doctoral-research-students/) that apply structure, properties, and relationships to individual nodes (bullet points) within your workspace. By typing `@` followed by a tag name, you instantly inherit fields like dates, statuses, or assignees, transforming a simple text bullet into a structured database record.
 
 Tana represents a fundamental shift in [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM). Instead of relying on rigid folder hierarchies or purely text-based bi-directional links, Tana operates entirely on nodes and tags. If you have recently opened Tana and felt overwhelmed by the blank daily page, you are not alone. The power of this tool lies under the surface, specifically within its tagging architecture.
 
@@ -47,7 +47,7 @@ One of the most powerful features of Tana Supertags is inheritance. This concept
 ### Understanding Parent and Child Tags
 Imagine you manage different types of content: articles, videos, and podcasts. You could create an overarching `@content` tag that includes fields applicable to all formats, such as `Publish Date`, `Author`, and `Status`.
 
-Then, you can create a `@video` tag. In the configuration for `@video`, you can set its parent tag to `@content`. The `@video` tag instantly inherits the `Publish Date`, `Author`, and `Status` fields. You can then add specific fields to the `@video` tag, such as `YouTube URL` or `B-Roll Required`.
+Then, you can create a `@video` tag. In the configuration for `@video`, you can set its parent tag to `@content`. The `@video` tag instantly inherits the `Publish Date`, `Author`, and `Status` fields. You can then add specific fields to the `@video` tag, such as `[YouTube](/posts/logseq-workflow-for-managing-youtube-scripts/) URL` or `B-Roll Required`.
 
 If you decide later that all content needs a `Target Audience` field, you only need to add it to the parent `@content` tag. All child tags, including `@video` and `@article`, will automatically update to include the new field. This modular approach is essential for maintaining a complex PKM system over time.
 
@@ -97,7 +97,7 @@ Mastering Tana requires a mental shift from placing files into folders to applyi
 ## Frequently Asked Questions
 
 ### What is the difference between a normal tag and a Supertag in Tana?
-A normal tag in other apps simply groups notes together. A Tana Supertag applies structured data fields, default values, and inheritance rules to a specific piece of text, effectively turning it into a database row.
+A normal tag in other apps simply groups notes together. A Tana Supertag applies [structured data](/posts/top-tana-alternatives-for-structured-data/) fields, default values, and inheritance rules to a specific piece of text, effectively turning it into a database row.
 
 ### Can I change a Supertag after I have already used it on many nodes?
 Yes. If you add a new field to a Supertag, every single node that already has that tag will instantly update to include the new field. This makes iterative design very safe in Tana.

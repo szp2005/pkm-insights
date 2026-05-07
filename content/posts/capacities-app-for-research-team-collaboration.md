@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Capacities App Setup for Research Team Collaboration in 2026
 
-> **Quick Answer:** The Capacities app transforms research team collaboration by replacing rigid folder structures with an object-based [knowledge management](/posts/knowledge-management-strategies-for-students/) system. By defining custom object types (like Papers, Experiments, and Insights) and using bi-directional linking within shared Spaces, teams can build a networked, accessible database that scales without losing context.
+> **Quick Answer:** The Capacities app transforms research team collaboration by replacing rigid folder structures with an object-based [knowledge management](/posts/knowledge-management-strategies-for-students/) system. By defining custom object types (like Papers, Experiments, and Insights) and using [bi-directional linking](/posts/bi-directional-linking-for-creative-writing-workflows/) within shared Spaces, teams can build a networked, accessible database that scales without losing context.
 
 Research teams handle complex, interconnected data that rarely fits neatly into traditional folder hierarchies. When multiple researchers are working on literature reviews, gathering experimental data, and synthesizing insights, the standard document-based approach—where files get buried in nested directories—inevitably leads to duplicated effort and lost information. 
 
@@ -56,7 +56,7 @@ Research relies on reproducible methods. Documenting these as distinct objects e
 - Protocol Version (Number)
 
 ### The 'Insight' Object
-This is the most critical object type for collaboration. An Insight is a single, atomic idea derived from literature or experimentation. By breaking down long synthesis documents into individual atomic notes, the team can reuse these insights across various papers and reports.
+This is the most critical object type for collaboration. An Insight is a single, atomic idea derived from literature or experimentation. By breaking down long synthesis documents into individual [atomic notes](/posts/atomic-notes-writing-guide/), the team can reuse these insights across various papers and reports.
 
 **Essential Properties:**
 - Source Material (Relation to Literature or Experiment)
@@ -116,7 +116,7 @@ When creating custom properties for your objects, less is more. It is tempting t
 Stick to the 3-5 properties that are absolutely essential for filtering and sorting. Rely on full-text search and bi-directional links for the rest. If you need to know the publisher of a paper, put it in the body text rather than forcing a mandatory property field.
 
 ### Regular Taxonomy Audits
-Assign one person on the team to be the "Knowledge Librarian." Once a month, this person should review the tag list, merge redundant tags, ensure new objects have been categorized correctly, and gently correct team members who are deviating from the established taxonomy.
+Assign one person on the team to be the "Knowledge Librarian." Once a month, this person should [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) the tag list, merge redundant tags, ensure new objects have been categorized correctly, and gently correct team members who are deviating from the established taxonomy.
 
 ## Integrating Capacities with Your Existing Stack
 

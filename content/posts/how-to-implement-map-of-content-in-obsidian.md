@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-implement-map-of-content-in-obsidian.webp"
 title: "How to Implement Map of Content in Obsidian: 5-Step Setup"
 description: "Learn how to implement a Map of Content (MOC) in Obsidian to organize your notes efficiently, improve knowledge retrieval, and build a scalable PKM system."
 pubDate: "2026-05-07"
@@ -16,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 As your Obsidian vault grows beyond a few hundred notes, retrieval friction increases. Relying solely on folders creates rigid boundaries, forcing multi-disciplinary ideas into single categories. Relying solely on a flat structure of interconnected links can result in an overwhelming graph where finding a specific starting point feels like navigating a maze without a map. 
 
-The Map of Content (MOC) methodology bridges this gap. Popularized within the personal knowledge management (PKM) community, an MOC serves as a curated index or routing hub for your ideas. It allows you to organize knowledge fluidly, creating entry points into clusters of related information. 
+The Map of Content (MOC) methodology bridges this gap. Popularized within the [personal knowledge management](/posts/differences-between-fleeting-and-permanent-notes-explained/) (PKM) community, an MOC serves as a curated index or routing hub for your ideas. It allows you to organize knowledge fluidly, creating entry points into clusters of related information. 
 
 Implementing this system requires a deliberate shift from filing notes away to actively assembling them. The following guide details the structural and behavioral changes required to successfully deploy MOCs in your daily Obsidian workflow.
 
@@ -147,7 +148,7 @@ This process of gathering, grouping, and elevating clusters of notes is the core
 While the basic implementation of MOCs is straightforward, scaling the system requires specific technical choices within Obsidian.
 
 ### Balancing Folders and Links
-MOCs do not necessitate the complete abandonment of folders. A hybrid approach is often the most practical. Use a minimal folder structure—perhaps just 3 to 5 folders like `Attachments`, `Daily Notes`, `Templates`, and `Zettelkasten` (for all standard notes). Let the MOCs handle the logical organization while the folders handle the file system organization. This reduces the cognitive load of deciding where a file should "live" on your hard drive.
+MOCs do not necessitate the complete abandonment of folders. A hybrid approach is often the most practical. Use a minimal folder structure—perhaps just 3 to 5 folders like `Attachments`, `Daily Notes`, `Templates`, and `[Zettelkasten](/posts/zettelkasten-method-explained/)` (for all standard notes). Let the MOCs handle the logical [organization](/posts/steps-to-building-a-second-brain/) while the folders handle the file system organization. This reduces the cognitive load of deciding where a file should "live" on your hard drive.
 
 ### Leveraging the Dataview Plugin
 For advanced users, the community plugin Dataview can partially automate MOC maintenance. Dataview allows you to query your vault based on tags, folders, or frontmatter, displaying the results dynamically.

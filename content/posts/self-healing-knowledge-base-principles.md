@@ -9,13 +9,13 @@ slug: "self-healing-knowledge-base-principles"
 type: "informational"
 ---
 
-# Self-Healing Knowledge Base Principles: Complete Guide to Automation
+# Self-Healing Knowledge Base Principles: Complete Guide to [Automation](/posts/tana-commands-for-automated-daily-note-setup/)
 
 > **Quick Answer:** A self-healing knowledge base automatically detects, flags, and updates stale or contradictory information without manual intervention. By leveraging AI-driven contextual analysis, automated feedback loops, and dynamic linking, it ensures documentation remains accurate, trustworthy, and aligned with current operational realities.
 
 Organizations run on information, but traditional documentation systems suffer from a fatal flaw: the moment a process, tool, or policy changes, the corresponding documentation begins to decay. This phenomenon, known as knowledge rot, leads to operational friction, frustrated employees, and costly errors. As technical ecosystems grow more complex, relying on human authors to manually track and update every interconnected document is no longer a viable strategy. 
 
-Enter the self-healing knowledge base. Unlike static wikis or standard document repositories, a self-healing system acts as an active participant in your [organization](/posts/steps-to-building-a-second-brain/)'s information lifecycle. It monitors usage patterns, identifies structural decay, integrates directly with source-of-truth systems, and leverages artificial intelligence to repair itself dynamically. 
+Enter the self-healing knowledge base. Unlike static wikis or standard document repositories, a self-healing system acts as an active participant in your [organization](/posts/steps-to-building-a-second-brain/)'s information lifecycle. It monitors usage patterns, identifies structural decay, integrates directly with source-of-truth systems, and leverages [artificial intelligence](/posts/managing-digital-information-overload-with-ai/) to repair itself dynamically. 
 
 This guide explores the foundational self-healing knowledge base principles required to transition from manual, static documentation to an intelligent, automated knowledge ecosystem. We will examine the core mechanics of auto-correction, the role of structural metadata, and the practical implementation steps necessary to build a system that maintains its own integrity over time.
 
@@ -25,7 +25,7 @@ To understand the necessity of self-healing principles, it is helpful to look at
 
 The third generation—the self-healing knowledge base—shifts the paradigm from reactive maintenance to proactive preservation. It treats documentation not as isolated text files, but as a graph of interconnected data points. When an API endpoint changes in a code repository, a self-healing system recognizes that a specific tutorial depends on that endpoint and automatically flags the tutorial for [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/), or in advanced setups, rewrites the affected code snippet automatically.
 
-This evolution is driven by the realization that human attention is too scarce and expensive to be spent on routine documentation audits. By treating knowledge as code and applying software engineering principles—like continuous integration and automated testing—to documentation, organizations can achieve a state where their knowledge base scales infinitely without a proportional increase in maintenance overhead.
+This evolution is driven by the realization that human attention is too scarce and expensive to be spent on routine documentation audits. By treating knowledge as code and applying [software engineering](/posts/pkm-for-software-engineers-best-practices/) principles—like continuous integration and automated testing—to documentation, organizations can achieve a state where their knowledge base scales infinitely without a proportional increase in maintenance overhead.
 
 ## Core Self-Healing Knowledge Base Principles
 

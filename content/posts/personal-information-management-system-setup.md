@@ -71,9 +71,9 @@ A robust personal information management system setup relies on a stack of speci
 - **The Read-It-Later App (Processing):** Do not read articles during your workday. Save them to an app like *Omnivore*, *Instapaper*, or *Pocket*. Batch process your reading on weekends or evenings.
 - **The File Vault (Storage):** For heavy assets (PDFs, images, videos, spreadsheets), rely on a cloud storage provider with robust syncing. *Google Drive*, *iCloud*, *OneDrive*, or a local *NAS* work best.
 - **The Knowledge Base (Synthesis):** This is the brain of your operation. Modern tools rely on plain text and bidirectional linking.
-  - *Obsidian:* Unparalleled customization, [local-first](/posts/anytype-review-local-first-privacy-lovers/) architecture, future-proof Markdown files. Highly recommended for power users.
+  - *[Obsidian](/posts/roam-research-vs-obsidian-comparison/):* Unparalleled customization, [local-first](/posts/anytype-review-local-first-privacy-lovers/) architecture, future-proof Markdown files. Highly recommended for power users.
   - *Notion:* Excellent for structured data, databases, and collaboration. Great if your PIM leans heavily into project management.
-  - *[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) / Roam Research:* Outliner-based tools perfect for granular, block-level note-taking and rapid logging.
+  - *[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) / Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/):* Outliner-based tools perfect for granular, block-level note-taking and rapid logging.
 
 ### Phase 3: Architecting the System
 Once your tools are selected, you must architect the internal structure. Consistency is the key to a successful personal information management system setup.
@@ -121,7 +121,7 @@ The most meticulously designed system will rot without maintenance. The **Weekly
 
 As you refine your personal information management system setup, be wary of these common failure modes:
 
-- **The Collector’s Fallacy:** Confusing the act of saving a bookmark with the act of actually learning or doing something with the information. Hoarding links without processing them creates anxiety, not knowledge.
+- **The Collector’s Fallacy:** Confusing the act of saving a bookmark with the act of actually [learning](/posts/how-to-remember-what-you-read-effectively/) or doing something with the information. Hoarding links without processing them creates anxiety, not knowledge.
 - **Over-Engineering:** Spending 40 hours creating the perfect nested folder structure and color-coded tagging system before taking a single note. Start incredibly simple. Let complexity emerge organically only when the system absolutely demands it.
 - **Tool Hopping:** The grass is always greener in the newest productivity app. Migrating your system every six months destroys your productivity. Pick a tool stack and commit to it for a minimum of one year. The friction you feel is rarely the tool's fault; it is usually a breakdown in your workflow.
 

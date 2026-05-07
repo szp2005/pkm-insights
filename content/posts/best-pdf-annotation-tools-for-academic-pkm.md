@@ -55,7 +55,7 @@ Every highlight creates a block reference. Clicking that reference instantly ope
 **Pros:**
 - Built-in PDF reader requires no external plugins
 - Highlights are treated as first-class blocks with bidirectional links
-- Local-first architecture ensures privacy for sensitive research data
+- [Local-first](/posts/anytype-review-local-first-privacy-lovers/) architecture ensures privacy for sensitive research data
 
 **Cons:**
 - Handling very large PDFs (500+ pages) can occasionally cause lag
@@ -72,7 +72,7 @@ MarginNote takes a radically different approach to PDF annotation. Instead of a 
 For academic PKM, it supports exporting these mind maps and outlines to formats like OPML, Evernote, and DEVONthink. While it requires more setup to integrate with markdown-based tools like Obsidian, its ability to help you visually deconstruct dense, difficult papers makes it invaluable for literature reviews and theoretical research.
 
 **Pros:**
-- Exceptional spatial organization for complex documents
+- Exceptional spatial [organization](/posts/steps-to-building-a-second-brain/) for complex documents
 - OCR integration translates scanned PDFs into actionable text
 - Powerful flashcard generation based on annotations (Anki export)
 
@@ -107,7 +107,7 @@ Its visual workspace is unmatched for the synthesis phase of research. While its
 **Price:** $8.99/month (includes classic Readwise)
 **Rating:** 4.7/5
 
-Readwise Reader is primarily known as a read-it-later app, but its PDF handling capabilities have made it a strong contender for academic workflows. It standardizes the reading experience across web articles, EPUBs, and PDFs. As you highlight and annotate, Reader automatically syncs those extractions to almost every major PKM tool (Obsidian, Roam, Notion, Logseq) via the classic Readwise pipeline.
+Readwise Reader is primarily known as a read-it-later app, but its PDF handling capabilities have made it a strong contender for academic [workflows](/posts/getting-things-done-for-knowledge-workers/). It standardizes the reading experience across web articles, EPUBs, and PDFs. As you highlight and annotate, Reader automatically syncs those extractions to almost every major PKM tool (Obsidian, Roam, Notion, Logseq) via the classic Readwise pipeline.
 
 For researchers who gather information from a mix of academic journals, pre-print servers, and science blogs, Reader centralizes the annotation process. Its built-in AI tool, Ghostreader, can also summarize complex PDF sections or define jargon on the fly.
 

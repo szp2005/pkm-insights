@@ -101,7 +101,7 @@ Collections provide a softer, more flexible version of folders. A single Idea ob
 
 If you deal with a high volume of PDFs—such as during a literature review or a major research project—the extraction and atomization process can feel overwhelming. To maintain momentum, adhere to these practical boundaries:
 
-*   **Batch Processing:** Do not read a PDF, extract highlights, and atomize them all in the same session. Separate reading (ingestion) from processing (synthesis). Process your highlights in batches of 3-5 PDFs at a time to maintain cognitive focus.
+*   **Batch Processing:** Do not read a PDF, extract highlights, and atomize them all in the same session. Separate reading (ingestion) from processing (synthesis). Process your highlights in batches of 3-5 PDFs at a time to maintain cognitive [focus](/posts/managing-digital-information-overload-tips/).
 *   **The 20% Rule:** Aim to atomize only the top 20% of your highlights. Not every highlighted sentence deserves its own Idea object. Focus on the core arguments, novel methodologies, and surprising conclusions. 
 *   **Standardize Naming Conventions:** For your Source objects, adopt a strict naming convention (e.g., "Author_Year_Keyword" or "Title_Author"). This prevents duplicate entries and keeps your database tidy when sorting chronologically.
 
@@ -121,10 +121,10 @@ No. Copying full PDF texts bloats your database and ruins search relevance. Only
 Take screenshots of crucial charts or diagrams using your operating system's screenshot tool, and paste them directly into the relevant "Idea" object in Capacities. Always add a caption explaining the image and a link back to the parent Source object so you have the context.
 
 ### What is the difference between tags and collections for organizing highlights?
-Tags should represent the thematic subject matter of the highlight (e.g., `#productivity`, `#neuroscience`). Collections are best used for actionable grouping or project management (e.g., "Sources for Chapter 3," "Approved Case Studies"). An object can utilize both simultaneously.
+Tags should represent the thematic subject matter of the highlight (e.g., `#productivity`, `#neuroscience`). Collections are best used for actionable grouping or [project management](/posts/tana-supertags-for-project-managers-download/) (e.g., "Sources for Chapter 3," "Approved Case Studies"). An object can utilize both simultaneously.
 
 ### Does Capacities integrate with Zotero or Mendeley?
-While direct, native two-way sync with reference managers like Zotero is an evolving area in PKM tools, you can easily export your Zotero bibliography or notes as Markdown and import them into your Capacities "Source" objects. Many users combine Zotero for citation management with Capacities for idea synthesis.
+While direct, native two-way sync with reference managers like Zotero is an evolving area in PKM tools, you can easily export your Zotero bibliography or notes as Markdown and import them into your Capacities "Source" objects. Many users combine Zotero for [citation management](/posts/tana-workspace-for-managing-academic-citations/) with Capacities for idea synthesis.
 
 ---
 

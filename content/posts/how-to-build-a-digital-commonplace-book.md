@@ -21,7 +21,7 @@ Transitioning the analog commonplace book into a digital workflow solves the fun
 
 ## Understanding the Digital Commonplace Philosophy
 
-A digital commonplace book is a centralized database for your intellectual inputs. Unlike a project management tool, which is driven by deadlines and deliverables, a commonplace book is driven by curiosity and serendipity. It is a place where you store things you want to remember, understand better, or use later, without necessarily knowing when or how that "later" will occur.
+A digital commonplace book is a centralized database for your intellectual inputs. Unlike a [project management](/posts/tana-supertags-for-project-managers-download/) tool, which is driven by deadlines and deliverables, a commonplace book is driven by curiosity and serendipity. It is a place where you store things you want to remember, understand better, or use later, without necessarily knowing when or how that "later" will occur.
 
 The shift from analog to digital introduces three massive advantages. First, text is infinitely searchable, eliminating the need to remember exactly where you wrote something down. Second, digital platforms allow for ubiquitous capture; you can save an idea from your phone while walking, your tablet while reading, or your desktop while working. Finally, modern [software](/posts/best-apps-for-personal-knowledge-management/) allows for bidirectional linking, meaning an idea saved today can automatically surface alongside related ideas saved three years ago.
 
@@ -32,7 +32,7 @@ However, the ease of digital saving also introduces the "Collector's Fallacy"—
 Before selecting software or designing complex folder structures, you must establish the behavioral principles that make the system work. A tool is only as effective as the habits supporting it.
 
 ### Capture Over Perfection
-The primary cause of commonplace abandonment is friction. If saving a quote requires opening an app, navigating three folders deep, creating a new file, and formatting the text perfectly, you will simply stop doing it. The capture process must be instantaneous. Write messy notes. Save half-baked thoughts. You can clean them up later during your review phase. The goal at the moment of capture is simply to secure the idea before it disappears.
+The primary cause of commonplace abandonment is friction. If saving a quote requires opening an app, navigating three folders deep, creating a new file, and formatting the text perfectly, you will simply stop doing it. The capture process must be instantaneous. Write messy notes. Save half-baked thoughts. You can clean them up later during your [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) phase. The goal at the moment of capture is simply to secure the idea before it disappears.
 
 ### Context is Everything
 A raw quote saved without context is practically useless six months later. When you clip an excerpt from an article or a book, add one or two sentences explaining *why* it resonated with you. What current problem does it solve? What previous thought does it contradict? Adding your own contextual metadata acts as a bridge between the author's original thought and your future self.
@@ -102,7 +102,7 @@ Schedule a weekly review session. Empty your "Inbox" by categorizing new notes, 
 
 As you build your system, watch out for these frequent traps that derail personal knowledge management [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
-**Over-Engineering:** Do not spend three weeks configuring plugins, custom CSS, and complex databases before writing a single note. Start with plain text and let the complexity emerge naturally as your database grows and your specific needs become clear.
+**Over-Engineering:** Do not spend three weeks configuring plugins, custom CSS, and complex databases before [writing](/posts/atomic-notes-writing-guide/) a single note. Start with plain text and let the complexity emerge naturally as your database grows and your specific needs become clear.
 
 **The Collector's Fallacy:** Saving an article to read later is not the same as reading it. Collecting highlights is not the same as understanding them. Your commonplace book is measured by the quality of your own thoughts and connections, not the raw megabytes of text you have copied from others.
 

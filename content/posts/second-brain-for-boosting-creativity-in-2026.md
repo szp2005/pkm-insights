@@ -31,7 +31,7 @@ The current paradigm emphasizes synthesis over storage. Modern applications util
 
 ### The Role of Local Intelligence
 
-The most significant shift in 2026 is the seamless integration of localized, privacy-first machine learning models directly into personal knowledge management systems. Instead of relying on external cloud APIs that parse your private thoughts, modern tools use lightweight, on-device models to assist in the creative process.
+The most significant shift in 2026 is the seamless integration of localized, [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first machine learning models directly into personal knowledge management systems. Instead of relying on external cloud APIs that parse your private thoughts, modern [tools](/posts/roam-research-vs-obsidian-comparison/) use lightweight, on-device models to assist in the creative process.
 
 These systems do not generate ideas for you; rather, they act as sophisticated librarians. They can suggest connections between a note you wrote three years ago and an article you captured this morning based on semantic similarity. They help surface forgotten concepts precisely when they are relevant to your current project, effectively increasing the surface area for serendipitous creative collisions.
 
@@ -114,7 +114,7 @@ Rewrite the core concept in your own words, apply relevant tags or links, and mo
 
 As your system grows, you will need ways to surface relevant information without aimlessly clicking through links. Create contextual dashboards or index notes for active projects or broad areas of interest.
 
-An index note for "Architecture Project X" should contain links to your meeting notes, reference images, material research, and draft proposals. These dashboards act as entry points into your knowledge graph, providing structured access to the unstructured web of your ideas when you need to switch from incubation to active output.
+An index note for "Architecture Project X" should contain links to your meeting notes, reference images, material [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), and draft proposals. These dashboards act as entry points into your knowledge graph, providing structured access to the unstructured web of your ideas when you need to switch from incubation to active output.
 
 ## Common Pitfalls and How to Avoid Them
 

@@ -11,13 +11,13 @@ type: "review"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Logseq for Academic Literature Reviews: Complete 2026 Review
+# Logseq for Academic Literature Reviews: Complete 2026 [Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/)
 
 > **Quick Answer:** Logseq is an exceptional tool for academic literature reviews due to its block-based outlining, built-in PDF annotation, and seamless Zotero integration. By utilizing bidirectional linking and queries, researchers can easily atomize arguments, trace citations down to the exact paragraph, and synthesize massive amounts of data into structured drafts.
 
 Conducting a systematic literature review requires managing hundreds of PDFs, extracting thousands of annotations, and synthesizing disparate arguments into a cohesive narrative. Traditional word processors and folder-based [note-taking](/posts/zettelkasten-method-explained/) applications routinely fail at this scale. They trap knowledge in isolated documents, making it nearly impossible to trace a specific counter-argument back to its original source without breaking your workflow.
 
-Over the past few years, networked thought [tools](/posts/personal-knowledge-management-tools-comparison/) have emerged as the standard for academic research. Among them, Logseq stands out specifically for the academic use case. As a privacy-first, open-source knowledge graph built on local plain-text Markdown and EDN files, it offers a distinct advantage: block-level referencing combined with native PDF reading capabilities. 
+Over the past few years, networked thought [tools](/posts/personal-knowledge-management-tools-comparison/) have emerged as the standard for academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/). Among them, Logseq stands out specifically for the academic use case. As a privacy-first, open-source knowledge graph built on local plain-text Markdown and EDN files, it offers a distinct advantage: block-level referencing combined with native PDF reading capabilities. 
 
 This review will break down exactly how Logseq functions as a literature review engine, evaluate it against top alternatives in the [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) space, and provide a practical architectural guide for setting up your academic graph.
 
@@ -25,7 +25,7 @@ This review will break down exactly how Logseq functions as a literature review 
 
 To understand why Logseq is highly effective for literature reviews, you must understand the difference between document-level and block-level note-taking. 
 
-In a traditional application like Evernote or Microsoft Word, the foundational unit of information is the document. If you read a paper by Smith (2025) and extract ten distinct insights, they all live inside the "Smith 2025" document. If you later write a thematic review on "Machine Learning in Healthcare," you must manually copy and paste those insights into your new draft, severing the connection to the source context.
+In a traditional application like Evernote or Microsoft Word, the foundational unit of information is the document. If you read a paper by Smith (2025) and extract ten distinct insights, they all live inside the "Smith 2025" document. If you later write a thematic review on "Machine [Learning](/posts/how-to-remember-what-you-read-effectively/) in Healthcare," you must manually copy and paste those insights into your new draft, severing the connection to the source context.
 
 Logseq operates on an outliner model where the foundational unit is the "block" (a single bullet point). Every paragraph, quote, or highlight is its own distinct entity in the database. When you are writing your literature review, you do not copy and paste. Instead, you embed the original block. Clicking on that block immediately opens the original source context—including the exact PDF highlight. This prevents context collapse, ensuring you never misrepresent a cited author's original intent.
 

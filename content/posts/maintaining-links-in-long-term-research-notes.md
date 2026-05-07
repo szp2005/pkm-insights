@@ -29,7 +29,7 @@ Before implementing a system, it is crucial to understand what makes a link frag
 An absolute path (`C:\Users\Name\Documents\Notes\biology.md`) is inherently fragile. If you move your vault to a new computer, change your username, or switch operating systems, every absolute link breaks immediately. A relative path (`../concepts/biology.md`) is better, as it preserves the relationship between the linking file and the target file, regardless of the root directory.
 
 **Standard Markdown vs. Wiki-Links**
-Standard Markdown links `[Title](filename.md)` are universally recognized by almost every text editor and parser. Wiki-links `[[filename]]` were once specific to wiki software but have become the de facto standard for modern [note-taking](/posts/zettelkasten-method-explained/) applications like Obsidian, Logseq, and Foam. Wiki-links are generally preferred for PKM systems because they obscure the file path entirely, relying on the software to resolve the filename within the vault. This allows you to move files between folders without breaking the connection, provided your software automatically updates links upon file movement.
+Standard Markdown links `[Title](filename.md)` are universally recognized by almost every text editor and parser. Wiki-links `[[filename]]` were once specific to wiki software but have become the de facto standard for modern [note-taking](/posts/zettelkasten-method-explained/) applications like [Obsidian](/posts/what-is-personal-knowledge-management/), [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), and Foam. Wiki-links are generally preferred for PKM systems because they obscure the file path entirely, relying on the software to resolve the filename within the vault. This allows you to move files between folders without breaking the connection, provided your software automatically updates links upon file movement.
 
 **Database-Driven vs. File-System Links**
 Proprietary applications often use hidden databases to manage links between proprietary blocks or notes (e.g., Notion or Roam Research). If the company shuts down or you lose access to your account, exporting your data often results in a massive loss of link context. Durable systems rely on local, plain-text files where the links are written explicitly into the text itself.
@@ -44,7 +44,7 @@ The most robust naming convention utilizes a unique identifier, typically a time
 Some purists use only the ID as the filename (`202605071430.md`) and keep the human-readable title inside the file. This guarantees that the filename will never change, meaning any link pointing to `[[202605071430]]` will work forever, even if your understanding of the concept evolves and you change the internal title.
 
 ### Aliases and Frontmatter
-If you use permanent IDs, reading your notes can become difficult. Modern PKM tools solve this using YAML frontmatter aliases. 
+If you use permanent IDs, reading your notes can become difficult. Modern PKM [tools](/posts/personal-knowledge-management-tools-comparison/) solve this using YAML frontmatter aliases. 
 
 You can define an alias in the note's metadata:
 ```yaml

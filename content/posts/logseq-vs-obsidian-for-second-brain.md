@@ -8,7 +8,7 @@ tags: ["second brain", "logseq", "obsidian", "pkm", "knowledge management"]
 type: "review"
 ---
 
-> **Quick Answer:** Choosing between [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) and Obsidian depends on whether you prefer a bullet-based outliner with a "journal-first" workflow or a file-based markdown editor with total architectural freedom. While Logseq excels at granular block referencing and frictionless daily logging, Obsidian offers an unparalleled plugin ecosystem and a superior environment for long-form writing and structured data.
+> **Quick Answer:** Choosing between [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) and Obsidian depends on whether you prefer a bullet-based outliner with a "journal-first" workflow or a file-based markdown editor with total architectural freedom. While Logseq excels at granular block referencing and frictionless daily logging, Obsidian offers an unparalleled plugin ecosystem and a superior environment for long-form [writing](/posts/atomic-notes-writing-guide/) and structured data.
 
 Building a "[Second Brain](/posts/best-apps-for-personal-knowledge-management/)"—a digital repository for your ideas, knowledge, and actionable tasks—has evolved from a niche [productivity](/posts/what-is-personal-knowledge-management/) hack into an essential practice for modern knowledge workers, researchers, and creatives. 
  While the core philosophy popularized by Tiago Forte relies on capturing, organizing, distilling, and expressing information, the tools you choose to implement this framework drastically dictate your workflow's friction and fluidity.
@@ -99,7 +99,7 @@ Logseq also offers a paid synchronization service via Logseq Sync. Like Obsidian
 
 ## Future-Proofing and Data Ownership
 
-Both Logseq and Obsidian deserve high praise for their absolute commitment to local-first, plain-text data. 
+Both Logseq and Obsidian deserve high praise for their absolute commitment to [local-first](/posts/anytype-review-local-first-privacy-lovers/), plain-text data. 
 
 Neither application locks your data into a proprietary database or a cloud server you don't control. Your notes live as plain text files on your hard drive. If the company behind Obsidian or the open-source team behind Logseq were to disappear tomorrow, your data would remain perfectly readable using any standard text editor.
 
@@ -159,7 +159,7 @@ Avoid copying a complex system before you understand the problem you are solving
 - [The Ultimate Guide to Using a Second Brain for Boosting Creativity](/posts/second-brain-for-boosting-creativity/)
 - [Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain](/posts/personal-knowledge-management-tools-comparison/)
 - [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
-- [Roam Research vs Obsidian: The Ultimate Comparison for Networked Thought](/posts/roam-research-vs-obsidian-comparison/)
+- [Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) vs Obsidian: The Ultimate Comparison for Networked Thought](/posts/roam-research-vs-obsidian-comparison/)
 gement Tools Comparison: Finding Your Ultimate Second Brain](/posts/personal-knowledge-management-tools-comparison/)
 - [How to Build a Second Brain: The Ultimate Guide to Personal Knowledge Management](/posts/how-to-build-a-second-brain/)
 - [Roam Research vs Obsidian: The Ultimate Comparison for Networked Thought](/posts/roam-research-vs-obsidian-comparison/)

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Capacities Review for Personal Research Management in 2026
 
-> **Quick Answer:** Capacities excels at personal research management by using an object-based architecture (like Notion) combined with networked linking (like Obsidian). It is ideal for researchers managing hundreds of PDFs, academic papers, and meeting notes, though its reliance on a cloud connection may deter strict local-first advocates.
+> **Quick Answer:** Capacities excels at personal research management by using an object-based architecture (like Notion) combined with networked linking (like Obsidian). It is ideal for researchers managing hundreds of PDFs, academic papers, and meeting notes, though its reliance on a cloud connection may deter strict [local-first](/posts/anytype-review-local-first-privacy-lovers/) advocates.
 
 Managing research effectively means moving beyond rigid folders and scattered text files. Traditional [note-taking](/posts/zettelkasten-method-explained/) apps force you to organize by location, which quickly breaks down when a single source relates to multiple cross-disciplinary projects. Enter Capacities, a tool that has steadily gained traction among academics, analysts, and deep thinkers seeking a more structural approach to their digital brain.
 
@@ -23,7 +23,7 @@ This Capacities review for personal research management examines whether its uni
 
 Traditional [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) [tools](/posts/personal-knowledge-management-tools-comparison/) typically use either hierarchical folders (Evernote) or a flat network of interlinked Markdown files (Obsidian, Roam). Capacities takes a different route, heavily inspired by object-oriented programming and databases.
 
-In Capacities, you define "Objects." If you are writing a literature review, you might create an object type called "Paper." Every time you add a new paper, Capacities prompts you to fill out specific properties for that object type: author, publication year, DOI, and a short summary.
+In Capacities, you define "Objects." If you are [writing](/posts/atomic-notes-writing-guide/) a literature review, you might create an object type called "Paper." Every time you add a new paper, Capacities prompts you to fill out specific properties for that object type: author, publication year, DOI, and a short summary.
 
 This structural approach provides the rigidity of a database without sacrificing the fluidity of a networked note-taking app. When you mention a "Paper" in your daily notes, you link directly to that object. This eliminates the anxiety of deciding *where* a note lives. It simply exists as an entity in your database, surfaced whenever you link to it or filter your views based on its properties.
 
@@ -95,7 +95,7 @@ Obsidian remains the gold standard for local-first markdown note-taking. It is l
 - Excellent performance with massive vaults spanning thousands of notes
 
 **Cons:**
-- Steep learning curve for non-technical users
+- Steep [learning](/posts/how-to-remember-what-you-read-effectively/) curve for non-technical users
 - Requires community plugins to achieve database-like functionality
 
 ### 4. Notion

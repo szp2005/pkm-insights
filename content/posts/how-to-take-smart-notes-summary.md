@@ -24,7 +24,7 @@ Most of us were taught to take notes linearly. We highlight passages in textbook
 
 Ahrens argues that this traditional approach is fundamentally flawed for two reasons:
 1. **It separates reading and writing:** We treat reading, note-taking, and writing as distinct phases. We read first, take notes second, and then panic when it is time to write because we are starting from scratch.
-2. **It relies on top-down organization:** Hierarchical folders force us to decide where a piece of information belongs before we even understand its full context or future utility. This stifles creativity and prevents cross-disciplinary connections.
+2. **It relies on top-down [organization](/posts/steps-to-building-a-second-brain/):** Hierarchical folders force us to decide where a piece of information belongs before we even understand its full context or future utility. This stifles creativity and prevents cross-disciplinary connections.
 
 *How to Take Smart Notes* proposes a bottom-up approach. Instead of forcing ideas into pre-existing categories, you let themes and arguments emerge organically from a critical mass of interconnected ideas.
 
@@ -92,10 +92,10 @@ Unlike hierarchical folders where notes go to die, a Zettelkasten grows more val
 
 While Niklas Luhmann used physical index cards and wooden cabinets, today's digital tools make the Zettelkasten method exponentially more powerful. When choosing a tool for your PKM, look for [software](/posts/best-apps-for-personal-knowledge-management/) that supports bidirectional linking and networked thought.
 
-*   **Obsidian:** A highly customizable, markdown-based local app. It is arguably the most popular tool for building a Zettelkasten today due to its graph view and robust plugin ecosystem.
+*   **[Obsidian](/posts/personal-knowledge-management-tools-comparison/):** A highly customizable, markdown-based local app. It is arguably the most popular tool for building a Zettelkasten today due to its graph view and robust plugin ecosystem.
 *   **Roam Research:** The pioneer of digital bidirectional linking. It operates on an outliner model, making it excellent for rapid logging and granular connections.
 *   **[Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/):** An open-source alternative to Roam that stores files locally.
-*   **Notion:** While historically better suited for databases and hierarchical organization, recent updates have added backlinking features. However, its structured nature can sometimes introduce friction for pure Zettelkasten workflows.
+*   **Notion:** While historically better suited for databases and hierarchical organization, recent updates have added backlinking features. However, its structured nature can sometimes introduce friction for pure Zettelkasten [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 **Practical Advice:** Do not get bogged down in tool selection. The software is secondary to the workflow. Start with simple text files or a basic app like Obsidian. The magic is in the thinking, not the software.
 
@@ -149,6 +149,8 @@ In this system, you never start writing from scratch. When it's time to produce 
 Index notes (or Maps of Content) act as entry points into specific themes within your Zettelkasten. They are essentially tables of contents that link to clusters of related permanent notes, providing a "top-down" structure to the otherwise decentralized, bottom-up network.
 
 ## Related Reading
+
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
 
 - [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
 

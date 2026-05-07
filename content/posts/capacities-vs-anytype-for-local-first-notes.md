@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Capacities vs Anytype for Local First Notes: Which Is Better in 2026?
 
-> **Quick Answer:** If your absolute priority is true local-first architecture, end-to-end encryption, and complete data ownership, **Anytype** is the clear winner. However, if you are willing to trade strict local-first infrastructure for a more polished, intuitive user experience and robust offline caching, **Capacities** provides a highly capable, visually pleasing alternative for object-based [note-taking](/posts/zettelkasten-method-explained/).
+> **Quick Answer:** If your absolute priority is true [local-first](/posts/anytype-review-local-first-privacy-lovers/) architecture, end-to-end encryption, and complete data ownership, **Anytype** is the clear winner. However, if you are willing to trade strict local-first infrastructure for a more polished, intuitive user experience and robust offline caching, **Capacities** provides a highly capable, visually pleasing alternative for object-based [note-taking](/posts/zettelkasten-method-explained/).
 
 The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) has evolved significantly from flat text files and simple folders. We are currently in the era of object-based note-taking, where nodes of information (people, books, meetings, ideas) exist as distinct entities with their own properties, connected through dynamic relations. However, as our knowledge bases grow, so does the concern over data sovereignty, privacy, and offline accessibility. 
 
@@ -39,7 +39,7 @@ This architecture provides three massive benefits: immediate load times (because
 
 Anytype was built from the ground up to be a true local-first, peer-to-peer network for your personal data. It uses an architecture called Any-Sync, which means your nodes sync directly with each other or via encrypted backup nodes. Your data is end-to-end encrypted (E2EE), meaning even the Anytype developers cannot read your notes. The application is object-based, allowing you to define types (e.g., "Project," "Task," "Book") and relations, giving you Notion-like database capabilities but running entirely on your local machine.
 
-Because it operates locally, Anytype is blazingly fast. Searching through thousands of nodes happens instantly. The graph view is highly responsive, and the ability to work on a flight or in a dead zone without noticing any degradation in functionality is unparalleled. However, this robust architecture comes with a learning curve. The interface, while clean, requires you to understand the ontology of objects, sets, and relations, which can feel overly rigid for users just wanting to jot down quick thoughts.
+Because it operates locally, Anytype is blazingly fast. Searching through thousands of nodes happens instantly. The graph view is highly responsive, and the ability to work on a flight or in a dead zone without noticing any degradation in functionality is unparalleled. However, this robust architecture comes with a [learning](/posts/how-to-remember-what-you-read-effectively/) curve. The interface, while clean, requires you to understand the ontology of objects, sets, and relations, which can feel overly rigid for users just wanting to jot down quick thoughts.
 
 **Pros:**
 - True local-first architecture with P2P syncing
@@ -117,7 +117,7 @@ When deciding between capacities vs anytype for local first notes, the decision 
 
 **Choose Capacities if:**
 - You want an immediate, beautiful aesthetic that makes you actively want to write and spend time in the app.
-- Your "offline" needs are mostly just writing on an occasional flight or commuting, rather than strict off-grid living.
+- Your "offline" needs are mostly just [writing](/posts/atomic-notes-writing-guide/) on an occasional flight or commuting, rather than strict off-grid living.
 - You consume a lot of media, tweets, and web articles and need a visual way to catalog them.
 - You find the technical jargon of peer-to-peer networking, cryptographic keys, and local nodes overwhelming or unnecessary for your risk profile.
 

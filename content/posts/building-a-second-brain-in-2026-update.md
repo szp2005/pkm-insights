@@ -31,7 +31,7 @@ Visual capture has also improved. Mobile applications now routinely extract stru
 
 The PARA method remains highly effective for action-oriented organizing. However, the rigid reliance on folder structures has softened. Instead of agonizing over where a specific note belongs, modern systems lean heavily on links, tags, and AI-driven vector search.
 
-When you drop a note into your system, semantic search capabilities allow you to find it based on concepts rather than exact keywords. This means a note about "aerobic exercise" will surface when you search for "cardio workouts," entirely bypassing the need for perfect organization.
+When you drop a note into your system, semantic search capabilities allow you to find it based on concepts rather than exact keywords. This means a note about "aerobic exercise" will surface when you search for "cardio workouts," entirely bypassing the need for perfect [organization](/posts/steps-to-building-a-second-brain/).
 
 ### Distill: Automated Summarization
 
@@ -61,7 +61,7 @@ You can drag text notes, PDFs, images, and audio files onto a whiteboard, drawin
 
 ### The Standard of Data Portability
 
-Vendor lock-in is widely rejected by the PKM community in 2026. The standard is local-first, plain text (specifically Markdown) data storage. If a tool uses a proprietary database that makes exporting difficult, it is generally avoided. 
+Vendor lock-in is widely rejected by the PKM community in 2026. The standard is [local-first](/posts/anytype-review-local-first-privacy-lovers/), plain text (specifically Markdown) data storage. If a tool uses a proprietary database that makes exporting difficult, it is generally avoided. 
 
 You should own your data. Applications are viewed as temporary lenses through which you view your permanent files. Whether you use Obsidian, Logseq, or Anytype, your files live on your hard drive in a universal format, ensuring they will be readable decades from now.
 
@@ -74,7 +74,7 @@ Building a modern second brain requires selecting the right tools and establishi
 Your core application is the hub of your system. You do not need to use everything; pick the one that aligns with your brain's natural tendencies.
 
 *   **Obsidian:** Remains the industry standard due to its absolute data ownership (local markdown) and massive plugin ecosystem. Best for those who want a highly customized, AI-integrated setup.
-*   **Logseq:** The top choice for outliners and daily-journal-centric workflows. It treats every bullet point as an individual block, making it excellent for granular linking.
+*   **Logseq:** The top choice for outliners and daily-journal-centric [workflows](/posts/getting-things-done-for-knowledge-workers/). It treats every bullet point as an individual block, making it excellent for granular linking.
 *   **Anytype:** A strong hybrid option utilizing local-first, peer-to-peer syncing. It combines [Notion](/posts/personal-knowledge-management-tools-comparison/)-like databases with secure offline capabilities, ideal for those who prefer structured data alongside freeform notes.
 
 ### Establishing the Minimum Viable Workflow

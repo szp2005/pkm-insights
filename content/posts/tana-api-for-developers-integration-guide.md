@@ -127,7 +127,7 @@ Always implement comprehensive logging. When an API call to Tana fails silently,
 
 ## Conclusion
 
-The Tana API empowers developers to transform a static knowledge base into a dynamic, automated operating system. By mastering token authentication, payload construction, and bidirectional webhook communication, you can integrate Tana into virtually any [software](/posts/best-apps-for-personal-knowledge-management/) stack. [Focus](/posts/managing-digital-information-overload-tips/) on building resilient logic that respects rate limits, handles errors gracefully, and leverages batch operations. With these principles applied, the Tana API transitions from a simple input mechanism into a robust engine for complex workflow automation.
+The Tana API empowers developers to transform a static knowledge base into a dynamic, automated operating system. By mastering token authentication, payload construction, and bidirectional webhook communication, you can integrate Tana into virtually any [software](/posts/best-apps-for-personal-knowledge-management/) stack. [Focus](/posts/managing-digital-information-overload-tips/) on building resilient logic that respects rate limits, handles errors gracefully, and leverages batch operations. With these principles applied, the Tana API transitions from a simple input mechanism into a robust engine for complex [workflow](/posts/using-the-para-method-in-google-drive/) [automation](/posts/self-healing-knowledge-base-principles/).
 
 ## Frequently Asked Questions
 

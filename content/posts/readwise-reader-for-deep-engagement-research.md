@@ -17,7 +17,7 @@ Digital reading is often defined by speed and volume. We scroll through dozens o
 
 Readwise Reader has emerged as a foundational application for this specific type of work. Unlike standard read-it-later apps that function merely as digital filing cabinets, Reader is engineered to facilitate active processing. It bridges the gap between encountering information and integrating it into your permanent knowledge structure. 
 
-This guide details how to configure and utilize Readwise Reader for deep engagement research, outlining specific workflows, annotation frameworks, and practical strategies to transform your reading process from a passive stream into a compounding asset.
+This guide details how to configure and utilize Readwise Reader for deep engagement research, outlining specific [workflows](/posts/getting-things-done-for-knowledge-workers/), annotation frameworks, and practical strategies to transform your reading process from a passive stream into a compounding asset.
 
 ## The Limitation of Passive Knowledge Consumption
 
@@ -97,7 +97,7 @@ While Reader is not a reference manager like Zotero or Mendeley, it serves as th
 The ultimate goal of deep engagement research is not to keep information inside Readwise Reader, but to export your synthesized thoughts into a permanent [knowledge management](/posts/knowledge-management-strategies-for-students/) system.
 
 ### Configuring the Export Pipeline
-Readwise offers native integrations with Obsidian, Notion, Roam Research, and Logseq. The success of this pipeline depends entirely on how you configure the export template. Do not settle for the default formatting.
+Readwise offers native integrations with Obsidian, Notion, [Roam Research](/posts/roam-research-vs-obsidian-comparison/), and Logseq. The success of this pipeline depends entirely on how you configure the export template. Do not settle for the default formatting.
 
 Customize your export template to include the document metadata (Author, URL, Date Read) at the top. More importantly, configure the template to clearly separate the author's highlighted text from your own personal notes. 
 
@@ -132,7 +132,7 @@ Readwise Reader is highly effective for deep engagement research because it resp
 ## Frequently Asked Questions
 
 ### Does Readwise Reader replace reference managers like Zotero?
-No. Readwise Reader is a reading and annotation environment, not a citation manager. The optimal workflow is to store the canonical PDFs and generate bibliographies in Zotero, but send the PDF to Reader for the actual active reading, highlighting, and note-taking process.
+No. Readwise Reader is a reading and annotation environment, not a citation manager. The optimal workflow is to store the canonical PDFs and generate bibliographies in Zotero, but send the PDF to Reader for the actual active reading, highlighting, and [note-taking](/posts/differences-between-fleeting-and-permanent-notes-explained/) process.
 
 ### How does Ghostreader differ from just pasting text into ChatGPT?
 Ghostreader is context-aware and operates directly within the reading environment. Instead of context switching to a separate browser window and copying text back and forth, you can prompt the AI inline to summarize a specific paragraph, define a term within the author's specific context, or translate a challenging sentence without breaking your reading flow.

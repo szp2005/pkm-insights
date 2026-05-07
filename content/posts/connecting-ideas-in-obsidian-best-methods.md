@@ -25,7 +25,7 @@ Obsidian provides three primary native mechanisms for organizing and connecting 
 
 Internal links, often referred to as wikilinks, are the structural foundation of any Obsidian vault. By wrapping text in double brackets (`[[Topic Name]]`), you create a direct pathway between two distinct notes. Unlike traditional web links, these connections are bidirectional. When Note A links to Note B, Note B automatically registers a "backlink" from Note A. 
 
-This bidirectionality allows you to traverse your knowledge base from multiple angles. If you write an insight about "Habit Formation" and link it to "Atomic Habits," you instantly create context for both files. Over time, reviewing the backlinks panel on a heavily referenced note will reveal how a single concept influences entirely different domains of your research or writing.
+This bidirectionality allows you to traverse your knowledge base from multiple angles. If you write an insight about "Habit Formation" and link it to "Atomic Habits," you instantly create context for both files. Over time, reviewing the backlinks panel on a heavily referenced note will reveal how a single concept influences entirely different domains of your [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) or writing.
 
 ### Tags and Nested Hierarchies
 
@@ -101,11 +101,11 @@ Building a highly connected vault requires establishing consistent daily habits.
 
 When creating a new note, practice both backward and forward linking. Backward linking involves searching your vault for existing notes that relate to your new idea and adding links to them. 
 
-Forward linking is the practice of creating links to notes that do not yet exist. If you are writing about "Machine Learning" and mention "Neural Networks," format it as `[[Neural Networks]]` even if you haven't written that note yet. Obsidian will create an empty, unclicked link. This lays the groundwork for future connections; when you eventually write the "Neural Networks" note, the backlink from "Machine Learning" will already be waiting for you.
+Forward linking is the practice of creating links to notes that do not yet exist. If you are writing about "Machine [Learning](/posts/how-to-remember-what-you-read-effectively/)" and mention "Neural Networks," format it as `[[Neural Networks]]` even if you haven't written that note yet. Obsidian will create an empty, unclicked link. This lays the groundwork for future connections; when you eventually write the "Neural Networks" note, the backlink from "Machine Learning" will already be waiting for you.
 
 ### Managing Orphan Notes
 
-Orphan notes are files that contain no outgoing links and have no incoming backlinks. They are effectively dead ends in your knowledge graph. Schedule a monthly review to surface these files. 
+Orphan notes are files that contain no outgoing links and have no incoming backlinks. They are effectively dead ends in your knowledge graph. Schedule a monthly [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) to surface these files. 
 
 You can find orphans using the Graph View (by looking for disconnected nodes) or by using community plugins specifically designed to identify unlinked files. When you find an orphan, take three minutes to integrate it into your vault by linking it to an MOC, adding relevant tags, or connecting it to a related concept. If it cannot be connected to anything, consider whether the note is actually valuable enough to keep.
 

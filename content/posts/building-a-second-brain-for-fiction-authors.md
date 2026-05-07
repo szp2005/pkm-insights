@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Building a Second Brain for Fiction Authors: 5-Step Guide
 
-> **Quick Answer:** Building a second brain for fiction authors involves adapting [personal knowledge management](/posts/digital-decluttering-for-information-overload/) systems to organize world-building, character bibles, plot outlines, and research into an interconnected digital vault. By using tools like [Obsidian](/posts/what-is-personal-knowledge-management/) or Notion and applying the CODE (Capture, Organize, Distill, Express) methodology, writers can eliminate lost ideas and maintain absolute continuity across complex narratives.
+> **Quick Answer:** Building a second brain for fiction authors involves adapting [personal knowledge management](/posts/digital-decluttering-for-information-overload/) systems to organize world-building, character bibles, plot outlines, and research into an interconnected digital vault. By using tools like [Obsidian](/posts/what-is-personal-knowledge-management/) or [Notion](/posts/personal-knowledge-management-tools-comparison/) and applying the CODE (Capture, Organize, Distill, Express) methodology, writers can eliminate lost ideas and maintain absolute continuity across complex narratives.
 
 Every novelist has experienced the frustration of the lost detail. You are 60,000 words into a draft and suddenly need to remember the exact eye color of a secondary character introduced in chapter two, or the specific political structure of a neighboring kingdom you outlined six months ago. Relying on biological memory for a task as complex as writing a novel inevitably leads to plot holes, continuity errors, and workflow friction. 
 
@@ -27,7 +27,7 @@ A second brain is an external, centralized digital repository where you store, o
 
 Instead of organizing by project alone, a writer's second brain connects discrete pieces of information. A note about 14th-century blacksmithing techniques can link directly to the character profile of your protagonist's mentor, which links to the setting notes for their village, which links to the scene outline where the climax occurs.
 
-This networked approach mimics human cognition but scales infinitely. It ensures that when you sit down to draft a scene, you aren't hunting for notes; the context you need is surfaced automatically through intentional organization and backlinking.
+This networked approach mimics human cognition but scales infinitely. It ensures that when you sit down to draft a scene, you aren't hunting for notes; the context you need is surfaced automatically through intentional [organization](/posts/steps-to-building-a-second-brain/) and backlinking.
 
 ## Why Fiction Writers Need Personal Knowledge Management
 
@@ -131,4 +131,4 @@ Contemporary authors benefit equally from a second brain. Instead of magic syste
 
 - [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
 
-- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

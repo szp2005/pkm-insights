@@ -29,13 +29,13 @@ To achieve these benefits, we rely on a fundamental four-step framework known as
 
 ## Step 1: Capture – Keep What Resonates
 
-The very first of the steps to building a second brain is learning how to capture information effectively. If you cannot reliably get information into your system, the rest of the framework falls apart. However, the goal is not to save everything. The internet is already an infinite library; you do not need to recreate it.
+The very first of the steps to building a second brain is [learning](/posts/how-to-remember-what-you-read-effectively/) how to capture information effectively. If you cannot reliably get information into your system, the rest of the framework falls apart. However, the goal is not to save everything. The internet is already an infinite library; you do not need to recreate it.
 
 ### The Principle of Resonance
 You should only capture information that genuinely resonates with you. Ask yourself: Is this surprising? Is it inspiring? Is it directly applicable to a current project? Does it challenge my existing beliefs? If the answer is yes, capture it. If it is just mildly interesting, let it go. Treat your Second Brain like an exclusive club, where only the most valuable and actionable insights gain entry.
 
 ### Practical Capture Strategies
-*   **Frictionless Tools:** Your capture tools must be lightning-fast and available on all your devices. If it takes more than three clicks or taps to save a note, you will likely abandon the effort. Use quick-capture apps like Apple Notes, Google Keep, or the quick-capture widgets of advanced tools like Notion or [Obsidian](/posts/personal-knowledge-management-tools-comparison/).
+*   **Frictionless [Tools](/posts/roam-research-vs-obsidian-comparison/):** Your capture tools must be lightning-fast and available on all your devices. If it takes more than three clicks or taps to save a note, you will likely abandon the effort. Use quick-capture apps like Apple Notes, Google Keep, or the quick-capture widgets of advanced tools like Notion or [Obsidian](/posts/personal-knowledge-management-tools-comparison/).
 *   **Read-It-Later Apps:** Do not interrupt your current workflow to read a long article. Send it to a read-it-later app like Instapaper, Pocket, or Matter. Highlight the best parts later when you have dedicated reading time, and only export those highlights to your Second Brain.
 *   **The 12 Favorite Problems:** Physicist Richard Feynman famously kept a mental list of his favorite open problems. When he learned something new, he tested it against each problem to see if it provided a clue. Maintain a list of 10 to 12 open questions or challenges you are currently facing in your life or work. Capture information that helps answer these specific questions.
 
@@ -134,7 +134,7 @@ The Ultimate Guide is best for knowledge workers, students, and creators who wan
 
 ### How should I get started with The Ultimate Guide?
 
-Start by identifying the specific outcome you want, then apply the smallest useful version of the advice in this article. After that, review what worked and adjust the setup, tool, or process before expanding it.
+Start by identifying the specific outcome you want, then apply the smallest useful version of the advice in this article. After that, [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) what worked and adjust the setup, tool, or process before expanding it.
 
 ### What mistakes should I avoid with The Ultimate Guide?
 

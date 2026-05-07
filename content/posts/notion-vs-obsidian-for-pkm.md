@@ -34,7 +34,7 @@ Where Notion thrives on structured databases, Obsidian thrives on fluid networks
 The most critical consideration for any long-term PKM system is what happens to your data if the parent company ceases to exist or dramatically alters its pricing model.
 
 ### Obsidian: Absolute Sovereignty
-Obsidian operates strictly as a local-first application. Your vault is simply a folder on your computer containing standard text files. This brings immense peace of mind:
+Obsidian operates strictly as a [local-first](/posts/anytype-review-local-first-privacy-lovers/) application. Your vault is simply a folder on your computer containing standard text files. This brings immense peace of mind:
 1. **No lock-in:** You can open your Obsidian vault in VS Code, Logseq, Apple Notes, or any basic text editor. 
 2. **Offline by default:** You never need an internet connection to access, search, or edit your entire knowledge base.
 3. **Speed:** Because everything is local, opening notes and searching across thousands of files is virtually instantaneous.
@@ -56,14 +56,14 @@ This structured approach is incredibly effective for task management, project tr
 ### Obsidian: Emergent Networks
 Obsidian minimizes the friction of categorization. While you *can* use folders, the system encourages you to utilize bi-directional links and tags. 
 
-For example, if you are writing about "Artificial Intelligence," you simply type `[[Machine Learning]]` within the text. Obsidian instantly creates a link. If the "Machine Learning" note doesn't exist yet, it acts as a placeholder. Over time, as you link notes together, a structure emerges naturally based on the actual relationships between your ideas, rather than a pre-defined folder hierarchy. This makes Obsidian vastly superior for academic research, long-form writing, and serendipitous discovery.
+For example, if you are writing about "Artificial Intelligence," you simply type `[[Machine Learning]]` within the text. Obsidian instantly creates a link. If the "Machine Learning" note doesn't exist yet, it acts as a placeholder. Over time, as you link notes together, a structure emerges naturally based on the actual relationships between your ideas, rather than a pre-defined folder hierarchy. This makes Obsidian vastly superior for academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), long-form writing, and serendipitous discovery.
 
 ## Customization, Plugins, and the Community
 
 Both tools boast massive communities and customization options, but they manifest differently.
 
 ### Notion: Templates and Integrations
-Notion's customization is largely visual and structural. The community has produced thousands of meticulously designed templates for everything from student planners to enterprise CRM systems. Furthermore, Notion features a robust, official API. It integrates beautifully with Zapier, Make, Slack, and Google Drive, making it a powerful hub for automating workflows across different [software](/posts/best-apps-for-personal-knowledge-management/) platforms.
+Notion's customization is largely visual and structural. The community has produced thousands of meticulously designed templates for everything from student planners to enterprise CRM systems. Furthermore, Notion features a robust, official API. It integrates beautifully with Zapier, Make, Slack, and Google Drive, making it a powerful hub for automating [workflows](/posts/getting-things-done-for-knowledge-workers/) across different [software](/posts/best-apps-for-personal-knowledge-management/) platforms.
 
 ### Obsidian: The Wild West of Plugins
 Obsidian's customization is functional and deeply technical. Because it is essentially a Markdown reader, developers have built an astonishing ecosystem of community plugins. 

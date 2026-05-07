@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Supernotes vs Obsidian: Best for Collaborative Knowledge Sharing
 
-> **Quick Answer:** For real-time, frictionless collaboration on short-form content, Supernotes is the superior choice out of the box. However, for technical teams requiring deep, long-form documentation, strict data privacy, and asynchronous [workflows](/posts/getting-things-done-for-knowledge-workers/), Obsidian paired with its Sync service or Git remains the gold standard.
+> **Quick Answer:** For real-time, frictionless collaboration on short-form content, Supernotes is the superior choice out of the box. However, for technical teams requiring deep, long-form [documentation](/posts/self-healing-knowledge-base-principles/), strict data privacy, and asynchronous [workflows](/posts/getting-things-done-for-knowledge-workers/), Obsidian paired with its Sync service or Git remains the gold standard.
 
 Building a shared brain for your team requires the right infrastructure. When multiple people need to create, link, and reference documentation, the friction introduced by the wrong tool can entirely derail adoption. Traditional wikis often turn into unmaintained graveyards, leading modern teams to explore [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) [tools](/posts/personal-knowledge-management-tools-comparison/) adapted for multiplayer use.
 
@@ -25,7 +25,7 @@ Choosing between Supernotes vs Obsidian for collaborative knowledge sharing come
 
 Before comparing specific features, it is vital to understand the structural differences between these two platforms. 
 
-Supernotes is built around the concept of "notecards." Instead of writing sprawling documents, users create markdown-supported cards that are strictly limited in length. These cards can be nested, tagged, and linked. This architectural choice naturally encourages modular, atomic notes. When collaborating, you are not sharing a massive folder structure; you are sharing specific cards or parent cards that cascade access downward.
+Supernotes is built around the concept of "notecards." Instead of writing sprawling documents, users create markdown-supported cards that are strictly limited in length. These cards can be nested, tagged, and linked. This architectural choice naturally encourages modular, [atomic notes](/posts/atomic-notes-writing-guide/). When collaborating, you are not sharing a massive folder structure; you are sharing specific cards or parent cards that cascade access downward.
 
 Obsidian operates as an IDE (Integrated Development Environment) for your thoughts. It points at a local directory on your hard drive filled with standard `.md` files. Because it operates on local files, it is incredibly fast and future-proof. However, local files are inherently single-player until you introduce a synchronization layer, which changes the dynamic of how teams interact with the data.
 
@@ -65,7 +65,7 @@ Obsidian is a powerhouse local-first markdown editor. It relies entirely on a lo
 **Cons:**
 - Collaboration requires paid Sync or technical Git workflows
 - Lacks native real-time simultaneous editing capabilities
-- Steep learning curve for non-technical team members
+- Steep [learning](/posts/how-to-remember-what-you-read-effectively/) curve for non-technical team members
 
 ## Collaboration Features Head-to-Head
 

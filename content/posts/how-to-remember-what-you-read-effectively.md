@@ -27,7 +27,7 @@ Before we can implement solutions, we must understand the biological default of 
 ### The Ebbinghaus Forgetting Curve
 In 1885, German psychologist Hermann Ebbinghaus pioneered the experimental study of memory. His most famous discovery, the Forgetting Curve, illustrates the exponential loss of information over time when there is no active attempt to retain it. 
 
-His research demonstrated that within 24 hours of reading something new, you will typically forget up to 70% of it. Within a month, that number climbs to an astonishing 90%. The brain operates on a ruthless "use it or lose it" principle. If a neural pathway is not repeatedly activated, the brain literally prunes those synaptic connections to save metabolic energy. Forgetting is not a bug in the human operating system; it is a feature designed to clear out irrelevant data. Our job is to signal to the brain that what we are reading *is* relevant.
+His [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) demonstrated that within 24 hours of reading something new, you will typically forget up to 70% of it. Within a month, that number climbs to an astonishing 90%. The brain operates on a ruthless "use it or lose it" principle. If a neural pathway is not repeatedly activated, the brain literally prunes those synaptic connections to save metabolic energy. Forgetting is not a bug in the human operating system; it is a feature designed to clear out irrelevant data. Our job is to signal to the brain that what we are reading *is* relevant.
 
 ### The Illusion of Competence
 When we read a well-written, eloquently argued text, the cognitive fluency of the writing makes the concepts feel intuitive. We nod along, experiencing what psychologists call the "illusion of competence." 
@@ -112,7 +112,7 @@ When you finish reading, extract the most critical insights and format them as d
 ### 3. The Zettelkasten Method and Personal Knowledge Management (PKM)
 Invented by the staggeringly prolific German sociologist Niklas Luhmann (who published over 70 books and 400 academic articles in his lifetime), the Zettelkasten (slip-box) method is a revolutionary system for organizing ideas.
 
-Instead of writing long, linear book summaries that you will likely file away and never read again, extract individual, atomic ideas. Write each idea on a single "digital note" (using modern PKM [tools](/posts/personal-knowledge-management-tools-comparison/) like **Obsidian**, **Roam Research**, or **Logseq**) entirely in your own words.
+Instead of writing long, linear book summaries that you will likely file away and never read again, extract individual, atomic ideas. Write each idea on a single "digital note" (using modern PKM [tools](/posts/personal-knowledge-management-tools-comparison/) like **Obsidian**, **[Roam Research](/posts/roam-research-vs-obsidian-comparison/)**, or **Logseq**) entirely in your own words.
 
 Crucially, **you must link these notes together**. When you capture a new concept about behavioral economics, actively link it to your existing notes on psychology, marketing, or evolutionary biology. Human memory is associative, not hierarchical. By creating a dense, interconnected web of notes, you build a "[Second Brain](/posts/what-is-personal-knowledge-management/)" that mirrors the associative structure of your biological brain, making retrieval effortless and generating novel insights.
 
@@ -133,7 +133,7 @@ You do not actually "learn" when you read; you learn when you sleep. During the 
 Chronic sleep deprivation effectively destroys your brain's ability to encode new memories. Prioritize 7 to 9 hours of high-quality sleep, particularly on days when you engage in intensive reading or study. Reading a book and then pulling an all-nighter is a biological waste of time.
 
 ### 2. Eradicate Context Switching
-Reading requires the cognitive state of Deep Work. If you are reading on a digital device, ruthlessly block all notifications. If you are reading a physical book, put your smartphone in another room. 
+Reading requires the cognitive state of [Deep Work](/posts/four-layer-stack-for-pkm-optimization/). If you are reading on a digital device, ruthlessly block all notifications. If you are reading a physical book, put your smartphone in another room. 
 
 Every single time your attention is fractured by a text message or a social media alert, your cognitive load spikes. It takes an average of 23 minutes to regain deep [focus](/posts/digital-decluttering-for-information-overload/) after an interruption. More importantly, these micro-distractions severely compromise your brain's ability to transfer information from working memory into long-term memory.
 

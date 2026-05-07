@@ -15,7 +15,7 @@ type: "informational"
 
 The end of the month often triggers a familiar panic for startup founders: the looming investor update. Tracking down metrics across Stripe, Jira, GitHub, and CRM platforms, while simultaneously recalling key hiring decisions and product milestones, is a fragmented and time-consuming process. When scaling a company, allocating a full day to unearth data and write a single email is an unacceptable drain on executive bandwidth.
 
-This friction stems from a lack of systematic knowledge capture. Relying on memory or scattered Slack threads guarantees that critical operational details will slip through the cracks. The solution lies in applying Personal Knowledge Management (PKM) principles specifically tailored to executive reporting.
+This friction stems from a lack of systematic knowledge capture. Relying on [memory](/posts/how-to-remember-what-you-read-effectively/) or scattered Slack threads guarantees that critical operational details will slip through the cracks. The solution lies in applying Personal Knowledge Management (PKM) principles specifically tailored to executive reporting.
 
 A PKM system acts as a centralized repository—a "[second brain](/posts/what-is-personal-knowledge-management/)"—where daily observations, weekly metrics, and strategic decisions are continuously aggregated. By structuring this information flow proactively, the monthly update writes itself. This guide details how to build and maintain a PKM architecture optimized for managing investor relations, ensuring your updates remain transparent, consistent, and effortless to produce.
 
@@ -40,7 +40,7 @@ Implement a standardized nomenclature for your tags. Examples include:
 By applying these tags systematically, you can run a single query at the end of the month to aggregate every tagged entry, categorized by topic.
 
 ### Periodic Synthesis
-Raw data is not an investor update. The synthesis phase involves filtering the daily captures into a coherent narrative. Weekly reviews act as the bridge between daily notes and the monthly update. At the end of each week, allocate fifteen minutes to review the week's tagged entries. Consolidate them into a weekly summary note. By the time the monthly update is due, you are merely synthesizing four weekly summaries rather than thirty daily notes.
+Raw data is not an investor update. The synthesis phase involves filtering the daily captures into a coherent narrative. Weekly reviews act as the bridge between daily notes and the monthly update. At the end of each week, allocate fifteen minutes to [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) the week's tagged entries. Consolidate them into a weekly summary note. By the time the monthly update is due, you are merely synthesizing four weekly summaries rather than thirty daily notes.
 
 ## Step 1: Define Your Core Metrics and KPIs
 
@@ -77,7 +77,7 @@ Investors are a resource; use them. The "Asks" section should be specific, targe
 
 ## Step 4: The Monthly Synthesis Protocol
 
-With a functioning capture system, the actual writing of the investor update transforms from a daunting task into a rapid assembly process. 
+With a functioning capture system, the actual [writing](/posts/atomic-notes-writing-guide/) of the investor update transforms from a daunting task into a rapid assembly process. 
 
 Set a recurring calendar block for the first day of the month. Open your PKM and execute queries for your standardized tags over the trailing 30 days. In Obsidian, a Dataview query might look like:
 

@@ -18,7 +18,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 In an age of constant information flow, the ability to quickly capture ideas, tasks, and insights is paramount. A fleeting thought missed is often a valuable thought lost. For many, the challenge isn't just *where* to store notes, but *how quickly and frictionlessly* they can be recorded before they vanish. This need has fueled the rise of sophisticated [note-taking](/posts/zettelkasten-method-explained/) applications, each promising to be the ultimate digital brain.
 
-Among the most discussed tools for knowledge workers and avid note-takers are Reflect Notes and Obsidian. Both offer powerful linking capabilities and aim to help users build a personal knowledge graph. However, their philosophies and default workflows for quick capture differ significantly. This article delves into a direct comparison, examining which tool truly excels when speed and minimal friction are the top priorities for jotting down information. We'll explore their core features, user experience, and ideal use cases to help you make an informed decision.
+Among the most discussed [tools](/posts/personal-knowledge-management-tools-comparison/) for knowledge workers and avid note-takers are Reflect Notes and Obsidian. Both offer powerful linking capabilities and aim to help users build a personal knowledge graph. However, their philosophies and default [workflows](/posts/getting-things-done-for-knowledge-workers/) for quick capture differ significantly. This article delves into a direct comparison, examining which tool truly excels when speed and minimal friction are the top priorities for jotting down information. We'll explore their core features, user experience, and ideal use cases to help you make an informed decision.
 
 ## Understanding Quick Capture Needs
 
@@ -64,7 +64,7 @@ Obsidian is a powerful, local-first knowledge base that operates on plain Markdo
 -   Local-first storage of plain Markdown files ensures data ownership and future-proofing.
 -   Unparalleled customization through a vast array of community plugins and themes.
 -   Highly flexible for creating bespoke quick capture workflows (e.g., hotkeys, templates).
--   Powerful graph view and robust linking for complex knowledge organization.
+-   Powerful graph view and robust linking for complex knowledge [organization](/posts/steps-to-building-a-second-brain/).
 -   Core application is free, making it highly accessible.
 
 **Cons:**

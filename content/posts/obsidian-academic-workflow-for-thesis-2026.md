@@ -15,7 +15,7 @@ type: "informational"
 
 Writing a thesis requires managing an overwhelming volume of information. Between hundreds of peer-reviewed papers, experimental data, theoretical frameworks, and your own evolving arguments, traditional linear word processors quickly become inadequate. Researchers often find themselves lost in a maze of disconnected PDFs and isolated Word documents, struggling to synthesize their reading into a coherent narrative.
 
-The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) has matured significantly. As we look at the requirements for serious academic research, Obsidian stands out not just as a [note-taking](/posts/zettelkasten-method-explained/) application, but as a comprehensive database for thought. Its [local-first](/posts/anytype-review-local-first-privacy-lovers/), plain-text architecture ensures that years of research remain accessible decades from now, immune to the shifting pricing models or server shutdowns of cloud-based alternatives.
+The landscape of [personal knowledge management](/posts/digital-decluttering-for-information-overload/) has matured significantly. As we look at the requirements for serious academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), Obsidian stands out not just as a [note-taking](/posts/zettelkasten-method-explained/) application, but as a comprehensive database for thought. Its [local-first](/posts/anytype-review-local-first-privacy-lovers/), plain-text architecture ensures that years of research remain accessible decades from now, immune to the shifting pricing models or server shutdowns of cloud-based alternatives.
 
 Developing a reliable system is about reducing cognitive load. When the mechanics of tracking citations and organizing literature are automated, you reserve your mental energy for actual critical analysis. This guide details the specific configurations, plugin combinations, and processing methods required to build a robust, resilient academic system designed to carry you from your initial literature review to your final defense.
 
@@ -25,7 +25,7 @@ A successful thesis vault operates on principles of friction reduction and long-
 
 The fundamental unit of this system is the atomic note. An atomic note contains a single, discrete idea, written in your own words, decoupled from the source text. When you separate ideas from their sources, you can remix and combine them in novel ways. If an idea spans multiple pages or covers three different theoretical concepts, it is too large and should be split. 
 
-Bidirectional linking forms the nervous system of this approach. Instead of deciding whether a note on "cognitive load" belongs in the "psychology" folder or the "UI design" folder, you place it in a single central repository and link it to both `[[Psychology]]` and `[[UI Design]]`. This networked structure mirrors how human memory actually operates, allowing you to traverse your vault organically and discover unexpected intersections between disciplines.
+Bidirectional linking forms the nervous system of this approach. Instead of deciding whether a note on "cognitive load" belongs in the "psychology" folder or the "UI design" folder, you place it in a single central repository and link it to both `[[Psychology]]` and `[[UI Design]]`. This networked structure mirrors how human [memory](/posts/how-to-remember-what-you-read-effectively/) actually operates, allowing you to traverse your vault organically and discover unexpected intersections between disciplines.
 
 Consistency in metadata is equally critical. In 2026, the use of YAML frontmatter to standardize note properties—such as status, author, year, and tags—allows researchers to query their vaults like a relational database, dynamically generating bibliographies and literature tracking dashboards.
 
@@ -53,7 +53,7 @@ Rely on a minimalist folder structure containing no more than four or five top-l
 
 1. **01_Projects:** Active thesis chapters, writing drafts, and administrative documents.
 2. **02_Sources:** Automatically generated literature notes, meeting transcripts, and raw data.
-3. **03_Concepts:** The core of your vault. Permanent, atomic notes written in your own words.
+3. **03_Concepts:** The core of your vault. Permanent, [atomic notes](/posts/atomic-notes-writing-guide/) written in your own words.
 4. **04_Meta:** Templates, scripts, and Dataview dashboards.
 
 Within the `03_Concepts` folder, avoid creating subfolders. Let tags and bidirectional links do the organizational heavy lifting. Use Maps of Content (MOCs)—notes that serve solely as indexes or tables of contents for a specific topic—to group related concepts. For example, a `[[Methodology MOC]]` note would contain links to your notes on qualitative analysis, sample sizes, and interview protocols. This fluid structure allows a single concept note to appear in multiple MOCs simultaneously.

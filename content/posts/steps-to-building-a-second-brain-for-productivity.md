@@ -41,7 +41,7 @@ If a piece of information does not meet at least one of these criteria, let it g
 
 ## Step 2: Choose Your Core Tool Stack
 
-A functional second brain relies on a minimal, reliable stack of tools. Avoid the trap of constantly switching applications in search of the perfect feature set. The best tool is the one you will use consistently.
+A functional second brain relies on a minimal, reliable stack of [tools](/posts/roam-research-vs-obsidian-comparison/). Avoid the trap of constantly switching applications in search of the perfect feature set. The best tool is the one you will use consistently.
 
 ### The Capture Tool
 This is the application you use to quickly grab information on the go. Speed and frictionlessness are the primary requirements.
@@ -50,7 +50,7 @@ This is the application you use to quickly grab information on the go. Speed and
 
 ### The Storage and Organization Tool
 This is the heart of your second brain. It needs robust search capabilities, linking features, and a structure that makes sense to you.
-- **Examples:** [Obsidian](/posts/what-is-personal-knowledge-management/), Notion, Roam Research, Evernote, [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), Apple Notes.
+- **Examples:** [Obsidian](/posts/what-is-personal-knowledge-management/), Notion, Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/), Evernote, [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/), Apple Notes.
 - **Function:** To permanently house, organize, and connect your notes.
 
 ### The Distillation Tool (Optional)
@@ -99,7 +99,7 @@ By funneling your captured notes from your Inbox into this structure, you ensure
 
 ## Step 5: Distill the Core Message
 
-Pasting a 3,000-word article into your second brain is capturing, but it is not learning. Your future self will not have the time or patience to re-read the entire article. You must distill the information to its absolute essence.
+Pasting a 3,000-word article into your second brain is capturing, but it is not [learning](/posts/how-to-remember-what-you-read-effectively/). Your future self will not have the time or patience to re-read the entire article. You must distill the information to its absolute essence.
 
 ### Progressive Summarization
 Progressive summarization is a technique for highlighting notes in layers, making them easily scannable.

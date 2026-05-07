@@ -71,7 +71,7 @@ While the C.O.D.E. workflow dictates the process, methodologies dictate the stru
 ### The Zettelkasten Method
 Originating from sociologist Niklas Luhmann, who wrote 70 books and 400 academic articles using physical slip-boxes, Zettelkasten is the gold standard for researchers and writers. 
 
-The method relies on atomic notes—each note contains only one idea. Instead of organizing notes into hierarchical folders, you link them to one another using unique identifiers or bidirectional links. This creates a decentralized web of knowledge where ideas organically cluster together over time, mimicking the neural pathways of the human brain.
+The method relies on [atomic notes](/posts/atomic-notes-writing-guide/)—each note contains only one idea. Instead of organizing notes into hierarchical folders, you link them to one another using unique identifiers or bidirectional links. This creates a decentralized web of knowledge where ideas organically cluster together over time, mimicking the neural pathways of the human brain.
 
 ### The P.A.R.A. Framework
 Developed by Tiago Forte, PARA organizes digital life into four strict categories based on actionability:
@@ -92,7 +92,7 @@ The tool you choose matters less than the consistency of your habit, but selecti
 ### Networked Note-Taking (Obsidian, Roam Research)
 These tools treat notes as nodes in a graph. They use bidirectional linking (`[[like this]]`) to connect ideas seamlessly. 
 - **Best for:** Researchers, academics, non-fiction writers, and deep thinkers.
-- **Tradeoffs:** Steeper learning curve; requires you to build your own structure.
+- **Tradeoffs:** Steeper [learning](/posts/how-to-remember-what-you-read-effectively/) curve; requires you to build your own structure.
 
 ### Block-Based Outliners (Logseq, Workflowy)
 These applications operate entirely on bullet points (blocks). You indent text to create hierarchy, and every bullet point can be zoomed into or linked to elsewhere.
@@ -109,7 +109,7 @@ These platforms utilize databases, properties, and kanban boards to structure da
 Do not attempt to build a perfect, complex system on day one. Complexity must be earned through usage, not designed from the start. Follow these practical steps to deploy your first PKM iteration this week.
 
 ### 1. Establish Your Capture Inbox
-Choose exactly one frictionless tool for mobile capture. Apple Notes, Google Keep, or a dedicated app like Drafts works perfectly. The only rule is that it must open instantly. When an idea strikes, capture it here. Do not worry about tagging or formatting; just get the thought out of your head.
+Choose exactly one frictionless tool for [mobile capture](/posts/building-a-mobile-information-capture-system-for-ipad/). Apple Notes, Google Keep, or a dedicated app like Drafts works perfectly. The only rule is that it must open instantly. When an idea strikes, capture it here. Do not worry about tagging or formatting; just get the thought out of your head.
 
 ### 2. Schedule a Weekly Review
 A system dies without maintenance. Block out 30 minutes every Friday afternoon to process your capture inbox. Move the raw notes into your main PKM tool. Discard what no longer seems interesting, distill the notes that matter, and route them to their proper projects or resource folders.

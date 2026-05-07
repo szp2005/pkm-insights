@@ -17,7 +17,7 @@ The traditional method of studying—reading a textbook, highlighting key phrase
 
 However, many learners struggle to implement active recall effectively in the digital age. When you have infinite scrolling documents and robust search functions, the friction required to naturally test yourself disappears. The convenience of digital [note-taking](/posts/zettelkasten-method-explained/) applications often encourages passive consumption over active engagement.
 
-This does not mean you need to return to physical flashcards and notebooks. Modern digital tools offer powerful features that, when used deliberately, make active recall more efficient and scalable than analog methods. The key lies in changing how you input your information. This guide outlines a structured, five-step framework for turning your passive digital repository into an active learning engine.
+This does not mean you need to return to physical flashcards and notebooks. Modern digital [tools](/posts/roam-research-vs-obsidian-comparison/) offer powerful features that, when used deliberately, make active recall more efficient and scalable than analog methods. The key lies in changing how you input your information. This guide outlines a structured, five-step framework for turning your passive digital repository into an active learning engine.
 
 ## The Cognitive Mechanics of Digital Active Recall
 
@@ -48,7 +48,7 @@ By formatting your notes this way, you immediately create a testing environment.
 
 Writing questions is only effective if you cannot immediately see the answer. If the answer sits directly below the question, your eyes will inevitably drift downward, ruining the retrieval attempt.
 
-This is where digital tools outshine paper. Applications like [Notion](/posts/personal-knowledge-management-tools-comparison/), [Obsidian](/posts/what-is-personal-knowledge-management/), and Roam Research feature "toggle" or "fold" functionalities. A toggle allows you to nest text inside a collapsible bullet point.
+This is where digital tools outshine paper. Applications like [Notion](/posts/personal-knowledge-management-tools-comparison/), [Obsidian](/posts/what-is-personal-knowledge-management/), and Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) feature "toggle" or "fold" functionalities. A toggle allows you to nest text inside a collapsible bullet point.
 
 To implement this:
 1. Write your question as the top-level toggle block.
@@ -146,7 +146,7 @@ While handwriting has been shown to improve initial conceptual understanding due
 You should aim to spend 20% of your time creating the questions and 80% of your time testing yourself. A common trap is spending hours perfectly formatting Notion toggles, which is a form of productive procrastination. Keep question creation fast and messy; the real learning happens during the retrieval phase.
 
 ### Which is better for active recall: Notion or Anki?
-It depends on your goal. If you need to memorize thousands of isolated facts (like anatomy terms or vocabulary), Anki is far superior due to its automated algorithm. If you are studying conceptual frameworks (like history or philosophy) where context matters, Notion’s document structure with manual toggles provides better spatial organization.
+It depends on your goal. If you need to memorize thousands of isolated facts (like anatomy terms or vocabulary), Anki is far superior due to its automated algorithm. If you are studying conceptual frameworks (like history or philosophy) where context matters, Notion’s document structure with manual toggles provides better spatial [organization](/posts/steps-to-building-a-second-brain/).
 
 ### How do I apply active recall to math or coding subjects?
 For procedural subjects like mathematics or programming, standard Q&A toggles are less effective. Instead, your "question" should be a specific problem or coding prompt, and the "answer" toggle should contain the step-by-step solution. Active recall here means attempting to solve the problem on a scratchpad before revealing the correct procedure.

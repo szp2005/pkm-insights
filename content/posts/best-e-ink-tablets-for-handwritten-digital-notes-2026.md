@@ -89,7 +89,7 @@ However, this immense capability comes with complexity. The user interface is de
 - High-quality Kaleido 3 color display for reading comics and charts
 
 **Cons:**
-- Complex, steep learning curve for the user interface
+- Complex, steep [learning](/posts/how-to-remember-what-you-read-effectively/) curve for the user interface
 - Battery drains noticeably faster than minimalist competitors
 
 ### 4. Amazon Kindle Scribe (2nd Gen)
@@ -178,5 +178,5 @@ Tablets running a full Android OS, like the Onyx Boox series, feature standard w
 
 - [How to Practice Active Recall Using Digital Notes: 5-Step Guide](/posts/how-to-practice-active-recall-using-digital-notes/)
 
-- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First [Knowledge Management](/posts/digital-note-taking-strategies-for-productivity/)?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

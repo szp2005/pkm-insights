@@ -22,7 +22,7 @@ Before implementing solutions, it is crucial to understand why digital overload 
 Information overload manifests in three distinct ways:
 
 1.  **Input Overload:** The sheer volume of raw data (emails, Slack messages, social media feeds) exceeding processing capacity.
-2.  **Context Switching:** The cognitive penalty incurred when rapidly shifting attention between disparate [tools](/posts/personal-knowledge-management-tools-comparison/) and tasks. Research indicates it can take up to 23 minutes to fully regain deep focus after an interruption.
+2.  **Context Switching:** The cognitive penalty incurred when rapidly shifting attention between disparate [tools](/posts/personal-knowledge-management-tools-comparison/) and tasks. [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) indicates it can take up to 23 minutes to fully regain deep focus after an interruption.
 3.  **Information Entropy:** The chaos of disorganized data scattered across multiple platforms, making retrieval difficult and causing anxiety about lost knowledge.
 
 To combat this, we must shift from being passive consumers of information to intentional architects of our digital ecosystems.
@@ -46,7 +46,7 @@ Be merciless. Use tools to bulk-unsubscribe from newsletters you haven't opened 
 
 ## Strategy 2: Establishing Strict Information Diets
 
-Just as athletes carefully curate their physical diets, knowledge workers must curate their information diets. Unrestricted access to real-time data is the enemy of deep work.
+Just as athletes carefully curate their physical diets, knowledge workers must curate their information diets. Unrestricted access to real-time data is the enemy of [deep work](/posts/four-layer-stack-for-pkm-optimization/).
 
 ### Embrace Asynchronous Communication
 The expectation of immediate responsiveness is a primary driver of overload. Transition your [workflows](/posts/getting-things-done-for-knowledge-workers/) toward asynchronous communication wherever possible. Set clear expectations with colleagues about your response times. For instance, communicate that you check email twice a day, rather than maintaining an open tab all day.
@@ -61,7 +61,7 @@ By batching, you consolidate the cognitive switching costs into defined periods,
 
 ## Strategy 3: Building a Personal Knowledge Management (PKM) System
 
-A significant portion of digital overload stems not from the information itself, but from the anxiety of trying to hold it all in your working memory. Your brain is a processor, not a hard drive. You need a reliable external system—a "[Second Brain](/posts/what-is-personal-knowledge-management/)"—to store, organize, and retrieve information.
+A significant portion of digital overload stems not from the information itself, but from the anxiety of trying to hold it all in your working [memory](/posts/how-to-remember-what-you-read-effectively/). Your brain is a processor, not a hard drive. You need a reliable external system—a "[Second Brain](/posts/what-is-personal-knowledge-management/)"—to store, organize, and retrieve information.
 
 ### The Capture Habit
 The foundation of a PKM system is a frictionless capture mechanism. When you encounter a valuable article, a brilliant idea, or a necessary task, it must be captured immediately into a trusted system.

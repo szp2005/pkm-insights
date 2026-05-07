@@ -23,7 +23,7 @@ Successfully structuring complex research projects in Logseq requires a paradigm
 
 ## The Limits of the Daily Journal
 
-The default Logseq workflow encourages [writing](/posts/atomic-notes-writing-guide/) everything on the Journal page and relying on tags to resurface information later. While excellent for quick capture, this method breaks down under the weight of complex research.
+The default Logseq [workflow](/posts/using-the-para-method-in-google-drive/) encourages [writing](/posts/atomic-notes-writing-guide/) everything on the Journal page and relying on tags to resurface information later. While excellent for [quick capture](/posts/reflect-notes-vs-obsidian-for-quick-capture/), this method breaks down under the weight of complex research.
 
 When you have hundreds of annotations on fifty different PDF sources, tagging a block with `#MyProject` is insufficient. The resulting linked reference section on the `MyProject` page becomes an unreadable, chronological dump of isolated thoughts. You lose the ability to see relationships between arguments, track the status of specific drafts, or isolate open questions from settled conclusions.
 
@@ -87,7 +87,7 @@ The page should begin with standard properties (author, year, publication). The 
 1.  **Highlights & Annotations:** Raw excerpts from the text, ideally imported directly. Keep your modifications here minimal.
 2.  **Synthesis & [Zettelkasten](/posts/zettelkasten-method-explained/):** Your original thoughts, critiques, and connections to other parts of your research. 
 
-When you write in the Synthesis section, heavily utilize block references `((block-id))` pointing back to the raw highlights. This maintains an unbreakable chain of evidence from your original thought directly back to the source material's exact paragraph, an essential requirement for academic writing.
+When you write in the Synthesis section, heavily utilize block references `((block-id))` pointing back to the raw highlights. This maintains an unbreakable chain of evidence from your original thought directly back to the source material's exact paragraph, an essential requirement for [academic writing](/posts/zettelkasten-method-for-academic-writers/).
 
 ## Practical Advice: A Step-by-Step Implementation Strategy
 

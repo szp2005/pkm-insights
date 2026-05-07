@@ -24,7 +24,7 @@ This guide provides a comprehensive, step-by-step workflow for how to migrate fr
 Before initiating a data transfer, it helps to understand the technical and practical advantages of moving to a Markdown-based system. The shift represents a move from a closed ecosystem to an open-format architecture.
 
 ### Local-First Architecture and Privacy
-Evernote stores your data on remote servers, requiring an internet connection for full functionality and syncing. Obsidian operates entirely offline by default. Your vault is simply a folder on your hard drive. This local-first approach guarantees absolute privacy, instant load times regardless of network conditions, and the ability to choose your own synchronization method, whether that is iCloud, Google Drive, Syncthing, or Obsidian's paid sync service.
+Evernote stores your data on remote servers, requiring an internet connection for full functionality and syncing. Obsidian operates entirely offline by default. Your vault is simply a folder on your hard drive. This local-first approach guarantees absolute privacy, instant load times regardless of network conditions, and the ability to choose your own synchronization method, whether that is iCloud, [Google Drive](/posts/using-the-para-method-in-google-drive/), Syncthing, or Obsidian's paid sync service.
 
 ### Format Longevity with Markdown
 Evernote uses a proprietary markup language behind the scenes. If the service were to shut down, extracting your data in a universally readable format requires specialized tools. Obsidian uses standard Markdown (`.md`). A Markdown file is a plain text file that can be opened by any text editor on any operating system. By migrating, you are future-proofing your knowledge base against software obsolescence. 
@@ -37,7 +37,7 @@ While Evernote offers a fixed set of features dictated by its product team, Obsi
 A successful migration requires clean source data. Transferring years of unorganized notes will simply move your digital clutter from one application to another. Spend time optimizing your Evernote database before initiating the export.
 
 ### Consolidate Notebooks and Tags
-Review your notebook structure. Obsidian uses standard operating system folders to represent notebooks. If you have deeply nested notebook stacks in Evernote, consider flattening them to reduce complexity in your new vault. 
+[Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) your notebook structure. Obsidian uses standard operating system folders to represent notebooks. If you have deeply nested notebook stacks in Evernote, consider flattening them to reduce complexity in your new vault. 
 
 Similarly, audit your tags. Evernote allows spaces in tags (e.g., `project alpha`), while Obsidian requires tags to be contiguous strings (e.g., `#project-alpha` or `#project_alpha`). Rename any multi-word tags in Evernote using hyphens or underscores to ensure they import correctly.
 
@@ -127,7 +127,7 @@ Evernote's Web Clipper is arguably its strongest feature. To replicate this in O
 ### Task Management Parity
 Evernote integrated tasks directly into notes with specific reminder dates. 
 - **Tasks Plugin:** Install the community 'Tasks' plugin to add powerful task management to Obsidian. It allows you to query tasks across your entire vault, set recurring due dates, and create custom dashboards.
-- **Dataview:** This plugin turns your vault into a database. You can write simple queries to pull together lists of notes based on tags, creation dates, or specific metadata, replicating the functionality of Evernote's saved searches.
+- **[Dataview](/posts/optimizing-dataview-plugin-for-research-workflows/):** This plugin turns your vault into a database. You can write simple queries to pull together lists of notes based on tags, creation dates, or specific metadata, replicating the functionality of Evernote's saved searches.
 
 ## Practical Advice for a Seamless Transition
 

@@ -8,11 +8,11 @@ tags: ["pkm", "obsidian", "roam research", "productivity", "note-taking", "tools
 type: "review"
 ---
 
-> **Quick Answer:** Roam Research vs Obsidian matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the best [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) tool.
+> **Quick Answer:** Roam [Research](/posts/progressive-summarization-workflow-for-deep-research-papers/) vs Obsidian matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the best [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) tool.
 
 The landscape of Personal Knowledge Management (PKM) has undergone a seismic shift over the last few years. Moving away from rigid, folder-based hierarchies, the vanguard of [note-taking](/posts/zettelkasten-method-explained/) now embraces "networked thought." At the epicenter of this revolution are two titans: **Roam Research** and **Obsidian**. 
 
-While both tools champion the concept of bi-directional linking and networked knowledge bases, their underlying philosophies, architectures, and user experiences couldn't be more different. Choosing between them isn't merely a matter of feature comparison; it is a fundamental decision about how you want to interact with your own thoughts, who owns your data, and how much friction you are willing to tolerate in pursuit of customizability.
+While both [tools](/posts/how-to-build-a-second-brain/) champion the concept of bi-directional linking and networked knowledge bases, their underlying philosophies, architectures, and user experiences couldn't be more different. Choosing between them isn't merely a matter of feature comparison; it is a fundamental decision about how you want to interact with your own thoughts, who owns your data, and how much friction you are willing to tolerate in pursuit of customizability.
 
 This comprehensive guide dissects Roam Research and Obsidian from an expert perspective, offering practical advice to help you decide which tool aligns with your cognitive style and workflow requirements.
 
@@ -28,7 +28,7 @@ Every single block in Roam has its own unique identifier. This means you can ref
 **The practical implication:** Roam excels at rapid, frictionless outlining. You can dump thoughts indiscriminately into your "Daily Notes" page, tag them with `[[Page Names]]`, and trust that Roam will automatically aggregate those blocks on the respective pages. It requires very little upfront cognitive load regarding *where* to put things.
 
 ### Obsidian: The File is the Foundation
-Obsidian takes a radically different approach: **local-first, markdown files**. Your Obsidian "vault" is simply a folder on your computer's hard drive filled with plain text files formatted in Markdown. 
+Obsidian takes a radically different approach: **[local-first](/posts/anytype-review-local-first-privacy-lovers/), markdown files**. Your Obsidian "vault" is simply a folder on your computer's hard drive filled with plain text files formatted in Markdown. 
 
 The fundamental unit of information in Obsidian is the file (the document). While Obsidian has introduced block-level referencing, it is secondary to the file itself. Obsidian reads these local files and builds an intelligent graph layer on top of them, enabling the bi-directional linking that defines modern PKM.
 

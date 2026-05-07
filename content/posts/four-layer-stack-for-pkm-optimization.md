@@ -11,7 +11,7 @@ type: "informational"
 
 # Four-Layer Stack for PKM Optimization Complete Guide: Build Your [Second Brain](/posts/what-is-personal-knowledge-management/)
 
-> **Quick Answer:** The four-layer stack for PKM optimization consists of Capture, Organize, Distill, and Express. By separating these functions into distinct layers using dedicated tools and methodologies, you eliminate friction, prevent information overload, and create a sustainable pipeline that transforms raw data into actionable insights.
+> **Quick Answer:** The four-layer stack for PKM optimization consists of Capture, Organize, Distill, and Express. By separating these functions into distinct layers using dedicated [tools](/posts/roam-research-vs-obsidian-comparison/) and methodologies, you eliminate friction, prevent information overload, and create a sustainable pipeline that transforms raw data into actionable insights.
 
 Information overload is the defining occupational hazard of modern knowledge work. We consume articles, podcasts, meeting notes, and [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) papers at an unprecedented rate, yet our ability to retain and utilize this information often degrades proportionally to the volume we ingest. When your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system consists of an unstructured folder of disconnected notes, you are not building a system; you are simply hoarding digital text.
 
@@ -29,7 +29,7 @@ This layer should be platform-agnostic and ubiquitous. It acts as the staging gr
 The tools utilized here must operate offline, launch instantly, and support multiple input modalities (text, voice, clipping). Applications like Drafts, Apple Notes, or specialized web clippers serve this function well. The goal is a universal inbox that collects transient thoughts, URL highlights, and meeting action items without interrupting your current workflow.
 
 ### Managing the Inbox
-A critical component of the capture layer is the triage process. An inbox that is never processed becomes a digital graveyard. Establish a daily or weekly routine to review captured items, deciding whether to discard them, act upon them immediately, or move them into the second layer of your stack for structural integration.
+A critical component of the capture layer is the triage process. An inbox that is never processed becomes a digital graveyard. Establish a daily or weekly routine to [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) captured items, deciding whether to discard them, act upon them immediately, or move them into the second layer of your stack for structural integration.
 
 ## Layer 2: The Organization Structure (Contextual Retrieval)
 
@@ -49,7 +49,7 @@ Information does not become knowledge until it is actively processed. The distil
 When you revisit a saved article or a book highlight, reading the entire text again is highly inefficient. Instead, employ progressive summarization. Read through the organized notes and bold the most critical points. On a subsequent review, highlight the best of the bolded sections. Finally, write an executive summary in your own words at the top of the note. This layered approach ensures that future retrieval yields high-signal insights instantly.
 
 ### Evergreen Notes and Zettelkasten
-The distillation layer is where atomic, evergreen notes are forged. Rather than maintaining long, chronological documents, break concepts down into single, discrete ideas. Connect these atomic notes to other related concepts in your system. This process of intentional connection forces you to evaluate the logic of your arguments and reveals gaps in your understanding, transforming passive archiving into active learning.
+The distillation layer is where atomic, evergreen notes are forged. Rather than maintaining long, chronological documents, break concepts down into single, discrete ideas. Connect these atomic notes to other related concepts in your system. This process of intentional connection forces you to evaluate the logic of your arguments and reveals gaps in your understanding, transforming passive archiving into active [learning](/posts/how-to-remember-what-you-read-effectively/).
 
 ## Layer 4: The Expression Output (Tangible Value)
 

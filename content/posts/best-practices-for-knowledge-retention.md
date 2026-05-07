@@ -30,7 +30,7 @@ Decades of rigorous cognitive psychology [research](/posts/progressive-summariza
 
 ### 1. Spaced Repetition
 
-Spaced repetition is arguably the single most powerful technique for long-term memory retention. Instead of "cramming" information in a single intensive session, spaced repetition involves reviewing material at systematically increasing intervals. When you first learn a concept, you might review it the next day. If successfully recalled, the next review might be in three days, then a week, then a month, and eventually years.
+Spaced repetition is arguably the single most powerful technique for long-term memory retention. Instead of "cramming" information in a single intensive session, spaced repetition involves reviewing material at systematically increasing intervals. When you first learn a concept, you might [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) it the next day. If successfully recalled, the next review might be in three days, then a week, then a month, and eventually years.
 
 This practice leverages the "spacing effect." By allowing yourself to *almost* forget the information before retrieving it, you maximize the cognitive effort required, which in turn strongly reinforces the memory trace. Algorithms built into Spaced Repetition Systems (SRS) like Anki, RemNote, or SuperMemo automate this process, mathematically optimizing the review schedule based on your individual recall performance for each specific piece of information.
 
@@ -66,7 +66,7 @@ A PKM system is a digital repository where you capture, organize, and distill in
 
 ### 1. The Capture Habit and Progressive Summarization
 
-The first step is establishing a frictionless, reliable system for capturing information. Whether using tools like [Obsidian](/posts/personal-knowledge-management-tools-comparison/), Notion, Logseq, or Apple Notes, the goal is to get valuable insights out of your head and into a trusted system. However, capturing is not enough; copied-and-pasted text is quickly forgotten and essentially useless.
+The first step is establishing a frictionless, reliable system for capturing information. Whether using [tools](/posts/roam-research-vs-obsidian-comparison/) like [Obsidian](/posts/personal-knowledge-management-tools-comparison/), [Notion](/posts/second-brain-dashboard-for-notion-power-users/), Logseq, or Apple Notes, the goal is to get valuable insights out of your head and into a trusted system. However, capturing is not enough; copied-and-pasted text is quickly forgotten and essentially useless.
 
 Employ Tiago Forte's method of *progressive summarization*: read an article, highlight the best parts, then extract those highlights into a separate note. Later, bold the most critical sentences within those highlights. Finally, write a brief, executive summary of the core ideas in your own words at the top of the note. This layered process of distillation forces engagement and ensures future-you can grasp the concept in seconds.
 

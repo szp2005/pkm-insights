@@ -54,7 +54,7 @@ Notion templates excel at relational databases. You can build a system where che
 ### Obsidian: The Networked Thinker
 For solo podcasters, investigative journalists, or shows focused on deep research (like history or true crime), Obsidian offers a different approach.
 
-Obsidian operates on local Markdown files, ensuring your data is future-proof and fast. Rather than rigid tables, Obsidian templates rely on bi-directional linking. If you mention `[[Climate Change]]` in three different episode notes and two book summaries, Obsidian creates a visual graph connecting them. This allows hosts to see emergent themes across seasons and easily reference past topics without manually organizing them into folders.
+Obsidian operates on local Markdown files, ensuring your data is future-proof and fast. Rather than rigid tables, [Obsidian templates](/posts/obsidian-vault-templates-creative-professionals/) rely on [bi-directional linking](/posts/bi-directional-linking-for-creative-writing-workflows/). If you mention `[[Climate Change]]` in three different episode notes and two book summaries, Obsidian creates a visual graph connecting them. This allows hosts to see emergent themes across seasons and easily reference past topics without manually organizing them into folders.
 
 ## How to Implement Your Template
 
@@ -84,7 +84,7 @@ When configuring your template, adhere to these structural guidelines for optima
 
 ## Conclusion
 
-The best second brain template for podcasters in 2026 acts as an automated producer, handling the logistics of content creation so you can [focus](/posts/digital-decluttering-for-information-overload/) on the microphone. Whether you opt for the structured database architecture of Notion or the networked thought mapping of Obsidian, the core benefit remains the same: transforming scattered files and fleeting ideas into a reliable, searchable production engine. By standardizing your pipeline and centralizing your research, you protect your creative energy and ensure consistent, high-quality audio delivery.
+The best second brain template for podcasters in 2026 acts as an automated producer, handling the logistics of content creation so you can [focus](/posts/digital-decluttering-for-information-overload/) on the microphone. Whether you opt for the structured database architecture of Notion or the [networked thought](/posts/tana-vs-capacities-networked-thought/) mapping of Obsidian, the core benefit remains the same: transforming scattered files and fleeting ideas into a reliable, searchable production engine. By standardizing your pipeline and centralizing your research, you protect your creative energy and ensure consistent, high-quality audio delivery.
 
 ## Frequently Asked Questions
 

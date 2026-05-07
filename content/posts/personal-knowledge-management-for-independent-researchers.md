@@ -27,7 +27,7 @@ Independent scholars and freelance researchers face constraints that differ fund
 
 First, there is the issue of continuity. Academic projects often span years. An independent researcher might pause a project to pursue paid consulting work, returning to their primary research months later. A knowledge system must be structured so that a user can seamlessly re-enter a complex intellectual context after a prolonged absence.
 
-Second, resource constraints dictate tool selection. Open-source or low-cost tools with local storage capabilities are vastly preferable to expensive enterprise subscriptions that lock data behind proprietary formats. Data sovereignty is non-negotiable; if a commercial tool shuts down, an independent researcher cannot afford to lose years of work.
+Second, resource constraints dictate tool selection. Open-source or low-cost [tools](/posts/personal-knowledge-management-tools-comparison/) with local storage capabilities are vastly preferable to expensive enterprise subscriptions that lock data behind proprietary formats. Data sovereignty is non-negotiable; if a commercial tool shuts down, an independent researcher cannot afford to lose years of work.
 
 Finally, independent researchers often operate across multiple disciplines. Unlike an academic deeply entrenched in a highly specific sub-field, independents frequently synthesis ideas from disparate domains. This necessitates a flexible organizational structure that prioritizes conceptual linking over rigid, hierarchical categorization.
 
@@ -79,7 +79,7 @@ When you add a paper to Zotero, it automatically retrieves the title, authors, a
 
 ### Note-Taking Applications
 
-Your note-taking app is the engine of your system. For independent researchers prioritizing data longevity, local-first markdown tools are highly recommended. 
+Your note-taking app is the engine of your system. For independent researchers prioritizing data longevity, [local-first](/posts/anytype-review-local-first-privacy-lovers/) markdown tools are highly recommended. 
 
 Obsidian and Logseq are the current leaders in this space. Both store your notes as plain text markdown files on your local hard drive. This ensures that even if the [software](/posts/best-apps-for-personal-knowledge-management/) ceases to exist in ten years, your notes will remain perfectly readable by any text editor. Both tools support robust bi-directional linking, tagging, and complex querying.
 
@@ -115,7 +115,7 @@ To implement this practically, start small. Do not attempt to migrate years of d
 
 1.  **Establish the Inbox:** Choose one location for all incoming reading material. Set up a browser extension to route web pages and PDFs directly to Zotero.
 2.  **Define a Naming Convention:** Standardize how you name files. A common approach for reading notes is `@AuthorYear - Title`. For conceptual notes, use descriptive, sentence-case titles like `Carbon pricing mechanisms require border adjustments`.
-3.  **Limit Folder Depth:** If using a networked tool like Obsidian, restrict your folder structure to high-level categories (e.g., Inbox, Sources, Concepts, Projects, Archive). Rely on links and tags for organization rather than deep folder trees.
+3.  **Limit Folder Depth:** If using a networked tool like Obsidian, restrict your folder structure to high-level categories (e.g., Inbox, Sources, Concepts, Projects, Archive). Rely on links and tags for [organization](/posts/steps-to-building-a-second-brain/) rather than deep folder trees.
 4.  **Enforce Data Portability:** Export your reference manager database weekly as a CSL-JSON or BibTeX file. Ensure your notes remain in plain markdown. Sync your local files to a cloud provider, and maintain a physical external hard drive backup.
 
 ## Conclusion

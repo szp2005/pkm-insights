@@ -11,7 +11,7 @@ type: "informational"
 
 # Building a Mobile Information Capture System for iPad: Complete Guide
 
-> **Quick Answer:** Building a mobile information capture system for iPad requires combining the right hardware (Apple Pencil, Magic Keyboard) with low-friction software (Apple Notes, Drafts, Readwise) to immediately store ideas, links, and documents. The core principle is separating the "capture" phase from the "processing" phase, using cloud sync and automation to funnel raw data into your permanent [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or Notion.
+> **Quick Answer:** Building a mobile information capture system for iPad requires combining the right hardware (Apple Pencil, Magic Keyboard) with low-friction software (Apple Notes, Drafts, Readwise) to immediately store ideas, links, and documents. The core principle is separating the "capture" phase from the "processing" phase, using cloud sync and automation to funnel raw data into your permanent [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/).
 
 The iPad occupies a unique space in modern computing. It is more expansive than a smartphone but more portable and tactile than a traditional laptop. This positions it perfectly as the ultimate mobile capture device—a digital field notebook that can seamlessly integrate handwriting, text, audio, and visual data into a cohesive workflow. However, without a deliberate system, an iPad quickly devolves into an expensive media consumption device rather than a [productivity](/posts/zettelkasten-method-explained/) engine.
 
@@ -91,7 +91,7 @@ Your goal is to funnel all captured data into your primary Personal Knowledge Ma
 
 ### Processing the Inbox
 
-The final step of the mobile capture workflow happens when you return to a focused work environment. You must schedule a regular "processing" routine. During this time, you review the items routed to your PKM inbox. You read the raw text notes, distill the highlights, assign appropriate tags, create bidirectional links to existing concepts, and move the finalized notes out of the inbox and into your permanent archive. 
+The final step of the mobile capture workflow happens when you return to a focused work environment. You must schedule a regular "processing" routine. During this time, you [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) the items routed to your PKM inbox. You read the raw text notes, distill the highlights, assign appropriate tags, create bidirectional links to existing concepts, and move the finalized notes out of the inbox and into your permanent archive. 
 
 Without this processing step, your capture system simply becomes a digital hoarding mechanism.
 
@@ -150,5 +150,5 @@ This depends on your volume of capture, but processing should be done at least w
 
 ## Related Reading
 
-- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/posts/arivu-vs-readwise-for-information-capture/)

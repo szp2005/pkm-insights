@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Information overload has only accelerated since Tiago Forte first introduced his concept of personal knowledge management to the mainstream. Between endless Slack channels, constant email barrages, rapidly generated AI content, and our own digital hoarding habits, professionals are drowning in data but starving for actual insights. The promise of creating a reliable external system to store, organize, and retrieve this information is more appealing—and necessary—than ever before.
 
-In this comprehensive review, we evaluate the current iteration of the Building a Second Brain ecosystem. We will look at how well Forte's methodologies have aged, whether they integrate seamlessly with modern tools like [Notion](/posts/personal-knowledge-management-tools-comparison/), [Obsidian](/posts/what-is-personal-knowledge-management/), and AI-powered assistants, and which format of the BASB material provides the highest return on investment. If you are struggling to keep track of your brilliant ideas or simply want a cleaner digital workspace, this deep dive will help you determine if adopting this system is the right move for you this year.
+In this comprehensive review, we evaluate the current iteration of the Building a Second Brain ecosystem. We will look at how well Forte's methodologies have aged, whether they integrate seamlessly with modern [tools](/posts/roam-research-vs-obsidian-comparison/) like [Notion](/posts/personal-knowledge-management-tools-comparison/), [Obsidian](/posts/what-is-personal-knowledge-management/), and AI-powered assistants, and which format of the BASB material provides the highest return on investment. If you are struggling to keep track of your brilliant ideas or simply want a cleaner digital workspace, this deep dive will help you determine if adopting this system is the right move for you this year.
 
 ## Understanding the Core Philosophy
 
@@ -30,7 +30,7 @@ The system relies on a shift from consuming information passively to capturing i
 The operational workflow of the BASB system is summarized by the acronym CODE. This four-step process dictates how information should move from the outside world into your permanent knowledge base, and ultimately, into your creative output.
 
 ### Capture
-Capture is about saving only what resonates. Forte warns against the "collector's fallacy"—the belief that saving a piece of information is the same as learning it. Instead, you are encouraged to highlight and extract only the most surprising, useful, or inspiring excerpts. This step has become significantly easier in recent years with browser extensions, mobile share sheets, and AI summarizers, but the core discipline remains the same: capture less, but capture better.
+Capture is about saving only what resonates. Forte warns against the "collector's fallacy"—the belief that saving a piece of information is the same as [learning](/posts/how-to-remember-what-you-read-effectively/) it. Instead, you are encouraged to highlight and extract only the most surprising, useful, or inspiring excerpts. This step has become significantly easier in recent years with browser extensions, mobile share sheets, and AI summarizers, but the core discipline remains the same: capture less, but capture better.
 
 ### Organize
 Once information is captured, it must be organized so that your future self can easily find it. This is where Forte's famous PARA method comes into play, organizing files not by their subject matter, but by their actionability. We will explore PARA in greater detail later, as it is the structural backbone of the entire methodology.
@@ -50,7 +50,7 @@ If CODE is the workflow, PARA is the filing cabinet. The PARA method stands for 
 - **Resources:** Topics or themes of ongoing interest that you are collecting information on. (e.g., "Web Design Inspiration," "Personal Knowledge Management," "Cryptocurrency").
 - **Archives:** Inactive items from the other three categories. When a project is completed or you lose interest in a resource, it moves here to keep your active workspace uncluttered.
 
-The brilliance of PARA lies in its focus on actionability. By keeping active projects front and center and archiving completed work, you reduce digital friction and cognitive load. It prevents the common problem of burying urgent tasks underneath years of outdated reference material.
+The brilliance of PARA lies in its [focus](/posts/managing-digital-information-overload-tips/) on actionability. By keeping active projects front and center and archiving completed work, you reduce digital friction and cognitive load. It prevents the common problem of burying urgent tasks underneath years of outdated reference material.
 
 ## Detailed Product Reviews: Evaluating the BASB Ecosystem
 

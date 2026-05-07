@@ -11,7 +11,7 @@ type: "informational"
 
 # PKM for Software Engineers: Best Practices & Complete Guide
 
-> **Quick Answer:** The most effective PKM for software engineers relies on plain-text, local-first tools like [Obsidian](/posts/what-is-personal-knowledge-management/) or Neovim plugins, utilizing flat folder structures and bi-directional linking. Best practices include using daily notes as an entry point, separating proprietary company data from personal insights, and building specific templates for architectural decisions, bug root-cause analyses, and reusable code snippets.
+> **Quick Answer:** The most effective PKM for software engineers relies on plain-text, [local-first](/posts/anytype-review-local-first-privacy-lovers/) [tools](/posts/roam-research-vs-obsidian-comparison/) like [Obsidian](/posts/what-is-personal-knowledge-management/) or Neovim plugins, utilizing flat folder structures and bi-directional linking. Best practices include using daily notes as an entry point, separating proprietary company data from personal insights, and building specific templates for architectural decisions, bug root-cause analyses, and reusable code snippets.
 
 As a software engineer, your output is code, but your primary raw material is context. Every day involves navigating shifting requirements, undocumented legacy systems, complex deployment pipelines, and obscure error messages. When an engineer gets stuck, it is rarely because they do not know how to write a loop; it is because they have lost the thread of why a system was designed a certain way six months ago. 
 
@@ -51,7 +51,7 @@ Instead of folders, rely on bi-directional linking (backlinks). Place most notes
 
 ### Separation of State and Logic
 
-Borrowing a concept from application architecture, separate the *entry* of information from the *organization* of it. Use a daily note or an inbox as the universal entry point. Dump raw logs, stack traces, and messy thoughts there without worrying about where they belong. Later, extract the valuable, reusable pieces into dedicated, well-structured notes.
+Borrowing a concept from application architecture, separate the *entry* of information from the *[organization](/posts/steps-to-building-a-second-brain/)* of it. Use a daily note or an inbox as the universal entry point. Dump raw logs, stack traces, and messy thoughts there without worrying about where they belong. Later, extract the valuable, reusable pieces into dedicated, well-structured notes.
 
 ## Structuring Your Vault for Engineering Work
 

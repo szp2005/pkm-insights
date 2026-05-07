@@ -48,7 +48,7 @@ If a note contains multiple concepts, it becomes difficult to link to specific p
 ### 2. The Principle of Autonomy
 An atomic note must also be autonomous. This means the note should make perfect sense on its own, even if you read it out of its original context ten years from now. 
 
-You should avoid writing notes like, *"The author says this is true because of the study mentioned in chapter 4."* Instead, summarize the study's finding explicitly and concisely in your own words. An autonomous note doesn't rely on your fragile short-term memory of the source material.
+You should avoid writing notes like, *"The author says this is true because of the study mentioned in chapter 4."* Instead, summarize the study's finding explicitly and concisely in your own words. An autonomous note doesn't rely on your fragile short-term [memory](/posts/how-to-remember-what-you-read-effectively/) of the source material.
 
 ### 3. Always Use Your Own Words
 Perhaps the most common trap in modern note-taking is the illusion of competence created by copying and pasting or aggressively highlighting text. 
@@ -84,7 +84,7 @@ These are brief, bulleted summaries of the key arguments or data points the auth
 ### 3. Permanent Notes (Zettels)
 Permanent notes are the lifeblood of the Zettelkasten. They are the refined, atomic, autonomous ideas that you extract from your literature notes and fleeting thoughts. 
 
-Creating a permanent note is a deliberate act of thinking. You sit down with your literature notes, review them, and extract the singular ideas that are relevant to your own interests and projects. You write these out clearly, link them to existing permanent notes in your system, and then file them away. 
+Creating a permanent note is a deliberate act of thinking. You sit down with your literature notes, [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) them, and extract the singular ideas that are relevant to your own interests and projects. You write these out clearly, link them to existing permanent notes in your system, and then file them away. 
 
 Once a permanent note is in the slip-box, it is never thrown away. It contributes permanently to your compound interest of knowledge.
 
@@ -120,7 +120,7 @@ If you use a tool like Obsidian, you can use `[[brackets]]` to easily link conce
 ### Step 6: Utilize Entry Points (Index Notes or MOCs)
 As your Zettelkasten grows to hundreds or thousands of notes, you will need a way to navigate the chaos. Create **Index Notes** (often called Maps of Content, or MOCs). 
 
-An MOC is simply a note that serves as a dashboard or table of contents for a broad topic. For example, an MOC titled "Behavioral Economics" might simply contain an organized list of links to 20 different atomic notes related to that topic. MOCs act as the entry points into the dense forest of your slip-box.
+An MOC is simply a note that serves as a dashboard or table of contents for a broad topic. For example, an MOC titled "Behavioral Economics" might simply contain an organized list of links to 20 different [atomic notes](/posts/atomic-notes-writing-guide/) related to that topic. MOCs act as the entry points into the dense forest of your slip-box.
 
 ---
 

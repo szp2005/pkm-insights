@@ -11,7 +11,7 @@ type: "informational"
 
 # Implement a GTD System Within Obsidian: 5-Step Guide
 
-> **Quick Answer:** Implementing a GTD (Getting Things Done) system within Obsidian requires creating a dedicated inbox folder for rapid capture, organizing files into projects and areas, and utilizing plugins like Obsidian Tasks and [Dataview](/posts/obsidian-dataview-snippets-for-book-trackers/) for querying open loops. By separating your capture, clarification, and execution phases, Obsidian transforms from a static knowledge base into a dynamic, offline-first task manager.
+> **Quick Answer:** Implementing a GTD (Getting Things Done) system within Obsidian requires creating a dedicated inbox folder for rapid capture, organizing files into projects and areas, and utilizing [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/) like Obsidian Tasks and [Dataview](/posts/obsidian-dataview-snippets-for-book-trackers/) for querying open loops. By separating your capture, clarification, and execution phases, Obsidian transforms from a static knowledge base into a dynamic, [offline-first](/posts/anytype-vs-obsidian-local-first-knowledge-management/) task manager.
 
 [Personal knowledge management](/posts/digital-decluttering-for-information-overload/) [tools](/posts/personal-knowledge-management-tools-comparison/) often struggle with actionable tasks. You might have thousands of connected notes, yet still miss deadlines because your ideas and your to-dos live in separate silos. The Getting Things Done (GTD) methodology, developed by David Allen, solves this by demanding a trusted system where all open loops are captured, clarified, and organized. 
 
@@ -30,7 +30,7 @@ Create the following root-level directories in your Obsidian vault:
 *   **05_Archive:** Completed projects and inactive reference materials. 
 *   **06_System:** Templates, Dataview scripts, and attachment folders.
 
-This structure closely mirrors the PARA method (Projects, Areas, Resources, Archive), which pairs flawlessly with GTD. The strict separation ensures that when you sit down to execute tasks, you are only looking at the `02_Projects` and `03_Areas` folders, keeping your workspace clean.
+This structure closely mirrors the [PARA method](/posts/using-the-para-method-in-google-drive/) (Projects, Areas, Resources, Archive), which pairs flawlessly with GTD. The strict separation ensures that when you sit down to execute tasks, you are only looking at the `02_Projects` and `03_Areas` folders, keeping your workspace clean.
 
 ## Step 2: Configure Essential Community Plugins
 

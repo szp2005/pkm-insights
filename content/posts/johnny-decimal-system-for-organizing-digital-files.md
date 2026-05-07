@@ -61,7 +61,7 @@ When you put it all together, the folder `22.04 2026 Tax Return` sits perfectly 
 Transitioning to this system requires planning. Attempting to build your areas and categories directly in Finder or Windows Explorer will lead to structural conflicts. The system requires an upfront architectural draft.
 
 ### Step 1: Audit Your Existing Files
-Before defining numbers, you must understand what you are storing. Group your files mentally or on paper. You will likely notice patterns: client work, internal business administration, personal records, reference materials, and software backups. Ignore the outliers for now and focus on where 90% of your digital mass resides.
+Before defining numbers, you must understand what you are storing. Group your files mentally or on paper. You will likely notice patterns: client work, internal business administration, personal records, reference materials, and [software](/posts/best-apps-for-personal-knowledge-management/) backups. Ignore the outliers for now and focus on where 90% of your digital mass resides.
 
 ### Step 2: Draft Your Areas and Categories
 Open a plain text file or grab a piece of paper. Begin mapping out your `10-19`, `20-29`, and `30-39` blocks. 
@@ -129,7 +129,7 @@ Freelancers juggle disparate roles: accounting, legal, marketing, and actual cli
     *   `32: Client B`
 
 ### For Personal Knowledge Management (PKM)
-Users of software like Obsidian, Notion, or Roam Research often use Johnny Decimal to organize their markdown files and notes, ensuring ideas are quickly retrievable.
+Users of software like [Obsidian](/posts/what-is-personal-knowledge-management/), [Notion](/posts/personal-knowledge-management-tools-comparison/), or Roam Research often use Johnny Decimal to organize their markdown files and notes, ensuring ideas are quickly retrievable.
 
 *   `10-19: Journals & Logs`
     *   `11: Daily Notes`

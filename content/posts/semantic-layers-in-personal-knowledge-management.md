@@ -53,7 +53,7 @@ A taxonomy is a strict, top-down hierarchical classification system. Think of th
 Folksonomies are bottom-up, user-generated classification systems. Tags (`#productivity`, `#ideas`, `#someday`) are the most common implementation. They are fluid, flexible, and require no upfront planning. However, folksonomies scale poorly. Without strict rules, you inevitably end up with redundant tags (`#app`, `#apps`, `#application`) that dilute the effectiveness of your search.
 
 ### Ontologies (Relational Frameworks)
-An ontology defines the specific types of entities in your system and the valid relationships between them. This is the heart of a robust semantic layer. An ontology dictates that an entity of type `Book` can have an `Author`, but it cannot have a `CEO`. By defining these structural rules, you ensure that your metadata remains clean, predictable, and heavily queryable.
+An [ontology](/posts/building-research-ontologies-in-capacities-app/) defines the specific types of entities in your system and the valid relationships between them. This is the heart of a robust semantic layer. An ontology dictates that an entity of type `Book` can have an `Author`, but it cannot have a `CEO`. By defining these structural rules, you ensure that your metadata remains clean, predictable, and heavily queryable.
 
 ## Advanced Querying and Retrieval
 
@@ -100,7 +100,7 @@ Do not bulk-edit your old notes. Instead, apply the semantic layer to all new no
 
 ## The Future of Networked Thought
 
-The integration of semantic layers in personal knowledge management represents the transition from digital filing cabinets to personal graph databases. As local AI models become increasingly integrated with PKM tools, the value of explicit semantic structuring will only compound.
+The integration of semantic layers in personal knowledge management represents the transition from digital filing cabinets to personal graph databases. As [local AI](/posts/building-a-second-brain-in-2026-update/) models become increasingly integrated with PKM tools, the value of explicit semantic structuring will only compound.
 
 An AI agent operating on a flat directory of Markdown files relies solely on semantic similarity algorithms, which frequently misinterpret connections. However, an AI agent operating over an explicitly defined semantic layer can traverse structured, verified edges. It can differentiate between a book you read and a book you wrote because the typed link dictates the specific relationship.
 
@@ -112,7 +112,7 @@ By investing the time to define your ontologies and structure your metadata toda
 A tag is an unstructured label applied to the body of a note, useful for broad categorization but prone to inconsistencies. A property is a structured key-value pair defined in the note's metadata, enabling precise database-style queries and strict organizational rules.
 
 ### Do I need to know how to code to use a semantic layer?
-No coding experience is required to build the foundational metadata, as most modern PKM tools offer visual property editors. However, constructing advanced, automated dashboards using plugins like Dataview requires [learning](/posts/how-to-remember-what-you-read-effectively/) a basic SQL-like query syntax.
+No coding experience is required to build the foundational metadata, as most modern PKM tools offer visual property editors. However, constructing advanced, automated dashboards using [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/) like Dataview requires [learning](/posts/how-to-remember-what-you-read-effectively/) a basic SQL-like query syntax.
 
 ### How many properties should I add to a single note?
 Limit your properties to 4 to 7 highly functional metrics per entity type. Creating dozens of granular properties leads to metadata fatigue, where the friction of filling out the required fields outweighs the utility of the resulting queries.

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Start a Digital Garden for Writers: 5-Step Guide
 
-> **Quick Answer:** To start a digital garden for writers, choose a networked [note-taking](/posts/zettelkasten-method-explained/) tool like Obsidian or Notion, create a flat folder structure, and plant "seed" notes for your current ideas. Cultivate your garden by linking related notes bidirectionally and publicly sharing the space to evolve your rough thoughts into polished writing.
+> **Quick Answer:** To start a digital garden for writers, choose a networked [note-taking](/posts/zettelkasten-method-explained/) tool like [Obsidian](/posts/what-is-personal-knowledge-management/) or [Notion](/posts/personal-knowledge-management-tools-comparison/), create a flat folder structure, and plant "seed" notes for your current ideas. Cultivate your garden by linking related notes bidirectionally and publicly sharing the space to evolve your rough thoughts into polished writing.
 
 Writers often struggle with the limitations of chronological content structures. Blogs demand polished, finished pieces, while private journals trap ideas where they can't cross-pollinate. If you have ever lost a brilliant premise in a forgotten Google Doc or felt paralyzed by the pressure to hit "publish" on an imperfect draft, the traditional file-and-folder system is likely failing your creative process.
 
@@ -149,7 +149,7 @@ Yes. By encouraging you to write small, atomic notes (seedlings) without the pre
 
 ## Related Reading
 
-- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 
 - [Johnny Decimal System for Organizing Digital Files (2026 Guide)](/posts/johnny-decimal-system-for-organizing-digital-files/)
 

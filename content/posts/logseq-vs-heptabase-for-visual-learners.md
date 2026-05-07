@@ -33,7 +33,7 @@ When evaluating Logseq vs Heptabase for visual learners, it is critical to under
 
 Heptabase is a visual knowledge management tool designed from the ground up around spatial canvases. Instead of opening a text editor when you launch the app, you open a whiteboard. Cards (notes) live directly on this canvas, allowing you to visually cluster, connect, and organize information using spatial proximity. It caters specifically to people who need to "see" their thoughts laid out to make sense of them, excelling at complex literature reviews, project planning, and visual brainstorming.
 
-The platform uses a proprietary sync engine, which ensures smooth performance even with thousands of cards loaded onto a single canvas. The focus is unapologetically on the visual interface, meaning that text outlining, while capable, serves the whiteboard rather than the other way around.
+The platform uses a proprietary sync engine, which ensures smooth performance even with thousands of cards loaded onto a single canvas. The [focus](/posts/managing-digital-information-overload-tips/) is unapologetically on the visual interface, meaning that text outlining, while capable, serves the whiteboard rather than the other way around.
 
 **Pros:**
 - Best-in-class whiteboard integration where the canvas is the primary workspace
@@ -69,7 +69,7 @@ For the visual learner, the primary battleground between these tools is how they
 
 ### Heptabase's Spatial Canvas
 
-In Heptabase, the whiteboard is not a feature; it is the environment. When you create a note (called a card), it inherently has spatial coordinates. You can place the same card on multiple different whiteboards. For example, a card on "Machine Learning" might exist on your "Computer Science Syllabus" whiteboard and your "Current Work Project" whiteboard. Updating the text on that card updates it everywhere.
+In Heptabase, the whiteboard is not a feature; it is the environment. When you create a note (called a card), it inherently has spatial coordinates. You can place the same card on multiple different whiteboards. For example, a card on "Machine [Learning](/posts/how-to-remember-what-you-read-effectively/)" might exist on your "Computer Science Syllabus" whiteboard and your "Current Work Project" whiteboard. Updating the text on that card updates it everywhere.
 
 Heptabase also allows for visual nesting. You can draw a box around a cluster of cards, turn it into a section, and collapse it. You can draw directional arrows with text labels between cards to explicitly define their relationship (e.g., "causes," "contradicts"). This visual grammar is incredibly sophisticated. When you import a PDF into Heptabase, you can highlight a paragraph, drag that highlight directly onto the whiteboard, and it becomes a card that permanently links back to that exact spot in the source document. For researchers, this workflow is unparalleled.
 
@@ -105,7 +105,7 @@ When deciding between these platforms, look past the feature lists and consider 
 
 **Choose Heptabase if:**
 - You frequently map out processes, timelines, or complex architectures on physical whiteboards or paper.
-- Your primary use case involves heavy PDF reading, highlighting, and synthesizing academic or professional research.
+- Your primary use case involves heavy PDF reading, highlighting, and synthesizing academic or professional [research](/posts/progressive-summarization-workflow-for-deep-research-papers/).
 - You find standard outliners or text documents suffocating and struggle to understand the broad scope of a project when looking at a sequential list.
 - You are willing to pay a monthly subscription for a highly polished, frictionless visual interface that handles hundreds of nodes without lag.
 

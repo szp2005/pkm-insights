@@ -97,7 +97,7 @@ This template focuses entirely on output and deliverables. It utilizes Capacitie
 **Price:** Free
 **Rating:** 4.4/5
 
-The Student Daily Timeblocker heavily modifies the default Capacities daily note template. It introduces an hourly breakdown and specific properties for tracking energy levels and study focus. You can link specific time blocks to your "Course" or "Assignment" objects, allowing you to review exactly how much time you spent working on a particular class at the end of the semester. It serves as an excellent companion tool to more content-heavy templates, focusing purely on schedule optimization.
+The Student Daily Timeblocker heavily modifies the default Capacities daily note template. It introduces an hourly breakdown and specific properties for tracking energy levels and study [focus](/posts/managing-digital-information-overload-tips/). You can link specific time blocks to your "Course" or "Assignment" objects, allowing you to review exactly how much time you spent working on a particular class at the end of the semester. It serves as an excellent companion tool to more content-heavy templates, focusing purely on schedule optimization.
 
 **Pros:**
 - Leverages the daily note functionality flawlessly
@@ -114,7 +114,7 @@ The Student Daily Timeblocker heavily modifies the default Capacities daily note
 **Price:** $12.00
 **Rating:** 4.7/5
 
-When writing a research paper, organizing sources is usually the hardest part. The Literature Review Matrix template transforms Capacities into a lightweight reference manager. The "Source" object is meticulously detailed, with properties for methodology, key findings, limitations, and theoretical framework. The template includes a master query page that creates a dynamic table view of all your sources, allowing you to compare the methodologies of ten different papers side-by-side without opening individual notes.
+When [writing](/posts/atomic-notes-writing-guide/) a research paper, organizing sources is usually the hardest part. The Literature Review Matrix template transforms Capacities into a lightweight reference manager. The "Source" object is meticulously detailed, with properties for methodology, key findings, limitations, and theoretical framework. The template includes a master query page that creates a dynamic table view of all your sources, allowing you to compare the methodologies of ten different papers side-by-side without opening individual notes.
 
 **Pros:**
 - Exceptional use of table views for comparative analysis
@@ -173,7 +173,7 @@ Transitioning to an object-based PKM tool like Capacities is a strategic upgrade
 Capacities offers a highly functional free tier that covers the core object-based note-taking features, which is sufficient for most undergraduate students. They also offer an educational discount for students and teachers who want to upgrade to Capacities Pro to access advanced features like AI integration and unlimited image hosting.
 
 ### How does Capacities compare to Notion for college?
-Notion is a page-and-database builder, meaning you have to build your own architecture from scratch, which can be brittle. Capacities is object-based out of the box, meaning it automatically organizes your notes by type (e.g., all "Books" go together automatically). Capacities is generally better for networked thought and research, while Notion excels at highly customized dashboards and collaborative project management.
+Notion is a page-and-database builder, meaning you have to build your own architecture from scratch, which can be brittle. Capacities is object-based out of the box, meaning it automatically organizes your notes by type (e.g., all "Books" go together automatically). Capacities is generally better for networked thought and research, while Notion excels at highly customized dashboards and collaborative [project management](/posts/tana-supertags-for-project-managers-download/).
 
 ### Can I use Capacities offline during lectures?
 Capacities has introduced offline support, allowing you to access cached content and write new notes without an internet connection. Once you reconnect to campus Wi-Fi, your changes will automatically sync to the cloud.

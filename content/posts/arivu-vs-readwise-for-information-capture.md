@@ -58,7 +58,7 @@ Beyond aggregation, Readwise forces engagement. Its daily review feature uses sp
 
 Arivu takes a modern, AI-first approach to the traditional web clipper. Instead of relying on you to manually highlight the important parts of an article, Arivu ingests the URL and immediately goes to work. It generates automated summaries, extracts bulleted insights, and applies a "Content Intelligence" score that attempts to gauge the quality and credibility of the saved resource.
 
-The standout feature of Arivu is its semantic search and knowledge graph. Because the tool processes the text of everything you save, you don't need to rely on rigid folder structures or meticulous tagging. You can search your database using natural language (e.g., "What were those articles about carbon capture technology?"), and Arivu will surface the relevant links based on contextual meaning rather than exact keyword matches. It visualizes these connections in a graph, helping you spot overlaps in your research interests.
+The standout feature of Arivu is its semantic search and knowledge graph. Because the tool processes the text of everything you save, you don't need to rely on rigid folder structures or meticulous tagging. You can search your database using natural language (e.g., "What were those articles about carbon capture technology?"), and Arivu will surface the relevant links based on contextual meaning rather than exact keyword matches. It visualizes these connections in a graph, helping you spot overlaps in your [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) interests.
 
 **Pros:**
 - Excellent AI summaries that save time on reviewing saved links
@@ -83,10 +83,10 @@ Once information is captured, the tools diverge again.
 
 Arivu uses AI to structure the incoming data. By automatically generating summaries and mapping semantic relationships, it acts as an active assistant. If you save 50 articles on a specific topic, Arivu can help you synthesize that corpus quickly.
 
-Readwise does not alter or summarize your data; it faithfully preserves your exact highlights and notes. Organization happens either within Readwise through manual tagging or, more commonly, by exporting the raw data to an external tool like Obsidian or Logseq, where the user builds their own structure. 
+Readwise does not alter or summarize your data; it faithfully preserves your exact highlights and notes. [Organization](/posts/steps-to-building-a-second-brain/) happens either within Readwise through manual tagging or, more commonly, by exporting the raw data to an external tool like Obsidian or Logseq, where the user builds their own structure. 
 
 ### Exporting and Ownership
-Data portability is crucial for PKM. Readwise sets the industry standard here. Its automated, customizable export pipelines to Notion, Obsidian, Evernote, and Roam Research are rock-solid. You can format exactly how your highlights appear in your notes app using Jinja templating.
+Data portability is crucial for PKM. Readwise sets the industry standard here. Its automated, customizable export pipelines to Notion, Obsidian, Evernote, and [Roam Research](/posts/roam-research-vs-obsidian-comparison/) are rock-solid. You can format exactly how your highlights appear in your notes app using Jinja templating.
 
 Arivu allows data export, but its value proposition is keeping you within its ecosystem to utilize its AI search capabilities. If you export the data out of Arivu, you lose the semantic graph and the dynamic AI querying, reducing it to a standard list of bookmarks and summaries.
 

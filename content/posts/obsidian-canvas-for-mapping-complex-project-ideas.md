@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Using Obsidian Canvas for mapping complex project ideas allows you to visually organize Markdown notes, images, and web links onto an infinite spatial board. By connecting individual text nodes with directional arrows and grouping related concepts, you transition from rigid linear [note-taking](/posts/zettelkasten-method-explained/) to a dynamic, visual workspace that reveals hidden relationships and streamlines large-scale project planning.
 
-Managing a multi-faceted project using traditional, linear note-taking apps often leads to fragmented understanding. When you have dozens of interconnected variables—ranging from research docs and wireframes to task lists and reference links—a standard folder structure forces a hierarchy that doesn't reflect the messy reality of creative or technical work. You need a system that maps to how the human brain actually processes information: spatially and associatively.
+Managing a multi-faceted project using traditional, linear note-taking apps often leads to fragmented understanding. When you have dozens of interconnected variables—ranging from [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) docs and wireframes to task lists and reference links—a standard folder structure forces a hierarchy that doesn't reflect the messy reality of creative or technical work. You need a system that maps to how the human brain actually processes information: spatially and associatively.
 
 This is exactly where local, markdown-based visual boards become essential. Leveraging Obsidian Canvas for mapping complex project ideas bridges the gap between text-heavy [knowledge management](/posts/knowledge-management-strategies-for-students/) and free-form spatial reasoning. Because it integrates directly with your existing Obsidian vault, you never have to choose between writing deep-dive documentation and visualizing the big picture.
 
@@ -50,7 +50,7 @@ Arrows transform isolated nodes into a cohesive system. Obsidian allows you to d
 Transitioning a project from your mind to a digital canvas requires a deliberate approach. Starting with a blank infinite board can be intimidating. Follow this structured process to build functional maps that clarify rather than confuse.
 
 ### 1. The Brain Dump Phase
-Begin by creating a new canvas and rapidly adding text cards for every component of the project. Do not worry about structure or connections yet. If you are launching a new [software](/posts/best-apps-for-personal-knowledge-management/) feature, your cards might include "Database Migration," "User Testing," "Marketing Copy," "API Rate Limits," and "Design Handoff." The goal is comprehensive extraction from memory to the screen.
+Begin by creating a new canvas and rapidly adding text cards for every component of the project. Do not worry about structure or connections yet. If you are launching a new [software](/posts/best-apps-for-personal-knowledge-management/) feature, your cards might include "Database Migration," "User Testing," "Marketing Copy," "API Rate Limits," and "Design Handoff." The goal is comprehensive extraction from [memory](/posts/how-to-remember-what-you-read-effectively/) to the screen.
 
 ### 2. Clustering and Categorization
 Once the raw materials are on the board, begin physically moving related items closer together. Group backend tasks in one corner and frontend tasks in another. Obsidian Canvas includes a "Group" feature that allows you to draw a bounding box around multiple nodes, giving them a unified background color and a shared title. This creates distinct neighborhoods of information within your broader map.
@@ -111,7 +111,7 @@ A Canvas card is an ephemeral piece of text that exists solely within the `.canv
 Yes, you can export your entire Canvas as a high-resolution image (PNG). This is ideal for sharing project roadmaps, mind maps, or architecture diagrams in emails, Slack, or external documentation where stakeholders do not have Obsidian installed.
 
 ### Does Obsidian Canvas support real-time collaboration?
-No, Obsidian is a local-first application. Because the `.canvas` file is saved locally (as a JSON file under the hood), it does not support real-time, Google Docs-style multiplayer editing. You can sync the file via Obsidian Sync or Git, but simultaneous editing by multiple users will cause merge conflicts.
+No, Obsidian is a [local-first](/posts/anytype-review-local-first-privacy-lovers/) application. Because the `.canvas` file is saved locally (as a JSON file under the hood), it does not support real-time, Google Docs-style multiplayer editing. You can sync the file via Obsidian Sync or Git, but simultaneous editing by multiple users will cause merge conflicts.
 
 ### How do I link one Canvas to another Canvas?
 You can drag a `.canvas` file from your file explorer directly onto an open board. This creates a node that acts as a hyperlink. Clicking it will immediately open the secondary Canvas, allowing you to build nested visual hierarchies for massive, multi-tiered projects.

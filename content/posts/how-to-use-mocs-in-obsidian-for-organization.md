@@ -15,7 +15,7 @@ type: "informational"
 
 When you first download Obsidian, the blank canvas feels liberating. You create a few notes, add some bidirectional links, and watch your knowledge graph slowly take shape. Fast forward six months, and that beautifully organic graph has turned into an impenetrable hairball. You know the information is in there, but finding a specific thought requires recalling exact file names or relying heavily on search.
 
-The shift from a small collection of notes to a massive [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system requires a structural intervention. Relying solely on folders creates rigid silos, while relying entirely on tags and backlinks creates chaos. The middle ground—and the most scalable solution for long-term vault health—is the Map of Content (MOC). 
+The shift from a small collection of notes to a massive [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system requires a structural intervention. Relying solely on folders creates rigid silos, while relying entirely on tags and backlinks creates chaos. The middle ground—and the most scalable solution for long-term vault health—is the [Map of Content](/posts/how-to-implement-map-of-content-in-obsidian/) (MOC). 
 
 This guide details exactly how to use MOCs in Obsidian for organization, providing a clear five-step framework to transition your vault from a digital junk drawer into a highly navigable knowledge base.
 
@@ -37,7 +37,7 @@ An MOC is a structural tool that scales with your thinking. When a topic is smal
 
 Before building specific topic maps, you need to determine the broad categories that govern your life and knowledge base. This prevents the creation of redundant or overlapping MOCs later on.
 
-Most effective PKM systems operate on 4 to 8 high-level pillars. If you use the PARA method (Projects, Areas, Resources, Archives), your pillars are already defined. If you prefer a more organic approach, look at your existing folders or frequently used tags to see what themes naturally emerge.
+Most effective PKM systems operate on 4 to 8 high-level pillars. If you use the [PARA method](/posts/using-the-para-method-in-google-drive/) (Projects, Areas, Resources, Archives), your pillars are already defined. If you prefer a more organic approach, look at your existing folders or frequently used tags to see what themes naturally emerge.
 
 Typical core pillars might include:
 - Professional Work / Career
@@ -144,7 +144,7 @@ This query automatically lists all notes tagged `#software-engineering` that hav
 
 ### Visual MOCs using Obsidian Canvas
 
-If you are a visual thinker, Obsidian's core Canvas feature provides an excellent alternative to text-based MOCs. You can drag and drop notes onto an infinite spatial canvas, group them into colored boxes, and draw connecting arrows.
+If you are a visual thinker, Obsidian's core Canvas feature provides an excellent alternative to text-based MOCs. You can drag and drop notes onto an infinite [spatial canvas](/posts/heptabase-vs-scrintal-visual-sense-making-comparison/), group them into colored boxes, and draw connecting arrows.
 
 A Canvas MOC is particularly useful for planning [writing](/posts/atomic-notes-writing-guide/) projects, mapping out complex architectures, or studying historical timelines where spatial relationship matters more than a linear list. You can easily link to a Canvas file from your Home MOC just as you would a standard markdown text file.
 

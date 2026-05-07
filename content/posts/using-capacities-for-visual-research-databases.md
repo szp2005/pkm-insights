@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Using Capacities for visual research databases transforms scattered image folders into interconnected knowledge hubs. By leveraging its object-based architecture, you can tag, link, and retrieve visual assets—from design references to historical archives—with the same semantic precision as text-based notes.
 
-Managing visual assets has historically been a fragmented process. Most researchers, designers, and academics rely on a combination of local folders, cloud storage drives, and specialized reference managers like Pinterest or Eagle. While these [tools](/posts/personal-knowledge-management-tools-comparison/) handle storage adequately, they struggle to capture the complex relationships between a visual artifact and its broader conceptual context. A photograph of a mid-century architectural detail is rarely just an image; it is connected to specific materials, historical periods, architects, and theoretical frameworks. 
+Managing visual assets has historically been a fragmented process. Most researchers, designers, and [academics](/posts/tana-workflows-for-systematic-literature-reviews/) rely on a combination of local folders, cloud storage drives, and specialized reference managers like Pinterest or Eagle. While these [tools](/posts/personal-knowledge-management-tools-comparison/) handle storage adequately, they struggle to capture the complex relationships between a visual artifact and its broader conceptual context. A photograph of a mid-century architectural detail is rarely just an image; it is connected to specific materials, historical periods, architects, and theoretical frameworks. 
 
 Traditional hierarchical file systems force you to choose a single location for an image. If a photograph belongs in both "1950s Architecture" and "Concrete Textures," you must either duplicate the file or rely on fragile aliases. This rigid structure creates isolated silos of information, making lateral thinking and serendipitous discovery nearly impossible during the research phase.
 
@@ -123,7 +123,7 @@ If you edit images heavily in [software](/posts/best-apps-for-personal-knowledge
 
 Using Capacities for visual research databases shifts the [focus](/posts/managing-digital-information-overload-tips/) from merely hoarding images to actively cultivating a visual knowledge graph. By abandoning rigid folders in favor of defined Object Types, structured metadata, and bidirectional links, you create a system that scales gracefully with your research. 
 
-The initial setup requires deliberate thought regarding taxonomies and properties, but the return on investment is a resilient, searchable, and infinitely browsable database. Whether you are archiving historical blueprints, curating UI design patterns, or mapping out an art history thesis, Capacities provides the structural rigor required to turn scattered visuals into cohesive insights.
+The initial setup requires deliberate thought regarding taxonomies and properties, but the return on investment is a resilient, searchable, and infinitely browsable database. Whether you are archiving historical blueprints, curating UI design patterns, or mapping out an art history [thesis](/posts/obsidian-academic-workflow-for-thesis-2026/), Capacities provides the structural rigor required to turn scattered visuals into cohesive insights.
 
 ## Frequently Asked Questions
 

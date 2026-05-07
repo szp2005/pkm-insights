@@ -15,11 +15,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Managing doctoral thesis notes in Logseq requires a structured outline using pages for authors and concepts, combined with daily journal entries for transient thoughts. By leveraging bidirectional links, block references, and targeted queries, you can build an automated, interconnected knowledge base that naturally bridges the gap between raw literature reviews and your final dissertation draft.
 
-The doctoral journey produces an overwhelming volume of disconnected information. Between peer-reviewed journal articles, archival documents, laboratory results, and fleeting midnight epiphanies, the sheer mass of data often becomes a barrier to writing rather than a foundation for it. Traditional folder-based systems fail because they force a rigid hierarchy on ideas that naturally overlap. When you place a paper in a folder labeled "Chapter 2," you artificially isolate it from connections it might have with "Chapter 5."
+The doctoral journey produces an overwhelming volume of disconnected information. Between peer-reviewed journal articles, archival documents, laboratory results, and fleeting midnight epiphanies, the sheer mass of data often becomes a barrier to [writing](/posts/atomic-notes-writing-guide/) rather than a foundation for it. Traditional folder-based systems fail because they force a rigid hierarchy on ideas that naturally overlap. When you place a paper in a folder labeled "Chapter 2," you artificially isolate it from connections it might have with "Chapter 5."
 
 Logseq fundamentally shifts this paradigm. As a [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first, local-only, outliner-based [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) tool, it excels at handling the non-linear, messy nature of academic [research](/posts/progressive-summarization-workflow-for-deep-research-papers/). Instead of organizing files, you organize blocks of thought. 
 
-This guide details a comprehensive, scalable system for managing doctoral thesis notes in Logseq, from the initial literature review to the final synthesis of your dissertation chapters.
+This guide details a comprehensive, scalable system for managing doctoral thesis notes in Logseq, from the initial [literature review](/posts/logseq-for-academic-literature-reviews/) to the final synthesis of your dissertation chapters.
 
 ## The Block-Level Advantage for Academic Research
 
@@ -118,4 +118,4 @@ You should use pages and tags rather than folders. Create a master page for `[[C
 Because Logseq stores all your data as standard, local Markdown files, your notes remain completely accessible. If you transition to another Markdown-based tool like [Obsidian](/posts/what-is-personal-knowledge-management/) or simply use a standard text editor, you will retain your text, links, and formatting without any proprietary lock-in.
 
 ### How do I handle collaborative research in Logseq?
-Logseq is primarily designed for personal knowledge management, making real-time collaboration difficult. For joint papers or shared data with your lab, it is best to use a specialized collaborative tool (like Google Docs or Notion) for the shared output, while keeping your personal reading notes and thesis-specific syntheses in your private Logseq vault.
+Logseq is primarily designed for personal knowledge management, making real-time [collaboration](/posts/supernotes-vs-obsidian-for-collaborative-knowledge-sharing/) difficult. For joint papers or shared data with your lab, it is best to use a specialized collaborative tool (like Google Docs or Notion) for the shared output, while keeping your personal reading notes and thesis-specific syntheses in your private Logseq vault.

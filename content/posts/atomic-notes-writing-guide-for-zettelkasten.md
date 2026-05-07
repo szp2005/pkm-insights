@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** An atomic note focuses on one single, distinct idea written entirely in your own words, making it the fundamental building block of a Zettelkasten. By limiting each note to a single concept and heavily linking it to related ideas, you create a dynamic, searchable web of knowledge that compounds in value and generates new insights over time.
 
-The digital age has shifted our primary intellectual bottleneck from information access to information processing. Most knowledge workers suffer from the "collector's fallacy"—the false belief that clipping an article, highlighting a book, or bookmarking a thread is equivalent to actually learning the material. We store gigabytes of raw data in hierarchical folders, only to forget it exists weeks later.
+The digital age has shifted our primary intellectual bottleneck from information access to information processing. Most knowledge workers suffer from the "collector's fallacy"—the false belief that clipping an article, highlighting a book, or bookmarking a thread is equivalent to actually [learning](/posts/how-to-remember-what-you-read-effectively/) the material. We store gigabytes of raw data in hierarchical folders, only to forget it exists weeks later.
 
 The Zettelkasten method, popularized by prolific German sociologist Niklas Luhmann, solves this structural problem through the creation of a dynamic "[second brain](/posts/best-apps-for-personal-knowledge-management/)." The foundational unit of this system is the atomic note. When you master the art of writing at the atomic level, you stop treating [note-taking](/posts/zettelkasten-method-explained/) as an archival process and start treating it as an active thinking environment.
 
@@ -29,7 +29,7 @@ An atomic note breaks this paradigm. "Atomicity" means that a note contains one,
 
 An atomic note is characterized by three distinct properties:
 
-1. **Singular Focus:** It addresses one specific thought, argument, or mental model. If a note begins to touch on multiple distinct concepts, it needs to be split.
+1. **Singular [Focus](/posts/managing-digital-information-overload-tips/):** It addresses one specific thought, argument, or mental model. If a note begins to touch on multiple distinct concepts, it needs to be split.
 2. **Context Independence:** If you read the note completely out of its original context (e.g., separate from the book or article that inspired it), it must still make complete logical sense. You should not need to remember the source material to understand the note.
 3. **Connectivity:** Because the note is a single, independent block, it can be freely linked to any other note in your system, allowing for unexpected connections between different disciplines.
 
@@ -54,7 +54,7 @@ An atomic note is useless in isolation. Its value comes from its connections. Wh
 Transitioning from traditional notes to atomic notes requires a systematic approach. Follow this five-step workflow to guarantee that your notes are effective, searchable, and valuable long-term.
 
 ### Step 1: Capture and Isolate the Idea
-Start by reviewing your literature notes or highlights from a source. Identify a single concept that stands out. Ask yourself: "What is the exact, irreducible thesis here?" Strip away the author's supporting anecdotes, background context, and fluff until you are left with just the core mechanism or argument. 
+Start by reviewing your literature notes or highlights from a source. Identify a single concept that stands out. Ask yourself: "What is the exact, irreducible [thesis](/posts/obsidian-academic-workflow-for-thesis-2026/) here?" Strip away the author's supporting anecdotes, background context, and fluff until you are left with just the core mechanism or argument. 
 
 ### Step 2: Draft a Declarative Title
 The title of an atomic note should not be a category or a vague topic. "Habit Formation" is a terrible title. It gives you no information about what the note contains. Instead, your title should be a complete sentence or a strong declarative statement that summarizes the core idea. 

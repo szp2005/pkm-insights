@@ -10,7 +10,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-> **Quick Answer:** [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the definition of Personal Knowledge Management (PKM), explore core methodologies like [Zettelkasten](/posts/zettelkasten-method-explained/) and PARA, and learn practical steps to build a digital second brain.
+> **Quick Answer:** [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover the definition of Personal Knowledge Management (PKM), explore core methodologies like [Zettelkasten](/posts/zettelkasten-method-explained/) and PARA, and learn practical steps to build a digital [second brain](/posts/digital-note-taking-strategies-for-productivity/).
 
 In an era defined by an unprecedented deluge of digital information, our biological brains are increasingly ill-equipped to capture, process, and retain the sheer volume of data we encounter daily. From insightful articles and in-depth podcasts to meeting notes and fleeting sparks of inspiration, we consume content at a staggering rate. Yet, without a deliberate system to anchor this information, it simply washes over us, leaving little lasting impact and a lingering sense of cognitive overwhelm. This is the precise problem that **Personal Knowledge Management (PKM)** is designed to solve.
 
@@ -82,7 +82,7 @@ Before downloading a single app, clarify your objective. Are you trying to write
 
 ### Step 2: Select Your Tool Stack Carefully
 The software you choose matters, but not as much as the habits you build. Look for tools that support plain text (Markdown) for longevity, offer robust search capabilities, and ideally support bi-directional linking.
-*   **Obsidian:** The powerhouse of networked thought. Operates on local Markdown files (future-proof), highly customizable via plugins, and offers a beautiful knowledge graph. Ideal for Zettelkasten and LYT.
+*   **[Obsidian](/posts/roam-research-vs-obsidian-comparison/):** The powerhouse of networked thought. Operates on local Markdown files (future-proof), highly customizable via plugins, and offers a beautiful knowledge graph. Ideal for Zettelkasten and LYT.
 *   **Notion:** A highly visual, block-based workspace. Excellent for relational databases, kanban boards, and applying the PARA method. It is an "all-in-one" workspace that excels at structural [organization](/posts/steps-to-building-a-second-brain/).
 *   **Logseq:** An outliner-based tool (like Roam Research) that operates on local files. Brilliant for daily journaling and rapid, frictionless logging of interconnected bullet points.
 *   **Apple Notes / Bear:** Excellent for simple, fast capture and highly aesthetic writing environments, though they lack the advanced querying and graphing capabilities of the others.
@@ -94,7 +94,7 @@ A PKM system is useless if you don't feed it. You must reduce the friction of ca
 
 ### Step 4: Institute Regular "Gardening" Sessions
 Information captured but never processed is just digital hoarding. Schedule dedicated time (e.g., 30 minutes every Friday) to review your inbox of captured thoughts.
-*   **Distill:** Take your highlights and raw notes and summarize them in your own words. This is where true learning happens.
+*   **Distill:** Take your highlights and raw notes and summarize them in your own words. This is where true [learning](/posts/how-to-remember-what-you-read-effectively/) happens.
 *   **Connect:** Look for existing notes in your system that relate to the new information. Create bi-directional links. Ask yourself: "In what context will I want to stumble upon this idea again?"
 
 ## Navigating the Traps: Common PKM Pitfalls

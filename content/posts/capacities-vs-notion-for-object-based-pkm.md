@@ -56,7 +56,7 @@ Notion is the ultimate digital blank canvas. It provides powerful primitives—b
 - Powerful Formula 2.0 capabilities for complex data manipulation
 
 **Cons:**
-- High learning curve and risk of "blank canvas paralysis" during setup
+- High [learning](/posts/how-to-remember-what-you-read-effectively/) curve and risk of "blank canvas paralysis" during setup
 - Requires manual creation and maintenance of relations to function as an object system
 
 ## Architectural Differences: Opinionated vs Blank Canvas
@@ -81,7 +81,7 @@ Notion does not have a native "Daily Note" feature out of the box. To replicate 
 
 Object-based PKM relies heavily on the connections between entities. How these tools handle networked thought is a critical differentiator.
 
-Capacities treats linking as a first-class citizen. When you link a "Project" object to a "Person" object, Capacities automatically populates a rich backlink at the bottom of both pages. It provides a visual graph view, allowing you to see clusters of information and discover serendipitous connections between seemingly unrelated notes. Furthermore, Capacities utilizes a unified tagging system. A single tag can be applied across any object type, creating a horizontal layer of organization across your entire workspace.
+Capacities treats linking as a first-class citizen. When you link a "Project" object to a "Person" object, Capacities automatically populates a rich backlink at the bottom of both pages. It provides a visual graph view, allowing you to see clusters of information and discover serendipitous connections between seemingly unrelated notes. Furthermore, Capacities utilizes a unified tagging system. A single tag can be applied across any object type, creating a horizontal layer of [organization](/posts/steps-to-building-a-second-brain/) across your entire workspace.
 
 Notion handles connections primarily through Database Relations. While powerful, relations are explicit and rigid. You must intentionally build a bridge between Database A and Database B. Notion does support standard page backlinks, but they are often buried at the top of the page and lack the rich, contextual preview found in dedicated networked thought tools. Notion also lacks a native graph view. Furthermore, tagging in Notion is restricted to the specific database; a "multi-select" property in your Books database does not communicate with the "multi-select" property in your Articles database unless you build a centralized, master Tag database and relate everything to it—a cumbersome process that slows down the system.
 
@@ -91,7 +91,7 @@ As your knowledge base grows into thousands of entries, performance becomes a vi
 
 Notion is notoriously cloud-dependent. While it offers limited caching for recently accessed pages, it lacks a true offline mode. If you lose internet access, your ability to search, load databases, or create new structured entries is severely compromised. Massive Notion workspaces with heavily interlinked databases and complex rollups can also experience noticeable latency during page loads.
 
-Capacities is also fundamentally a web-based application built on web technologies, but it employs more aggressive local caching strategies to improve speed and navigation. It feels snappier when moving between objects and opening the daily note. However, like Notion, it is not a strictly local-first application (such as Obsidian). 
+Capacities is also fundamentally a web-based application built on web technologies, but it employs more aggressive local caching strategies to improve speed and navigation. It feels snappier when moving between objects and opening the daily note. However, like Notion, it is not a strictly [local-first](/posts/anytype-review-local-first-privacy-lovers/) application (such as Obsidian). 
 
 When it comes to data portability, both tools offer markdown and CSV exports. Because Notion relies on databases, exporting a highly complex relational system to standard markdown files often results in a messy folder structure that loses the relational context. Capacities, by virtue of its strict object architecture, tends to produce slightly cleaner markdown exports, though transitioning an object-based system to a completely different tool will always require some manual restructuring.
 

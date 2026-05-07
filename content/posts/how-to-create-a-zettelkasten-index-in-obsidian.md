@@ -19,7 +19,7 @@ The Zettelkasten method thrives on connections rather than rigid folders. Howeve
 
 An index—often referred to as a Hub or Map of Content (MOC) in digital systems—solves this problem. It acts as the compass for your knowledge base. Instead of forcing notes into strict hierarchical folders, an index provides a flexible, top-down view of your vault's major themes. It allows you to enter your Zettelkasten from a structured vantage point before diving into the bottom-up, emergent connections that make the system powerful.
 
-Building an effective index requires balancing structure with flexibility. If you make it too rigid, you recreate the folder problem; if you make it too loose, it fails to provide orientation. This guide outlines the precise steps to design, build, and maintain a Zettelkasten index in Obsidian that scales with your learning.
+Building an effective index requires balancing structure with flexibility. If you make it too rigid, you recreate the folder problem; if you make it too loose, it fails to provide orientation. This guide outlines the precise steps to design, build, and maintain a Zettelkasten index in Obsidian that scales with your [learning](/posts/how-to-remember-what-you-read-effectively/).
 
 ## Understanding the Role of an Index in a Zettelkasten
 
@@ -43,7 +43,7 @@ Keep the initial structure of this note completely blank. Resist the urge to pre
 
 ## Step 2: Identify Your Core Themes
 
-Look at your existing notes and identify the broad domains of knowledge you interact with frequently. These should be high-level categories that encompass dozens of potential notes. If you are just starting your Zettelkasten, think about the 3 to 5 main areas you plan to research or write about.
+Look at your existing notes and identify the broad domains of knowledge you interact with frequently. These should be high-level categories that encompass dozens of potential notes. If you are just starting your Zettelkasten, think about the 3 to 5 main areas you plan to [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) or write about.
 
 For a [software](/posts/best-apps-for-personal-knowledge-management/) developer, these categories might look like:
 - Software Architecture
@@ -153,4 +153,4 @@ In practice, they serve the same function. "Index" usually refers to the absolut
 
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)
 
-- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First [Knowledge Management](/posts/knowledge-management-strategies-for-students/)?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

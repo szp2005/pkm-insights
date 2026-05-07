@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Tana Commands for Automated Data Processing: Complete Guide
 
-> **Quick Answer:** Tana commands for automated data processing are built-in workflow triggers attached to Supertags or nodes that execute sequences of actions—such as setting field values, moving nodes, generating content via AI, or making external API calls. By combining these commands into multi-step macros, users can transform raw daily notes into structured databases without manual data entry.
+> **Quick Answer:** Tana commands for automated data processing are built-in [workflow](/posts/using-the-para-method-in-google-drive/) triggers attached to Supertags or nodes that execute sequences of actions—such as setting field values, moving nodes, generating content via AI, or making external API calls. By combining these commands into multi-step macros, users can transform raw [daily notes](/posts/tana-commands-for-automated-daily-note-setup/) into structured databases without manual data entry.
 
 Managing complex data within a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) or team workspace often becomes a bottleneck. As your database grows, the friction of manually tagging, moving, and updating fields limits the actual value you get from your system. You end up spending more time managing the structure than doing the actual work.
 

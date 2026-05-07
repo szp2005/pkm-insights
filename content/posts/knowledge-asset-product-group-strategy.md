@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** A Knowledge Asset Product Group strategy is the systematic framework of auditing, categorizing, and packaging an [organization](/posts/steps-to-building-a-second-brain/)'s internal intellectual property into distinct, marketable product tiers. It transforms raw expertise, proprietary methodologies, and internal data into scalable revenue streams through structured formats like courses, API access, consulting frameworks, and subscription libraries.
 
-Organizations continuously generate intellectual property. Frameworks, templates, proprietary data models, and operational playbooks are created daily to solve internal problems. However, most companies view these assets merely as cost centers or operational exhaust. They remain siloed within departments, utilized once, and subsequently forgotten. 
+Organizations continuously generate intellectual property. Frameworks, [templates](/posts/logseq-templates-for-doctoral-research-students/), proprietary data models, and operational playbooks are created daily to solve internal problems. However, most companies view these assets merely as cost centers or operational exhaust. They remain siloed within departments, utilized once, and subsequently forgotten. 
 
 The transition from an operational mindset to a product mindset requires a fundamental shift in how internal expertise is valued. A Knowledge Asset Product Group (KAPG) strategy bridges this gap. It provides the architectural blueprint necessary to identify latent value within an organization and restructure it into discrete, sellable entities. 
 
@@ -105,7 +105,7 @@ Developing a Knowledge Asset Product Group strategy is the most efficient path f
 A standard digital download is often a single, static document like an ebook. A knowledge asset is an actionable, structured tool—such as a diagnostic calculator, an operational framework, or a codified methodology—designed to achieve a specific business outcome and integrated into a broader product group architecture.
 
 ### How long does it take to launch the first product group?
-If the internal IP is well-documented, the process of auditing, abstracting, and packaging the first entry-level and mid-tier assets typically takes 6 to 8 weeks. The majority of this time is spent on productizing the delivery mechanism and writing the sales copy, rather than creating the underlying content.
+If the internal IP is well-documented, the process of auditing, abstracting, and packaging the first entry-level and mid-tier assets typically takes 6 to 8 weeks. The majority of this time is spent on productizing the delivery mechanism and [writing](/posts/atomic-notes-writing-guide/) the sales copy, rather than creating the underlying content.
 
 ### Do we need specialized software to host these assets?
 For entry-level tiers, simple digital delivery platforms like Gumroad or standard Shopify setups are sufficient. For structured curriculum or enterprise tiers, [learning](/posts/how-to-remember-what-you-read-effectively/) management systems (LMS) like Teachable, or custom-gated portals using tools like Memberstack or Outseta, provide the necessary access control and user experience.

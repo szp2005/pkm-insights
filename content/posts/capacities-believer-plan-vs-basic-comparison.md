@@ -35,7 +35,7 @@ When looking at the two tiers side-by-side, the divergence in their target audie
 **Price:** Free
 **Rating:** 4.5/5
 
-The Capacities Basic plan stands out as one of the most generous free tiers in the modern personal knowledge management space. It introduces users to the object-based note-taking paradigm without restricting core functionalities like fundamental block types, bi-directional linking, or basic media uploads. You receive unlimited spaces and objects, making it a viable long-term solution for personal journaling, class notes, or simple project tracking. The main limitations become apparent only when you attempt to customize the visual structure of your workspace or automate repetitive data entry workflows.
+The Capacities Basic plan stands out as one of the most generous free tiers in the modern personal knowledge management space. It introduces users to the object-based note-taking paradigm without restricting core functionalities like fundamental block types, bi-directional linking, or basic media uploads. You receive unlimited spaces and objects, making it a viable long-term solution for personal journaling, class notes, or simple project tracking. The main limitations become apparent only when you attempt to customize the visual structure of your workspace or automate repetitive data entry [workflows](/posts/getting-things-done-for-knowledge-workers/).
 
 **Pros:**
 - Unlimited objects and spaces for extensive graph building
@@ -80,7 +80,7 @@ The Believer plan unlocks custom layouts, giving you complete granular control o
 
 ### Task Management Capabilities
 
-Knowledge management without integrated action management frequently leads to an archival graveyard where ideas go to die. The Basic plan supports rudimentary markdown checklists within individual pages, but these checklists do not aggregate or surface effectively across your broader workspace. If you write a to-do item deep inside a nested project note, you must rely on your own memory to navigate back to that specific note to check it off.
+Knowledge management without integrated action management frequently leads to an archival graveyard where ideas go to die. The Basic plan supports rudimentary markdown checklists within individual pages, but these checklists do not aggregate or surface effectively across your broader workspace. If you write a to-do item deep inside a nested project note, you must rely on your own [memory](/posts/how-to-remember-what-you-read-effectively/) to navigate back to that specific note to check it off.
 
 The Believer plan introduces native, comprehensive task management infrastructure. It elevates the 'Task' to a first-class object that can be queried, filtered, and displayed dynamically anywhere in your environment. You can establish a global command dashboard that pulls all unchecked tasks assigned to the current week, completely regardless of which meeting or project note they originally stemmed from. Additionally, task blocks integrate natively with the daily note timeline, allowing for strict, calendar-based time-blocking and accurate capacity planning.
 
@@ -90,7 +90,7 @@ Opting into the Believer tier is, in part, a philosophical decision. Capacities 
 
 ## Performance, Sync, and Offline Access
 
-When evaluating any cloud-centric PKM tool, data ownership, access speed, and reliability are paramount concerns. Both the Basic and Believer tiers operate on the exact same robust backend infrastructure, meaning fundamental sync speed across your desktop and mobile devices remains consistently fast regardless of your subscription status. Capacities utilizes an intelligent local-first caching system; when you launch the application, your most recent and frequently accessed objects are loaded near-instantly from local device storage, while background network processes handle the heavier cloud synchronization.
+When evaluating any cloud-centric PKM tool, data ownership, access speed, and reliability are paramount concerns. Both the Basic and Believer tiers operate on the exact same robust backend infrastructure, meaning fundamental sync speed across your desktop and mobile devices remains consistently fast regardless of your subscription status. Capacities utilizes an intelligent [local-first](/posts/anytype-review-local-first-privacy-lovers/) caching system; when you launch the application, your most recent and frequently accessed objects are loaded near-instantly from local device storage, while background network processes handle the heavier cloud synchronization.
 
 However, the Believer plan introduces expanded capabilities for media storage and file attachment limits. If your specific workflow involves uploading high-resolution architectural diagrams, raw audio recordings, or heavy, multi-page PDF dossiers, the Basic plan’s per-file upload caps will quickly become a hard bottleneck. The Believer tier significantly raises these friction points, allowing the application to serve as a comprehensive digital filing cabinet. Currently, maintaining full offline editability for complex, object-based graph databases is an ongoing engineering challenge, but continuous infrastructure improvements to local caching disproportionately benefit Believer users who manage massive, media-heavy databases.
 

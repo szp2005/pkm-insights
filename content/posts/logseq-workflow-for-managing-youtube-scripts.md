@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Logseq Workflow for Managing YouTube Scripts: A Creator's Guide
 
-> **Quick Answer:** A Logseq workflow for managing YouTube scripts leverages its block-based outlining, linked references, and property system to streamline ideation, research, writing, and revision. By creating dedicated pages for videos and using specific properties, creators can efficiently track progress, integrate research, and maintain a clear, iterative script development process.
+> **Quick Answer:** A Logseq workflow for managing YouTube scripts leverages its block-based outlining, linked references, and property system to streamline ideation, [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), writing, and revision. By creating dedicated pages for videos and using specific properties, creators can efficiently track progress, integrate research, and maintain a clear, iterative script development process.
 
 Creating engaging YouTube content requires more than just a good idea; it demands a structured approach to script development, research integration, and project management. Many content creators find themselves juggling disparate notes, struggling with version control, and losing track of vital research links across various applications. This fragmentation often leads to inefficiencies, missed deadlines, and a less polished final product.
 
@@ -21,7 +21,7 @@ Logseq, a powerful open-source knowledge base and outliner, offers a robust solu
 
 ## Setting Up Your Logseq Environment for Script Management
 
-Establishing a consistent structure within Logseq is foundational for an effective YouTube script management workflow. This involves creating dedicated pages for your video projects and leveraging Logseq's property system for robust organization and retrieval.
+Establishing a consistent structure within Logseq is foundational for an effective YouTube script management workflow. This involves creating dedicated pages for your video projects and leveraging Logseq's property system for robust [organization](/posts/steps-to-building-a-second-brain/) and retrieval.
 
 ### Dedicated Project Pages and Templates
 
@@ -44,7 +44,7 @@ When you create a new video page, simply insert this template and populate the p
 
 ### Leveraging Properties for Organization and Queries
 
-Logseq's properties are not just for static information; they are powerful tools for dynamic organization. By consistently applying properties to your script pages, you unlock the ability to run sophisticated queries that provide immediate insights into your content pipeline.
+Logseq's properties are not just for static information; they are powerful [tools](/posts/personal-knowledge-management-tools-comparison/) for dynamic organization. By consistently applying properties to your script pages, you unlock the ability to run sophisticated queries that provide immediate insights into your content pipeline.
 
 For example, to see all scripts currently in the drafting phase, you could use a query block on your `[[YouTube Scripts]]` index page:
 

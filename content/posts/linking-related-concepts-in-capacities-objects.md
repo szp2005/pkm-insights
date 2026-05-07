@@ -19,13 +19,13 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Capacities approaches this problem differently. Instead of just creating pages, you create *objects*—entities that represent distinct categories like people, projects, meetings, or concepts. However, simply creating objects is not enough. The true power of the platform emerges when you actively build connections between these entities.
 
-Linking related concepts in Capacities objects shifts your workflow from basic archiving to active synthesis. When you establish meaningful relationships between different nodes of information, you create a personalized web of knowledge that surfaces answers before you even ask the questions. This guide breaks down exactly how to structure, build, and navigate these connections effectively.
+Linking related concepts in Capacities objects shifts your [workflow](/posts/using-the-para-method-in-google-drive/) from basic archiving to active synthesis. When you establish meaningful relationships between different nodes of information, you create a personalized web of knowledge that surfaces answers before you even ask the questions. This guide breaks down exactly how to structure, build, and navigate these connections effectively.
 
 ## Understanding the Object-Based Architecture
 
 Before diving into linking strategies, it is crucial to understand why Capacities uses objects rather than traditional markdown files. In standard [note-taking](/posts/zettelkasten-method-explained/) apps, a page is just a blank canvas. In Capacities, an object has an inherent type. 
 
-A "Book" object can have properties for the author, publication year, and your rating. A "Concept" object might just have a summary and tags. Because these objects have defined structures, linking them creates a semantic web. When you link a "Concept" to a "Book," the system understands that the idea was sourced from that specific piece of literature.
+A "Book" object can have properties for the author, publication year, and your rating. A "Concept" object might just have a summary and tags. Because these objects have defined structures, linking them creates a [semantic web](/posts/semantic-layers-in-personal-knowledge-management/). When you link a "Concept" to a "Book," the system understands that the idea was sourced from that specific piece of literature.
 
 This structure prevents the chaos that often plagues large, flat markdown vaults. By categorizing your knowledge first, your links become purposeful pathways rather than random associations.
 

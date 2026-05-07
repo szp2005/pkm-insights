@@ -27,7 +27,7 @@ Understanding the foundational architecture of these tools is crucial because it
 
 Obsidian operates on the principle of extreme longevity and standard file formats. Its philosophy is simple: your notes are just standard `.md` files residing in a standard folder on your operating system. Obsidian is essentially a powerful viewer and editor layered on top of this folder. If the company behind Obsidian disappears tomorrow, your notes remain entirely intact, readable by any text editor from Notepad to VS Code. 
 
-Anytype takes a different approach, leaning heavily into a graph-based, object-oriented data model. Instead of files in folders, everything in Anytype is an "Object" (a note, a person, a book, a task) with specific "Relations" (author, due date, status). This is supported by an underlying local database structure synced via the Any-Sync protocol. It is designed to replace not just your notes, but your databases, habit trackers, and project management dashboards, operating much like a decentralized Notion. While Anytype is open-source and provides export options, its native data structure is far more complex than simple flat files.
+Anytype takes a different approach, leaning heavily into a graph-based, object-oriented data model. Instead of files in folders, everything in Anytype is an "Object" (a note, a person, a book, a task) with specific "Relations" (author, due date, status). This is supported by an underlying local database structure synced via the Any-Sync protocol. It is designed to replace not just your notes, but your databases, habit trackers, and [project management](/posts/tana-supertags-for-project-managers-download/) dashboards, operating much like a decentralized Notion. While Anytype is open-source and provides export options, its native data structure is far more complex than simple flat files.
 
 ## Head-to-Head Comparison: The Contenders
 
@@ -47,7 +47,7 @@ The true power of Obsidian lies in its community. With over 1,500 community plug
 - Unmatched performance and speed, even with vaults exceeding 20,000 files
 
 **Cons:**
-- Steep learning curve for advanced features and system setup
+- Steep [learning](/posts/how-to-remember-what-you-read-effectively/) curve for advanced features and system setup
 - Official end-to-end encrypted sync costs a premium monthly fee
 
 ### 2. Anytype
@@ -98,7 +98,7 @@ When deciding between Anytype vs Obsidian for local-first knowledge management, 
 **You should choose Obsidian if:**
 - **Future-proofing is your top priority.** Markdown text files will outlive us all. If you want a journal or knowledge base that you are 100% certain you can read in 40 years, plain text is the only guarantee.
 - **You operate on low-spec hardware.** Obsidian's resource footprint is minimal. It will run exceptionally well on older laptops and requires less than 200MB of RAM for standard usage.
-- **You are a developer or tinkerer.** If you enjoy writing custom CSS snippets, using RegEx to search your notes, or integrating scripts to automate your workflow, Obsidian is an unparalleled sandbox.
+- **You are a developer or tinkerer.** If you enjoy [writing](/posts/atomic-notes-writing-guide/) custom CSS snippets, using RegEx to search your notes, or integrating scripts to automate your workflow, Obsidian is an unparalleled sandbox.
 
 **You should choose Anytype if:**
 - **You prefer structured, visual data.** If your brain organizes things in tables, kanban boards, and specific attributes (e.g., tracking a CRM, maintaining a library of movies with ratings and directors), Anytype's object-oriented approach handles this natively without plugins.

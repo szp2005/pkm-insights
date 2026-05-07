@@ -83,7 +83,7 @@ Genealogy is rarely straightforward; you will frequently encounter conflicting b
 A family history hidden on a single computer serves limited utility. The final step in configuring your system is establishing protocols for sharing your findings with relatives who may not be technically inclined.
 
 ### Generating Read-Only Exports
-If you use a local Markdown tool, you can use site-generation plugins to convert your notes into a static HTML website. This allows you to publish a read-only version of your research that family members can browse on their phones or tablets without needing to install software or register for accounts. 
+If you use a local Markdown tool, you can use site-generation [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/) to convert your notes into a static HTML website. This allows you to publish a read-only version of your research that family members can browse on their phones or tablets without needing to install software or register for accounts. 
 
 ### Collaborative Workflows
 If using a cloud platform, set clear permissions. Give read-only access to the broader family, but grant comment or edit access to specific relatives who are actively helping you identify people in unnamed photographs or translating foreign documents. Create a dedicated "Inbox" or "Needs Identification" board where family members can [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) unknown photos and leave their insights.
@@ -104,13 +104,13 @@ Setting up a family knowledge base for genealogy transforms you from a passive c
 ## Frequently Asked Questions
 
 ### What is the best software for a family knowledge base?
-There is no single best software, as it depends on your technical comfort and collaboration needs. Obsidian is highly favored for its local storage, longevity, and powerful linking, while Notion is preferred by those who want cloud access and easy sharing capabilities with non-technical relatives.
+There is no single best software, as it depends on your technical comfort and [collaboration](/posts/supernotes-vs-obsidian-for-collaborative-knowledge-sharing/) needs. Obsidian is highly favored for its local storage, longevity, and powerful linking, while Notion is preferred by those who want cloud access and easy sharing capabilities with non-technical relatives.
 
 ### How do I handle conflicting genealogy information?
 Do not delete conflicting information. Create a dedicated note or section within the individual's profile to analyze the discrepancy. List each source, evaluate its reliability (e.g., a primary vital record vs. secondary family lore), and write a summary explaining why you favor one conclusion over the other.
 
 ### Can I import GEDCOM files into a general knowledge base?
-Directly importing GEDCOM files into platforms like Notion or Obsidian requires third-party scripts or plugins, which can be complex to configure. It is generally better to use a standard genealogy program to manage the GEDCOM data and use the knowledge base for deep research, document storage, and narrative writing.
+Directly importing GEDCOM files into platforms like Notion or Obsidian requires third-party scripts or plugins, which can be complex to configure. It is generally better to use a standard genealogy program to manage the GEDCOM data and use the knowledge base for deep research, document storage, and narrative [writing](/posts/atomic-notes-writing-guide/).
 
 ### How do I protect sensitive information about living relatives?
 Keep information about living relatives entirely private. If you publish your knowledge base to the web or share it widely, omit profiles of anyone currently living to protect their privacy and prevent identity theft. Most local-first tools allow you to exclude specific folders from web publishing.

@@ -62,7 +62,7 @@ If you want the path of least resistance across all operating systems, the offic
 2. Open Logseq on your primary device (the one containing your most up-to-date graph).
 3. Click the **Cloud** icon in the top right corner of the application interface.
 4. Log in using your credentials.
-5. Create a strong, memorable Master Password. **This is critical.** Logseq Sync uses zero-knowledge encryption. If you lose this password, your synced data is unrecoverable; the Logseq team cannot reset it.
+5. Create a strong, memorable Master Password. **This is critical.** Logseq Sync uses zero-knowledge [encryption](/posts/best-privacy-focused-note-taking-apps-with-encryption/). If you lose this password, your synced data is unrecoverable; the Logseq team cannot reset it.
 
 ### Step 2: Initiating the Remote Sync
 

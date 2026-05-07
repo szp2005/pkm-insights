@@ -37,10 +37,10 @@ Obsidian provides several native mechanisms to weave your knowledge web. Masteri
 Bidirectional links (or wikilinks) are the defining feature of modern PKM tools. When you create a link from Note A to Note B, Obsidian automatically registers a "backlink" in Note B, pointing back to Note A.
 
 *   **How to do it:** Simply enclose the title of the target note in double square brackets, like this: `[[Target Note Title]]`.
-*   **The Power of Aliases:** Often, a note's title might not perfectly fit the grammatical context of your sentence. Obsidian allows aliases. Use a pipe character: `[[Target Note Title|alternative text]]`. This keeps the link functional while maintaining the flow of your writing.
+*   **The Power of Aliases:** Often, a note's title might not perfectly fit the grammatical context of your sentence. Obsidian allows aliases. Use a pipe character: `[[Target Note Title|alternative text]]`. This keeps the link functional while maintaining the flow of your [writing](/posts/zettelkasten-method-for-non-fiction-book-writing/).
 *   **Unlinked Mentions:** Obsidian's backlink pane doesn't just show explicit links; it also highlights "unlinked mentions"—instances where you've typed the name of a note without formatting it as a link. This is an invaluable tool for retroactively discovering connections you might have missed.
 
-**Expert Tip:** Don't just link nouns; link concepts. Instead of linking `[[Steve Jobs]]`, you might link to `[[The Reality Distortion Field]]` or `[[Design as Iteration]]`. This shifts the focus from entities to actionable ideas.
+**Expert Tip:** Don't just link nouns; link concepts. Instead of linking `[[Steve Jobs]]`, you might link to `[[The Reality Distortion Field]]` or `[[Design as Iteration]]`. This shifts the [focus](/posts/managing-digital-information-overload-tips/) from entities to actionable ideas.
 
 ### 2. Tagging: Categorization and Status
 
@@ -102,7 +102,7 @@ Even experienced PKM practitioners fall into traps. Here are a few to avoid:
 
 ## Conclusion: Cultivating a Living System
 
-Learning how to connect ideas in Obsidian notes is an ongoing practice, not a one-time setup. It requires a shift in mindset from simply storing information to actively cultivating knowledge. 
+[Learning](/posts/effective-note-taking-techniques-for-learning/) how to connect ideas in Obsidian notes is an ongoing practice, not a one-time setup. It requires a shift in mindset from simply storing information to actively cultivating knowledge. 
 
 Start small. Focus on atomicity, be intentional with your bidirectional links, and let structure emerge naturally through MOCs. As you consistently weave connections between your notes, you will build a system that not only reflects your current understanding but actively accelerates your future learning and creative output. Your Obsidian vault will transform from a digital filing cabinet into a dynamic, interconnected second brain, ready to spark insights whenever you need them.
 

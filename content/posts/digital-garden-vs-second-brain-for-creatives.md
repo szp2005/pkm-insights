@@ -76,7 +76,7 @@ Obsidian operates entirely on local plain-text markdown files, offering absolute
 - Unmatched extensibility through community-developed plugins
 
 **Cons:**
-- The highly technical nature can result in a steep initial learning curve
+- The highly technical nature can result in a steep initial [learning](/posts/how-to-remember-what-you-read-effectively/) curve
 - Native syncing across devices requires a paid plan or complex technical workarounds
 
 ### 2. Notion
@@ -85,7 +85,7 @@ Obsidian operates entirely on local plain-text markdown files, offering absolute
 **Price:** Free - $10/month
 **Rating:** 4.6/5
 
-Notion is a block-based workspace that excels at structured organization, making it the default, most popular choice for implementing Tiago Forte's Second Brain methodology. It allows creatives to build customized relational databases, Kanban boards, and complex tables to track projects, resources, and tasks in one unified dashboard. While highly flexible for structured, top-down data, it lacks the organic, networked feel required for a true digital garden.
+Notion is a block-based workspace that excels at structured [organization](/posts/steps-to-building-a-second-brain/), making it the default, most popular choice for implementing Tiago Forte's Second Brain methodology. It allows creatives to build customized relational databases, Kanban boards, and complex tables to track projects, resources, and tasks in one unified dashboard. While highly flexible for structured, top-down data, it lacks the organic, networked feel required for a true digital garden.
 
 **Pros:**
 - Incredible flexibility for database creation and project management
@@ -94,7 +94,7 @@ Notion is a block-based workspace that excels at structured organization, making
 
 **Cons:**
 - Noticeably slow loading times for large, complex workspaces
-- Weak offline mode compared to local-first applications
+- Weak offline mode compared to [local-first](/posts/anytype-review-local-first-privacy-lovers/) applications
 
 ### 3. Roam Research
 

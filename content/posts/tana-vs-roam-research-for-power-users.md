@@ -25,7 +25,7 @@ This guide breaks down the technical nuances, workflow tradeoffs, and structural
 
 Before diving into specific features, it is critical to understand the underlying architecture of both applications. While both look like bullet-point outliners on the surface, their data models are entirely different.
 
-Roam Research operates on a pure graph database model. Every bullet point is a node, and every `[[page reference]]` is an edge connecting those nodes. The philosophy relies on unconstrained, bottom-up organization. You write in your Daily Notes, tag entities as they occur to you, and trust that the graph will surface connections over time through unlinked references and linked mentions.
+Roam Research operates on a pure graph database model. Every bullet point is a node, and every `[[page reference]]` is an edge connecting those nodes. The philosophy relies on unconstrained, bottom-up [organization](/posts/steps-to-building-a-second-brain/). You write in your Daily Notes, tag entities as they occur to you, and trust that the graph will surface connections over time through unlinked references and linked mentions.
 
 Tana, conversely, is an object-oriented database masked as an outliner. While it supports bidirectional links, its core engine runs on "Supertags." A Supertag transforms a simple bullet point into a structured data object. If you tag a node with `#book`, Tana automatically appends fields for `Author`, `Status`, and `Rating`. This allows for rigorous, top-down structuring of data without losing the bottom-up flexibility of daily journaling.
 
@@ -60,7 +60,7 @@ Tana takes the fluid outlining experience of Roam and injects it with the organi
 - Deeply integrated, customizable AI commands at the node and field level
 
 **Cons:**
-- Extremely steep learning curve for designing effective ontologies
+- Extremely steep [learning](/posts/how-to-remember-what-you-read-effectively/) curve for designing effective ontologies
 - Currently lacks a true local, offline-first mode, relying heavily on cloud sync
 
 ## Knowledge Capture and Daily Workflows
@@ -125,7 +125,7 @@ Tana, however, is a digital factory. It provides the conveyor belts, molds, and 
 Yes. Roam Research has a learning curve primarily related to understanding bidirectional linking and graph hygiene. Tana requires you to learn linking, but also demands an understanding of object-oriented data structures, inheritance, and complex query building. Tana requires active "ontology design" before you can fully utilize its power.
 
 ### Can I use Roam Research completely offline?
-Roam Research has a local graph option, but its core architecture is still heavily reliant on cloud syncing. While you can work offline temporarily, managing a purely local, secure instance without ever connecting to the cloud is less robust than dedicated local-first markdown tools like Obsidian.
+Roam Research has a local graph option, but its core architecture is still heavily reliant on cloud syncing. While you can work offline temporarily, managing a purely local, secure instance without ever connecting to the cloud is less robust than dedicated [local-first](/posts/anytype-review-local-first-privacy-lovers/) markdown tools like Obsidian.
 
 ### Do Tana Supertags limit my ability to think freely?
 No, because Supertags are optional. You can use Tana exactly like Roam, writing plain text bullets in your daily note. The structure only appears when you apply a tag. This allows you to think freely first, and structure the data retroactively when it becomes necessary for organization.

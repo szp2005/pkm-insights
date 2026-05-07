@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Managing an academic literature [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) often feels like fighting a losing battle against entropy. As your library of PDFs, citations, and reading notes grows into the hundreds or thousands, traditional folder structures and flat document files break down. You remember reading a brilliant critique of a specific methodology, but locating the exact paper, let alone the specific page and context, becomes a multi-hour archaeological dig.
 
-Tana offers a fundamentally different approach. Rather than acting as a static repository for text, Tana operates as an object-oriented knowledge database. By combining the fluidity of an outliner with the structured data capabilities of a relational database, it provides academics with a powerful environment for synthesizing research.
+Tana offers a fundamentally different approach. Rather than acting as a static repository for text, Tana operates as an object-oriented knowledge database. By combining the fluidity of an outliner with the structured data capabilities of a relational database, it provides [academics](/posts/tana-workflows-for-systematic-literature-reviews/) with a powerful environment for synthesizing research.
 
 This guide details exactly how to structure a Tana workspace for managing academic citations, from foundational tag architecture to practical [workflows](/posts/getting-things-done-for-knowledge-workers/) for processing new literature and connecting ideas across your research domain.
 
@@ -31,7 +31,7 @@ For academic citation management, this means you are not writing "notes about a 
 
 ## Foundational Supertags for Citation Management
 
-A robust academic workspace requires a lean but strictly defined ontology. Overcomplicating your tags early on leads to friction. Begin by defining these three foundational Supertags.
+A robust academic workspace requires a lean but strictly defined [ontology](/posts/building-research-ontologies-in-capacities-app/). Overcomplicating your tags early on leads to friction. Begin by defining these three foundational Supertags.
 
 ### The #source Tag
 
@@ -162,7 +162,7 @@ Building a Tana workspace for managing academic citations requires an initial in
 ## Frequently Asked Questions
 
 ### Does Tana integrate directly with Zotero or Mendeley?
-Currently, Tana does not feature a native, one-click integration with Zotero or Mendeley built into the app. Workflows require either manual entry of citation keys to link the two systems, exporting and importing structured data (like CSV or JSON), or using the Tana API with automation tools like Make or scripts to bridge the gap.
+Currently, Tana does not feature a native, one-click integration with Zotero or Mendeley built into the app. Workflows require either manual entry of citation keys to link the two systems, exporting and importing structured data (like CSV or JSON), or using the Tana API with [automation](/posts/self-healing-knowledge-base-principles/) tools like Make or scripts to bridge the gap.
 
 ### Can Tana generate formatted bibliographies automatically?
 No, Tana is not designed to be a reference manager that generates formatted bibliographies (like APA or MLA). It is best used for note-taking and synthesis, relying on a dedicated reference manager like Zotero to handle the final citation formatting in your word processor.

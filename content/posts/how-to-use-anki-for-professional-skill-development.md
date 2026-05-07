@@ -11,7 +11,7 @@ type: "informational"
 
 # Anki for Professional Skill Development: 5-Step Guide
 
-> **Quick Answer:** To use Anki for professional skill development, identify the core knowledge for your field, break it down into atomic, single-fact flashcards, and review them daily using Anki's [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) algorithm. This ensures long-term retention of complex technical concepts, languages, or industry frameworks while minimizing study time.
+> **Quick Answer:** To use Anki for professional skill development, identify the core knowledge for your field, break it down into atomic, single-fact flashcards, and [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) them daily using Anki's [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) algorithm. This ensures long-term retention of complex technical concepts, languages, or industry frameworks while minimizing study time.
 
 Continuous [learning](/posts/how-to-remember-what-you-read-effectively/) is the baseline requirement for most modern careers. Whether you are a [software](/posts/best-apps-for-personal-knowledge-management/) engineer keeping up with new JavaScript frameworks, a medical professional memorizing drug interactions, or a lawyer preparing for the bar, the sheer volume of information you must retain can feel overwhelming. Reading documentation or watching tutorials gives you the illusion of competence, but without active recall, that knowledge fades within days.
 
@@ -93,5 +93,5 @@ Anki supports images and basic code formatting. For diagrams, you can use the Im
 
 ## Related Reading
 
-- [How to Integrate Spaced Repetition into Your Daily Writing Workflow: 5-Step Guide](/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/)
-- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs Obsidian: Best Local-First [Knowledge Management](/posts/digital-note-taking-strategies-for-productivity/)?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+- [How to Integrate Spaced Repetition into Your Daily [Writing](/posts/atomic-notes-writing-guide/) Workflow: 5-Step Guide](/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/)
+- [[Anytype](/posts/anytype-review-local-first-privacy-lovers/) vs [Obsidian](/posts/what-is-personal-knowledge-management/): Best Local-First [Knowledge Management](/posts/digital-note-taking-strategies-for-productivity/)?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

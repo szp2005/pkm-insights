@@ -13,7 +13,7 @@ type: "informational"
 
 > **Quick Answer:** To avoid the collector's fallacy in PKM, you must shift your focus from capturing information to processing it. Implement high-friction capture methods, establish strict limits on your reading inbox, prioritize progressive summarization, and aggressively purge unread material to ensure you are building knowledge rather than simply hoarding data.
 
-Your read-it-later app is overflowing with hundreds of unread articles. Your browser has three windows open, each with twenty tabs containing research you intend to review. Your [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system is bloated with thousands of bookmarks, clipped web pages, and highlighted PDF files that you have never revisited. You feel a sense of [productivity](/posts/zettelkasten-method-explained/) when you save these items, but your actual output remains stagnant. 
+Your read-it-later app is overflowing with hundreds of unread articles. Your browser has three windows open, each with twenty tabs containing [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) you intend to [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/). Your [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system is bloated with thousands of bookmarks, clipped web pages, and highlighted PDF files that you have never revisited. You feel a sense of [productivity](/posts/zettelkasten-method-explained/) when you save these items, but your actual output remains stagnant. 
 
 This scenario represents a structural failure in personal knowledge management. When the friction of capturing information approaches zero, the volume of captured information expands to fill the storage available. The result is not a [second brain](/posts/what-is-personal-knowledge-management/), but a digital landfill.
 
@@ -35,7 +35,7 @@ To fix the system, you must understand why you are prone to hoarding information
 We capture information because we fear that if we don't secure it immediately, we will lose access to it forever. This was a valid concern in the pre-internet era when finding a specific journal article required physical library access. Today, search engines have largely solved the problem of retrieval, yet our hoarding behavior persists.
 
 ### The Illusion of Competence
-Having a folder labeled "Machine Learning Research" containing 50 papers provides a false sense of security. You feel equipped to handle the topic simply because you possess the files. This illusion prevents you from actually doing the hard work of reading and understanding the material.
+Having a folder labeled "Machine [Learning](/posts/how-to-remember-what-you-read-effectively/) Research" containing 50 papers provides a false sense of security. You feel equipped to handle the topic simply because you possess the files. This illusion prevents you from actually doing the hard work of reading and understanding the material.
 
 ### Deferred Effort
 Capturing information is an easy action that defers the difficult work of thinking to a future version of yourself. You clip an article with the vague promise that "Future Me will read this." Future Me, however, is invariably just as busy and distracted as Present Me, resulting in an ever-growing backlog.

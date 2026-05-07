@@ -15,7 +15,7 @@ type: "informational"
 
 The ongoing battle in [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) has always been the friction between capture and [organization](/posts/steps-to-building-a-second-brain/). If a system is easy to capture into, it quickly becomes an unstructured mess. If it requires rigid structure, the friction of entering data prevents you from using it. 
 
-Tana approaches this problem by treating everything as a node and relying on a concept called "Supertags" to provide structure. However, building out fields and populating them manually can still be tedious. This is where Tana's artificial intelligence capabilities fundamentally change the equation. 
+Tana approaches this problem by treating everything as a node and relying on a concept called "Supertags" to provide structure. However, building out fields and populating them manually can still be tedious. This is where Tana's [artificial intelligence](/posts/self-healing-knowledge-base-principles/) capabilities fundamentally change the equation. 
 
 By deeply integrating AI features for structured data entry, Tana acts as a translation layer between your messy, unstructured human thoughts and a rigorous, queryable database. You write in plain English, and the AI parses, structures, links, and categorizes the information automatically. This complete guide will break down exactly how these features work and how to implement them in your workspace.
 
@@ -55,7 +55,7 @@ If you write, "Need to pick up groceries tomorrow," the AI can recognize this as
 To truly benefit from Tana AI features for structured data entry, you need to build automated workflows that trigger these capabilities seamlessly.
 
 ### Voice Capture with AI Parsing
-The Tana Capture app for mobile devices is a prime example of this workflow in action. You can record a voice memo while walking or driving. When the audio is transcribed and synced to Tana, an AI command can automatically process the transcript.
+The Tana Capture app for mobile devices is a prime example of this [workflow](/posts/using-the-para-method-in-google-drive/) in action. You can record a voice memo while walking or driving. When the audio is transcribed and synced to Tana, an AI command can automatically process the transcript.
 
 The command can be instructed to:
 1. Identify distinct topics within the transcript.

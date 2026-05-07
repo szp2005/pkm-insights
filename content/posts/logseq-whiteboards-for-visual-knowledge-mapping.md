@@ -19,7 +19,7 @@ Linear [note-taking](/posts/zettelkasten-method-explained/) is highly efficient 
 
 For users of networked thought [tools](/posts/personal-knowledge-management-tools-comparison/), transitioning from text-based linking to a spatial environment has historically meant copying text into a separate mind-mapping application. This fragmented the workflow and severed the dynamic links between underlying concepts. The introduction and continuous refinement of Logseq whiteboards has fundamentally resolved this issue. By integrating an infinite canvas directly into the outliner database, Logseq allows your notes to exist simultaneously as structured lists and spatial objects.
 
-This guide explores the mechanics and methodologies of using Logseq whiteboards for visual knowledge mapping, providing a structured approach to leveraging spatial thinking for research, project management, and creative synthesis.
+This guide explores the mechanics and methodologies of using Logseq whiteboards for visual knowledge mapping, providing a structured approach to leveraging spatial thinking for [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), [project management](/posts/tana-supertags-for-project-managers-download/), and creative synthesis.
 
 ## Why Visual Knowledge Mapping Outperforms Linear Notes
 
@@ -94,7 +94,7 @@ Transitioning to a spatial workflow requires establishing a few ground rules to 
 2. **Standardize Visual Language:** Consistency reduces cognitive friction. Assign specific meanings to colors and shapes. For example, use yellow rectangles for raw quotes, blue circles for your own synthesized thoughts, and red arrows for contradictory evidence. Stick to this taxonomy across all your whiteboards.
 3. **Use Structural Containers:** Before dropping nodes onto the canvas, draw large, lightly shaded rectangles to act as logical zones (e.g., "Introduction," "Counter-arguments," "Conclusion"). Dropping nodes into these predefined zones immediately provides structure to raw data.
 4. **Leverage the Right Sidebar:** Always work with the right sidebar open. The true power of Logseq whiteboards is navigating the tension between the spatial view in the center and the hierarchical context in the sidebar. Use the canvas for arrangement, and the sidebar for reading the deep context of a selected block.
-5. **Keep Nodes Atomic:** Avoid dragging massive blocks of text onto the canvas. Visual mapping works best with atomic notes—one idea, one block. If a node contains paragraphs of text, it becomes impossible to read at a glance, defeating the purpose of a visual overview. Break large notes down into smaller bullet points before mapping them.
+5. **Keep Nodes Atomic:** Avoid dragging massive blocks of text onto the canvas. Visual mapping works best with [atomic notes](/posts/atomic-notes-writing-guide/)—one idea, one block. If a node contains paragraphs of text, it becomes impossible to read at a glance, defeating the purpose of a visual overview. Break large notes down into smaller bullet points before mapping them.
 
 ## Conclusion
 
@@ -117,6 +117,8 @@ While Logseq can handle hundreds of objects on a single canvas, extremely dense 
 ---
 
 ## Related Reading
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
 
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
 

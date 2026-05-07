@@ -15,9 +15,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Using the PARA method in Google Drive involves creating four top-level folders in your main directory: `1 - Projects`, `2 - Areas`, `3 - Resources`, and `4 - Archives`. You then file every document, spreadsheet, and asset into one of these four categories based on its actionability, dramatically reducing search time and digital clutter.
 
-Digital clutter is the silent [productivity](/posts/zettelkasten-method-explained/) killer. When you spend ten minutes searching for a specific slide deck or client contract across scattered Google Drive folders, you lose momentum and [focus](/posts/digital-decluttering-for-information-overload/). The default approach for most professionals—creating folders based on random topics or file types—inevitably degrades into a chaotic repository where old drafts mix with active priorities. 
+Digital clutter is the silent [productivity](/posts/zettelkasten-method-explained/) killer. When you spend ten minutes searching for a specific slide deck or client contract across scattered Google Drive folders, you lose momentum and [focus](/posts/digital-decluttering-for-information-overload/). The default approach for most [professionals](/posts/personal-information-management-system-setup-guide/)—creating folders based on random topics or file types—inevitably degrades into a chaotic repository where old drafts mix with active priorities. 
 
-The PARA method, developed by productivity expert Tiago Forte, offers a structural antidote to this chaos. Instead of organizing by subject, PARA organizes by actionability. 
+The PARA method, developed by productivity expert [Tiago Forte](/posts/tiago-forte-building-a-second-brain-review/), offers a structural antidote to this chaos. Instead of organizing by subject, PARA organizes by actionability. 
 
 Implementing this system specifically within Google Drive takes advantage of Drive's powerful search, collaborative features, and offline syncing capabilities. By aligning Google Drive's infrastructure with the PARA methodology, you create an environment where files surface exactly when you need them, and step out of the way when you don't.
 
@@ -81,7 +81,7 @@ Open your main "My Drive" root directory. Create four new folders. Prefix them w
 * `4 - Archives`
 
 ### Step 2: Establish the Inbox (Optional but Recommended)
-Create a fifth folder named `0 - Inbox`. Google Drive is often the default save location for email attachments, web downloads, and shared documents. An Inbox acts as a holding pen. It catches new files so they don't clutter your root directory, allowing you to route them to the correct PARA folder during a weekly review.
+Create a fifth folder named `0 - Inbox`. Google Drive is often the default save location for email attachments, web downloads, and shared documents. An Inbox acts as a holding pen. It catches new files so they don't clutter your root directory, allowing you to route them to the correct PARA folder during a weekly [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/).
 
 ### Step 3: Audit and Migrate Current Projects
 Begin with your active work. Identify 5 to 15 projects you are actively working on this week. Create a folder for each inside `1 - Projects`. 

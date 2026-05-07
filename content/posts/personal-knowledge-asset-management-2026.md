@@ -27,7 +27,7 @@ Historically, digital [note-taking](/posts/zettelkasten-method-explained/) mirro
 Modern knowledge asset management treats information as a dynamic network. Instead of deciding where a note "lives," you determine what a note "connects to." This networked approach mimics human cognition, allowing isolated facts to combine into complex mental models. The value of an asset is no longer just its content, but its relationship to other pieces of information within your system. 
 
 ### The Role of Local AI Processing
-By 2026, artificial intelligence integration within personal knowledge bases has shifted from cloud-based generation to local, privacy-centric processing. Semantic search—the ability to search by concept rather than exact keyword match—operates directly on your device. This allows knowledge workers to query their entire vault for abstract concepts like "frictionless user onboarding" and retrieve relevant notes even if those exact words were never explicitly written.
+By 2026, [artificial intelligence](/posts/self-healing-knowledge-base-principles/) integration within personal knowledge bases has shifted from cloud-based generation to local, privacy-centric processing. Semantic search—the ability to search by concept rather than exact keyword match—operates directly on your device. This allows knowledge workers to query their entire vault for abstract concepts like "frictionless user onboarding" and retrieve relevant notes even if those exact words were never explicitly written.
 
 Furthermore, local large language models (LLMs) assist in the synthesis phase. They can map unlinked references, suggest connections between disparate notes, and generate structural outlines based exclusively on your localized knowledge graph, entirely eliminating the risk of data leakage or external hallucinations.
 
@@ -56,7 +56,7 @@ Originally developed by sociologist Niklas Luhmann, the Zettelkasten (slip-box) 
 The workflow involves creating "Fleeting Notes" (quick captures), translating them into "Literature Notes" (summaries of external content), and ultimately distilling them into "Permanent Notes" (atomic, fully formed ideas written in your own voice). The power of the Zettelkasten lies in its strict requirement to link every new permanent note to existing notes within the system, forcing continuous engagement with past ideas.
 
 ### Building a Second Brain (PARA Method)
-For professionals who prioritize project execution over academic research, the PARA method offers a highly pragmatic structure. It organizes information by actionability rather than subject matter, utilizing four primary categories:
+For professionals who prioritize project execution over [academic research](/posts/tana-workspace-for-managing-academic-citations/), the PARA method offers a highly pragmatic structure. It organizes information by actionability rather than subject matter, utilizing four primary categories:
 - **Projects:** Efforts with a specific goal and deadline.
 - **Areas:** Spheres of ongoing responsibility without a fixed end date (e.g., Health, Finances, Management).
 - **Resources:** Topics of ongoing interest that may be useful in the future.
@@ -77,7 +77,7 @@ Not all information requires the same level of processing. Establishing clear in
 Implement a triage system for incoming assets:
 1. **Automated Capture:** Read-it-later apps and web clippers gather raw material.
 2. **Progressive Summarization:** Highlighting key passages and bolding critical insights within the source text.
-3. **Active Synthesis:** Writing a summary in your own words and extracting atomic concepts for permanent storage.
+3. **Active Synthesis:** [Writing](/posts/atomic-notes-writing-guide/) a summary in your own words and extracting atomic concepts for permanent storage.
 
 Only a fraction of captured material should make it to the active synthesis stage. Be ruthless in filtering out noise to maintain a high signal-to-noise ratio within your primary vault.
 

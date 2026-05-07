@@ -15,11 +15,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To use Logseq for daily journaling, open the default Journals page and treat the current date as an inbox for everything: thoughts, tasks, meeting notes, and habit tracking. By [writing](/posts/atomic-notes-writing-guide/) in outlines and liberally tagging topics using double brackets (`[[Topic]]`), your daily journal entries organically assemble a bottom-up, interconnected personal knowledge graph without requiring folders or rigid categorization beforehand.
 
-Keeping a daily journal often devolves into an administrative chore. Many digital systems force you to categorize a thought before you have fully formed it, asking you to choose a folder, a tag, and a title before you can type a single word. This friction disrupts the flow of capturing ideas. Logseq resolves this by inverting the standard file hierarchy structure. Instead of top-down folders, Logseq operates as a [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first, local outliner built on top of a graph database, with the daily journal serving as the gravitational center of your workflow. 
+Keeping a daily journal often devolves into an administrative chore. Many digital systems force you to categorize a thought before you have fully formed it, asking you to choose a folder, a tag, and a title before you can type a single word. This friction disrupts the flow of capturing ideas. Logseq resolves this by inverting the standard file hierarchy structure. Instead of top-down folders, Logseq operates as a [privacy](/posts/anytype-review-local-first-privacy-lovers/)-first, local outliner built on top of a graph database, with the daily journal serving as the gravitational center of your [workflow](/posts/using-the-para-method-in-google-drive/). 
 
 When you learn how to use Logseq for daily journaling, you stop worrying about where information belongs. The journal becomes a friction-free inbox. Because Logseq operates at the block level—meaning every bullet point is a discrete, referenceable node in a database—you can drop a meeting note, a grocery list, and a profound philosophical realization into the exact same page. Through bidirectional linking, those isolated thoughts automatically route themselves to the correct conceptual pages. 
 
-This guide breaks down exactly how to transition to a bottom-up journaling system in Logseq, complete with practical strategies for templates, task management, and avoiding common structural mistakes.
+This guide breaks down exactly how to transition to a bottom-up journaling system in Logseq, complete with practical strategies for [templates](/posts/logseq-templates-for-doctoral-research-students/), task management, and avoiding common structural mistakes.
 
 ## The Philosophy of Logseq Journals
 
@@ -37,7 +37,7 @@ Before you start writing, optimizing your Logseq environment for daily journalin
 By default, Logseq stores your daily entries in a `journals` folder within your designated graph directory. Each day generates a new Markdown file (e.g., `2026_05_03.md`). You can customize the date format in Logseq’s settings (`Settings > Editor > Preferred date format`). Choose a format that makes sense to you, though the default `MMM do, yyyy` (e.g., May 3rd, 2026) is highly readable within the app.
 
 ### Setting Up a Dedicated Local Folder
-Ensure your Logseq graph is stored in a location that is backed up securely. If you plan to sync across devices, utilizing a cloud service like iCloud Drive, Dropbox, or Logseq's native encrypted Sync service is recommended. Because the daily journal relies on continuous, quick capture, having reliable access across your phone and desktop reduces the barrier to entry.
+Ensure your Logseq graph is stored in a location that is backed up securely. If you plan to sync across devices, utilizing a cloud service like iCloud Drive, Dropbox, or Logseq's native encrypted Sync service is recommended. Because the daily journal relies on continuous, [quick capture](/posts/reflect-notes-vs-obsidian-for-quick-capture/), having reliable access across your phone and desktop reduces the barrier to entry.
 
 ## Core Techniques for Journaling in Logseq
 
