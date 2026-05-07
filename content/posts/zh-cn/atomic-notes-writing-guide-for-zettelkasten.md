@@ -162,4 +162,6 @@ Logseq 是 Roam 的一个开源、隐私优先的替代方案。它利用相同�
 
 ## Related Reading
 
+- [Best Citation Management Software for Zettelkasten Systems in 2026](/posts/citation-management-software-for-zettelkasten-systems/)
+
 - [How to Set Up Obsidian Sync on Android: A Complete Guide](/posts/setup-guide-for-obsidian-sync-on-android/)

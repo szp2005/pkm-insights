@@ -191,6 +191,8 @@ No. Author names and publication years represent metadata, not conceptual catego
 
 ## Related Reading
 
+- [Best AI Tools for Academic Research Notes in 2026](/posts/ai-tools-for-academic-research-notes-2026/)
+
 - [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
 
 - [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)

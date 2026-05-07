@@ -1,4 +1,5 @@
 ---
+image: "/og/ai-tools-for-academic-research-notes-2026.webp"
 title: "Best AI Tools for Academic Research Notes in 2026"
 description: "Discover the top AI tools for academic research notes in 2026. Compare features, pricing, and workflows to streamline your literature review and synthesis."
 pubDate: "2026-05-07"
@@ -97,3 +98,9 @@ Currently, discovery tools like Elicit and ResearchRabbit offer direct, seamless
 
 ### What hardware do I need to run local AI research models?
 To smoothly run modern, capable 8-billion to 14-billion parameter models locally for note analysis, you need an Apple Silicon Mac (M1/M2/M3/M4) with at least 16GB of Unified Memory, or a Windows/Linux PC equipped with an Nvidia GPU containing at least 8GB of VRAM. Attempting to run local models on older, integrated graphics will result in unworkable generation speeds.
+
+---
+
+## Related Reading
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)

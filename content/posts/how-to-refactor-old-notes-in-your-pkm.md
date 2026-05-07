@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-refactor-old-notes-in-your-pkm.webp"
 title: "How to Refactor Old Notes in Your PKM: 5-Step System"
 description: "Learn how to refactor old notes in your PKM to eliminate digital clutter, improve retrieval speed, and build a sustainable knowledge base."
 pubDate: "2026-05-07"
@@ -114,3 +115,15 @@ While you can automate the identification of notes needing work (via queries) an
 
 ### How often should I perform a major vault audit?
 Rather than major audits, rely on continuous, incremental maintenance. However, dedicating an hour once a quarter to review your metadata schema, update your main index pages, and clear out obvious clutter can keep the system aligned with your current goals.
+
+---
+
+## Related Reading
+
+- [What Is Folgezettel Numbering in Zettelkasten Systems: A Complete Guide](/posts/what-is-folgezettel-numbering-in-zettelkasten-systems/)
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

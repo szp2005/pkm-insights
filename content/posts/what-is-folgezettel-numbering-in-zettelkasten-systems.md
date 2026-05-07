@@ -1,4 +1,5 @@
 ---
+image: "/og/what-is-folgezettel-numbering-in-zettelkasten-systems.webp"
 title: "What Is Folgezettel Numbering in Zettelkasten Systems: A Complete Guide"
 description: "Learn what is folgezettel numbering in Zettelkasten systems. Discover how this branching ID method creates infinite connections for better knowledge management."
 pubDate: "2026-05-07"
@@ -159,3 +160,11 @@ No, it is not strictly necessary. Many modern PKM experts use pure linking, tags
 
 ### What happens if a note belongs in two different Folgezettel branches?
 Luhmann's rule was to place the note behind the sequence that was most relevant at the time of writing. To connect it to the second branch, he would simply add a hyperlink (a cross-reference) on the card pointing to the other sequence. You do not need to duplicate the note.
+
+---
+
+## Related Reading
+
+- [How to Refactor Old Notes in Your PKM: 5-Step System](/posts/how-to-refactor-old-notes-in-your-pkm/)
+
+- [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)

@@ -1,4 +1,5 @@
 ---
+image: "/og/citation-management-software-for-zettelkasten-systems.webp"
 title: "Best Citation Management Software for Zettelkasten Systems in 2026"
 description: "Compare the top citation management software for Zettelkasten systems. Discover which tools integrate best with Obsidian, Roam, and Logseq for seamless research."
 pubDate: "2026-05-07"

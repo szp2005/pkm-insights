@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-structure-dataview-queries-for-research.webp"
 title: "How to Structure Dataview Queries for Research: 5-Step Guide"
 description: "Learn how to structure Dataview queries for research in Obsidian. This guide covers table, list, and task queries to organize notes and find insights faster."
 pubDate: "2026-05-07"
@@ -251,3 +252,9 @@ You can exclude notes containing a specific tag by using the exclamation mark (`
 
 ### Does Dataview alter or delete my Markdown files?
 No. Dataview is strictly a read-only plugin. It renders views based on your existing files and metadata but cannot edit, move, or delete the underlying Markdown notes. Your data remains safe and portable.
+
+---
+
+## Related Reading
+
+- [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)
