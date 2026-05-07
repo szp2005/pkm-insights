@@ -1,4 +1,5 @@
 ---
+image: "/og/custom-obsidian-plugins-for-academic-researchers.webp"
 title: "7 Best Custom Obsidian Plugins for Academic Researchers in 2026"
 description: "Discover the top custom Obsidian plugins for academic researchers. Streamline citation management, PDF annotation, and dynamic note-taking workflows in 2026."
 pubDate: "2026-05-07"
@@ -139,3 +140,13 @@ Researchers typically use a community plugin that integrates with Pandoc, a univ
 
 ### Can I use Obsidian on multiple computers?
 Yes. Because Obsidian vaults are just local folders of Markdown files, you can sync them using standard services like Dropbox, iCloud, or Google Drive. Obsidian also offers an official, end-to-end encrypted paid sync service for a more seamless experience across desktop and mobile devices.
+
+---
+
+## Related Reading
+
+- [Best Premium Obsidian Academic Workflow Templates 2026](/posts/premium-obsidian-academic-workflow-templates-2026/)
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)

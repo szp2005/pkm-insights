@@ -151,6 +151,8 @@ In practice, they serve the same function. "Index" usually refers to the absolut
 
 ## Related Reading
 
+- [Obsidian Zettelkasten Vault Starter Kit Download (2026 Guide)](/posts/obsidian-zettelkasten-vault-starter-kit-download/)
+
 - [Obsidian vs Joplin for Offline Knowledge Management: Which Is Better in 2026?](/posts/obsidian-vs-joplin-offline-knowledge-management/)
 
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

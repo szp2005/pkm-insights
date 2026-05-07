@@ -1,4 +1,5 @@
 ---
+image: "/og/premium-obsidian-academic-workflow-templates-2026.webp"
 title: "Best Premium Obsidian Academic Workflow Templates 2026"
 description: "Discover the top premium Obsidian academic workflow templates in 2026. Compare features, pricing, and integrations to boost your research productivity today."
 pubDate: "2026-05-07"

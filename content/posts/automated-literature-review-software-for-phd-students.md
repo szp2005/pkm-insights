@@ -1,4 +1,5 @@
 ---
+image: "/og/automated-literature-review-software-for-phd-students.webp"
 title: "Best Automated Literature Review Software for PhD Students in 2026"
 description: "Discover the top automated literature review software for PhD students to streamline research, map citation networks, and write your dissertation faster."
 pubDate: "2026-05-07"

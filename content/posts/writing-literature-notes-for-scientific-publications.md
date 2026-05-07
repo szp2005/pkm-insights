@@ -146,4 +146,6 @@ Instead of separating them into rigid folders by field, keep all literature note
 
 ## Related Reading
 
+- [Best Automated Literature Review Software for PhD Students in 2026](/posts/automated-literature-review-software-for-phd-students/)
+
 - [Best Markdown Editors for Academic Research Writing in 2026](/posts/best-markdown-editors-for-academic-research-writing/)
