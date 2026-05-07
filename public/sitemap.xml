@@ -277,6 +277,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pkm.notes-automate.com/posts/differences-between-fleeting-and-permanent-notes-explained/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pkm.notes-automate.com/posts/digital-decluttering-for-information-overload/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -368,6 +374,12 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-create-a-zettelkasten-index-in-obsidian/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/how-to-implement-map-of-content-in-obsidian/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -626,6 +638,12 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-vault-templates-for-creative-professionals/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/posts/optimizing-dataview-plugin-for-research-workflows/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
