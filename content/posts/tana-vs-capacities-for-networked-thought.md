@@ -168,3 +168,5 @@ Tana uses "supernodes," where any block of text can become a structured entity w
 - [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)
 
 - [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)
+
+- [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)

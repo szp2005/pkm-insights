@@ -1,4 +1,5 @@
 ---
+image: "/og/devonthink-vs-obsidian-for-document-management-workflows.webp"
 title: "DEVONthink vs Obsidian: Which Is Better for Document Management Workflows?"
 description: "Compare DEVONthink vs Obsidian for document management workflows. Discover which tool offers better search, linking, and organization for your specific needs."
 pubDate: "2026-05-07"

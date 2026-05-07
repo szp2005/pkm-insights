@@ -1,4 +1,5 @@
 ---
+image: "/og/zotero-vs-mendeley-for-obsidian-integration-comparison.webp"
 title: "Zotero vs Mendeley for Obsidian Integration: 2026 Comparison"
 description: "Discover whether Zotero or Mendeley offers the best Obsidian integration for your academic workflow, with detailed comparisons of plugins, sync, and PDF extraction."
 pubDate: "2026-05-07"

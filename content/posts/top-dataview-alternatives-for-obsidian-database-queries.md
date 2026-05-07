@@ -174,3 +174,9 @@ Obsidian Projects tends to offer the most responsive mobile experience, particul
 
 ### Is Dataview going to be deprecated?
 Dataview is still heavily supported and actively used by the community. However, the developer's primary focus for future features and major architectural rewrites is directed toward Datacore, which will eventually supersede it.
+
+---
+
+## Related Reading
+
+- [Zotero vs Mendeley for Obsidian Integration: 2026 Comparison](/posts/zotero-vs-mendeley-for-obsidian-integration-comparison/)

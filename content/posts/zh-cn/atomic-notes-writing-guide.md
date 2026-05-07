@@ -180,6 +180,8 @@ Zettelkasten 不是一条单行道。当你发表一篇源自你的原子笔记�
 
 ## Related Reading
 
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)
+
 - [Bi-Directional Linking for Creative Writing Workflows: Complete Guide](/posts/bi-directional-linking-for-creative-writing-workflows/)
 
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

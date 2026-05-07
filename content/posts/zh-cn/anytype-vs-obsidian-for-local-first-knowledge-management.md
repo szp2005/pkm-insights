@@ -143,6 +143,8 @@ Obsidian 通常更适合传统的 Zettelkasten 和学术研究。它的纯文本
 
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
 
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+
 - [How to Start a Digital Garden for Writers: 5-Step Guide](/posts/how-to-start-a-digital-garden-for-writers/)
 
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

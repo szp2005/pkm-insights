@@ -168,6 +168,8 @@ Milanote明确迎合创意专业人士，而不是学术研究人员或开发者
 
 ## Related Reading
 
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+
 - [Maintaining Links in Long Term Research Notes: 5-Step Guide](/posts/maintaining-links-in-long-term-research-notes/)
 
 - [Logseq Whiteboards for Visual Knowledge Mapping: A Complete Guide](/posts/logseq-whiteboards-for-visual-knowledge-mapping/)
