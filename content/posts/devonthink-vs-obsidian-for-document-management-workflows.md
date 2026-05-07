@@ -23,6 +23,8 @@ DEVONthink acts as an intelligent, bottomless filing cabinet that automates orga
 
 This guide breaks down the core differences, strengths, and ideal use cases for DEVONthink vs Obsidian to help you build a document management workflow that actually scales.
 
+If your primary archive is academic papers rather than mixed office files, start with a [Zotero and Obsidian research paper workflow](/posts/how-to-organize-research-papers-using-zotero-and-obsidian/) before choosing a broader document management system.
+
 ## Understanding the Core Philosophies
 
 Before diving into feature checklists, it is essential to understand the architectural philosophy driving each application.

@@ -21,6 +21,8 @@ However, when you introduce a Personal Knowledge Management (PKM) tool like Obsi
 
 This comprehensive comparison breaks down exactly how Zotero and Mendeley handle Obsidian integration, examining plugin ecosystems, PDF annotation workflows, and long-term data portability.
 
+For the full note-taking side of the workflow, connect your reference manager to an [Obsidian academic thesis workflow](/posts/obsidian-academic-workflow-for-thesis-2026/) so citations, literature notes, and chapter drafts do not live in separate systems.
+
 ## The Reference Managers at a Glance
 
 Before diving into the Obsidian-specific workflows, it is essential to understand the core philosophy and architecture of both applications, as these foundational differences dictate how well they integrate with external tools.
