@@ -196,6 +196,8 @@ For simple filtering and sorting, DQL is highly optimized and often faster. Howe
 
 ## Related Reading
 
+- [Top Dataview Alternatives for Obsidian Database Queries in 2026](/posts/top-dataview-alternatives-obsidian-database-queries/)
+
 - [How to Implement Map of Content in Obsidian: 5-Step Setup](/posts/how-to-implement-map-of-content-in-obsidian/)
 
 - [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)

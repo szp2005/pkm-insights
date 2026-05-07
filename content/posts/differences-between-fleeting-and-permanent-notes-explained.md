@@ -144,4 +144,6 @@ Not necessarily, and often it is better if you do not. Many [productivity](/post
 
 ## Related Reading
 
+- [How to Tag Academic Research Notes Effectively: 5-Step Guide](/posts/how-to-tag-academic-research-notes-effectively/)
+
 - [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

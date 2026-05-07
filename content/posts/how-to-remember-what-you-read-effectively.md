@@ -10,9 +10,9 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-> **Quick Answer:** Remember What You Read Effectively matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Stop forgetting the books and articles you read. Discover science-backed strategies, from active reading to [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/), to transform information into permanent knowledge.
+> **Quick Answer:** Remember What You Read Effectively matters because it gives knowledge workers, [students](/posts/how-to-practice-active-recall-using-digital-notes/), and creators a practical way to solve the problem behind the search. Stop forgetting the books and articles you read. Discover science-backed strategies, from active reading to [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/), to transform information into permanent knowledge.
 
-Have you ever finished a brilliant, thought-provoking book, only to realize a week later that you can barely recall its central thesis? You are not alone. In an age of information abundance, we consume more text than any generation in history. Yet, without a deliberate strategy, our brains discard the vast majority of this input like digital exhaust.
+Have you ever finished a brilliant, thought-provoking book, only to realize a week later that you can barely recall its central [thesis](/posts/obsidian-academic-workflow-for-thesis-2026/)? You are not alone. In an age of information abundance, we consume more text than any generation in history. Yet, without a deliberate strategy, our brains discard the vast majority of this input like digital exhaust.
 
 The disparity between what we consume and what we retain is one of the greatest inefficiencies in modern intellectual life. Reading without retaining is akin to pouring water into a leaky bucket. To build a robust reservoir of knowledge, we must patch the leaks and redesign the bucket entirely. 
 

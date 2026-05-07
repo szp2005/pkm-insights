@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-tag-academic-research-notes-effectively.webp"
 title: "How to Tag Academic Research Notes Effectively: 5-Step Guide"
 description: "Learn how to tag academic research notes effectively with our proven system. Discover taxonomy frameworks to organize citations and accelerate your writing."
 pubDate: "2026-05-07"
@@ -183,3 +184,11 @@ Do not delete your old tags. Instead, create an `#archive/` prefix and bulk-rena
 
 ### Do I need to tag authors and publication years?
 No. Author names and publication years represent metadata, not conceptual categories. These should be stored as YAML frontmatter attributes (e.g., `author: Smith, J.`) or as bi-directional links (e.g., `[[Smith 2023]]`). Reserve the tagging system strictly for thematic categorization and workflow status.
+
+---
+
+## Related Reading
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
+
+- [Best E-Ink Tablets for Handwritten Digital Notes 2026](/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/)

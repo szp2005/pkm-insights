@@ -1,4 +1,5 @@
 ---
+image: "/og/top-dataview-alternatives-obsidian-database-queries.webp"
 title: "Top Dataview Alternatives for Obsidian Database Queries in 2026"
 description: "Looking for top Dataview alternatives for Obsidian database queries? Compare the best plugins for managing tables, queries, and metadata in your PKM system."
 pubDate: "2026-05-07"

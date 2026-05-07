@@ -1,4 +1,5 @@
 ---
+image: "/og/writing-literature-notes-for-scientific-publications.webp"
 title: "Writing Literature Notes for Scientific Publications: 5-Step System"
 description: "Master the art of writing literature notes for scientific publications. Learn to extract key data, synthesize research, and accelerate your academic writing."
 pubDate: "2026-05-07"
@@ -140,3 +141,9 @@ A literature note summarizes the findings and context of a single specific sourc
 
 ### How do I organize literature notes if I work in multiple distinct fields?
 Instead of separating them into rigid folders by field, keep all literature notes in a single directory and use tags (e.g., `#neuroscience`, `#machine-learning`) and bidirectional links to create connections. This allows for cross-pollination of ideas, where a methodology from one field might unexpectedly solve a problem in another.
+
+---
+
+## Related Reading
+
+- [Best Markdown Editors for Academic Research Writing in 2026](/posts/best-markdown-editors-for-academic-research-writing/)

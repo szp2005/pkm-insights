@@ -1,4 +1,5 @@
 ---
+image: "/og/best-markdown-editors-for-academic-research-writing.webp"
 title: "Best Markdown Editors for Academic Research Writing in 2026"
 description: "Discover the best markdown editors for academic research writing. Compare features, citation support, and export options to streamline your academic workflow."
 pubDate: "2026-05-07"
@@ -157,3 +158,11 @@ Very few journals accept raw `.md` files directly. However, the purpose of a Mar
 
 ### Will I lose my formatting if I switch Markdown editors?
 No. Markdown is an open, standardized plain-text format. A file created in Zettlr can be opened, read, and edited in Obsidian, Typora, or even a basic application like Windows Notepad. Your data is not locked into a proprietary file format.
+
+---
+
+## Related Reading
+
+- [Writing Literature Notes for Scientific Publications: 5-Step System](/posts/writing-literature-notes-for-scientific-publications/)
+
+- [Best Automated Note-Taking Tools for Zoom Meetings in 2026](/posts/automated-note-taking-tools-for-zoom-meetings-2026/)

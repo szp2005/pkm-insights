@@ -13,7 +13,7 @@ type: "informational"
 In an era where data is generated at an unprecedented velocity, the modern professional faces a relentless barrage of emails, notifications, articles, and messages. 
  This constant stream of data has birthed a modern epidemic: digital information overload. When the cognitive demand of processing information exceeds our cognitive capacity, [productivity](/posts/zettelkasten-method-explained/) plummets, decision fatigue sets in, and chronic stress becomes the baseline state.
 
-Managing digital information overload is no longer a soft skill; it is a critical competency for knowledge workers. This comprehensive guide provides expert, practical advice to help you transform your digital environment from a source of anxiety into an engine of focused productivity.
+Managing digital information overload is no longer a soft skill; it is a critical competency for knowledge workers. This comprehensive guide provides expert, practical advice to help you transform your digital environment from a source of anxiety into an engine of focused [productivity](/posts/differences-between-fleeting-and-permanent-notes-explained/).
 
 ## The Architecture of Overload: Understanding the Problem
 
