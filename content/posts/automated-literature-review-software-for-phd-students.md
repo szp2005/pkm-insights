@@ -21,6 +21,8 @@ Automated literature review software has evolved beyond simple reference manager
 
 For a PhD student, time is the scarcest resource. Transitioning to an automated, AI-assisted workflow allows you to spend less time formatting spreadsheets and hunting down PDFs, and more time synthesizing ideas and writing your dissertation. This guide evaluates the most effective tools available in 2026, breaking down their specific utility for different stages of the doctoral journey.
 
+For the note-taking layer behind these discovery tools, pair your review workflow with a [Zotero and Obsidian research paper system](/posts/how-to-organize-research-papers-using-zotero-and-obsidian/) so sources, annotations, and synthesis notes stay connected.
+
 ## The Reality of the Modern Literature Review
 
 A rigorous literature review is the foundation of any defensible dissertation. It requires you to prove that you understand the historical trajectory of your field, the current methodological debates, and the exact gap your research will fill. 

@@ -21,6 +21,8 @@ The market for premium Obsidian templates has matured significantly. In 2026, th
 
 This guide evaluates the top premium Obsidian academic workflow templates available this year, breaking down their specific use cases, technical architectures, and exact tradeoffs to help you select the system that best aligns with your research discipline.
 
+If you prefer building your own system before buying a template, map these products against an [Obsidian academic thesis workflow](/posts/obsidian-academic-workflow-for-thesis-2026/) so you know which dashboards and metadata rules are truly worth paying for.
+
 ## Scholar OS Pro: Best for Humanities and Literature Reviews
 
 Scholar OS Pro ($49) is engineered specifically for researchers operating in the humanities, social sciences, and qualitative fields where massive volumes of reading, summarizing, and synthesis are the primary outputs. 

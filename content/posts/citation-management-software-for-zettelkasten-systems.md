@@ -21,6 +21,8 @@ For researchers, authors, and knowledge workers relying on the Zettelkasten meth
 
 Finding the right citation management software for Zettelkasten systems means prioritizing interoperability over proprietary formatting. This guide evaluates the top tools available, examining their export capabilities, markdown integration, and overall reliability for personal knowledge management workflows.
 
+If you are deciding between the two dominant academic managers, start with the [Zotero vs Mendeley Obsidian integration comparison](/posts/zotero-vs-mendeley-for-obsidian-integration-comparison/) before committing your citation keys and PDF annotations to a long-term system.
+
 ## The Disconnect Between Standard Reference Managers and Zettelkasten
 
 Most commercial reference managers prioritize institutional collaboration and word processor plugins. Mendeley, EndNote, and similar legacy platforms store your annotations and metadata in proprietary cloud databases. While this works for formatting APA citations in Microsoft Word, it creates significant friction for Zettelkasten workflows.

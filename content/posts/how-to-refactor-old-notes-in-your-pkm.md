@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-refactor-old-notes-in-your-pkm.webp"
-title: "How to Refactor Old Notes in Your PKM: 5-Step System"
+title: "Old PKM Note Refactoring: 5-Step System"
 description: "Learn how to refactor old notes in your PKM to eliminate digital clutter, improve retrieval speed, and build a sustainable knowledge base."
 pubDate: "2026-05-07"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Refactor Old Notes in Your PKM: 5-Step System
+# Old PKM Note Refactoring: 5-Step System
 
 > **Quick Answer:** To refactor old notes in your Personal Knowledge Management (PKM) system, isolate outdated files, break long pages into atomic ideas, standardize your metadata and tagging schema, update internal links to modern taxonomy, and archive low-value content. This improves retrieval efficiency and creates a more robust knowledge network.
 

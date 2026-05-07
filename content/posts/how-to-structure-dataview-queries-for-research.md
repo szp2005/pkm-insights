@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-structure-dataview-queries-for-research.webp"
-title: "How to Structure Dataview Queries for Research: 5-Step Guide"
+title: "Dataview Queries for Research: 5-Step Guide"
 description: "Learn how to structure Dataview queries for research in Obsidian. This guide covers table, list, and task queries to organize notes and find insights faster."
 pubDate: "2026-05-07"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Structure Dataview Queries for Research: 5-Step Guide
+# Dataview Queries for Research: 5-Step Guide
 
 > **Quick Answer:** To structure Dataview queries for research effectively, start with a clear command (`TABLE`, `LIST`, or `TASK`), define your data source using `FROM` (a specific folder or tag), filter the results using `WHERE` to narrow down relevant properties (e.g., status or author), and organize the output using `SORT` and `GROUP BY`. Using standardized frontmatter fields in your notes allows you to build dynamic indexes of literature, empirical data, and thematic connections.
 

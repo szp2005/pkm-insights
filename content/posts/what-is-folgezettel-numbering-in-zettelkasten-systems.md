@@ -1,6 +1,6 @@
 ---
 image: "/og/what-is-folgezettel-numbering-in-zettelkasten-systems.webp"
-title: "What Is Folgezettel Numbering in Zettelkasten Systems: A Complete Guide"
+title: "Folgezettel Numbering in Zettelkasten Systems: Complete Guide"
 description: "Learn what is folgezettel numbering in Zettelkasten systems. Discover how this branching ID method creates infinite connections for better knowledge management."
 pubDate: "2026-05-07"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# What Is Folgezettel Numbering in Zettelkasten Systems: A Complete Guide
+# Folgezettel Numbering in Zettelkasten Systems: Complete Guide
 
 > **Quick Answer:** Folgezettel numbering in Zettelkasten systems is an alphanumeric identification method (e.g., 1, 1a, 1a1, 1b) created by sociologist Niklas Luhmann. It allows note-takers to insert new ideas anywhere within an existing sequence, creating infinite, branching thought trails without relying on rigid, top-down folder hierarchies.
 
