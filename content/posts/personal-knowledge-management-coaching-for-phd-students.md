@@ -21,6 +21,8 @@ Traditional academic methods for managing information, such as scattered notes, 
 
 However, building an effective PKM system from scratch can be another daunting task for already time-strapped PhD students. This is precisely why specialized personal knowledge management coaching for PhD students has become an invaluable resource. A dedicated coach can guide doctoral candidates through the process of designing, implementing, and refining a PKM system that is perfectly aligned with their specific research needs, cognitive style, and long-term academic goals, transforming information chaos into a powerful engine for discovery and thesis completion.
 
+Independent researchers can adapt many of the same coaching patterns; compare this approach with [personal knowledge management for independent researchers](/posts/personal-knowledge-management-for-independent-researchers/) when you need a lighter system outside a formal PhD program.
+
 ## Understanding Personal Knowledge Management (PKM) in a PhD Context
 
 Personal Knowledge Management (PKM) refers to the set of processes an individual uses to collect, classify, store, search, retrieve, and share knowledge. For PhD students, PKM is not merely about organizing files; it is about creating an integrated system that supports deep learning, critical thinking, and original research output. It moves beyond simple task management to encompass the entire lifecycle of knowledge, from initial encounter to final publication.

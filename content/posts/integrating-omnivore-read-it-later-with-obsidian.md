@@ -1,6 +1,6 @@
 ---
 image: "/og/integrating-omnivore-read-it-later-with-obsidian.webp"
-title: "How to Integrate Omnivore Read It Later with Obsidian: A Complete Guide"
+title: "Integrate Omnivore Read It Later with Obsidian: A Complete Guide"
 description: "Practical guide to integrating omnivore read it later with obsidian: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Integrate Omnivore Read It Later with Obsidian: A Complete Guide
+# Integrate Omnivore Read It Later with Obsidian: A Complete Guide
 
 > **Quick Answer:** Integrating Omnivore read it later with Obsidian creates a powerful system for capturing, annotating, and organizing web content directly within your personal knowledge base. This synergy is primarily achieved through the official Omnivore plugin for Obsidian, which automates the synchronization of articles, highlights, and notes, significantly streamlining research and knowledge synthesis workflows.
 

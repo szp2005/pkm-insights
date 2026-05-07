@@ -106,3 +106,5 @@ To smoothly run modern, capable 8-billion to 14-billion parameter models locally
 - [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
 
 - [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)
+
+- [Best PDF Annotation Tools for Academic PKM in 2026](/posts/best-pdf-annotation-tools-for-academic-pkm/)

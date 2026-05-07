@@ -83,3 +83,9 @@ Keep approvals on sensitive steps, log every run, and test with a small sample b
 ### How do you measure whether obsidian sync alternatives for budget researchers 2026 is working?
 
 Track cycle time, skipped manual steps, error rate, and user follow-up questions. If the workflow saves time but creates confusion, simplify the handoff before adding more automation.
+
+---
+
+## Related Reading
+
+- [7 Best Capacities Templates for University Students in 2026](/posts/best-capacities-templates-for-university-students/)

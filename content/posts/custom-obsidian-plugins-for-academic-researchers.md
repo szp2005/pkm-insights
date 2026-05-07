@@ -145,6 +145,8 @@ Yes. Because Obsidian vaults are just local folders of Markdown files, you can s
 
 ## Related Reading
 
+- [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
+
 - [Best Premium Obsidian Academic Workflow Templates 2026](/posts/premium-obsidian-academic-workflow-templates-2026/)
 
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)

@@ -21,6 +21,8 @@ For many, Obsidian has become the tool of choice for cultivating these personal 
 
 This article will explore the leading digital garden hosting platforms and methodologies specifically tailored for Obsidian users in 2026. We will delve into the features, advantages, and considerations for each option, providing a comprehensive guide to help you select the most suitable platform for sharing your evolving knowledge with the world.
 
+If you are still designing the publishing workflow itself, start with [sharing your Obsidian digital garden online](/posts/how-to-share-your-obsidian-digital-garden-online/) before comparing hosting platforms, because deployment friction and maintenance expectations shape the right choice.
+
 ## Understanding Digital Gardens and Obsidian's Role
 
 A digital garden is fundamentally different from a blog or a wiki. While a blog presents finished articles in reverse chronological order, a digital garden is a living, breathing entity where notes are often "evergreen," continually updated and refined. It embraces incompleteness and the iterative nature of learning, encouraging readers to explore connections rather than follow a prescribed path. The metaphor of a garden suggests cultivation, growth, and interconnectedness, where ideas are tended to and allowed to flourish.

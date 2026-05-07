@@ -111,6 +111,8 @@ While a basic understanding of Zettelkasten principles (atomicity, linking, perm
 
 ## Related Reading
 
+- [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)
+
 - [Physical Index Cards for Analog Zettelkasten: A Complete Setup Guide](/posts/physical-index-cards-analog-zettelkasten-setup/)
 
 - [Atomic Notes Writing Guide for Zettelkasten: 5-Step System](/posts/atomic-notes-writing-guide-for-zettelkasten/)

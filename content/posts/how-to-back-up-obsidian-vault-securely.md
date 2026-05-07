@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-back-up-obsidian-vault-securely.webp"
-title: "How to Back Up Obsidian Vault Securely: A Comprehensive Guide"
+title: "Back Up Obsidian Vault Securely: A Comprehensive Guide"
 description: "Learn how to back up your Obsidian vault securely with this comprehensive guide. Protect your valuable notes and ensure data integrity with robust backup strategies."
 pubDate: "2026-05-07"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Back Up Obsidian Vault Securely: A Comprehensive Guide
+# Back Up Obsidian Vault Securely: A Comprehensive Guide
 
 > **Quick Answer:** Securely backing up your Obsidian vault involves a multi-layered strategy combining local copies, encrypted cloud synchronization, and version control. Automate these processes and regularly verify your backups to ensure your valuable notes are protected against data loss, corruption, or accidental deletion.
 

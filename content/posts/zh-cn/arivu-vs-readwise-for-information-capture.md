@@ -154,6 +154,8 @@ Arivu 允许数据导出，但它的价值主张是让你留在其生态系统�
 
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
 
+- [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)
+
 - [Anytype vs Obsidian: Best Local-First Knowledge Management?](/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 
 - [The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain](/posts/best-apps-for-personal-knowledge-management/)

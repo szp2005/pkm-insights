@@ -1,6 +1,6 @@
 ---
 image: "/og/organizing-literature-notes-for-medical-school-students.webp"
-title: "How to Organize Literature Notes for Medical School: A Complete Guide"
+title: "Literature Notes for Medical School: A Complete Guide"
 description: "Master the art of organizing literature notes for medical school students with this comprehensive guide, ensuring efficient study and retention of complex."
 pubDate: "2026-05-07"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Organize Literature Notes for Medical School: A Complete Guide
+# Literature Notes for Medical School: A Complete Guide
 
 > **Quick Answer:** Effective organization of literature notes for medical school students involves a systematic approach combining digital tools like Zotero or Obsidian with active learning strategies such as spaced repetition and concept mapping. Prioritizing consistent capture, categorization, and regular review ensures that complex medical information is not only retained but also readily accessible for exams and clinical application.
 

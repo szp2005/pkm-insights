@@ -20,6 +20,8 @@ Obsidian, a powerful knowledge management tool, combined with its Dataview plugi
 
 This article explores the best Obsidian Dataview templates specifically designed to meet the evolving needs of academic researchers in 2026. We will delve into templates that streamline literature reviews, optimize project management, and accelerate the critical process of knowledge synthesis, providing concrete examples and practical advice to empower your research workflow.
 
+For query design fundamentals before adopting these templates, review [Dataview queries for research](/posts/how-to-structure-dataview-queries-for-research/) so your metadata fields, filters, and dashboards stay consistent across projects.
+
 ## The Strategic Advantage of Obsidian Dataview for Academic Research
 
 In an era defined by information overload, the ability to efficiently manage, retrieve, and synthesize research data is a critical differentiator for academic success. Obsidian, at its core, provides a robust environment for interconnected note-taking, leveraging Markdown for simplicity and extensibility. Its true power for researchers, however, is unlocked by plugins like Dataview.

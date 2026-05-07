@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-share-your-obsidian-digital-garden-online.webp"
-title: "How to Share Your Obsidian Digital Garden Online: A Comprehensive Guide"
+title: "Share Your Obsidian Digital Garden Online: A Comprehensive Guide"
 description: "Practical guide to how to share your obsidian digital garden online: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"
 author: "Alex Chen"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Share Your Obsidian Digital Garden Online: A Comprehensive Guide
+# Share Your Obsidian Digital Garden Online: A Comprehensive Guide
 
 > **Quick Answer:** To share your Obsidian digital garden online, you can leverage static site generators like Hugo, Jekyll, or Eleventy for full control and customizability, or opt for simpler hosted solutions such as Obsidian Publish, Quartz, or Perlite for quicker setup and less technical overhead. The best method depends on your technical comfort, desired level of customization, and budget.
 
