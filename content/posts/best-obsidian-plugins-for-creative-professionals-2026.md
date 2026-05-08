@@ -9,8 +9,6 @@ slug: "best-obsidian-plugins-for-creative-professionals-2026"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Obsidian Plugins for Creative Professionals in 2026
 
 > **Quick Answer:** The best Obsidian plugins for creative professionals in 2026 significantly enhance idea generation, project management, and content creation. Top picks include Canvas for visual [organization](/posts/steps-to-building-a-second-brain/), Excalidraw for sketching, Dataview for dynamic data management, Longform for structured writing, and QuickAdd for rapid capture and automation, all tailored to streamline complex creative [workflows](/posts/getting-things-done-for-knowledge-workers/).
@@ -46,7 +44,7 @@ Obsidian Canvas transforms your vault into an infinite whiteboard, allowing you 
 - Can become overwhelming with too many elements if not managed.
 - Lacks advanced diagramming features found in dedicated tools.
 
-### 1. [Excalidraw](https://www.amazon.com/s?k=Excalidraw&tag=pkm.notes-automate-20)
+### 1. Excalidraw
 
 **Best for:** Sketching, diagramming, visual note-taking, concept illustration
 **Price:** Free
@@ -63,7 +61,7 @@ Excalidraw brings the power of hand-drawn-style diagrams and sketches directly i
 - Limited advanced drawing features compared to dedicated graphic design [software](/posts/best-apps-for-personal-knowledge-management/).
 - Learning curve for users unfamiliar with drawing tools.
 
-### 2. [Dataview](https://www.amazon.com/s?k=Dataview&tag=pkm.notes-automate-20)
+### 2. Dataview
 
 **Best for:** Project management, data aggregation, dynamic task lists, content curation
 **Price:** Free
@@ -80,7 +78,7 @@ Dataview is a powerful query language that allows you to treat your Obsidian vau
 - Requires understanding of its query syntax, which can have a learning curve.
 - Performance can be affected in extremely large vaults with complex queries.
 
-### 3. [Longform](https://www.amazon.com/s?k=Longform&tag=pkm.notes-automate-20)
+### 3. Longform
 
 **Best for:** Writers, novelists, scriptwriters, academic researchers, structured content creators
 **Price:** Free
@@ -97,7 +95,7 @@ Longform is an essential plugin for any creative professional engaged in extensi
 - Best suited for linear, structured writing, less so for highly fragmented work.
 - Requires initial setup to define project structure.
 
-### 4. [QuickAdd](https://www.amazon.com/s?k=QuickAdd&tag=pkm.notes-automate-20)
+### 4. QuickAdd
 
 **Best for:** Rapid idea capture, workflow automation, templating, daily journaling
 **Price:** Free
@@ -114,7 +112,7 @@ QuickAdd is a versatile plugin designed to streamline the process of adding new 
 - Initial setup can be complex due to its extensive customization options.
 - Over-reliance on automation might obscure manual organization skills.
 
-### 5. [Tasks](https://www.amazon.com/s?k=Tasks&tag=pkm.notes-automate-20)
+### 5. Tasks
 
 **Best for:** Detailed task management, project tracking, habit building
 **Price:** Free

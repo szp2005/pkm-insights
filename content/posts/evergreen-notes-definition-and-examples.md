@@ -8,8 +8,6 @@ tags: ["pkm", "evergreen notes", "zettelkasten", "note-taking", "productivity"]
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 > **Quick Answer:** Evergreen Notes matters because it gives knowledge workers, [students](/posts/how-to-practice-active-recall-using-digital-notes/), and creators a practical way to solve the problem behind the search. Discover the comprehensive definition of evergreen notes, explore their core principles, and analyze practical examples that will revolutionize your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) [workflow](/posts/using-the-para-method-in-google-drive/).
 
 If you have ever stared at a folder full of old notes and realized you cannot remember why you took them or how they relate to your current work, you are experiencing the primary failure of traditional [note-taking](/posts/zettelkasten-method-explained/). Traditional notes are often chronologically organized, context-dependent, and quickly become obsolete. Enter the concept of **evergreen notes**.

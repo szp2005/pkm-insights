@@ -9,8 +9,6 @@ slug: "best-e-ink-tablets-for-handwritten-digital-notes-2026"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 _作为Amazon联盟成员，我们从符合条件的购买中赚取收益。本文可能包含联盟链接。_
 
 # 2026年最佳手写数字笔记电子墨水屏平板电脑推荐
@@ -31,7 +29,7 @@ _作为Amazon联盟成员，我们从符合条件的购买中赚取收益。本�
 
 ## 顶级精选：2026年最佳手写数字笔记电子墨水屏平板电脑推荐
 
-### 1. [reMarkable Paper Pro](https://www.amazon.com/s?k=reMarkable%20Paper%20Pro&tag=pkm.notes-automate-20)
+### 1. reMarkable Paper Pro
 
 **最适合：** 极简主义者和纯粹专注于书写的人
 **价格：** $579-$650
@@ -52,7 +50,7 @@ reMarkable Paper Pro代表了无干扰设计的巅峰。通过引入主动式彩
 - 高级功能需要每月定期订阅
 - 没有背光，在黑暗环境中需要外部光源
 
-### 2. [Supernote A5 X2](https://www.amazon.com/s?k=Supernote%20A5%20X2&tag=pkm.notes-automate-20)
+### 2. Supernote A5 X2
 
 **最适合：** 项目经理、研究人员和超级组织者
 **价格：** $419-$450
@@ -73,7 +71,7 @@ A5 X2的真正威力在于其软件。Supernote允许您在手写笔记中的行
 - 塑料机箱感觉比铝制竞争对手稍逊一筹
 - 缺乏用于夜间读写的内置前置阅读灯
 
-### 3. [Onyx Boox Note Air 3 C](https://www.amazon.com/s?k=Onyx%20Boox%20Note%20Air%203%20C&tag=pkm.notes-automate-20)
+### 3. Onyx Boox Note Air 3 C
 
 **最适合：** 需要完整Android功能的高级用户
 **价格：** $499-$550
@@ -94,7 +92,7 @@ Onyx Boox Note Air 3 C是reMarkable理念的对立面。它是一款成熟的And
 - 用户界面复杂，学习曲线陡峭
 - 电池消耗明显快于极简竞争对手
 
-### 4. [Amazon Kindle Scribe (2nd Gen)](https://www.amazon.com/s?k=Amazon%20Kindle%20Scribe%20%282nd%20Gen%29&tag=pkm.notes-automate-20)
+### 4. Amazon Kindle Scribe (2nd Gen)
 
 **最适合：** 偶尔做笔记的狂热读者
 **价格：** $339-$399
@@ -115,7 +113,7 @@ Amazon带着一个明显的优势进入了数字笔记领域：世界上最强�
 - 笔记组织系统仍然相对基础
 - 被紧紧锁定在Amazon软件生态系统中
 
-### 5. [Kobo Elipsa 2E](https://www.amazon.com/s?k=Kobo%20Elipsa%202E&tag=pkm.notes-automate-20)
+### 5. Kobo Elipsa 2E
 
 **最适合：** 具有环保意识的用户和图书馆借阅者
 **价格：** $399-$420

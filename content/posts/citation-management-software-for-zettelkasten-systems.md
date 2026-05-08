@@ -9,8 +9,6 @@ slug: "citation-management-software-for-zettelkasten-systems"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Citation Management Software for Zettelkasten Systems in 2026
 
 > **Quick Answer:** The best citation management software for Zettelkasten systems is Zotero, thanks to its robust open-source ecosystem, the Better BibTeX plugin, and seamless API integration with markdown-based tools like Obsidian and Logseq. JabRef is a strong alternative for users operating entirely within native BibTeX environments.

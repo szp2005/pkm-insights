@@ -8,8 +8,6 @@ tags: ["PKM", "legal tech", "case research", "productivity"]
 slug: "pkm-for-lawyers-managing-case-research-effectively"
 type: "informational"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # PKM for Lawyers: Managing Case Research Effectively (Complete Guide)
 
 > **Quick Answer:** PKM (Personal Knowledge Management) for lawyers is the systematic process of capturing, linking, and retrieving legal research, case facts, and precedents using networked [note-taking](/posts/zettelkasten-method-explained/) [tools](/posts/personal-knowledge-management-tools-comparison/). By adopting a PKM [workflow](/posts/using-the-para-method-in-google-drive/), attorneys can eliminate redundant research, instantly recall specific arguments from past briefs, and dramatically reduce the time required to prepare for litigation or transactional work.

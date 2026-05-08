@@ -9,8 +9,6 @@ slug: "physical-index-cards-analog-zettelkasten-setup"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Physical Index Cards for Analog Zettelkasten: A Complete Setup Guide
 
 > **Quick Answer:** Setting up an analog Zettelkasten with physical index cards involves selecting durable, consistent cards (A6 or 3x5 inches are common), establishing a unique identification system for each note, and organizing them in a robust storage solution like a card catalog or dedicated box. Focus on creating atomic notes with clear references to build a interconnected knowledge network.

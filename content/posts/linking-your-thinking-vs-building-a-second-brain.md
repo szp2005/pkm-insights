@@ -9,8 +9,6 @@ slug: "linking-your-thinking-vs-building-a-second-brain"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Linking Your Thinking vs Building a Second Brain: Which Is Better for You?
 
 > **Quick Answer:** Building a Second Brain (BASB) relies on top-down categorization (PARA) focusing on project execution and capturing external information, making it ideal for goal-oriented professionals. Linking Your Thinking (LYT) uses bottom-up, map-based organization (MOCs) focusing on idea development and internal reflection, making it better for writers, researchers, and creatives.
@@ -31,7 +29,7 @@ Linking Your Thinking, conversely, is a sense-making system. It evolved from [Ze
 
 ## Framework Reviews
 
-### 1. [Building a Second Brain (BASB)](https://www.amazon.com/s?k=Building%20a%20Second%20Brain%20%28BASB%29&tag=pkm.notes-automate-20)
+### 1. Building a Second Brain (BASB)
 
 **Best for:** Goal-oriented professionals, project managers, and executives
 **Price:** $0-$1500
@@ -50,7 +48,7 @@ Building a Second Brain operates on a highly structured, top-down architecture k
 - Over-capturing can lead to a bloated database of unread highlights
 - Less emphasis on synthesizing original ideas or connecting disparate concepts
 
-### 2. [Linking Your Thinking (LYT)](https://www.amazon.com/s?k=Linking%20Your%20Thinking%20%28LYT%29&tag=pkm.notes-automate-20)
+### 2. Linking Your Thinking (LYT)
 
 **Best for:** Writers, researchers, academics, and creatives
 **Price:** $0-$1200

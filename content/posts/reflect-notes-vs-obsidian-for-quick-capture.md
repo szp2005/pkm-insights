@@ -8,8 +8,6 @@ tags: ["note-taking apps", "knowledge management", "quick capture", "productivit
 slug: "reflect-notes-vs-obsidian-for-quick-capture"
 type: "review"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Reflect Notes vs Obsidian: Which Is Better for Quick Capture?
 
 > **Quick Answer:** For users prioritizing extreme speed, cloud-sync, and a streamlined daily note workflow for quick capture, Reflect Notes often has an edge. Obsidian, while incredibly powerful, requires more setup for optimal quick capture but offers unparalleled customization and [local-first](/posts/anytype-review-local-first-privacy-lovers/) control for those who value a robust, interconnected knowledge base.
@@ -32,7 +30,7 @@ Before diving into the specifics of Reflect Notes and Obsidian, it's crucial to 
 
 Different users will prioritize these aspects differently. A journalist might need to capture quotes on the go, a researcher might want to jot down a sudden insight related to a specific project, and a busy professional might just need to log a task before it's forgotten. The ideal tool adapts to these varied demands.
 
-## 1. [Reflect Notes](https://www.amazon.com/s?k=Reflect%20Notes&tag=pkm.notes-automate-20)
+## 1. Reflect Notes
 
 **Best for:** Users prioritizing instant capture, daily journaling, AI integration, and seamless cloud sync across devices.
 **Price:** $10-$15/month (subscription-based)
@@ -52,7 +50,7 @@ Reflect Notes is a relatively newer entrant that has quickly gained traction for
 -   Less customizable than Obsidian, with a more opinionated workflow.
 -   Cloud-only storage might be a concern for users prioritizing local data control.
 
-## 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
+## 2. Obsidian
 
 **Best for:** Power users, developers, researchers, and anyone seeking ultimate control, customization, and a local-first knowledge base.
 **Price:** Free (core app), $25/year for Sync, $50/year for Publish (optional services)

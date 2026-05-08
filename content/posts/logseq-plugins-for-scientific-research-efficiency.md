@@ -9,8 +9,6 @@ slug: "logseq-plugins-for-scientific-research-efficiency"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Logseq Plugins for Scientific Research Efficiency in 2026
 
 > **Quick Answer:** The most impactful Logseq plugins for scientific research efficiency include the Logseq Zotero Integration for [citation management](/posts/tana-workspace-for-managing-academic-citations/), the PDF Export plugin for extracting literature highlights, and Graph Analysis for discovering hidden connections between research papers. Combining these [tools](/posts/personal-knowledge-management-tools-comparison/) transforms Logseq from a simple outliner into a robust academic knowledge base.
@@ -31,7 +29,7 @@ Furthermore, the outliner structure encourages modular thinking. Instead of [wri
 
 Here is a detailed breakdown of the tools that will fundamentally upgrade your academic workflow.
 
-### 1. [Logseq Zotero Integration](https://www.amazon.com/s?k=Logseq%20Zotero%20Integration&tag=pkm.notes-automate-20)
+### 1. Logseq Zotero Integration
 
 **Best for:** Researchers relying heavily on formal academic citations and bibliographies
 **Price:** Free
@@ -50,7 +48,7 @@ This eliminates the tedious process of copying and pasting reference details. Th
 - Requires Zotero to be open in the background to function
 - Initial setup and template configuration can be technically demanding
 
-### 2. [Logseq PDF Export](https://www.amazon.com/s?k=Logseq%20PDF%20Export&tag=pkm.notes-automate-20)
+### 2. Logseq PDF Export
 
 **Best for:** Literature reviewers who annotate heavily on raw PDFs
 **Price:** Free
@@ -69,7 +67,7 @@ For a scientific researcher, this means you can read a 30-page journal article, 
 - Can struggle with poorly OCR'd (Optical Character Recognition) documents
 - Occasional formatting quirks when extracting complex mathematical formulas
 
-### 3. [Readwise Official](https://www.amazon.com/s?k=Readwise%20Official&tag=pkm.notes-automate-20)
+### 3. Readwise Official
 
 **Best for:** Researchers consuming science news, pre-prints, and web articles
 **Price:** $7.99-$8.99/month (Readwise subscription required)
@@ -88,7 +86,7 @@ This tool acts as a passive collection net. If you highlight a compelling statis
 - Requires a paid monthly subscription to the Readwise service
 - Can clutter your graph with low-value highlights if you are not disciplined
 
-### 4. [Logseq Graph Analysis](https://www.amazon.com/s?k=Logseq%20Graph%20Analysis&tag=pkm.notes-automate-20)
+### 4. Logseq Graph Analysis
 
 **Best for:** Theoretical researchers and those mapping complex subject areas
 **Price:** Free
@@ -107,7 +105,7 @@ It analyzes the connections between your notes using metrics like PageRank, Jacc
 - High CPU usage on very large graphs during the analysis phase
 - Requires a strong understanding of networked note-taking to interpret results
 
-### 5. [Omnivore Logseq Plugin](https://www.amazon.com/s?k=Omnivore%20Logseq%20Plugin&tag=pkm.notes-automate-20)
+### 5. Omnivore Logseq Plugin
 
 **Best for:** Budget-conscious researchers who need a read-it-later workflow
 **Price:** Free (Open Source)
@@ -126,7 +124,7 @@ Because Omnivore is entirely open-source and free, it fits perfectly within the 
 - Sync interface within Logseq can be slightly unintuitive initially
 - Lacks the massive third-party integration library of Readwise
 
-### 6. [Logseq Journals Calendar](https://www.amazon.com/s?k=Logseq%20Journals%20Calendar&tag=pkm.notes-automate-20)
+### 6. Logseq Journals Calendar
 
 **Best for:** Lab researchers tracking daily experiments and milestones
 **Price:** Free

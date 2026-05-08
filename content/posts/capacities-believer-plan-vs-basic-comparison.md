@@ -9,8 +9,6 @@ slug: "capacities-believer-plan-vs-basic-comparison"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Capacities Believer Plan vs Basic Comparison: Which is Best?
 
 > **Quick Answer:** The Capacities Basic plan offers a generous, unlimited object-based [note-taking](/posts/remnote-vs-logseq-for-medical-students-comparison/) experience ideal for students and casual users. However, power users should upgrade to the Believer plan to unlock the AI Assistant, custom object layouts, advanced task management, and priority support. Choose Basic to learn the tool, and Believer when your [personal knowledge management](/posts/digital-decluttering-for-information-overload/) requires deep automation and custom views.
@@ -29,7 +27,7 @@ When looking at the two tiers side-by-side, the divergence in their target audie
 
 ## Deep Dive into the Tiers
 
-### 1. [Capacities Basic Plan](https://www.amazon.com/s?k=Capacities%20Basic%20Plan&tag=pkm.notes-automate-20)
+### 1. Capacities Basic Plan
 
 **Best for:** Students, casual note-takers, and PKM beginners
 **Price:** Free
@@ -47,7 +45,7 @@ The Capacities Basic plan stands out as one of the most generous free tiers in t
 - Severely limited customization options for object page layouts
 - No advanced task management integration or global task querying
 
-### 2. [Capacities Believer Plan](https://www.amazon.com/s?k=Capacities%20Believer%20Plan&tag=pkm.notes-automate-20)
+### 2. Capacities Believer Plan
 
 **Best for:** Power users, researchers, and professional content creators
 **Price:** $10-$12/month (billed annually)

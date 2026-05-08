@@ -9,8 +9,6 @@ slug: "how-to-create-a-zettelkasten-index-in-obsidian"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Zettelkasten Indexes in Obsidian: A 5-Step Guide
 
 > **Quick Answer:** To create a Zettelkasten index in Obsidian, create a central "Index" or "Map of Content" (MOC) note. Group related notes by broad categories using internal links (`[[Note Title]]`), keep the structure flat, and regularly update this hub as your vault grows to maintain a clear entry point into your knowledge network.

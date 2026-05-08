@@ -8,8 +8,6 @@ tags: ["visual note-taking", "knowledge management", "productivity tools", "Scri
 slug: "scrintal-vs-heptabase-for-visual-note-taking"
 type: "review"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?
 
 > **Quick Answer:** Scrintal excels for users prioritizing an intuitive, free-form visual canvas for brainstorming and project management with a strong emphasis on card-based [organization](/posts/steps-to-building-a-second-brain/). Heptabase, conversely, is ideal for those building a structured, interconnected knowledge base, offering powerful Whiteboards for deep thinking and robust bidirectional linking for researchers and academics.
@@ -20,7 +18,7 @@ In an increasingly complex world, managing information and ideas effectively is 
 
 While both platforms aim to revolutionize how we capture, connect, and synthesize information, they cater to slightly different [workflows](/posts/getting-things-done-for-knowledge-workers/) and user preferences. Choosing between Scrintal and Heptabase for visual note-taking isn't merely a matter of features; it's about aligning a tool with your specific cognitive style, project demands, and long-term knowledge management goals. This comprehensive review will dissect each platform, comparing their core functionalities, user experience, and ideal use cases to help you make an informed decision.
 
-## 1. [Scrintal](https://www.amazon.com/s?k=Scrintal&tag=pkm.notes-automate-20)
+## 1. Scrintal
 
 **Best for:** Visual thinkers, project managers, and creatives who need a flexible, infinite canvas for brainstorming, organizing ideas, and managing projects with a strong emphasis on visual flow.
 **Price:** Free (limited features), Pro Plan: $10-$15/month (depending on billing cycle)
@@ -40,7 +38,7 @@ Scrintal positions itself as a visual workspace designed to help users think, or
 -   Limited mobile application functionality (primarily web-based).
 -   Can become cluttered if not managed diligently, especially on large boards.
 
-## 2. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=pkm.notes-automate-20)
+## 2. Heptabase
 
 **Best for:** Researchers, academics, writers, and knowledge workers focused on building a structured, interconnected personal knowledge base and deep thinking.
 **Price:** $12-$15/month (depending on billing cycle)

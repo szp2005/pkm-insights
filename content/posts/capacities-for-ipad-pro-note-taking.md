@@ -9,8 +9,6 @@ slug: "capacities-for-ipad-pro-note-taking"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Capacities for iPad Pro Note Taking: Complete Setup Guide
 
 > **Quick Answer:** Using Capacities for iPad Pro note taking transforms the device from a simple media tablet into a structured, object-based knowledge hub. While it relies primarily on typed input rather than native Apple Pencil inking, pairing the iPad Pro with a Magic Keyboard allows you to leverage Capacities' dynamic linking, [Daily Notes](/posts/tana-commands-for-automated-daily-note-setup/), and custom object types for highly efficient [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), meeting management, and project [organization](/posts/steps-to-building-a-second-brain/) on the go.

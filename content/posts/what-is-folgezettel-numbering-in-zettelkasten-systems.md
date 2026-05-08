@@ -9,8 +9,6 @@ slug: "what-is-folgezettel-numbering-in-zettelkasten-systems"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Folgezettel Numbering in Zettelkasten Systems: Complete Guide
 
 > **Quick Answer:** Folgezettel numbering in Zettelkasten systems is an alphanumeric identification method (e.g., 1, 1a, 1a1, 1b) created by sociologist Niklas Luhmann. It allows note-takers to insert new ideas anywhere within an existing sequence, creating infinite, branching thought trails without relying on rigid, top-down folder hierarchies.

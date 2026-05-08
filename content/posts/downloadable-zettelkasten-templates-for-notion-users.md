@@ -9,8 +9,6 @@ slug: "downloadable-zettelkasten-templates-for-notion-users"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Downloadable Zettelkasten Templates for Notion: Your Complete Guide
 
 > **Quick Answer:** Downloadable Zettelkasten templates for Notion users are readily available from various creators and platforms, offering pre-structured databases and linked pages designed to implement the Zettelkasten method. These templates streamline the setup process, allowing users to immediately focus on creating atomic notes, linking ideas, and building a robust personal knowledge management system within Notion.

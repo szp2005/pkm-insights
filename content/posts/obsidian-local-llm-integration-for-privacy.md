@@ -9,8 +9,6 @@ slug: "obsidian-local-llm-integration-for-privacy"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Local LLM Integration for Privacy: Complete Setup Guide
 
 > **Quick Answer:** Obsidian local LLM integration for privacy involves running open-weights language models directly on your hardware using [tools](/posts/personal-knowledge-management-tools-comparison/) like Ollama or LM Studio, connected via [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/) like BMO Chatbot or Text Generator. This guarantees 100% data sovereignty since your notes never leave your machine, requiring at least 16GB of system RAM or an Apple Silicon Mac for optimal performance.

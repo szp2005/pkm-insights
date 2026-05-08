@@ -9,8 +9,6 @@ slug: "obsidian-vs-joplin-offline-knowledge-management"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 > **Quick Answer:** For offline [knowledge management](/posts/knowledge-management-strategies-for-students/), choose **[Obsidian](/posts/what-is-personal-knowledge-management/)** if you prioritize a highly customizable, interconnected local markdown structure with extensive community [plugins](/posts/logseq-plugins-for-scientific-research-efficiency/) and a visual graph view. Choose **Joplin** if you need an open-source Evernote replacement with built-in end-to-end [encryption](/posts/best-privacy-focused-note-taking-apps-with-encryption/) (E2EE), robust web clipping, and straightforward cross-platform syncing out of the box.
 
 The shift away from cloud-dependent [productivity](/posts/differences-between-fleeting-and-permanent-notes-explained/) [tools](/posts/personal-knowledge-management-tools-comparison/) has accelerated. [Professionals](/posts/personal-information-management-system-setup-guide/), researchers, and [privacy](/posts/obsidian-local-llm-integration-for-privacy/)-conscious users are increasingly prioritizing absolute data ownership. Trusting proprietary cloud servers with sensitive notes, intellectual property, or personal journals carries inherent risks, from arbitrary service shutdowns to data breaches and recurring subscription fatigue. This is where [offline-first](/posts/anytype-vs-obsidian-local-first-knowledge-management/) [note-taking](/posts/differences-between-fleeting-and-permanent-notes-explained/) applications become critical infrastructure.
@@ -29,7 +27,7 @@ Both Obsidian and Joplin satisfy these core requirements, but they cater to enti
 
 Below is an evaluation of both platforms based on their utility as local-first note-taking environments.
 
-### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
+### 1. Obsidian
 
 **Best for:** Power users, researchers, and developers who want a customizable second brain
 **Price:** $0 (Free for personal use); $50/year (Commercial use); $8/month (Sync)
@@ -48,7 +46,7 @@ Its true power, however, lies in its extensibility. The core application is deli
 - Steep learning curve requiring significant time investment to configure the ideal setup
 - Official end-to-end encrypted sync requires a paid monthly subscription
 
-### 2. [Joplin](https://www.amazon.com/s?k=Joplin&tag=pkm.notes-automate-20)
+### 2. Joplin
 
 **Best for:** Former Evernote users and privacy advocates needing straightforward E2EE sync
 **Price:** $0 (Free open-source); €2.99-€7.99/month (Joplin Cloud)

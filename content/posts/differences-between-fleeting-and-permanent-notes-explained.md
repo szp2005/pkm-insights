@@ -9,8 +9,6 @@ slug: "differences-between-fleeting-and-permanent-notes-explained"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Differences Between Fleeting and Permanent Notes Explained: Complete Guide to [Knowledge Management](/posts/knowledge-management-strategies-for-students/)
 
 > **Quick Answer:** The main difference between fleeting and permanent notes is their lifespan and structural purpose. Fleeting notes are temporary, unpolished captures of raw ideas jotted down immediately to prevent forgetting. In contrast, permanent notes are highly refined, standalone concepts written in your own words, designed to be permanently stored and interconnected within your personal knowledge system.

@@ -9,8 +9,6 @@ slug: "map-of-content-obsidian-tutorial-for-beginners"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Map of Content Obsidian Tutorial for Beginners: 5-Step Guide
 
 > **Quick Answer:** A Map of Content (MOC) in Obsidian is a central hub note containing links to other related notes, acting as a dynamic table of contents for a specific topic. To create one, start by grouping related notes together, create a new note to serve as the MOC, link your grouped notes within it using double brackets `[[ ]]`, and periodically update the MOC as your vault grows.

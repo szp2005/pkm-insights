@@ -9,8 +9,6 @@ slug: "writing-literature-notes-for-scientific-publications"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Writing Literature Notes for Scientific Publications: 5-Step System
 
 > **Quick Answer:** Writing literature notes for scientific publications requires moving beyond highlighting to active synthesis. The most effective approach is extracting the research question, methodology, key findings, and limitations into a standardized template (like the Zettelkasten method), then immediately linking these insights to your own ongoing research projects to prevent knowledge silos.

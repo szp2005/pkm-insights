@@ -9,8 +9,6 @@ slug: "automated-literature-review-software-for-phd-students"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Automated Literature Review Software for PhD Students in 2026
 
 > **Quick Answer:** The best automated literature review software for PhD students depends on your research stage. **Elicit** is the top choice for AI-driven paper discovery and data extraction, **Litmaps** excels at visualizing citation networks to find foundational papers, and **Rayyan** is the industry standard for collaborative, systematic screening. 
@@ -33,7 +31,7 @@ Modern automated literature review software solves this through semantic search 
 
 ## Top Automated Literature Review Software Evaluated
 
-### 1. [Elicit](https://www.amazon.com/s?k=Elicit&tag=pkm.notes-automate-20)
+### 1. Elicit
 
 **Best for:** Finding specific methodologies and AI data extraction
 **Price:** Free tier available; Pro is $10-$12/month
@@ -50,7 +48,7 @@ Elicit has fundamentally changed how PhD students approach empirical literature.
 - Requires careful prompt engineering to get the most accurate data extractions
 - Occasionally struggles to parse older, poorly digitized PDFs or non-standard formatting
 
-### 2. [Litmaps](https://www.amazon.com/s?k=Litmaps&tag=pkm.notes-automate-20)
+### 2. Litmaps
 
 **Best for:** Visualizing citation networks and finding hidden research gaps
 **Price:** Free tier available; Pro is $10/month
@@ -67,7 +65,7 @@ Litmaps approaches literature discovery through the lens of network theory. When
 - Visualizations can become overwhelming and cluttered if your search scope is too broad
 - The quality of the map is entirely dependent on the quality of the initial seed papers provided
 
-### 3. [Rayyan](https://www.amazon.com/s?k=Rayyan&tag=pkm.notes-automate-20)
+### 3. Rayyan
 
 **Best for:** Systematic reviews, meta-analyses, and team-based abstract screening
 **Price:** Free basic; Premium is $4-$8/month
@@ -84,7 +82,7 @@ While newer AI startups focus on discovery, Rayyan remains the undisputed indust
 - The user interface is highly functional but feels slightly dated compared to newer tools
 - Mobile application functionality is somewhat limited for complex screening tasks
 
-### 4. [Research Rabbit](https://www.amazon.com/s?k=Research%20Rabbit&tag=pkm.notes-automate-20)
+### 4. Research Rabbit
 
 **Best for:** Continuous paper discovery and dynamic collection building
 **Price:** Free for academic researchers
@@ -101,7 +99,7 @@ Often described by academics as the "Spotify for research papers," Research Rabb
 - The sheer amount of visual information and lateral connections can be initially overwhelming
 - Lacks direct PDF annotation, highlighting, or deep text-extraction features
 
-### 5. [SciSpace](https://www.amazon.com/s?k=SciSpace&tag=pkm.notes-automate-20)
+### 5. SciSpace
 
 **Best for:** Reading dense PDFs, simplifying academic jargon, and interdisciplinary research
 **Price:** Free tier available; Premium is $12/month

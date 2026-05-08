@@ -9,8 +9,6 @@ slug: "logseq-templates-for-doctoral-research-students"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Logseq Templates for Doctoral Research Students
 
 > **Quick Answer:** The most effective Logseq templates for doctoral research students use block properties and dynamic queries to manage the massive volume of a PhD. Essential templates include a Literature Note template (capturing methodology, findings, and metadata), a Daily Lab/Research Journal template, and a Supervisory Meeting template. Implementing these creates a structured, connected graph that automatically resurfaces relevant papers and experimental data when you begin drafting your dissertation.

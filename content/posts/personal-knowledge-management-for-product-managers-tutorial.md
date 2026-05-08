@@ -9,8 +9,6 @@ slug: "personal-knowledge-management-for-product-managers-tutorial"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Set Up Personal Knowledge Management for Product Managers: 5-Step Guide
 
 > **Quick Answer:** A highly effective Personal Knowledge Management (PKM) system for product managers relies on capturing raw inputs (user feedback, market data, technical constraints) in a centralized inbox, synthesizing them into structured notes using standardized templates like PRDs, and linking these concepts bidirectionally. The most successful approach separates temporary project execution from long-term domain knowledge to ensure insights compound over time.

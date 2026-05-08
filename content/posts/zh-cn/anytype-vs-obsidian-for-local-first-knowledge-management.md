@@ -9,8 +9,6 @@ slug: "anytype-vs-obsidian-local-first-knowledge-management"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 _作为 Amazon 联盟成员，我们通过符合条件的购买获得收益。本文可能包含联盟链接。_
 
 # Anytype vs Obsidian：最佳的本地优先知识管理工具？
@@ -33,7 +31,7 @@ Anytype 采取了不同的策略，它严重依赖于基于图谱和面向对象
 
 ## 正面交锋：竞争者对比
 
-### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
+### 1. Obsidian
 
 **最适合：** 高级用户、研究人员、开发者和定制化狂热者
 **价格：** 个人使用免费，商业使用 $50/用户/年
@@ -52,7 +50,7 @@ Obsidian 真正的力量在于它的社区。凭借 1,500 多个社区插件和�
 - 高级功能和系统设置的学习曲线陡峭
 - 官方的端到端加密同步服务需要支付昂贵的月费
 
-### 2. [Anytype](https://www.amazon.com/s?k=Anytype&tag=pkm.notes-automate-20)
+### 2. Anytype
 
 **最适合：** 视觉思考者、Notion 难民和面向对象的规划者
 **价格：** 免费（开源），提供付费等级以扩展备份节点存储

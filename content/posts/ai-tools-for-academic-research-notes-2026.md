@@ -9,8 +9,6 @@ slug: "ai-tools-for-academic-research-notes-2026"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best AI Tools for Academic Research Notes in 2026
 
 > **Quick Answer:** The top AI tools for academic research notes in 2026 are NotebookLM for source-grounded document synthesis, Elicit for automated literature extraction, SciSpace for comprehending complex papers, and Obsidian (paired with local LLMs) for highly secure, private knowledge management. Choose based on whether your workflow prioritizes automated discovery, assisted reading, or deep local synthesis.

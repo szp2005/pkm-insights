@@ -9,8 +9,6 @@ slug: "building-research-ontologies-in-capacities-app"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Building Research Ontologies in Capacities App: Complete Guide
 
 > **Quick Answer:** Building research ontologies in Capacities app involves moving away from hierarchical folders to an object-based system. By defining specific object types (like Books, Concepts, and Authors) and establishing relationships between them using properties and tags, you create a structured, interconnected database that surfaces insights and mirrors natural human thought processes.

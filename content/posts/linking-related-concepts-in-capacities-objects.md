@@ -9,8 +9,6 @@ slug: "linking-related-concepts-in-capacities-objects"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Master Linking Related Concepts in Capacities Objects: 5-Step Guide
 
 > **Quick Answer:** Linking related concepts in Capacities objects works best when you define distinct object types (like People, Books, or Ideas) and connect them using bi-directional links or inline tagging. This object-based approach automatically builds a visual graph, allowing you to quickly resurface insights and see how distinct concepts relate across your entire knowledge base.

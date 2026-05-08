@@ -9,8 +9,6 @@ slug: "pkm-for-adhd-organization-strategies-neurodiversity"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # PKM for ADHD: Organization Strategies for Neurodiversity
 
 > **Quick Answer:** The most effective PKM for ADHD focuses on capturing ideas instantly and organizing them later through flexible, search-driven systems rather than rigid folders. Strategies like using a "daily note" as a unified inbox, relying on bidirectional links over categories, and leveraging visual mapping help neurodivergent brains bypass working [memory](/posts/how-to-remember-what-you-read-effectively/) deficits and build a reliable external brain.

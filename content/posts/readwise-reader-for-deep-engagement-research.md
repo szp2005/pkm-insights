@@ -9,8 +9,6 @@ slug: "readwise-reader-for-deep-engagement-research"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Readwise Reader for Deep Engagement Research: A Complete Guide
 
 > **Quick Answer:** Using Readwise Reader for deep engagement research requires shifting from passive reading to active synthesis. By leveraging its robust annotation tools, customized tagging systems, and seamless export to knowledge bases like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/what-is-personal-knowledge-management/), researchers can systematically capture, connect, and retain complex concepts across PDFs, web articles, and books.

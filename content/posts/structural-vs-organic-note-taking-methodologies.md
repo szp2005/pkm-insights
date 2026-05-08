@@ -9,8 +9,6 @@ slug: "structural-vs-organic-note-taking-methodologies"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Structural vs Organic Note Taking Methodologies: Which is Better for You?
 
 > **Quick Answer:** Structural [note-taking](/posts/differences-between-fleeting-and-permanent-notes-explained/) methodologies, like outlines and Cornell notes, prioritize rigid [organization](/posts/steps-to-building-a-second-brain/) and hierarchy, ideal for linear [learning](/posts/how-to-remember-what-you-read-effectively/) and structured information. Organic methodologies, such as mind maps and [Zettelkasten](/posts/zettelkasten-method-explained/), emphasize flexible connections and emergent structures, best suited for creative thinking, complex topics, and knowledge synthesis. The optimal choice depends on the specific task, information type, and individual learning style.
@@ -67,7 +65,7 @@ Structural methods excel when the information itself is structured and the goal 
 
 Here, we'll review the core methodologies, treating them as distinct approaches you might "choose" or "implement."
 
-### 1. [Structural Note-Taking (General Approach)](https://www.amazon.com/s?k=Structural%20Note-Taking%20%28General%20Approach%29&tag=pkm.notes-automate-20)
+### 1. Structural Note-Taking (General Approach)
 
 **Best for:** Linear learning, lecture notes, textbook summaries, meeting minutes, report outlines.
 **Effort/Tool Cost:** Low to Moderate (primarily pen/paper or basic word processor)
@@ -88,7 +86,7 @@ Structural note-taking encompasses a range of methods like outlining, the Cornel
 -   Less effective for synthesizing complex, multidisciplinary topics.
 -   Can become cumbersome if information doesn't fit neatly into predefined categories.
 
-### 2. [Organic Note-Taking (General Approach)](https://www.amazon.com/s?k=Organic%20Note-Taking%20%28General%20Approach%29&tag=pkm.notes-automate-20)
+### 2. Organic Note-Taking (General Approach)
 
 **Best for:** Brainstorming, creative problem-solving, research synthesis, complex project planning, knowledge building.
 **Effort/Tool Cost:** Moderate to High (may involve specialized software or more complex manual techniques)
@@ -109,7 +107,7 @@ Organic note-taking methodologies, including mind maps, concept maps, and the Ze
 -   Requires more active engagement and initial effort to establish connections.
 -   Digital tools can have a steeper learning curve compared to basic text editors.
 
-### 3. [Hybrid Note-Taking Approaches](https://www.amazon.com/s?k=Hybrid%20Note-Taking%20Approaches&tag=pkm.notes-automate-20)
+### 3. Hybrid Note-Taking Approaches
 
 **Best for:** Adaptable learners, complex projects with structured and unstructured components, long-term knowledge management.
 **Effort/Tool Cost:** Moderate to High (requires intentional integration of methods and potentially multiple tools)

@@ -9,8 +9,6 @@ slug: "johnny-decimal-system-for-organizing-digital-files"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Johnny Decimal System for Organizing Digital Files (2026 Guide)
 
 > **Quick Answer:** The Johnny Decimal system for organizing digital files is a rigorous folder classification method that uses short numeric codes (e.g., `12.03`) to categorize information. It eliminates deep folder nesting by forcing all files into exactly 10 broad areas, each containing up to 10 subcategories, and a final two-digit ID, allowing you to locate any document instantly via search or direct navigation.

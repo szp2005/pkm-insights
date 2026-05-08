@@ -9,8 +9,6 @@ slug: "obsidian-dataview-snippets-for-book-trackers"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Dataview Snippets for Book Trackers: Master Your Reading
 
 > **Quick Answer:** Obsidian Dataview snippets provide a highly customizable and dynamic way to track books, manage reading lists, and visualize progress directly within your knowledge base. By leveraging specific DataviewJS or DQL queries, users can create automated tables, lists, and dashboards that update in real-time based on book metadata embedded in their notes, significantly streamlining literary [organization](/posts/steps-to-building-a-second-brain/) and analysis.

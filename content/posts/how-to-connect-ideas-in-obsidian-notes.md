@@ -8,8 +8,6 @@ tags: ["obsidian", "pkm", "knowledge-management", "productivity"]
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # How to Connect Ideas in Obsidian Notes: A Masterclass in [Knowledge Management](/posts/best-apps-for-personal-knowledge-management/)
 
 > **Quick Answer:** Connecting ideas in Obsidian relies on bidirectional linking to create a web of knowledge that mirrors the human brain's associative nature. By using [[wikilinks]], tags for status, and Maps of Content (MOCs) for structure, you transform isolated notes into an interconnected "[second brain](/posts/what-is-personal-knowledge-management/)" that surfaces hidden insights and accelerates original thinking.

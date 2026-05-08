@@ -9,8 +9,6 @@ slug: "using-capacities-for-visual-research-databases"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Using Capacities for Visual Research Databases: A Complete Guide
 
 > **Quick Answer:** Using Capacities for visual research databases transforms scattered image folders into interconnected knowledge hubs. By leveraging its object-based architecture, you can tag, link, and retrieve visual assets—from design references to historical archives—with the same semantic precision as text-based notes.

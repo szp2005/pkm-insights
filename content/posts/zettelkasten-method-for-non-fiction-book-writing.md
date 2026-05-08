@@ -9,8 +9,6 @@ slug: "zettelkasten-method-for-non-fiction-book-writing"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide
 
 > **Quick Answer:** The Zettelkasten method for non-fiction book writing works by breaking [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) down into individual, standardized notes (Zettels) that are extensively linked. Instead of starting with a blank page and an outline, authors build a web of interconnected ideas over time, allowing the book's structure and arguments to emerge organically from the bottom up, effectively eliminating writer's block.

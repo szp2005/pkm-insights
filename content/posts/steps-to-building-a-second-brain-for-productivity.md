@@ -9,8 +9,6 @@ slug: "steps-to-building-a-second-brain-for-productivity"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Steps to Building a Second Brain for Productivity: 6-Step Guide
 
 > **Quick Answer:** The core steps to building a second brain involve establishing a reliable capture system for incoming information, organizing that information based on actionability rather than topic (often using the PARA method), distilling the most important insights, and expressing your knowledge into tangible outputs. This methodology shifts you from merely hoarding digital files to actively utilizing personal knowledge for creative and professional projects.

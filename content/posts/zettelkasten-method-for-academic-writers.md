@@ -9,8 +9,6 @@ slug: "zettelkasten-method-for-academic-writers"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Zettelkasten Method for Academic Writers: A Complete 5-Step Guide
 
 > **Quick Answer:** The Zettelkasten method for academic writers is a [note-taking](/posts/zettelkasten-method-explained/) system that relies on creating decentralized, highly interconnected notes (Zettels) to form a web of knowledge. By capturing atomic ideas, cross-referencing them, and letting themes emerge organically, researchers can permanently eliminate the "blank page" problem and streamline the transition from reading to publishing.

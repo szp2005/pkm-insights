@@ -8,8 +8,6 @@ tags: ["pkm", "zettelkasten", "productivity", "writing", "atomic notes"]
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # The Ultimate Atomic Notes Writing Guide: Mastering [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/)
 
 > **Quick Answer:** Atomic notes are the foundational building blocks of a [Zettelkasten](/posts/zettelkasten-method-explained/) system, capturing a single, distinct idea in your own words. To master this writing process, ensure every note is completely self-contained and heavily linked to related concepts within your knowledge base. This focused approach allows you to organically connect disparate ideas and easily assemble them into larger articles, essays, or projects.

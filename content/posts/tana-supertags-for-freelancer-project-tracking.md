@@ -9,8 +9,6 @@ slug: "tana-supertags-for-freelancer-project-tracking"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana Supertags for Freelancer Project Tracking: The Complete Guide
 
 > **Quick Answer:** Tana supertags provide a structured, dynamic system for freelancers to organize project details, tasks, clients, and deadlines within a flexible knowledge graph. They enable custom fields, automated [workflows](/posts/getting-things-done-for-knowledge-workers/), and powerful filtering, transforming raw notes into an integrated [project management](/posts/tana-supertags-for-project-managers-download/) hub. This approach ensures comprehensive oversight and efficient execution for diverse freelance work, from initial client brief to final delivery.

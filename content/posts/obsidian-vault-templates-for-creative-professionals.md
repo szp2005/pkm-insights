@@ -9,8 +9,6 @@ slug: "obsidian-vault-templates-creative-professionals"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Vault Templates for Creative Professionals: Boost Your Workflow
 
 > **Quick Answer:** Obsidian vault templates provide structured frameworks for creative professionals to organize projects, manage ideas, track progress, and streamline their workflow, enabling more efficient idea generation and project execution within a flexible, interconnected knowledge base. By pre-defining note structures for common tasks like project briefs, daily logs, or idea incubation, templates reduce friction and ensure consistency, allowing creatives to [focus](/posts/digital-decluttering-for-information-overload/) on their core work rather than administrative setup.

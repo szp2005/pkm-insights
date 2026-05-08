@@ -9,8 +9,6 @@ slug: "best-capacities-templates-for-university-students"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # 7 Best Capacities Templates for University Students in 2026
 
 > **Quick Answer:** The best Capacities templates for university students leverage its object-based system to connect courses, assignments, and [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) seamlessly. The **Comprehensive Student OS** is the top all-in-one choice for undergraduates, while the **Academic [Zettelkasten](/posts/zettelkasten-method-explained/)** is the ideal pick for graduate students managing complex literature and [thesis](/posts/obsidian-academic-workflow-for-thesis-2026/) research. 
@@ -23,7 +21,7 @@ However, setting up object types, properties, and dashboard views from scratch t
 
 ## Top Capacities Templates for Academic Success
 
-### 1. [The Comprehensive Student OS](https://www.amazon.com/s?k=The%20Comprehensive%20Student%20OS&tag=pkm.notes-automate-20)
+### 1. The Comprehensive Student OS
 
 **Best for:** Undergraduates looking for an all-in-one workspace
 **Price:** Free
@@ -40,7 +38,7 @@ The Comprehensive Student OS is designed to be the central hub for your entire a
 - Can be visually overwhelming if you are taking more than six classes
 - Requires consistent tagging to keep the dashboard accurate
 
-### 2. [Academic Zettelkasten for Researchers](https://www.amazon.com/s?k=Academic%20Zettelkasten%20for%20Researchers&tag=pkm.notes-automate-20)
+### 2. Academic Zettelkasten for Researchers
 
 **Best for:** Graduate students and thesis writers
 **Price:** $15.00
@@ -57,7 +55,7 @@ This premium template adapts the traditional Zettelkasten method specifically fo
 - High [learning](/posts/how-to-remember-what-you-read-effectively/) curve if you are new to the Zettelkasten methodology
 - May feel overly complex for standard undergraduate coursework
 
-### 3. [Minimalist Course & Lecture Tracker](https://www.amazon.com/s?k=Minimalist%20Course%20%26%20Lecture%20Tracker&tag=pkm.notes-automate-20)
+### 3. Minimalist Course & Lecture Tracker
 
 **Best for:** STEM students requiring fast, structured [note-taking](/posts/digital-garden-vs-second-brain-difference/)
 **Price:** Free
@@ -74,7 +72,7 @@ Sometimes, a sprawling operating system is unnecessary. The Minimalist Course & 
 - Lacks a dedicated assignment or deadline tracking mechanism
 - Requires manual integration if you want to link it to larger research projects
 
-### 4. [Assignment & Thesis Project Planner](https://www.amazon.com/s?k=Assignment%20%26%20Thesis%20Project%20Planner&tag=pkm.notes-automate-20)
+### 4. Assignment & Thesis Project Planner
 
 **Best for:** Students who struggle with time management and deadlines
 **Price:** $8.00-$10.00
@@ -91,7 +89,7 @@ This template focuses entirely on output and deliverables. It utilizes Capacitie
 - Not designed for long-form note-taking or content storage
 - Requires frequent manual updating of status properties
 
-### 5. [Student Daily Timeblocker](https://www.amazon.com/s?k=Student%20Daily%20Timeblocker&tag=pkm.notes-automate-20)
+### 5. Student Daily Timeblocker
 
 **Best for:** Students combining part-time work with heavy course loads
 **Price:** Free
@@ -108,7 +106,7 @@ The Student Daily Timeblocker heavily modifies the default Capacities daily note
 - Manual time tracking can become tedious over a long semester
 - Weak on organizing actual academic content and lecture notes
 
-### 6. [Source & Literature Review Matrix](https://www.amazon.com/s?k=Source%20%26%20Literature%20Review%20Matrix&tag=pkm.notes-automate-20)
+### 6. Source & Literature Review Matrix
 
 **Best for:** Humanities majors and researchers
 **Price:** $12.00
@@ -125,7 +123,7 @@ When [writing](/posts/atomic-notes-writing-guide/) a research paper, organizing 
 - No automatic citation generation (requires pairing with Zotero)
 - Inputting metadata manually for dozens of papers is time-consuming
 
-### 7. [Extracurricular & Career Hub](https://www.amazon.com/s?k=Extracurricular%20%26%20Career%20Hub&tag=pkm.notes-automate-20)
+### 7. Extracurricular & Career Hub
 
 **Best for:** Seniors, student leaders, and internship hunters
 **Price:** Free

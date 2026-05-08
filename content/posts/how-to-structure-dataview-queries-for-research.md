@@ -9,8 +9,6 @@ slug: "how-to-structure-dataview-queries-for-research"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Dataview Queries for Research: 5-Step Guide
 
 > **Quick Answer:** To structure Dataview queries for research effectively, start with a clear command (`TABLE`, `LIST`, or `TASK`), define your data source using `FROM` (a specific folder or tag), filter the results using `WHERE` to narrow down relevant properties (e.g., status or author), and organize the output using `SORT` and `GROUP BY`. Using standardized frontmatter fields in your notes allows you to build dynamic indexes of literature, empirical data, and thematic connections.

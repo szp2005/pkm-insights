@@ -9,8 +9,6 @@ slug: "how-to-avoid-the-collectors-fallacy-in-pkm"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Avoiding Collector's Fallacy in PKM: 5-Step Guide
 
 > **Quick Answer:** To avoid the collector's fallacy in PKM, you must shift your [focus](/posts/managing-digital-information-overload-tips/) from capturing information to processing it. Implement high-friction capture methods, establish strict limits on your reading inbox, prioritize progressive summarization, and aggressively purge unread material to ensure you are building knowledge rather than simply hoarding data.

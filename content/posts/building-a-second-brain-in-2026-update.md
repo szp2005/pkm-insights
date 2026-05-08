@@ -9,8 +9,6 @@ slug: "building-a-second-brain-in-2026-update"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Building a Second Brain in 2026 Update: Complete Setup Guide
 
 > **Quick Answer:** Building a Second Brain in 2026 shifts [focus](/posts/managing-digital-information-overload-tips/) from manual curation to AI-assisted [knowledge management](/posts/knowledge-management-strategies-for-students/). Modern setups rely on local LLMs to automatically tag, summarize, and connect notes within applications like [Obsidian](/posts/what-is-personal-knowledge-management/) and Anytype, reducing the friction of the CODE (Capture, Organize, Distill, Express) methodology while maintaining strict data privacy.

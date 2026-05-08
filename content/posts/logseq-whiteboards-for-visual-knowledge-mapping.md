@@ -9,8 +9,6 @@ slug: "logseq-whiteboards-for-visual-knowledge-mapping"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Logseq Whiteboards for Visual Knowledge Mapping: A Complete Guide
 
 > **Quick Answer:** Logseq whiteboards enable visual knowledge mapping by allowing you to drag and drop existing networked notes (blocks and pages) onto an infinite spatial canvas. This hybrid approach combines the power of structured, bidirectional database links with free-form spatial [organization](/posts/steps-to-building-a-second-brain/), helping you uncover hidden connections, outline complex projects, and process dense information visually.

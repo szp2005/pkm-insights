@@ -9,8 +9,6 @@ slug: "personal-information-management-system-setup-guide"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Personal Information Management System Setup Guide: 5 Steps
 
 > **Quick Answer:** A Personal Information Management System (PIMS) requires centralizing your digital inputs, defining a strict folder structure (like PARA or Johnny.Decimal), selecting primary [tools](/posts/roam-research-vs-obsidian-comparison/) for notes, tasks, and files, and establishing a weekly [review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) habit. The most effective setup prioritizes frictionless data capture and reliable search retrieval over highly complex, rigid categorization.

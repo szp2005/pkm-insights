@@ -9,8 +9,6 @@ slug: "obsidian-sync-alternatives-budget-researchers-2026"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Obsidian Sync Alternatives for Budget Researchers 2026
 
 > **Quick Answer:** For budget researchers seeking Obsidian Sync alternatives in 2026, the most reliable and cost-effective options include leveraging free tiers of established cloud storage services like Google Drive or OneDrive for simple file synchronization, or implementing self-hosted solutions such as Syncthing for peer-to-peer syncing and Git for version-controlled backups, depending on technical comfort and specific security needs.

@@ -9,8 +9,6 @@ slug: "tana-workspace-for-managing-academic-citations"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana Workspace for Managing Academic Citations: Complete Setup Guide
 
 > **Quick Answer:** A Tana workspace for managing academic citations relies on configuring Supertags (like `#source`, `#author`, and `#claim`) to create an interconnected database of your [research](/posts/progressive-summarization-workflow-for-deep-research-papers/). By defining fields for DOI, publication year, and connected concepts, you can transform a flat list of references into a dynamic knowledge graph that surfaces relevant literature exactly when you need it for [writing](/posts/atomic-notes-writing-guide/).

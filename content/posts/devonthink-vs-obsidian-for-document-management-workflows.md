@@ -9,8 +9,6 @@ slug: "devonthink-vs-obsidian-for-document-management-workflows"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # DEVONthink vs Obsidian: Which Is Better for Document Management Workflows?
 
 > **Quick Answer:** If you need an AI-assisted, heavy-duty file repository capable of indexing millions of PDFs, emails, and web archives with robust OCR, DEVONthink is the superior choice. If your workflow relies on writing, connecting ideas via bidirectional links, and customizing your environment through a massive plugin ecosystem on any operating system, Obsidian is the better tool. 
@@ -35,7 +33,7 @@ Obsidian is fundamentally an integrated development environment (IDE) for your t
 
 ## The Contenders: Head-to-Head
 
-### 1. [DEVONthink 3](https://www.amazon.com/s?k=DEVONthink%203&tag=pkm.notes-automate-20)
+### 1. DEVONthink 3
 
 **Best for:** Academic researchers, lawyers, and data hoarders
 **Price:** $99-$199 (one-time license)
@@ -52,7 +50,7 @@ DEVONthink is an Apple-exclusive powerhouse designed for professionals who manag
 - macOS and iOS exclusive (no Windows or Linux support)
 - Steep learning curve and complex, dated user interface
 
-### 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
+### 2. Obsidian
 
 **Best for:** Writers, developers, and networked thinkers
 **Price:** Free for personal use ($50/user/year for commercial use)

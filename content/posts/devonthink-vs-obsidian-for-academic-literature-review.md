@@ -8,8 +8,6 @@ tags: ["academic literature review", "Devonthink", "Obsidian", "research tools",
 slug: "devonthink-vs-obsidian-academic-literature-review"
 type: "review"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Devonthink vs Obsidian for Academic Literature Review: Which is Best?
 
 > **Quick Answer:** Devonthink excels in robust document management, AI-powered search, and secure database features for extensive literature collections, making it ideal for researchers prioritizing document-centric organization. Obsidian, with its plain-text markdown, powerful linking, and graph view, offers unparalleled flexibility for conceptual note-taking and knowledge synthesis, best suited for those focused on interconnected ideation and a customizable workflow.
@@ -135,7 +133,7 @@ For those on a tight budget or who prefer a free entry point, Obsidian is more a
 
 ---
 
-### 1. [Devonthink 3](https://www.amazon.com/s?k=Devonthink%203&tag=pkm.notes-automate-20)
+### 1. Devonthink 3
 
 **Best for:** Researchers needing robust document management, AI-powered search, secure storage, and advanced organization for large academic libraries, especially within the Apple ecosystem.
 **Price:** $99-$199 (one-time purchase for desktop)
@@ -156,7 +154,7 @@ Devonthink 3 is a sophisticated information and document manager designed for ma
 - Higher upfront cost compared to Obsidian's free personal tier.
 - Less emphasis on visual knowledge graph and flexible note linking compared to Obsidian.
 
-### 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
+### 2. Obsidian
 
 **Best for:** Academics prioritizing flexible note-taking, knowledge synthesis through linking, a highly customizable plain-text system, and cross-platform compatibility for building a personal knowledge graph.
 **Price:** Free (personal use), $50/year (Catalyst), $8/month (Sync)

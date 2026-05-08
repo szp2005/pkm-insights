@@ -9,8 +9,6 @@ slug: "logseq-for-journal-article-summaries-workflow"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Logseq for Journal Article Summaries Workflow: 5-Step Guide
 
 > **Quick Answer:** The ideal Logseq for journal article summaries workflow combines [Zotero](/posts/logseq-for-academic-literature-reviews/) for reference management, the Logseq Zotero plugin for automated metadata extraction, and Logseq's native PDF reader. By extracting highlights as block references and applying a structured literature note template, you create a bidirectional link between your reading summaries and your original [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), allowing for seamless academic synthesis.

@@ -9,8 +9,6 @@ slug: "structuring-obsidian-folders-for-academic-writing"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Structuring Obsidian Folders for Academic Writing: 5-Step System
 
 > **Quick Answer:** The most effective approach to structuring Obsidian folders for academic writing uses a hybrid system combining the [PARA method](/posts/using-the-para-method-in-google-drive/) with [Zettelkasten](/posts/zettelkasten-method-explained/) principles. Create numbered, top-level folders for active papers (`01-Projects`), broad research domains (`02-Areas`), literature notes (`03-Resources`), and a flat slip-box for interconnected ideas (`04-Zettelkasten`), keeping folder depth to a maximum of three levels to reduce cognitive friction.

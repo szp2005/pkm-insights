@@ -9,8 +9,6 @@ slug: "knowledge-retention-techniques-for-researchers"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Knowledge Retention Techniques for Researchers: A 7-Step Guide
 
 > **Quick Answer:** The most effective knowledge retention techniques for researchers combine active reading with [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) and atomic [note-taking](/posts/digital-garden-vs-second-brain-difference/). Instead of passively highlighting PDFs, researchers should extract concepts into a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) system (like a Zettelkasten), rewrite ideas in their own words, and schedule regular reviews of those concepts using spaced repetition algorithms.

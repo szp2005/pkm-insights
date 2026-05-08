@@ -9,8 +9,6 @@ slug: "capacities-app-for-research-team-collaboration"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Capacities App Setup for Research Team Collaboration in 2026
 
 > **Quick Answer:** The Capacities app transforms research team collaboration by replacing rigid folder structures with an object-based [knowledge management](/posts/knowledge-management-strategies-for-students/) system. By defining custom object types (like Papers, Experiments, and Insights) and using [bi-directional linking](/posts/bi-directional-linking-for-creative-writing-workflows/) within shared Spaces, teams can build a networked, accessible database that scales without losing context.

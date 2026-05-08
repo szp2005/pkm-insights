@@ -9,8 +9,6 @@ slug: "how-to-tag-academic-research-notes-effectively"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Academic Research Note Tagging: 5-Step Guide
 
 > **Quick Answer:** To tag academic research notes effectively, build a hierarchical taxonomy consisting of broad domain tags, specific topic tags, and functional workflow tags. Apply 2-4 consistent tags per note to prevent clutter, utilize a standardized naming convention like snake_case or kebab-case, and regularly audit your index to merge redundant terms.

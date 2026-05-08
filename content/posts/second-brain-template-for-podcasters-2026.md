@@ -9,8 +9,6 @@ slug: "second-brain-template-for-podcasters-2026"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Second Brain Template for Podcasters in 2026
 
 > **Quick Answer:** The ideal second brain template for podcasters in 2026 integrates guest management, show note outlining, and [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) clipping into a unified workspace like [Notion](/posts/personal-knowledge-management-tools-comparison/) or [Obsidian](/posts/what-is-personal-knowledge-management/). It replaces scattered Google Docs and bookmark folders with a dedicated pipeline tracking every episode from initial idea to published distribution.

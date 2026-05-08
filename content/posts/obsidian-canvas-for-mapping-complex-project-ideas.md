@@ -9,8 +9,6 @@ slug: "obsidian-canvas-for-mapping-complex-project-ideas"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Canvas for Mapping Complex Project Ideas: Complete Guide
 
 > **Quick Answer:** Using Obsidian Canvas for mapping complex project ideas allows you to visually organize Markdown notes, images, and web links onto an infinite spatial board. By connecting individual text nodes with directional arrows and grouping related concepts, you transition from rigid linear [note-taking](/posts/zettelkasten-method-explained/) to a dynamic, visual workspace that reveals hidden relationships and streamlines large-scale project planning.

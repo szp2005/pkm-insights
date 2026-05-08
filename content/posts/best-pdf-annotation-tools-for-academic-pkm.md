@@ -9,8 +9,6 @@ slug: "best-pdf-annotation-tools-for-academic-pkm"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best PDF Annotation Tools for Academic PKM in 2026
 
 > **Quick Answer:** The best PDF annotation tools for academic PKM are Zotero 6/7 for seamless reference management and built-in extraction, [Logseq](/posts/remnote-vs-logseq-for-medical-students-comparison/) for integrated block-level PDF referencing, and MarginNote for spatial mind-mapping of complex papers. Your choice depends on whether you prefer a traditional citation manager or a unified network of thought.
@@ -23,7 +21,7 @@ Choosing the right tool requires balancing robust reading features with export c
 
 ## Top PDF Annotation Tools for Researchers
 
-### 1. [Zotero](https://www.amazon.com/s?k=Zotero&tag=pkm.notes-automate-20)
+### 1. Zotero
 
 **Best for:** Comprehensive reference management and automated extraction
 **Price:** Free (open-source), Storage starts at $20/year
@@ -42,7 +40,7 @@ Using native features or community plugins like Zotero Integration for Obsidian,
 - Syncing large PDF libraries requires paid storage or third-party workarounds (WebDAV)
 - PDF reader UI is functional but less touch-friendly on tablets compared to dedicated iPad apps
 
-### 2. [Logseq](https://www.amazon.com/s?k=Logseq&tag=pkm.notes-automate-20)
+### 2. Logseq
 
 **Best for:** Block-based outliners and deep bidirectional linking
 **Price:** Free, Pro sync for $5/month
@@ -61,7 +59,7 @@ Every highlight creates a block reference. Clicking that reference instantly ope
 - Handling very large PDFs (500+ pages) can occasionally cause lag
 - Lacks advanced visual mapping or freehand drawing tools
 
-### 3. [MarginNote 4](https://www.amazon.com/s?k=MarginNote%204&tag=pkm.notes-automate-20)
+### 3. MarginNote 4
 
 **Best for:** Visual learners and complex theoretical frameworks
 **Price:** $12.99 (Mac) / $12.99 (iPad) one-time purchase
@@ -81,7 +79,7 @@ For academic PKM, it supports exporting these mind maps and outlines to formats 
 - Exporting cleanly to markdown requires third-party scripts or intermediate steps
 - Apple ecosystem exclusive (Mac/iPad only)
 
-### 4. [LiquidText](https://www.amazon.com/s?k=LiquidText&tag=pkm.notes-automate-20)
+### 4. LiquidText
 
 **Best for:** Cross-referencing multiple documents simultaneously
 **Price:** Free basic, Pro for $29.99, Live subscription for $9.99/month
@@ -101,7 +99,7 @@ Its visual workspace is unmatched for the synthesis phase of research. While its
 - Exporting to standard markdown formats is clumsy and loses spatial data
 - Expensive pricing model for premium features
 
-### 5. [Readwise Reader](https://www.amazon.com/s?k=Readwise%20Reader&tag=pkm.notes-automate-20)
+### 5. Readwise Reader
 
 **Best for:** Omnivorous readers merging web articles and PDFs
 **Price:** $8.99/month (includes classic Readwise)

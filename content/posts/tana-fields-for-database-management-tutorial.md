@@ -9,8 +9,6 @@ slug: "tana-fields-for-database-management-tutorial"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana Fields for Database Management Tutorial: Complete Guide
 
 > **Quick Answer:** Tana fields are customizable metadata attributes attached to Supertags that allow you to structure, filter, and manage data like a traditional relational database. By defining field types—such as options, dates, or reference links—you transform unstructured text nodes into highly queryable, structured database entries without [writing](/posts/atomic-notes-writing-guide/) code.

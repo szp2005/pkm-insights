@@ -9,8 +9,6 @@ slug: "capacities-vs-notion-object-based-pkm"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Capacities vs Notion: Which Is Better for Object-Based PKM?
 
 > **Quick Answer:** Capacities is better if you want a ready-to-use, natively object-oriented system that organizes your knowledge by types (People, Books, Ideas) without manual database setup. Notion is the superior choice if you need maximum customization, team collaboration features, and the ability to build complex, interconnected database systems from scratch.
@@ -23,7 +21,7 @@ Rather than creating a page inside a "Work" folder, you create an instance of a 
 
 To understand which application suits your specific needs, we must first look at how they position themselves within the broader [productivity](/posts/zettelkasten-method-explained/) ecosystem.
 
-### 1. [Capacities](https://www.amazon.com/s?k=Capacities&tag=pkm.notes-automate-20)
+### 1. Capacities
 
 **Best for:** Visual thinkers and object-oriented note-takers
 **Price:** $0-$12/month
@@ -41,7 +39,7 @@ Capacities is built from the ground up as a "studio for your mind," leveraging a
 - Less flexible for non-standard data layouts compared to blank-canvas [tools](/posts/personal-knowledge-management-tools-comparison/)
 - Primarily focused on single-player mode with limited team collaboration features
 
-### 2. [Notion](https://www.amazon.com/s?k=Notion&tag=pkm.notes-automate-20)
+### 2. Notion
 
 **Best for:** Systems architects and team collaboration
 **Price:** $0-$15/month

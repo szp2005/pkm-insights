@@ -9,8 +9,6 @@ slug: "maintaining-links-in-long-term-research-notes"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Maintaining Links in Long Term Research Notes: 5-Step Guide
 
 > **Quick Answer:** Maintaining links in long term research notes requires a system that prevents link rot and avoids orphaned files. The most durable approach combines plain-text formats, relative file paths, permanent identifiers (like Zettelkasten timestamps), and regular graph maintenance using bidirectional linking [software](/posts/best-apps-for-personal-knowledge-management/) to ensure historical context survives across decades.

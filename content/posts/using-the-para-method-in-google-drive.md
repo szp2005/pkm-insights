@@ -9,8 +9,6 @@ slug: "using-the-para-method-in-google-drive"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Using the PARA Method in Google Drive: Complete 2026 Setup Guide
 
 > **Quick Answer:** Using the PARA method in Google Drive involves creating four top-level folders in your main directory: `1 - Projects`, `2 - Areas`, `3 - Resources`, and `4 - Archives`. You then file every document, spreadsheet, and asset into one of these four categories based on its actionability, dramatically reducing search time and digital clutter.

@@ -9,8 +9,6 @@ slug: "atomic-notes-writing-guide-for-zettelkasten"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Atomic Notes Writing Guide for Zettelkasten: 5-Step System
 
 > **Quick Answer:** An atomic note focuses on one single, distinct idea written entirely in your own words, making it the fundamental building block of a Zettelkasten. By limiting each note to a single concept and heavily linking it to related ideas, you create a dynamic, searchable web of knowledge that compounds in value and generates new insights over time.

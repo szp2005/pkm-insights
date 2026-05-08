@@ -9,8 +9,6 @@ slug: "structuring-complex-research-projects-in-logseq"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Structuring Complex Research Projects in Logseq: A Complete Guide
 
 > **Quick Answer:** Structuring complex research projects in Logseq requires moving beyond basic daily journal logging. The most effective approach combines namespaces (e.g., `Research/ProjectName`) for rigid page hierarchy, block properties for granular metadata tagging, and advanced queries to pull distributed notes and tasks into a unified, dynamic project dashboard.

@@ -9,8 +9,6 @@ slug: "tana-ai-for-researchers-premium-features"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana AI for Researchers Premium Features: 2026 Complete Guide
 
 > **Quick Answer:** The core premium features of Tana AI for researchers include unbounded AI commands for automated literature summarization, advanced semantic search across large reference databases, unlimited voice transcription for field notes, and priority access to state-of-the-art language models (like GPT-4o and Claude 3.5 Sonnet). Upgrading unlocks the computing power necessary to process hundreds of academic papers simultaneously without hitting usage caps.

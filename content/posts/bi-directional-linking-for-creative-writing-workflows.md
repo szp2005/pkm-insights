@@ -9,8 +9,6 @@ slug: "bi-directional-linking-for-creative-writing-workflows"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Bi-Directional Linking for Creative Writing Workflows: Complete Guide
 
 > **Quick Answer:** Bi-directional linking for creative writing workflows replaces rigid, linear folders with a web of interconnected notes. By automatically linking characters, locations, and plot points to every scene where they are mentioned, writers can track complex lore, visualize narrative threads, and instantly recall critical details without losing creative momentum.

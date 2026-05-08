@@ -9,8 +9,6 @@ slug: "personal-knowledge-management-for-independent-researchers"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Personal Knowledge Management for Independent Researchers Guide
 
 > **Quick Answer:** Personal knowledge management for independent researchers requires a resilient, decentralized system for capturing, processing, and retrieving information without institutional support. The most effective approach combines a dedicated reference manager (like Zotero) with a networked note-taking tool (like Obsidian or Logseq) to build a sustainable database of interconnected [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) insights.

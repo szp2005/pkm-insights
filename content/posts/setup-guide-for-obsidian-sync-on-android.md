@@ -9,8 +9,6 @@ slug: "setup-guide-for-obsidian-sync-on-android"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Set Up Obsidian Sync on Android: A Complete Guide
 
 > **Quick Answer:** Setting up Obsidian Sync on Android involves ensuring you have an active Obsidian Sync subscription, installing the Obsidian app on your Android device, and then linking your mobile app to an existing synced vault or creating a new one through the Sync settings, followed by configuring folder and file synchronization preferences for optimal performance.

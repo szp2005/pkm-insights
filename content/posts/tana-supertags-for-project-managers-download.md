@@ -9,8 +9,6 @@ slug: "tana-supertags-for-project-managers-download"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana Supertags for Project Managers: Download the Ultimate 2026 Setup
 
 > **Quick Answer:** The fastest way to optimize Tana for [project management](/posts/obsidian-canvas-for-mapping-complex-project-ideas/) is to import a pre-configured workspace. Our downloadable PM Supertag bundle includes `#project`, `#task`, `#meeting`, and `#person` tags, complete with inherited fields for status, priority, and deadlines, instantly transforming your daily node structure into a functional project management dashboard.

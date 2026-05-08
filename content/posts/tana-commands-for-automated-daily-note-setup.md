@@ -9,8 +9,6 @@ slug: "tana-commands-for-automated-daily-note-setup"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana Commands for Automated Daily Notes: A Complete Setup Guide
 
 > **Quick Answer:** Tana leverages a powerful combination of commands, Supertags, and templates to automate daily note setup. By defining a `Daily Note` Supertag with relevant fields and integrating commands like `New Node`, `Today`, `Yesterday`, and `Insert Template`, users can create a consistent, pre-populated daily note [workflow](/posts/using-the-para-method-in-google-drive/), significantly streamlining knowledge capture and task management.

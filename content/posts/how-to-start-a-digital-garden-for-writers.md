@@ -9,8 +9,6 @@ slug: "how-to-start-a-digital-garden-for-writers"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Start a Digital Garden for Writers: 5-Step Guide
 
 > **Quick Answer:** To start a digital garden for writers, choose a networked [note-taking](/posts/zettelkasten-method-explained/) tool like [Obsidian](/posts/what-is-personal-knowledge-management/) or [Notion](/posts/personal-knowledge-management-tools-comparison/), create a flat folder structure, and plant "seed" notes for your current ideas. Cultivate your garden by linking related notes bidirectionally and publicly sharing the space to evolve your rough thoughts into polished writing.

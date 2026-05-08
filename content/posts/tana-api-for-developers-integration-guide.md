@@ -9,8 +9,6 @@ slug: "tana-api-for-developers-integration-guide"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana API for Developers: Complete Integration Guide 2026
 
 > **Quick Answer:** The Tana API enables programmatic access to your workspace via RESTful endpoints, allowing developers to manipulate nodes, apply supertags, and trigger complex automations. You will need a workspace-specific API token to authenticate requests and interact with core data structures securely.

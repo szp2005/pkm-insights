@@ -9,8 +9,6 @@ slug: "obsidian-zettelkasten-vault-starter-kit-download"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Zettelkasten Vault Starter Kit Download (2026 Guide)
 
 > **Quick Answer:** The most efficient way to implement the Zettelkasten method in Obsidian is to use a pre-configured vault starter kit. These downloadable zip files provide the exact folder structures, metadata templates, and tag hierarchies needed to begin linking your thoughts immediately, bypassing the steep initial learning curve of setting up Obsidian from scratch.

@@ -9,8 +9,6 @@ slug: "tana-ai-features-for-structured-data-entry"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana AI Features for Structured Data Entry: Complete Guide
 
 > **Quick Answer:** Tana leverages AI to transform unstructured text into highly structured databases using AI-powered Supertags, semantic field extraction, and automated commands. By integrating large language models directly into the data entry process, Tana eliminates manual tagging and formatting, allowing users to capture raw thoughts that instantly organize themselves into querying, interconnected nodes.

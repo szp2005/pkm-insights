@@ -9,8 +9,6 @@ slug: "optimizing-dataview-plugin-for-research-workflows"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Optimizing Dataview Plugin for Research Workflows: A Complete Guide
 
 > **Quick Answer:** Optimizing the Dataview plugin for research workflows requires structuring metadata with strict YAML frontmatter, narrowing query scopes using specific folder paths or tags (`FROM "Research/Literature"`), and shifting complex data manipulation from standard DQL to DataviewJS. These practices prevent full-vault scans and ensure rapid rendering even in vaults containing thousands of literature notes.

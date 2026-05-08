@@ -9,8 +9,6 @@ slug: "building-a-second-brain-for-fiction-authors"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Building a Second Brain for Fiction Authors: 5-Step Guide
 
 > **Quick Answer:** Building a second brain for fiction authors involves adapting [personal knowledge management](/posts/digital-decluttering-for-information-overload/) systems to organize world-building, character bibles, plot outlines, and [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) into an interconnected digital vault. By using tools like [Obsidian](/posts/what-is-personal-knowledge-management/) or [Notion](/posts/personal-knowledge-management-tools-comparison/) and applying the CODE (Capture, Organize, Distill, Express) methodology, writers can eliminate lost ideas and maintain absolute continuity across complex narratives.

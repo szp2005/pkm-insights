@@ -9,8 +9,6 @@ slug: "obsidian-academic-workflow-for-thesis-2026"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide
 
 > **Quick Answer:** The optimal Obsidian academic workflow for thesis 2026 relies on a streamlined literature pipeline integrating Zotero with Obsidian via the Zotero Integration plugin. By structuring your vault around atomic concept notes and utilizing bidirectional links rather than rigid folders, researchers can easily surface connections across thousands of sources and directly export networked thoughts into structured thesis drafts.

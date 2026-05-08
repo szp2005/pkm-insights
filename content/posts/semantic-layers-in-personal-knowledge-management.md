@@ -9,8 +9,6 @@ slug: "semantic-layers-in-personal-knowledge-management"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Semantic Layers in Personal Knowledge Management: Complete Guide
 
 > **Quick Answer:** A semantic layer in personal knowledge management (PKM) is an invisible structural framework that adds machine-readable metadata and explicit relationships to your notes. By using typed links, properties, and ontologies, it transforms a flat collection of text files into a queryable, interconnected database where the relationships between ideas are explicitly defined.

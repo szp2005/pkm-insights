@@ -8,8 +8,6 @@ tags: ["productivity", "gtd", "knowledge-management", "deep-work", "workflows"]
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 > **Quick Answer:** Getting Things Done for Knowledge Workers matters because it gives knowledge workers, [students](/posts/how-to-practice-active-recall-using-digital-notes/), and creators a practical way to solve the problem behind the search. Discover how to adapt David Allen's Getting Things Done (GTD) methodology specifically for the unique challenges of modern knowledge work, information overload, and continuous context switching.
 
 For knowledge workers, the modern workplace is less of an assembly line and more of a chaotic information bazaar. The inputs are endless: Slack messages, emails, Jira tickets, [Notion](/posts/what-is-personal-knowledge-management/) documents, and impromptu Zoom calls. In this environment, the traditional metrics of [productivity](/posts/zettelkasten-method-explained/)—hours worked or widgets produced—fall apart. Instead, the currency of knowledge work is attention and the ability to systematically synthesize disparate information into high-value outputs.

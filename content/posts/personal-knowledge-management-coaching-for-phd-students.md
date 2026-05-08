@@ -9,8 +9,6 @@ slug: "personal-knowledge-management-coaching-for-phd-students"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # PKM Coaching for PhD Students: Master Research & Thesis
 
 > **Quick Answer:** Personal Knowledge Management (PKM) coaching for PhD students provides tailored strategies and systems to effectively capture, organize, synthesize, and retrieve vast amounts of research information, directly addressing the unique challenges of doctoral studies to enhance productivity and reduce overwhelm.

@@ -9,8 +9,6 @@ slug: "setting-up-a-family-knowledge-base-for-genealogy"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Setting Up a Family Knowledge Base for Genealogy: 5-Step Guide
 
 > **Quick Answer:** Setting up a family knowledge base for genealogy requires selecting a flexible digital platform (like Obsidian, Notion, or specialized wiki software), defining a standardized naming convention for files, and creating interconnected profiles for individuals, places, and events. This centralized system transforms scattered documents, photos, and DNA results into a searchable, permanent archive that protects against data loss and vendor lock-in.

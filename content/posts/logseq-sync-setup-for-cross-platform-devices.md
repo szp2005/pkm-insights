@@ -9,8 +9,6 @@ slug: "logseq-sync-setup-for-cross-platform-devices"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Logseq Sync Setup for Cross Platform Devices: The Complete 2026 Guide
 
 > **Quick Answer:** The most reliable Logseq sync setup for cross platform devices is the official Logseq Sync service ($5/month), which offers end-to-end encrypted real-time syncing across Windows, Mac, iOS, and Android without file duplication issues. For a robust free alternative, using Syncthing provides peer-to-peer file synchronization across desktop and Android, while iOS users will need a compatible client like Mobius Sync to complete the network.

@@ -9,8 +9,6 @@ slug: "heptabase-vs-scrintal-visual-sense-making-comparison"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Heptabase vs Scrintal: Best Visual Sense-Making Tool in 2026?
 
 > **Quick Answer:** For rigorous visual sense-making, **Heptabase** excels with its robust PDF annotation, nested whiteboards, and [learning](/posts/how-to-remember-what-you-read-effectively/)-focused architecture, making it the top choice for deep researchers. **Scrintal** provides a cleaner, highly intuitive interface with exceptional card linking and outliner capabilities, serving as the better option for visual writers and project planners who prefer friction-free mapping.
@@ -31,7 +29,7 @@ Both Heptabase and Scrintal operate on this premise, utilizing a core architectu
 
 ## Core Tool Comparisons
 
-### 1. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=pkm.notes-automate-20)
+### 1. Heptabase
 
 **Best for:** Deep researchers, [academics](/posts/tana-workflows-for-systematic-literature-reviews/), and systematic learners
 **Price:** $8.99-$11.99/month
@@ -51,7 +49,7 @@ The standout feature of Heptabase is its integrated PDF reader and annotation sy
 - Steeper learning curve due to dense feature set
 - Interface can feel utilitarian or cluttered compared to modern minimal apps
 
-### 2. [Scrintal](https://www.amazon.com/s?k=Scrintal&tag=pkm.notes-automate-20)
+### 2. Scrintal
 
 **Best for:** Visual writers, project managers, and intuitive thinkers
 **Price:** $8.00/month

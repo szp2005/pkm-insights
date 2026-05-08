@@ -9,8 +9,6 @@ slug: "tiago-forte-building-a-second-brain-review"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 > **Quick Answer:** Tiago Forte's Building a [Second Brain](/posts/best-apps-for-personal-knowledge-management/) [Review](/posts/scrintal-vs-heptabase-for-visual-note-taking/) matters because it gives knowledge workers, [students](/posts/how-to-practice-active-recall-using-digital-notes/), and creators a practical way to solve the problem behind the search. A comprehensive, expert [review](/posts/tiago-forte-building-a-second-brain-review-2026/) of Tiago Forte's Building a [Second Brain](/posts/digital-note-taking-strategies-for-productivity/) (BASB) methodology. We analyze its core principles, practical application, and whether it truly revolutionizes [personal knowledge management](/posts/digital-decluttering-for-information-overload/).
 
 In the ever-evolving landscape of [personal knowledge management](/posts/differences-between-fleeting-and-permanent-notes-explained/) (PKM), few frameworks have captured the collective imagination quite like Tiago Forte's "Building a [Second Brain](/posts/second-brain-dashboard-for-notion-power-users/)" (BASB). It promises a panacea for information overload—a reliable, external system to capture, organize, and distill our best ideas, freeing our biological brains for imagination and creation. But behind the polished marketing and fervent community, does the methodology hold up to rigorous, long-term application? 
@@ -29,25 +27,25 @@ The brilliance of BASB lies not in the invention of note-taking, but in the syst
 
 The operational workflow of the Second Brain is encapsulated in the acronym **CODE**: Capture, Organize, Distill, and Express. This is the pipeline through which information travels.
 
-### 1. [Capture: Keep What Resonates](https://www.amazon.com/s?k=Capture%3A%20Keep%20What%20Resonates&tag=pkm.notes-automate-20)
+### 1. Capture: Keep What Resonates
 
 The first step is establishing a reliable system for capturing information. Forte emphasizes capturing only what truly "resonates"—ideas that spark joy, curiosity, or immediate utility. This is a critical distinction from digital hoarding. 
 
 **Expert Insight:** The success of the Capture phase depends entirely on removing friction. If capturing a quote from a podcast takes more than three clicks, you won't do it. Utilizing quick-capture [tools](/posts/personal-knowledge-management-tools-comparison/) (like Drafts, Readwise, or native OS shortcuts) is essential. However, the requirement to filter strictly by "resonance" requires discipline. It's easy for the capture inbox to become a graveyard of good intentions if regular review habits are not established.
 
-### 2. [Organize: Save for Actionability](https://www.amazon.com/s?k=Organize%3A%20Save%20for%20Actionability&tag=pkm.notes-automate-20)
+### 2. Organize: Save for Actionability
 
 This is where BASB introduces its most famous (and sometimes polarizing) concept: the **PARA** method. We will dissect PARA in detail below, but the core principle of the Organize phase is organizing by *actionability*, not by subject. You file a note based on where you will use it next, rather than what category it belongs to.
 
 **Expert Insight:** Organizing by actionability is a paradigm shift. Traditional filing systems (like Dewey Decimal) fail in PKM because they assume information has a static, single context. Action-based [organization](/posts/para-method-for-digital-organization/) forces you to consider the utility of information immediately upon capture, ensuring your Second Brain remains a working environment rather than a static archive.
 
-### 3. [Distill: Find the Essence](https://www.amazon.com/s?k=Distill%3A%20Find%20the%20Essence&tag=pkm.notes-automate-20)
+### 3. Distill: Find the Essence
 
 Forte advocates for "Progressive Summarization." This involves highlighting the most important parts of a note, then bolding the most crucial parts of the highlights, and eventually writing an executive summary at the top. 
 
 **Expert Insight:** Progressive Summarization is highly effective but labor-intensive. It assumes you will revisit notes multiple times. In practice, many users find they only distill notes when actively preparing for a project (Express phase). While theoretically sound, over-distilling without immediate need can lead to "productivity theater"—doing work that feels productive but produces no actual output.
 
-### 4. [Express: Show Your Work](https://www.amazon.com/s?k=Express%3A%20Show%20Your%20Work&tag=pkm.notes-automate-20)
+### 4. Express: Show Your Work
 
 The ultimate goal of BASB is not just to have a perfectly organized database, but to produce creative output. The Express phase is where the accumulated, distilled knowledge is combined to create articles, presentations, strategies, or products.
 

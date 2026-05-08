@@ -9,8 +9,6 @@ slug: "connecting-ideas-in-obsidian-best-methods"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Connecting Ideas in Obsidian: Best Methods Complete Guide
 
 > **Quick Answer:** The most effective methods for connecting ideas in Obsidian include using bidirectional wikilinks (`[[like this]]`) for direct relationships, building Maps of Content (MOCs) for structural [organization](/posts/steps-to-building-a-second-brain/), and leveraging block references for granular transclusion. Rely on links to establish meaning between concepts, while reserving tags for status tracking and broad categorization. 

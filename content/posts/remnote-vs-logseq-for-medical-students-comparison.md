@@ -9,8 +9,6 @@ slug: "remnote-vs-logseq-for-medical-students-comparison"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # RemNote vs Logseq for Medical Students: Which Note-Taking App is Best for Your Studies?
 
 > **Quick Answer:** For medical students prioritizing integrated [spaced repetition](/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/) flashcards and a structured, hierarchical approach to knowledge, **RemNote** often provides a more streamlined experience. However, for those who value [local-first](/posts/anytype-review-local-first-privacy-lovers/) data ownership, a flexible graph-based knowledge system, and extensive customization, **Logseq** offers powerful capabilities, albeit with a steeper [learning](/posts/how-to-remember-what-you-read-effectively/) curve for flashcard integration.
@@ -19,7 +17,7 @@ The journey through medical school is an intellectual marathon, demanding not ju
 
 For medical students, the choice between RemNote and Logseq isn't trivial; it can significantly impact study efficiency, exam performance, and long-term knowledge retention. Both applications leverage powerful concepts like spaced repetition and bi-directional linking, but their philosophies, implementations, and user experiences differ considerably. This comprehensive comparison aims to dissect their features, pros, and cons specifically through the lens of a medical student's needs, helping you determine which platform aligns best with your study style and academic goals.
 
-### 1. [RemNote](https://www.amazon.com/s?k=RemNote&tag=pkm.notes-automate-20)
+### 1. RemNote
 
 **Best for:** Medical students who prioritize deeply integrated spaced repetition flashcards, hierarchical note organization, and a streamlined workflow for converting notes directly into reviewable Rems.
 **Price:** Free (basic features), $6/month (Pro), $8/month (Life-long Learning)
@@ -39,7 +37,7 @@ RemNote is an all-in-one [knowledge management](/posts/knowledge-management-stra
 -   **Learning Curve:** While powerful, mastering all its features, especially the advanced flashcard types and Rems, can take time.
 -   **Performance Issues:** Can sometimes be resource-intensive, especially with large knowledge bases or many open PDFs.
 
-### 2. [Logseq](https://www.amazon.com/s?k=Logseq&tag=pkm.notes-automate-20)
+### 2. Logseq
 
 **Best for:** Medical students who value local-first data ownership, a highly flexible graph-based knowledge system, extensive customization, and an open-source approach to note-taking and knowledge linking.
 **Price:** Free (open-source)

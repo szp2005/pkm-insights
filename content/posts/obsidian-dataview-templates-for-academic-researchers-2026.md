@@ -8,8 +8,6 @@ tags: ["Obsidian", "Dataview", "Academic Research", "Productivity Tools"]
 slug: "obsidian-dataview-templates-academic-researchers-2026"
 type: "informational"
 ---
-
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Best Obsidian Dataview Templates for Academic Research 2026
 
 > **Quick Answer:** The best Obsidian Dataview templates for academic researchers in 2026 integrate structured metadata with dynamic queries to automate literature review tracking, streamline project management, and accelerate knowledge synthesis, significantly enhancing research efficiency and output. These templates leverage Dataview's power to transform static notes into an interconnected, queryable research database.

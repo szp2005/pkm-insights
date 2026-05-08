@@ -9,8 +9,6 @@ slug: "digital-garden-hosting-platforms-for-obsidian-users"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Digital Garden Hosting Platforms for Obsidian Users in 2026
 
 > **Quick Answer:** The best digital garden hosting platforms for Obsidian users in 2026 offer a spectrum from integrated solutions like Obsidian Publish for simplicity, to flexible static site generators (SSGs) hosted on platforms like Netlify or Vercel for customization, and specialized tools like Quartz for a balance of both. The ideal choice depends on your technical comfort, budget, and desired level of control over your published notes.

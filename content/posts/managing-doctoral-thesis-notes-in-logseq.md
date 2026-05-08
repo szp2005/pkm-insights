@@ -9,8 +9,6 @@ slug: "managing-doctoral-thesis-notes-in-logseq"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Managing Doctoral Thesis Notes in Logseq: Complete Guide
 
 > **Quick Answer:** Managing doctoral thesis notes in Logseq requires a structured outline using pages for authors and concepts, combined with daily journal entries for transient thoughts. By leveraging bidirectional links, block references, and targeted queries, you can build an automated, interconnected knowledge base that naturally bridges the gap between raw literature reviews and your final dissertation draft.

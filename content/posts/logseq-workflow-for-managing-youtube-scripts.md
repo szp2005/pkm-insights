@@ -9,8 +9,6 @@ slug: "logseq-workflow-for-managing-youtube-scripts"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Logseq Workflow for Managing YouTube Scripts: A Creator's Guide
 
 > **Quick Answer:** A Logseq workflow for managing YouTube scripts leverages its block-based outlining, linked references, and property system to streamline ideation, [research](/posts/progressive-summarization-workflow-for-deep-research-papers/), [writing](/posts/atomic-notes-writing-guide/), and revision. By creating dedicated pages for videos and using specific properties, creators can efficiently track progress, integrate research, and maintain a clear, iterative script development process.

@@ -9,8 +9,6 @@ slug: "how-to-capture-ideas-on-the-go"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Capture Ideas on the Go: 5-Step System for Creatives
 
 > **Quick Answer:** To capture ideas on the go, you must eliminate friction. Set up a quick-capture system using a physical pocket notebook (like a Field Notes) for tactile sketching, or place a single, fast-loading note app (like Drafts, Apple Notes, or Google Keep) on your phone's home screen. The goal is to record the raw thought in under 5 seconds, storing it in an inbox for later processing.

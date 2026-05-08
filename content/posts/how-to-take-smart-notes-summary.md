@@ -8,8 +8,6 @@ tags: ["PKM", "Zettelkasten", "Note-Taking", "Productivity", "Book Summary"]
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # How to Take Smart Notes Summary: Master the Zettelkasten Method
 
 > **Quick Answer:** Take Smart Notes Summary matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Master the Zettelkasten method with our in-depth summary of 'How to Take Smart Notes'. Learn practical techniques for better [knowledge management](/posts/knowledge-management-strategies-for-students/) and writing.

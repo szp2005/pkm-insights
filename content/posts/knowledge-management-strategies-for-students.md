@@ -8,8 +8,6 @@ tags: ["knowledge management", "PKM", "student success", "study strategies", "pr
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence
 
 > **Quick Answer:** Knowledge Management Strategies for Students matters because it gives knowledge workers, students, and creators a practical way to solve the problem behind the search. Discover practical, expert-level knowledge management strategies for students. Learn how to build a [Second Brain](/posts/personal-knowledge-management-tools-comparison/), utilize [Zettelkasten](/posts/what-is-personal-knowledge-management/), and master [information overload](/posts/digital-decluttering-for-information-overload/).

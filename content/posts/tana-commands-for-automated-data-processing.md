@@ -9,8 +9,6 @@ slug: "tana-commands-for-automated-data-processing"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana Commands for Automated Data Processing: Complete Guide
 
 > **Quick Answer:** Tana commands for automated data processing are built-in [workflow](/posts/using-the-para-method-in-google-drive/) triggers attached to Supertags or nodes that execute sequences of actions—such as setting field values, moving nodes, generating content via AI, or making external API calls. By combining these commands into multi-step macros, users can transform raw [daily notes](/posts/tana-commands-for-automated-daily-note-setup/) into structured databases without manual data entry.

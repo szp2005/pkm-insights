@@ -9,8 +9,6 @@ slug: "how-to-implement-map-of-content-in-obsidian"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Map of Content in Obsidian: 5-Step Setup Guide
 
 > **Quick Answer:** A Map of Content (MOC) in Obsidian is implemented by creating a central hub note that links to related concepts and sub-topics. Start by identifying 5-10 core themes in your vault, create a dedicated index note for each, and actively link relevant notes to these hubs to organically build a scalable knowledge navigation system without relying on rigid folder hierarchies.

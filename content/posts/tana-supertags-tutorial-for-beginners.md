@@ -9,8 +9,6 @@ slug: "tana-supertags-tutorial-for-beginners"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Tana Supertags Tutorial for Beginners: A Step-by-Step Guide
 
 > **Quick Answer:** Tana Supertags are customizable [templates](/posts/logseq-templates-for-doctoral-research-students/) that apply structure, properties, and relationships to individual nodes (bullet points) within your workspace. By typing `@` followed by a tag name, you instantly inherit fields like dates, statuses, or assignees, transforming a simple text bullet into a structured database record.

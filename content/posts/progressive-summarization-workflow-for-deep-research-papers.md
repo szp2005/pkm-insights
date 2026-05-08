@@ -9,8 +9,6 @@ slug: "progressive-summarization-workflow-for-deep-research-papers"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide
 
 > **Quick Answer:** The progressive summarization workflow for deep research papers involves processing a text multiple times, adding layers of formatting (bolding, highlighting, and executive summaries) at each stage. This method compresses dense academic literature into highly discoverable, easily reviewable notes without losing the original context or critical methodology.

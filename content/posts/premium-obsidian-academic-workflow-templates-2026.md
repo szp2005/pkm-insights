@@ -9,8 +9,6 @@ slug: "premium-obsidian-academic-workflow-templates-2026"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Best Premium Obsidian Academic Workflow Templates 2026
 
 > **Quick Answer:** The best premium Obsidian academic workflow templates for 2026 are the *Scholar OS Pro* for humanities and literature reviews, *Research Mastermind 3.0* for comprehensive PhD and postdoctoral thesis management, and *STEM Forge Vault* for data-heavy, LaTeX-driven workflows. Expect to invest between $45 and $130 for a lifetime license, which will save you 20 to 40 hours of complex Dataview, Templater, and Zotero integration setup.

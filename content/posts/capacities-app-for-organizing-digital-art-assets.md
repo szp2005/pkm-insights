@@ -9,8 +9,6 @@ slug: "capacities-app-for-organizing-digital-art-assets"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # Capacities App for Organizing Digital Art Assets: A Complete Guide
 
 > **Quick Answer:** The Capacities app for organizing digital art assets provides a flexible, object-based system that allows artists to categorize, link, and retrieve their creative work efficiently. Its unique approach to digital asset management helps streamline [workflows](/posts/getting-things-done-for-knowledge-workers/) by treating art pieces, projects, and references as interconnected objects, enhancing discoverability and project continuity.

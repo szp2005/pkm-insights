@@ -9,8 +9,6 @@ slug: "best-capacities-templates-for-university-students"
 type: "review"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 _作为 Amazon 联盟成员，我们从符合条件的购买中赚取收益。本文可能包含联盟链接。_
 
 # 2026年适合大学生的 7 个最佳 Capacities 模板
@@ -25,7 +23,7 @@ _作为 Amazon 联盟成员，我们从符合条件的购买中赚取收益。�
 
 ## 取得学术成功的顶级 Capacities 模板
 
-### 1. [The Comprehensive Student OS](https://www.amazon.com/s?k=The%20Comprehensive%20Student%20OS&tag=pkm.notes-automate-20)
+### 1. The Comprehensive Student OS
 
 **最适合：** 寻找多合一工作区的本科生
 **价格：** 免费
@@ -42,7 +40,7 @@ The Comprehensive Student OS 旨在成为你整个学术生活的中心枢纽。
 - 如果你上的课超过六门，视觉上可能会让人感到不知所措
 - 需要持续的标签系统 (tagging) 才能保持仪表板的准确性
 
-### 2. [Academic Zettelkasten for Researchers](https://www.amazon.com/s?k=Academic%20Zettelkasten%20for%20Researchers&tag=pkm.notes-automate-20)
+### 2. Academic Zettelkasten for Researchers
 
 **最适合：** 研究生和论文撰写者
 **价格：** $15.00
@@ -59,7 +57,7 @@ The Comprehensive Student OS 旨在成为你整个学术生活的中心枢纽。
 - 如果你是 Zettelkasten 方法的新手，学习曲线会很高
 - 对于标准的本科课程作业来说可能会觉得过于复杂
 
-### 3. [Minimalist Course & Lecture Tracker](https://www.amazon.com/s?k=Minimalist%20Course%20%26%20Lecture%20Tracker&tag=pkm.notes-automate-20)
+### 3. Minimalist Course & Lecture Tracker
 
 **最适合：** 需要快速、结构化[做笔记](/zh-cn/posts/digital-garden-vs-second-brain-difference/)的 STEM 学生
 **价格：** 免费
@@ -76,7 +74,7 @@ The Comprehensive Student OS 旨在成为你整个学术生活的中心枢纽。
 - 缺乏专门的作业或截止日期跟踪机制
 - 如果想将其链接到更大的研究项目，需要手动集成
 
-### 4. [Assignment & Thesis Project Planner](https://www.amazon.com/s?k=Assignment%20%26%20Thesis%20Project%20Planner&tag=pkm.notes-automate-20)
+### 4. Assignment & Thesis Project Planner
 
 **最适合：** 在时间管理和截止日期方面有困难的学生
 **价格：** $8.00-$10.00
@@ -93,7 +91,7 @@ The Comprehensive Student OS 旨在成为你整个学术生活的中心枢纽。
 - 不是为长篇做笔记或内容存储而设计的
 - 需要频繁手动更新状态属性
 
-### 5. [Student Daily Timeblocker](https://www.amazon.com/s?k=Student%20Daily%20Timeblocker&tag=pkm.notes-automate-20)
+### 5. Student Daily Timeblocker
 
 **最适合：** 将兼职工作与繁重课业结合的学生
 **价格：** 免费
@@ -110,7 +108,7 @@ Student Daily Timeblocker 极大地修改了默认的 Capacities 每日笔记模
 - 在漫长的学期里，手动时间跟踪可能会变得乏味
 - 在组织实际学术内容和讲座笔记方面较弱
 
-### 6. [Source & Literature Review Matrix](https://www.amazon.com/s?k=Source%20%26%20Literature%20Review%20Matrix&tag=pkm.notes-automate-20)
+### 6. Source & Literature Review Matrix
 
 **最适合：** 人文学科专业学生和研究人员
 **价格：** $12.00
@@ -127,7 +125,7 @@ Student Daily Timeblocker 极大地修改了默认的 Capacities 每日笔记模
 - 没有自动引文生成功能（需要与 Zotero 配合使用）
 - 手动输入几十篇论文的元数据非常耗时
 
-### 7. [Extracurricular & Career Hub](https://www.amazon.com/s?k=Extracurricular%20%26%20Career%20Hub&tag=pkm.notes-automate-20)
+### 7. Extracurricular & Career Hub
 
 **最适合：** 大四学生、学生领袖和寻找实习机会的人
 **价格：** 免费

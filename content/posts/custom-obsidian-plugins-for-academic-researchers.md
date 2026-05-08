@@ -9,8 +9,6 @@ slug: "custom-obsidian-plugins-for-academic-researchers"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # 7 Best Custom Obsidian Plugins for Academic Researchers in 2026
 
 > **Quick Answer:** The top custom Obsidian plugins for academic researchers focus on streamlining citation management, PDF annotation, and dynamic information retrieval. Essential installations include Zotero Integration for seamless bibliography sync, Dataview for building structured research databases, and PDF++ for deep, linkable document annotations.

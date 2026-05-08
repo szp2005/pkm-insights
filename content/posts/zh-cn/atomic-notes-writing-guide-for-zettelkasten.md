@@ -9,8 +9,6 @@ slug: "atomic-notes-writing-guide-for-zettelkasten"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # 卡片盒笔记法原子笔记写作指南：五步系统
 
 > **快速解答：** 原子笔记专注于完全用您自己的语言编写的单一、独立的观点，使其成为卡片盒笔记法（Zettelkasten）的基础构建块。通过将每条笔记限制在单个概念上并将其与相关思想深度链接，您可以创建一个动态的、可搜索的知识网络，其价值会随着时间的推移而产生复利并生成新的洞察。

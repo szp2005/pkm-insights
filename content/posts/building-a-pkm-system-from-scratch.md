@@ -9,8 +9,6 @@ slug: "building-a-pkm-system-from-scratch"
 type: "informational"
 ---
 
-_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
-
 # The Ultimate Guide: Building a PKM System from Scratch
 
 > **Quick Answer:** Building a [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system starts with choosing a central tool like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/) to store your notes. Next, establish a simple capture habit to easily record ideas and information as you consume them. Finally, develop a consistent [organization](/posts/para-method-for-digital-organization/) method, such as the PARA framework, to retrieve and connect your knowledge when you need it.
