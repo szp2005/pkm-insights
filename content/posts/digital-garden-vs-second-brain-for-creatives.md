@@ -62,7 +62,7 @@ While both systems can be kept entirely private, digital gardens have a strong t
 
 The [software](/posts/best-apps-for-personal-knowledge-management/) you choose will heavily dictate the framework you adopt. Here is a breakdown of the best tools currently available for implementing these systems.
 
-### 1. Obsidian
+### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
 
 **Best for:** Digital Gardeners and Privacy Advocates
 **Price:** Free - $50/year
@@ -79,7 +79,7 @@ Obsidian operates entirely on local plain-text markdown files, offering absolute
 - The highly technical nature can result in a steep initial [learning](/posts/how-to-remember-what-you-read-effectively/) curve
 - Native syncing across devices requires a paid plan or complex technical workarounds
 
-### 2. Notion
+### 2. [Notion](https://www.amazon.com/s?k=Notion&tag=pkm.notes-automate-20)
 
 **Best for:** Second Brain Systems and Project Managers
 **Price:** Free - $10/month
@@ -96,7 +96,7 @@ Notion is a block-based workspace that excels at structured [organization](/post
 - Noticeably slow loading times for large, complex workspaces
 - Weak offline mode compared to [local-first](/posts/anytype-review-local-first-privacy-lovers/) applications
 
-### 3. Roam Research
+### 3. [Roam Research](https://www.amazon.com/s?k=Roam%20Research&tag=pkm.notes-automate-20)
 
 **Best for:** Networked Thought and Heavy Researchers
 **Price:** $15/month

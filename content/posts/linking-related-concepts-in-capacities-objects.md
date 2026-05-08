@@ -43,7 +43,7 @@ When you extract a thought from a podcast, you create an Idea object. You then l
 
 ## Step 2: Utilize Inline Linking for Context
 
-The most frictionless way to build relationships is through inline linking. As you type notes within an object, use the `@` or `[[` command to instantly reference another object in the middle of a sentence.
+The most frictionless way to build relationships is through inline linking. As you type notes within an object, use the `@` or `` command to instantly reference another object in the middle of a sentence.
 
 For example, if you are [writing](/posts/atomic-notes-writing-guide/) notes in a meeting object, you might type: "Discussed the implementation of the `[[Flywheel Effect]]` strategy with `@Jane Doe`." 
 

@@ -32,7 +32,7 @@ Before diving into the specifics of Reflect Notes and Obsidian, it's crucial to 
 
 Different users will prioritize these aspects differently. A journalist might need to capture quotes on the go, a researcher might want to jot down a sudden insight related to a specific project, and a busy professional might just need to log a task before it's forgotten. The ideal tool adapts to these varied demands.
 
-## 1. Reflect Notes
+## 1. [Reflect Notes](https://www.amazon.com/s?k=Reflect%20Notes&tag=pkm.notes-automate-20)
 
 **Best for:** Users prioritizing instant capture, daily journaling, AI integration, and seamless cloud sync across devices.
 **Price:** $10-$15/month (subscription-based)
@@ -52,7 +52,7 @@ Reflect Notes is a relatively newer entrant that has quickly gained traction for
 -   Less customizable than Obsidian, with a more opinionated workflow.
 -   Cloud-only storage might be a concern for users prioritizing local data control.
 
-## 2. Obsidian
+## 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
 
 **Best for:** Power users, developers, researchers, and anyone seeking ultimate control, customization, and a local-first knowledge base.
 **Price:** Free (core app), $25/year for Sync, $50/year for Publish (optional services)
@@ -78,7 +78,7 @@ Obsidian is a powerful, local-first knowledge base that operates on plain Markdo
 When it comes to the sheer act of getting a thought from your brain into digital form, the experience in Reflect Notes and Obsidian diverges significantly.
 
 **Reflect Notes for Quick Capture:**
-Reflect's strength here is its "zero-friction" approach. Open the app, and you're immediately on today's daily note. Start typing. Want to link to an existing concept? Type `[[` and search. Want to create a new note? Type `[[New Idea]]` and it's created. This daily note acts as a universal inbox. On mobile, the experience is equally fluid, often faster than other apps due to its lightweight nature and cloud-optimized sync. The design philosophy is to remove all barriers between thought and capture.
+Reflect's strength here is its "zero-friction" approach. Open the app, and you're immediately on today's daily note. Start typing. Want to link to an existing concept? Type `` and search. Want to create a new note? Type `New Idea` and it's created. This daily note acts as a universal inbox. On mobile, the experience is equally fluid, often faster than other apps due to its lightweight nature and cloud-optimized sync. The design philosophy is to remove all barriers between thought and capture.
 
 **Obsidian for Quick Capture:**
 Obsidian's quick capture isn't as opinionated out-of-the-box. If you just open it, you might be in your last-opened note. To achieve Reflect-like speed, you'll likely need to:

@@ -8,6 +8,8 @@ tags: ["digital decluttering", "information overload", "productivity", "personal
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Digital Decluttering for Information Overload: A Comprehensive Guide to Reclaiming Your Focus
 
 > **Quick Answer:** Digital decluttering is the intentional practice of eliminating digital noise by removing unused apps, unsubscribing from irrelevant emails, and organizing your essential files. By setting strict boundaries on technology use and minimizing distractions, you can reduce cognitive load, overcome information overload, and reclaim your ability to focus deeply.

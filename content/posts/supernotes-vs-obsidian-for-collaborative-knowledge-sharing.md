@@ -29,7 +29,7 @@ Supernotes is built around the concept of "notecards." Instead of writing sprawl
 
 Obsidian operates as an IDE (Integrated Development Environment) for your thoughts. It points at a local directory on your hard drive filled with standard `.md` files. Because it operates on local files, it is incredibly fast and future-proof. However, local files are inherently single-player until you introduce a synchronization layer, which changes the dynamic of how teams interact with the data.
 
-### 1. Supernotes
+### 1. [Supernotes](https://www.amazon.com/s?k=Supernotes&tag=pkm.notes-automate-20)
 
 **Best for:** Small teams wanting immediate, frictionless collaboration
 **Price:** $0-$10/month per user
@@ -48,7 +48,7 @@ Supernotes takes a unique card-based approach to knowledge management. Instead o
 - Data is cloud-hosted, lacking local-first offline autonomy
 - Limited plugin ecosystem compared to established competitors
 
-### 2. Obsidian
+### 2. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
 
 **Best for:** Technical teams requiring absolute data ownership
 **Price:** $0-$10/month (commercial/sync add-ons vary)

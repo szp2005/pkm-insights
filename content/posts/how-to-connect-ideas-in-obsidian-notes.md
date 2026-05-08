@@ -62,7 +62,7 @@ As your vault grows, relying solely on organic links can lead to a messy, unnavi
 
 Sometimes, you don't need to link to an entire note; you only need to reference a specific paragraph or idea.
 
-*   **Block References:** Obsidian allows you to link directly to a specific block of text (like a paragraph or a list item) within another note. You do this by typing `[[Note Title^` and selecting the block from the dropdown menu.
+*   **Block References:** Obsidian allows you to link directly to a specific block of text (like a paragraph or a list item) within another note. You do this by typing `Note Title^` and selecting the block from the dropdown menu.
 *   **Transclusion (Embedding):** Transclusion takes linking a step further by embedding the content of the linked note (or block) directly into the current note. You add an exclamation mark before the link: `![[Note Title]]` or `![[Note Title^block-id]]`. This is incredibly powerful for compiling research or drafting long-form content from [atomic notes](/posts/atomic-notes-writing-guide/).
 
 ## Advanced Strategies for Meaningful Connections

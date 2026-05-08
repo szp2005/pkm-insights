@@ -9,6 +9,8 @@ slug: "how-to-organize-research-papers-using-zotero-and-obsidian"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # How to Organize Research Papers Using Zotero and [Obsidian](/posts/what-is-personal-knowledge-management/): 5-Step Guide
 
 > **Quick Answer:** To organize research papers using Zotero and Obsidian, use Zotero to manage PDFs and citations, install the Better BibTeX plugin to generate citekeys, and use Obsidian's [Zotero Integration](/posts/logseq-for-journal-article-summaries-workflow/) plugin to import your highlights and metadata. This creates a pipeline where reference material lives in Zotero, while active reading notes and knowledge synthesis happen in your Obsidian vault.

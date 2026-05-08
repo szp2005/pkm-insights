@@ -9,6 +9,8 @@ slug: "four-layer-stack-for-pkm-optimization"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Four-Layer Stack for PKM Optimization Complete Guide: Build Your [Second Brain](/posts/what-is-personal-knowledge-management/)
 
 > **Quick Answer:** The four-layer stack for PKM optimization consists of Capture, Organize, Distill, and Express. By separating these functions into distinct layers using dedicated [tools](/posts/roam-research-vs-obsidian-comparison/) and methodologies, you eliminate friction, prevent information overload, and create a sustainable pipeline that transforms raw data into actionable insights.

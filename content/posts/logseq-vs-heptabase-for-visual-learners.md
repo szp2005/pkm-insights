@@ -25,7 +25,7 @@ Choosing the right platform determines whether you spend your time wrestling wit
 
 When evaluating Logseq vs Heptabase for visual learners, it is critical to understand the architecture of each tool. Here is how both platforms stack up as primary note-taking environments.
 
-### 1. Heptabase
+### 1. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=pkm.notes-automate-20)
 
 **Best for:** Pure visual thinkers, researchers, and writers mapping complex concepts
 **Price:** $8.99-$11.99/month
@@ -44,7 +44,7 @@ The platform uses a proprietary sync engine, which ensures smooth performance ev
 - Subscription pricing model with no free tier available
 - Closed ecosystem with proprietary sync and no local-only offline mode
 
-### 2. Logseq
+### 2. [Logseq](https://www.amazon.com/s?k=Logseq&tag=pkm.notes-automate-20)
 
 **Best for:** [Privacy](/posts/obsidian-local-llm-integration-for-privacy/)-focused outliners who occasionally need visual whiteboards
 **Price:** Free (Sync is $5/month)

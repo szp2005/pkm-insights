@@ -9,6 +9,8 @@ slug: "anytype-vs-obsidian-local-first-knowledge-management"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 _作为 Amazon 联盟成员，我们通过符合条件的购买获得收益。本文可能包含联盟链接。_
 
 # Anytype vs Obsidian：最佳的本地优先知识管理工具？

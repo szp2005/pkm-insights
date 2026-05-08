@@ -29,7 +29,7 @@ Roam Research operates on a pure graph database model. Every bullet point is a n
 
 Tana, conversely, is an object-oriented database masked as an outliner. While it supports bidirectional links, its core engine runs on "Supertags." A Supertag transforms a simple bullet point into a structured data object. If you tag a node with `#book`, Tana automatically appends fields for `Author`, `Status`, and `Rating`. This allows for rigorous, top-down structuring of data without losing the bottom-up flexibility of daily journaling.
 
-### 1. Roam Research
+### 1. [Roam Research](https://www.amazon.com/s?k=Roam%20Research&tag=pkm.notes-automate-20)
 
 **Best for:** Academic researchers, unstructured thinkers, and rapid journalers
 **Price:** $15/month ($165/year)
@@ -46,7 +46,7 @@ Roam Research pioneered the modern [networked thought](/posts/tana-vs-capacities
 - Graph easily degrades into a messy, unnavigable "junk drawer" without strict personal discipline
 - Lacks native, robust structured data querying capabilities
 
-### 2. Tana
+### 2. [Tana](https://www.amazon.com/s?k=Tana&tag=pkm.notes-automate-20)
 
 **Best for:** Project managers, structured knowledge workers, and workflow architects
 **Price:** $10/month (Tana Core)

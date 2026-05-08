@@ -20,7 +20,7 @@ In an increasingly complex world, managing information and ideas effectively is 
 
 While both platforms aim to revolutionize how we capture, connect, and synthesize information, they cater to slightly different [workflows](/posts/getting-things-done-for-knowledge-workers/) and user preferences. Choosing between Scrintal and Heptabase for visual note-taking isn't merely a matter of features; it's about aligning a tool with your specific cognitive style, project demands, and long-term knowledge management goals. This comprehensive review will dissect each platform, comparing their core functionalities, user experience, and ideal use cases to help you make an informed decision.
 
-## 1. Scrintal
+## 1. [Scrintal](https://www.amazon.com/s?k=Scrintal&tag=pkm.notes-automate-20)
 
 **Best for:** Visual thinkers, project managers, and creatives who need a flexible, infinite canvas for brainstorming, organizing ideas, and managing projects with a strong emphasis on visual flow.
 **Price:** Free (limited features), Pro Plan: $10-$15/month (depending on billing cycle)
@@ -40,7 +40,7 @@ Scrintal positions itself as a visual workspace designed to help users think, or
 -   Limited mobile application functionality (primarily web-based).
 -   Can become cluttered if not managed diligently, especially on large boards.
 
-## 2. Heptabase
+## 2. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=pkm.notes-automate-20)
 
 **Best for:** Researchers, academics, writers, and knowledge workers focused on building a structured, interconnected personal knowledge base and deep thinking.
 **Price:** $12-$15/month (depending on billing cycle)

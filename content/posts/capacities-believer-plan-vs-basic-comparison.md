@@ -29,7 +29,7 @@ When looking at the two tiers side-by-side, the divergence in their target audie
 
 ## Deep Dive into the Tiers
 
-### 1. Capacities Basic Plan
+### 1. [Capacities Basic Plan](https://www.amazon.com/s?k=Capacities%20Basic%20Plan&tag=pkm.notes-automate-20)
 
 **Best for:** Students, casual note-takers, and PKM beginners
 **Price:** Free
@@ -47,7 +47,7 @@ The Capacities Basic plan stands out as one of the most generous free tiers in t
 - Severely limited customization options for object page layouts
 - No advanced task management integration or global task querying
 
-### 2. Capacities Believer Plan
+### 2. [Capacities Believer Plan](https://www.amazon.com/s?k=Capacities%20Believer%20Plan&tag=pkm.notes-automate-20)
 
 **Best for:** Power users, researchers, and professional content creators
 **Price:** $10-$12/month (billed annually)

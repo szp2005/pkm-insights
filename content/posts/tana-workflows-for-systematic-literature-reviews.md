@@ -33,7 +33,7 @@ Furthermore, Tana's live search nodes act as dynamic queries. Instead of manuall
 
 Depending on your discipline and the scope of your project, your approach to building a review system will vary. Below are the top structured setups and workflows optimized for rigorous literature reviews.
 
-### 1. The PRISMA Protocol Setup
+### 1. [The PRISMA Protocol Setup](https://www.amazon.com/s?k=The%20PRISMA%20Protocol%20Setup&tag=pkm.notes-automate-20)
 
 **Best for:** Academic researchers, graduate students, and scientists conducting formal systematic reviews.
 **Price:** Free (Self-built)
@@ -50,7 +50,7 @@ This workflow translates the Preferred Reporting Items for Systematic Reviews an
 - Requires significant upfront time to build the precise supertags and nested fields
 - Can feel overly rigid and heavy for informal or exploratory literature reviews
 
-### 2. Zettelkasten-Integrated Synthesis Workflow
+### 2. [Zettelkasten-Integrated Synthesis Workflow](https://www.amazon.com/s?k=Zettelkasten-Integrated%20Synthesis%20Workflow&tag=pkm.notes-automate-20)
 
 **Best for:** Theoretical researchers, humanities scholars, and authors focusing on conceptual synthesis.
 **Price:** Free (Self-built) - $49 (Premium Templates)
@@ -67,7 +67,7 @@ While the PRISMA setup focuses heavily on the inclusion pipeline, the Zettelkast
 - Less [focus](/posts/digital-decluttering-for-information-overload/) on the rigorous, quantitative exclusion criteria needed for medical reviews
 - High manual maintenance overhead to ensure all atomic notes are properly tagged and linked
 
-### 3. Tana AI-Assisted Data Extraction Workflow
+### 3. [Tana AI-Assisted Data Extraction Workflow](https://www.amazon.com/s?k=Tana%20AI-Assisted%20Data%20Extraction%20Workflow&tag=pkm.notes-automate-20)
 
 **Best for:** Researchers dealing with massive volumes of full-text PDFs and strict timelines.
 **Price:** Requires Tana Core subscription ($10/month)

@@ -9,6 +9,8 @@ slug: "pkm-for-software-engineers-best-practices"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # PKM for Software Engineers: Best Practices & Complete Guide
 
 > **Quick Answer:** The most effective PKM for software engineers relies on plain-text, [local-first](/posts/anytype-review-local-first-privacy-lovers/) [tools](/posts/roam-research-vs-obsidian-comparison/) like [Obsidian](/posts/what-is-personal-knowledge-management/) or Neovim plugins, utilizing flat folder structures and bi-directional linking. Best practices include using daily notes as an entry point, separating proprietary company data from personal insights, and building specific templates for architectural decisions, bug root-cause analyses, and reusable code snippets.

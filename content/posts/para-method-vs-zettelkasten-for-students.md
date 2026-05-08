@@ -33,7 +33,7 @@ The **Zettelkasten system**, developed by German sociologist Niklas Luhmann, is 
 
 To determine which framework fits your academic life, let us examine them side-by-side as distinct organizational systems.
 
-### 1. The PARA Method
+### 1. [The PARA Method](https://www.amazon.com/s?k=The%20PARA%20Method&tag=pkm.notes-automate-20)
 
 **Best for:** Project-based majors, undergraduates, and task management
 **Price:** Free (conceptually)
@@ -50,7 +50,7 @@ The PARA method organizes your entire digital workspace into four distinct, hier
 - Poor at fostering deep, long-term connections between isolated academic concepts
 - Notes often become siloed in old project folders, making them hard to find semesters later
 
-### 2. The Zettelkasten System
+### 2. [The Zettelkasten System](https://www.amazon.com/s?k=The%20Zettelkasten%20System&tag=pkm.notes-automate-20)
 
 **Best for:** Researchers, graduate students, and essay-heavy majors
 **Price:** Free (conceptually)

@@ -8,6 +8,8 @@ tags: ["digital wellness", "productivity", "information management", "focus", "P
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 > **Quick Answer:** Managing information overload requires transitioning from a "push" model of reactive consumption to a "pull" model of intentional architecture. By implementing ruthless digital audits, strictly batched processing, and a robust capture habit using the [PARA method](/posts/using-the-para-method-in-google-drive/), you can transform the digital firehose into a curated stream that fuels deep focus and impactful work.
 
 In an era where data is generated at an unprecedented velocity, the modern professional faces a relentless barrage of emails, notifications, articles, and messages. 

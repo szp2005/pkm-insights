@@ -79,7 +79,7 @@ The next step is to pull your existing notes into the MOC.
 
 ### The Brain Dump Phase
 
-Do not worry about [organization](/posts/steps-to-building-a-second-brain/) yet. Simply use Obsidian's double-bracket syntax `[[ ]]` to link every relevant note you can think of. If you type `[[` and start typing a keyword, Obsidian's auto-complete dropdown will help you surface the notes.
+Do not worry about organization(/posts/steps-to-building-a-second-brain/) yet. Simply use Obsidian's double-bracket syntax ` ` to link every relevant note you can think of. If you type `` and start typing a keyword, Obsidian's auto-complete dropdown will help you surface the notes.
 
 You can also use the native Search function. Search for keywords related to your MOC topic, and as you find relevant notes, drag and drop them from the search results directly into your MOC note. Obsidian will automatically format them as links.
 

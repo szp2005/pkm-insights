@@ -9,6 +9,8 @@ slug: "self-healing-knowledge-base-principles"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Self-Healing Knowledge Base Principles: Complete Guide to [Automation](/posts/tana-commands-for-automated-daily-note-setup/)
 
 > **Quick Answer:** A self-healing knowledge base automatically detects, flags, and updates stale or contradictory information without manual intervention. By leveraging AI-driven contextual analysis, automated feedback loops, and dynamic linking, it ensures documentation remains accurate, trustworthy, and aligned with current operational realities.

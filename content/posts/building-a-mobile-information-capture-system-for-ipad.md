@@ -9,6 +9,8 @@ slug: "building-a-mobile-information-capture-system-for-ipad"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Building a Mobile Information Capture System for iPad: Complete Guide
 
 > **Quick Answer:** Building a mobile information capture system for iPad requires combining the right hardware (Apple Pencil, Magic Keyboard) with low-friction software (Apple Notes, Drafts, Readwise) to immediately store ideas, links, and documents. The core principle is separating the "capture" phase from the "processing" phase, using cloud sync and [automation](/posts/self-healing-knowledge-base-principles/) to funnel raw data into your permanent [personal knowledge management](/posts/digital-decluttering-for-information-overload/) (PKM) system like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/).

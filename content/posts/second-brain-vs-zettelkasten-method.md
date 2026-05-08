@@ -77,19 +77,19 @@ The Zettelkasten does not rely on traditional folders or categories. Instead, it
 
 To decide which method suits you best, we must examine their fundamental divergences across several vectors.
 
-### 1. Top-Down vs. Bottom-Up Architecture
+### 1. [Top-Down vs. Bottom-Up Architecture](https://www.amazon.com/s?k=Top-Down%20vs.%20Bottom-Up%20Architecture&tag=pkm.notes-automate-20)
 The **Second Brain** uses a top-down approach. You start with a goal (a Project or an Area) and gather information specifically to fulfill that goal. You create folders and put notes inside them.
 The **Zettelkasten** is bottom-up. You gather individual, atomic ideas without necessarily knowing what project they will serve. Over time, clusters of linked ideas naturally emerge into themes, which can then become projects, articles, or books.
 
-### 2. Action vs. Insight
+### 2. [Action vs. Insight](https://www.amazon.com/s?k=Action%20vs.%20Insight&tag=pkm.notes-automate-20)
 The **Second Brain** measures success by throughput: how many projects did you complete? How much friction was removed from your daily work? It is a project management methodology disguised as knowledge management.
 The **Zettelkasten** measures success by insight: how well do you understand a topic? Have you uncovered novel connections? It is a thinking tool designed to aid complex intellectual labor.
 
-### 3. Copied Highlights vs. Original Synthesis
+### 3. [Copied Highlights vs. Original Synthesis](https://www.amazon.com/s?k=Copied%20Highlights%20vs.%20Original%20Synthesis&tag=pkm.notes-automate-20)
 In a **Second Brain**, the "Distill" phase often involves bolding and highlighting existing text (Progressive Summarization). You are curating other people's thoughts.
 In a **Zettelkasten**, copy-pasting is strictly forbidden. You must synthesize the information and rewrite it in your own words. This requires significantly more upfront effort but results in a deeper understanding and avoids the illusion of competence.
 
-### 4. Categorization vs. Association
+### 4. [Categorization vs. Association](https://www.amazon.com/s?k=Categorization%20vs.%20Association&tag=pkm.notes-automate-20)
 The **Second Brain** relies on folders and strict hierarchies (PARA). A note lives in exactly one place at a time. If a project ends, the note moves to the Archive.
 The **Zettelkasten** relies on tags and bi-directional links. A note lives in a networked graph. It belongs to multiple contexts simultaneously based on how it is linked, and it never becomes "archived" or irrelevant.
 

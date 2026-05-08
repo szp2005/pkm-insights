@@ -9,6 +9,8 @@ slug: "arivu-vs-readwise-for-information-capture"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 _作为 Amazon 联盟成员，我们从符合条件的购买中赚取收益。本文可能包含联盟链接。_
 
 # Arivu 与 Readwise 信息收集对比：哪个更好？
@@ -31,7 +33,7 @@ Arivu 的运作基于语义综合的原则。它主要作为一个主动收集�
 
 ## 产品分解
 
-### 1. Readwise
+### 1. [Readwise](https://www.amazon.com/s?k=Readwise&tag=pkm.notes-automate-20)
 
 **最适合：** 狂热的阅读者、研究人员，以及深度使用 Obsidian 或 Notion 等成熟笔记工具的用户。
 **价格：** $4.49-$7.99/月
@@ -50,7 +52,7 @@ Readwise 花费了数年时间构建了 PKM 领域最强大的集成生态系统
 - 核心仪表板的用户界面感觉有些过时
 - 需要更高的订阅套餐才能使用笔记导出集成功能
 
-### 2. Arivu
+### 2. [Arivu](https://www.amazon.com/s?k=Arivu&tag=pkm.notes-automate-20)
 
 **最适合：** 网页研究人员、分析师，以及希望 AI 承担总结和整理链接等繁重工作的用户。
 **价格：** $0-$10/月

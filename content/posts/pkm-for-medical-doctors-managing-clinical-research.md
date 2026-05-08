@@ -9,6 +9,8 @@ slug: "pkm-for-medical-doctors-managing-clinical-research"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # PKM for Medical Doctors: Managing Clinical Research Guide
 
 > **Quick Answer:** A [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system for medical doctors managing clinical research centralizes literature reviews, protocol documentation, and trial data into a unified, searchable database. By combining [local-first](/posts/anytype-review-local-first-privacy-lovers/) linked-thinking [tools](/posts/roam-research-vs-obsidian-comparison/) like [Obsidian](/posts/what-is-personal-knowledge-management/) with reference managers like Zotero, clinicians can synthesize complex medical literature, ensure regulatory compliance, and accelerate manuscript publication without risking patient data exposure.

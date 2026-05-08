@@ -25,7 +25,7 @@ _作为Amazon Associate，我们从符合条件的购买中获得收益。本文
 
 ## 顶级视觉知识管理工具
 
-### 1. Heptabase
+### 1. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=pkm.notes-automate-20)
 
 **最适合：** 深度研究者与复杂意义构建
 **价格：** 每月8.99至11.99美元
@@ -44,7 +44,7 @@ Heptabase已确立了其作为严谨知识工作首选空间工具的地位。�
 - 纯订阅制模式，不提供买断选项
 - 与专业的文本编辑器相比，单张卡片内的格式化选项仍然较为基础
 
-### 2. Scrintal
+### 2. [Scrintal](https://www.amazon.com/s?k=Scrintal&tag=pkm.notes-automate-20)
 
 **最适合：** Zettelkasten（卡片盒笔记法）践行者与视觉化大纲创建者
 **价格：** 每月8.00美元或249美元终身买断
@@ -63,7 +63,7 @@ Scrintal的突出特点在于它处理层级提取的方式。你可以将多张
 - 缺乏强大的离线支持，需要互联网连接才能实现完整功能
 - 插件和社区扩展生态相对较小
 
-### 3. Obsidian (搭配 Canvas)
+### 3. [Obsidian (搭配 Canvas)](https://www.amazon.com/s?k=Obsidian%20%28%E6%90%AD%E9%85%8D%20Canvas%29&tag=pkm.notes-automate-20)
 
 **最适合：** 隐私倡导者和注重本地优先定制的用户
 **价格：** 免费（同步服务每月4至8美元）
@@ -82,7 +82,7 @@ Obsidian Canvas的真正力量在于数据所有权。你的面板作为JSON文�
 - 配置最佳工作区需要较高的学习成本（学习曲线较陡）
 - 跨设备同步需要付费订阅或使用技术上的替代方案
 
-### 4. Muse
+### 4. [Muse](https://www.amazon.com/s?k=Muse&tag=pkm.notes-automate-20)
 
 **最适合：** iPad用户和触觉概念化需求者
 **价格：** 提供免费档，付费为每月3.99美元或每年39.99美元
@@ -101,7 +101,7 @@ Muse严格从空间和触觉角度来处理个人知识管理。它最初专门�
 - 严格限制在苹果生态系统中（仅支持macOS和iPadOS）
 - 对结构化文本编辑或长篇写作的支持较弱
 
-### 5. Milanote
+### 5. [Milanote](https://www.amazon.com/s?k=Milanote&tag=pkm.notes-automate-20)
 
 **最适合：** 创意总监、设计师及视觉情绪板（Mood Boarding）制作
 **价格：** 提供免费档，付费为每月9.99至12.50美元

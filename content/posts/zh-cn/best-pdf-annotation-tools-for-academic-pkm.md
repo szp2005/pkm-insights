@@ -25,7 +25,7 @@ _作为Amazon Associate，我们从符合条件的购买中赚取收益。本文
 
 ## 适合研究人员的顶级PDF批注工具
 
-### 1. Zotero
+### 1. [Zotero](https://www.amazon.com/s?k=Zotero&tag=pkm.notes-automate-20)
 
 **最适合：** 全面的文献管理和自动提取
 **价格：** 免费（开源），存储空间$20/年起
@@ -44,7 +44,7 @@ Zotero已经从一个简单的引文管理器演变成一个强大的PDF阅读�
 - 同步大型PDF库需要付费存储或第三方变通方案 (WebDAV)
 - PDF阅读器UI功能齐全，但与专用的iPad应用程序相比，在平板电脑上的触摸体验较差
 
-### 2. Logseq
+### 2. [Logseq](https://www.amazon.com/s?k=Logseq&tag=pkm.notes-automate-20)
 
 **最适合：** 基于块的大纲笔记和深度双向链接
 **价格：** 免费，Pro版同步$5/月
@@ -63,7 +63,7 @@ Logseq的独特之处在于它将PDF阅读器直接集成到其大纲环境中�
 - 处理非常大的PDF（500页以上）偶尔会导致卡顿
 - 缺乏高级的视觉导图或手绘工具
 
-### 3. MarginNote 4
+### 3. [MarginNote 4](https://www.amazon.com/s?k=MarginNote%204&tag=pkm.notes-automate-20)
 
 **最适合：** 视觉学习者和复杂的理论框架
 **价格：** $12.99 (Mac) / $12.99 (iPad) 一次性买断
@@ -83,7 +83,7 @@ MarginNote采用了一种截然不同的PDF批注方法。它不是一个线性�
 - 干净地导出为markdown需要第三方脚本或中间步骤
 - Apple生态系统独占（仅限Mac/iPad）
 
-### 4. LiquidText
+### 4. [LiquidText](https://www.amazon.com/s?k=LiquidText&tag=pkm.notes-automate-20)
 
 **最适合：** 同时交叉引用多个文档
 **价格：** 基础版免费，Pro版$29.99，Live订阅$9.99/月
@@ -103,7 +103,7 @@ LiquidText专为需要同时综合多篇论文信息的研究人员设计。它�
 - 导出为标准markdown格式比较笨拙且会丢失空间数据
 - 高级功能的定价模式昂贵
 
-### 5. Readwise Reader
+### 5. [Readwise Reader](https://www.amazon.com/s?k=Readwise%20Reader&tag=pkm.notes-automate-20)
 
 **最适合：** 融合网络文章和PDF的杂食性阅读者
 **价格：** $8.99/月（包含经典版Readwise）

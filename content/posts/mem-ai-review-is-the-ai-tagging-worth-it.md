@@ -70,7 +70,7 @@ Mem.ai is the premier choice for users who want to abandon manual organization e
 - Requires total trust in search; lack of structural folders can be jarring
 - No offline mode or local storage options
 
-### 2. Notion AI
+### 2. [Notion AI](https://www.amazon.com/s?k=Notion%20AI&tag=pkm.notes-automate-20)
 
 **Best for:** Teams and individuals needing structured databases with AI assistance
 **Price:** $10-$20/user/month (including AI add-on)
@@ -87,7 +87,7 @@ Notion remains the standard for structured knowledge management. While Notion AI
 - High [learning](/posts/how-to-remember-what-you-read-effectively/) curve to build an effective workspace
 - Requires constant maintenance to prevent organizational chaos
 
-### 3. Obsidian with Smart Connections
+### 3. [Obsidian with Smart Connections](https://www.amazon.com/s?k=Obsidian%20with%20Smart%20Connections&tag=pkm.notes-automate-20)
 
 **Best for:** Privacy-conscious users, developers, and strict networked-thought advocates
 **Price:** Free (Sync/Publish are extra)

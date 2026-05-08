@@ -9,6 +9,8 @@ slug: "pkm-for-startup-founders-managing-investor-updates"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # PKM for Startup Founders: Managing Investor Updates in 5 Steps
 
 > **Quick Answer:** Implementing a [Personal Knowledge Management](/posts/digital-decluttering-for-information-overload/) (PKM) system for managing investor updates transforms a stressful monthly scramble into an automated, ongoing process. By consistently capturing metrics, milestones, and hiring data into a centralized vault (like Obsidian or Notion) using daily notes and tagging, founders can synthesize comprehensive, data-backed investor reports in less than an hour.
