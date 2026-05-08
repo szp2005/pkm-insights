@@ -194,3 +194,5 @@ Open-source software generally offers a privacy advantage because its code is pu
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
 
 - [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
+
+- [Best PKM Apps for Visual Thinkers in 2026](/posts/best-pkm-apps-for-visual-thinkers-2026/)
