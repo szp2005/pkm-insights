@@ -1,5 +1,11 @@
 ---
 image: "/og/how-to-create-a-zettelkasten-index-in-obsidian.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/sticky-workflow.jpg"
+  alt: "Index and link planning represented by sticky-note organization"
+  caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
+  credit: "Anastasia Shuraeva / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/sticky-notes-and-a-laptop-7278606/"
 title: "Zettelkasten Indexes in Obsidian: A 5-Step Guide"
 description: "Learn how to create a zettelkasten index in Obsidian to organize your notes, find connections faster, and build a scalable personal knowledge system."
 pubDate: "2026-05-07"

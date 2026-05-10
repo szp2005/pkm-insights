@@ -1,5 +1,11 @@
 ---
 image: "/og/structuring-obsidian-folders-for-academic-writing.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/notes-laptop.jpg"
+  alt: "Academic folder and note planning represented by laptop and paper notes"
+  caption: "Notebook and laptop planning setup, used to illustrate manual review and workflow documentation."
+  credit: "RDNE Stock project / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/worker-taking-notes-while-using-a-laptop-7888655/"
 title: "Structuring Obsidian Folders for Academic Writing: 5-Step System"
 description: "Learn a proven system for structuring Obsidian folders for academic writing. Organize research, source literature, and drafts to write academic papers efficiently."
 pubDate: "2026-05-07"

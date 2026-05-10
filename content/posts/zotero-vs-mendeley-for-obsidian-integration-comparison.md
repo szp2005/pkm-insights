@@ -1,5 +1,11 @@
 ---
 image: "/og/zotero-vs-mendeley-for-obsidian-integration-comparison.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/notebook-writing.jpg"
+  alt: "Research notes and paper review setup"
+  caption: "Handwritten notes at a working desk, used to illustrate research note-taking and review habits."
+  credit: "cottonbro studio / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/person-writing-on-a-notebook-5185080/"
 title: "Zotero vs Mendeley for Obsidian Integration: 2026 Comparison"
 description: "Discover whether Zotero or Mendeley offers the best Obsidian integration for your academic workflow, with detailed comparisons of plugins, sync, and PDF extraction."
 pubDate: "2026-05-07"
