@@ -7,3 +7,39 @@ nav a { margin-left: 1.5rem; text-decoration: none; color: #4b5563; font-size: 0
 nav a:hover { color: #111827; }
 .site-footer { text-align: center; padding: 2rem; border-top: 1px solid #e5e7eb; color: #4b5563; font-size: 0.9rem; margin-top: 4rem; }
 @media (max-width: 640px) { .site-header { padding: 1rem; } }
+
+
+.cookie-consent {
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: 16px;
+  z-index: 50;
+  max-width: 760px;
+  margin: 0 auto;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  justify-content: space-between;
+  background: #111827;
+  color: #f9fafb;
+  border-radius: 8px;
+  padding: 14px 16px;
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.22);
+}
+.cookie-consent[hidden] { display: none; }
+.cookie-consent p { margin: 0; font-size: 0.92rem; line-height: 1.5; }
+.cookie-consent a { color: #bfdbfe; }
+.cookie-consent button {
+  border: 0;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #111827;
+  font-weight: 700;
+  padding: 8px 12px;
+  cursor: pointer;
+  min-width: 72px;
+}
+@media (max-width: 640px) {
+  .cookie-consent { flex-direction: column; align-items: flex-start; }
+}
