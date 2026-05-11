@@ -6,6 +6,23 @@ evidenceImage:
   caption: "Handwritten notes at a working desk, used to illustrate research note-taking and review habits."
   credit: "cottonbro studio / Pexels"
   sourceUrl: "https://www.pexels.com/photo/person-writing-on-a-notebook-5185080/"
+editorSummary: >-
+  Literature notes for scientific work need to preserve evidence and support later writing.
+  This guide is strongest when used as a template for turning papers into reusable claims,
+  methods, limitations, and citations. I kept the editorial focus on traceability: every note
+  should make it clear what the paper says, what you think about it, and where it may fit in a
+  manuscript. Good literature notes reduce rereading and make synthesis less painful.
+authorNote: >-
+  When I make literature notes, I separate summary from interpretation. That small distinction
+  prevents future me from confusing the author's claim with my own reaction when drafting a
+  section weeks later.
+manualRelated:
+  - title: "Progressive Summarization Workflow for Deep Research Papers"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
+  - title: "How to Tag Academic Research Notes Effectively"
+    url: "/posts/how-to-tag-academic-research-notes-effectively/"
+  - title: "Organizing Literature Notes for Medical School Students"
+    url: "/posts/organizing-literature-notes-for-medical-school-students/"
 title: "Writing Literature Notes for Scientific Publications: 5-Step System"
 description: "Master the art of writing literature notes for scientific publications. Learn to extract key data, synthesize research, and accelerate your academic writing."
 pubDate: "2026-05-07"

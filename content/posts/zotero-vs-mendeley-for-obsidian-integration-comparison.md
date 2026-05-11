@@ -6,6 +6,24 @@ evidenceImage:
   caption: "Handwritten notes at a working desk, used to illustrate research note-taking and review habits."
   credit: "cottonbro studio / Pexels"
   sourceUrl: "https://www.pexels.com/photo/person-writing-on-a-notebook-5185080/"
+editorSummary: >-
+  This comparison is written for Obsidian users, so the winner is not just the reference
+  manager with the cleanest interface. The real test is whether citations, annotations, PDF
+  notes, and markdown exports can move through your research system without lock-in. I kept
+  the edit focused on portability and integration depth. Zotero's open ecosystem usually fits
+  Obsidian better, while Mendeley may still make sense in teams already tied to its
+  collaboration or institutional environment.
+authorNote: >-
+  When I evaluate reference tools for PKM, I export a small paper set and try to rebuild one
+  literature note. If citation keys, highlights, and PDF links survive that test, the workflow
+  is worth deeper setup.
+manualRelated:
+  - title: "Mendeley vs Zotero Obsidian Integration 2026"
+    url: "/posts/mendeley-vs-zotero-for-obsidian-integration-2026/"
+  - title: "How to Organize Research Papers Using Zotero and Obsidian"
+    url: "/posts/how-to-organize-research-papers-using-zotero-and-obsidian/"
+  - title: "Obsidian Academic Workflow for Thesis 2026"
+    url: "/posts/obsidian-academic-workflow-for-thesis-2026/"
 title: "Zotero vs Mendeley for Obsidian Integration: 2026 Comparison"
 description: "Discover whether Zotero or Mendeley offers the best Obsidian integration for your academic workflow, with detailed comparisons of plugins, sync, and PDF extraction."
 pubDate: "2026-05-07"

@@ -6,6 +6,24 @@ evidenceImage:
   caption: "Notebook and laptop planning setup, used to illustrate manual review and workflow documentation."
   credit: "RDNE Stock project / Pexels"
   sourceUrl: "https://www.pexels.com/photo/worker-taking-notes-while-using-a-laptop-7888655/"
+editorSummary: >-
+  Folder structure for academic writing should reduce decision fatigue and support publication
+  stages. This guide is most useful if you are balancing papers, notes, drafts, citations, and
+  submission materials in one vault. I kept the edit focused on workflow rather than aesthetic
+  organization: separate sources from notes, drafts from archive, and active projects from
+  reference material. A good folder system should make the next writing action obvious without
+  hiding useful cross-links.
+authorNote: >-
+  For academic vaults, I prefer a simple folder structure plus strong links. Folders tell me
+  what stage something is in; links tell me how ideas connect. Mixing those roles too much
+  usually creates maintenance work.
+manualRelated:
+  - title: "Obsidian Academic Workflow for Thesis 2026"
+    url: "/posts/obsidian-academic-workflow-for-thesis-2026/"
+  - title: "Personal Knowledge Management for Independent Researchers"
+    url: "/posts/personal-knowledge-management-for-independent-researchers/"
+  - title: "Structuring Complex Research Projects in Logseq"
+    url: "/posts/structuring-complex-research-projects-in-logseq/"
 title: "Structuring Obsidian Folders for Academic Writing: 5-Step System"
 description: "Learn a proven system for structuring Obsidian folders for academic writing. Organize research, source literature, and drafts to write academic papers efficiently."
 pubDate: "2026-05-07"

@@ -6,6 +6,22 @@ evidenceImage:
   caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
   credit: "Anastasia Shuraeva / Pexels"
   sourceUrl: "https://www.pexels.com/photo/sticky-notes-and-a-laptop-7278606/"
+editorSummary: >-
+  A Zettelkasten index in Obsidian should help you re-enter a line of thought, not become a
+  decorative table of contents. This guide is most useful if you already have scattered notes
+  and need a few stable entry points. I focused the edit on practical index behavior: use
+  plain language labels, link to clusters rather than every note, and revise the index as your
+  thinking changes. The goal is navigation and synthesis, not a perfect hierarchy.
+authorNote: >-
+  When I review an index note, I ask whether it helps me restart work after a week away. If
+  the answer is yes, the index is doing its job even if the structure looks modest.
+manualRelated:
+  - title: "Map of Content Obsidian Tutorial for Beginners"
+    url: "/posts/map-of-content-obsidian-tutorial-for-beginners/"
+  - title: "Zettelkasten Method Explained"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "How to Implement Map of Content in Obsidian"
+    url: "/posts/how-to-implement-map-of-content-in-obsidian/"
 title: "Zettelkasten Indexes in Obsidian: A 5-Step Guide"
 description: "Learn how to create a zettelkasten index in Obsidian to organize your notes, find connections faster, and build a scalable personal knowledge system."
 pubDate: "2026-05-07"
