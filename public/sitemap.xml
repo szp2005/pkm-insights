@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pkm.notes-automate.com/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/about/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/tags/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/privacy/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/contact/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/ai-tools-for-academic-research-notes-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/anytype-review-for-local-first-privacy-lovers/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/anytype-vs-obsidian-for-local-first-knowledge-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/anytype-vs-obsidian-for-local-first-knowledge-management/"/>
@@ -71,7 +71,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/arivu-vs-readwise-for-information-capture/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/arivu-vs-readwise-for-information-capture/"/>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/atomic-notes-writing-guide-for-zettelkasten/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/atomic-notes-writing-guide-for-zettelkasten/"/>
@@ -89,7 +89,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/atomic-notes-writing-guide/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/atomic-notes-writing-guide/"/>
@@ -98,13 +98,13 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/automated-literature-review-software-for-phd-students/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/automated-note-taking-tools-for-zoom-meetings-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/automated-note-taking-tools-for-zoom-meetings-2026/"/>
@@ -113,13 +113,13 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/benefits-of-a-personal-knowledge-management-system/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-apps-for-personal-knowledge-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-apps-for-personal-knowledge-management/"/>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-capacities-templates-for-university-students/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-capacities-templates-for-university-students/"/>
@@ -137,7 +137,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/"/>
@@ -146,31 +146,31 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-logseq-themes-for-long-form-writing/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-markdown-editors-for-academic-research-writing/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-markdown-editors-for-offline-personal-knowledge-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-obsidian-plugins-for-creative-professionals-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-pdf-annotation-tools-for-academic-pkm/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-pdf-annotation-tools-for-academic-pkm/"/>
@@ -179,7 +179,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-pkm-apps-for-visual-thinkers-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-pkm-apps-for-visual-thinkers-2026/"/>
@@ -188,1033 +188,1036 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-pkm-tools-for-architecture-students-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-practices-for-knowledge-retention/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-practices-for-knowledge-retention/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://pkm.notes-automate.com/zh-cn/posts/best-practices-for-knowledge-retention/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pkm.notes-automate.com/posts/best-practices-for-knowledge-retention/"/>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-privacy-focused-note-taking-apps-with-encryption/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-self-hosted-pkm-tools-for-data-privacy/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-sync-solutions-for-local-obsidian-vaults/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-tools-for-thought-for-academic-synthesis/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/best-voice-to-text-apps-for-capturing-thoughts/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/bi-directional-linking-for-creative-writing-workflows/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/building-a-mobile-information-capture-system-for-ipad/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/building-a-pkm-system-from-scratch/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/building-a-second-brain-for-fiction-authors/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/building-a-second-brain-in-2026-update/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/building-research-ontologies-in-capacities-app/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/capacities-app-for-organizing-digital-art-assets/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/capacities-app-for-research-team-collaboration/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/capacities-believer-plan-vs-basic-comparison/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/capacities-for-ipad-pro-note-taking/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/capacities-review-for-personal-research-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/capacities-vs-anytype-for-local-first-notes/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/capacities-vs-notion-for-object-based-pkm/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/citation-management-software-for-zettelkasten-systems/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/connecting-ideas-in-obsidian-best-methods/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/custom-obsidian-plugins-for-academic-researchers/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/devonthink-vs-obsidian-for-academic-literature-review/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/devonthink-vs-obsidian-for-document-management-workflows/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/differences-between-fleeting-and-permanent-notes-explained/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/digital-decluttering-for-information-overload/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/digital-garden-hosting-platforms-for-obsidian-users/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/digital-garden-vs-second-brain-difference/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/digital-garden-vs-second-brain-for-creatives/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/digital-note-taking-strategies-for-productivity/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/downloadable-zettelkasten-templates-for-notion-users/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/effective-note-taking-techniques-for-learning/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/evergreen-notes-definition-and-examples/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/four-layer-stack-for-pkm-optimization/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/getting-things-done-for-knowledge-workers/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/heptabase-review-for-visual-project-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/heptabase-vs-scrintal-for-visual-sense-making-comparison/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-avoid-the-collector-s-fallacy-in-pkm/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-back-up-obsidian-vault-securely/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-build-a-digital-commonplace-book/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-build-a-second-brain/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-capture-ideas-on-the-go/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-connect-ideas-in-obsidian-notes/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-create-a-zettelkasten-index-in-obsidian/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-implement-map-of-content-in-obsidian/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-migrate-from-evernote-to-obsidian-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-organize-digital-files-efficiently/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-organize-pdf-highlights-in-capacities/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-organize-research-papers-using-zotero-and-obsidian/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-practice-active-recall-using-digital-notes/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-refactor-old-notes-in-your-pkm/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-remember-what-you-read-effectively/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-share-your-obsidian-digital-garden-online/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-start-a-digital-garden-for-writers/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-structure-dataview-queries-for-research/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-tag-academic-research-notes-effectively/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-take-smart-notes-summary/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-use-anki-for-professional-skill-development/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-use-logseq-for-daily-journaling/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/how-to-use-mocs-in-obsidian-for-organization/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/implementing-a-gtd-system-within-obsidian/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/integrating-omnivore-read-it-later-with-obsidian/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/johnny-decimal-system-for-organizing-digital-files/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/knowledge-asset-product-group-strategy/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/knowledge-management-strategies-for-students/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/knowledge-retention-techniques-for-researchers/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/knowledge-retrieval-using-semantic-search/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/linking-related-concepts-in-capacities-objects/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/linking-your-thinking-vs-building-a-second-brain/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-for-academic-literature-reviews/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-for-journal-article-summaries-workflow/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-plugins-for-scientific-research-efficiency/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-sync-setup-for-cross-platform-devices/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-templates-for-doctoral-research-students/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-theme-for-high-focus-deep-work/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-vs-heptabase-for-visual-learners/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-vs-obsidian-for-second-brain/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-whiteboards-for-visual-knowledge-mapping/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/logseq-workflow-for-managing-youtube-scripts/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/maintaining-links-in-long-term-research-notes/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/managing-digital-information-overload-tips/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/managing-digital-information-overload-with-ai/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/managing-doctoral-thesis-notes-in-logseq/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/map-of-content-obsidian-tutorial-for-beginners/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/mem-ai-review-is-the-ai-tagging-worth-it/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/mendeley-vs-zotero-for-obsidian-integration-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/note-taking-for-lifelong-learners-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/notion-vs-obsidian-for-managing-research-grants/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/notion-vs-obsidian-for-pkm/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-academic-workflow-for-thesis-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-canvas-for-mapping-complex-project-ideas/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-dataview-snippets-for-book-trackers/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-dataview-templates-for-academic-researchers-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-local-llm-integration-for-privacy/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-sync-alternatives-for-budget-researchers-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-vault-templates-for-creative-professionals/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-vs-joplin-for-offline-knowledge-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/obsidian-zettelkasten-vault-starter-kit-download/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/optimizing-dataview-plugin-for-research-workflows/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/organizing-literature-notes-for-medical-school-students/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/para-method-for-digital-organization/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/para-method-vs-zettelkasten-for-students/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/personal-information-management-system-setup-guide/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/personal-information-management-system-setup/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/personal-knowledge-asset-management-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/personal-knowledge-management-coaching-for-phd-students/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/personal-knowledge-management-for-independent-researchers/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/personal-knowledge-management-for-product-managers-tutorial/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/personal-knowledge-management-tools-comparison/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/physical-index-cards-for-analog-zettelkasten-setup/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/pkm-for-adhd-organization-strategies-for-neurodiversity/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/pkm-for-lawyers-managing-case-research-effectively/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/pkm-for-medical-doctors-managing-clinical-research/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/pkm-for-software-engineers-best-practices/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/pkm-for-startup-founders-managing-investor-updates/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/premium-obsidian-academic-workflow-templates-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/progressive-summarization-workflow-for-deep-research-papers/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/readwise-reader-for-deep-engagement-research/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/reflect-notes-app-review-for-minimalist-users/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/reflect-notes-vs-obsidian-for-quick-capture/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/remnote-vs-logseq-for-medical-students-comparison/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/roam-research-vs-obsidian-comparison/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/scrintal-vs-heptabase-for-visual-note-taking/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/second-brain-dashboard-for-notion-power-users/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/second-brain-for-boosting-creativity-in-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/second-brain-for-boosting-creativity/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/second-brain-template-for-podcasters-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/second-brain-vs-zettelkasten-method/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/self-healing-knowledge-base-principles/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/semantic-layers-in-personal-knowledge-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/setting-up-a-family-knowledge-base-for-genealogy/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/setup-guide-for-obsidian-sync-on-android/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/steps-to-building-a-second-brain-for-productivity/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/steps-to-building-a-second-brain/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/structural-vs-organic-note-taking-methodologies/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/structuring-complex-research-projects-in-logseq/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/structuring-daily-notes-for-long-term-knowledge-retrieval/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/structuring-obsidian-folders-for-academic-writing/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/supernotes-vs-obsidian-for-collaborative-knowledge-sharing/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-ai-features-for-structured-data-entry/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-ai-for-researchers-premium-features/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-api-for-developers-integration-guide/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-commands-for-automated-daily-note-setup/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-commands-for-automated-data-processing/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-fields-for-database-management-tutorial/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-supertags-for-freelancer-project-tracking/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-supertags-for-project-managers-download/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-supertags-tutorial-for-beginners/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-vs-capacities-for-networked-thought/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-vs-roam-research-for-power-users/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-workflows-for-systematic-literature-reviews/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tana-workspace-for-managing-academic-citations/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/template-for-organizing-digital-assets-in-notion/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tiago-forte-building-a-second-brain-review-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/tiago-forte-building-a-second-brain-review/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/top-dataview-alternatives-for-obsidian-database-queries/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/top-obsidian-themes-for-focused-academic-writing/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/top-pkm-software-for-content-creators-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/top-tana-alternatives-for-structured-data/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/using-capacities-for-visual-research-databases/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/using-the-para-method-in-google-drive/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/what-is-folgezettel-numbering-in-zettelkasten-systems/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/what-is-personal-knowledge-management-ultimate-guide/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/what-is-personal-knowledge-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/writing-literature-notes-for-scientific-publications/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/zettelkasten-method-explained/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/zettelkasten-method-for-academic-writers/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/zettelkasten-method-for-non-fiction-book-writing/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/posts/zotero-vs-mendeley-for-obsidian-integration-comparison/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/anytype-vs-obsidian-for-local-first-knowledge-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/anytype-vs-obsidian-for-local-first-knowledge-management/"/>
@@ -1223,7 +1226,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/arivu-vs-readwise-for-information-capture/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/arivu-vs-readwise-for-information-capture/"/>
@@ -1232,7 +1235,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/atomic-notes-writing-guide-for-zettelkasten/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/atomic-notes-writing-guide-for-zettelkasten/"/>
@@ -1241,7 +1244,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/atomic-notes-writing-guide/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/atomic-notes-writing-guide/"/>
@@ -1250,7 +1253,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/automated-note-taking-tools-for-zoom-meetings-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/automated-note-taking-tools-for-zoom-meetings-2026/"/>
@@ -1259,7 +1262,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/best-apps-for-personal-knowledge-management/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-apps-for-personal-knowledge-management/"/>
@@ -1268,7 +1271,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/best-capacities-templates-for-university-students/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-capacities-templates-for-university-students/"/>
@@ -1277,7 +1280,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/"/>
@@ -1286,7 +1289,7 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/best-pdf-annotation-tools-for-academic-pkm/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-pdf-annotation-tools-for-academic-pkm/"/>
@@ -1295,11 +1298,20 @@
   </url>
   <url>
     <loc>https://pkm.notes-automate.com/zh-cn/posts/best-pkm-apps-for-visual-thinkers-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-pkm-apps-for-visual-thinkers-2026/"/>
     <xhtml:link rel="alternate" hreflang="zh-cn" href="https://pkm.notes-automate.com/zh-cn/posts/best-pkm-apps-for-visual-thinkers-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://pkm.notes-automate.com/posts/best-pkm-apps-for-visual-thinkers-2026/"/>
+  </url>
+  <url>
+    <loc>https://pkm.notes-automate.com/zh-cn/posts/best-practices-for-knowledge-retention/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pkm.notes-automate.com/posts/best-practices-for-knowledge-retention/"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://pkm.notes-automate.com/zh-cn/posts/best-practices-for-knowledge-retention/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pkm.notes-automate.com/posts/best-practices-for-knowledge-retention/"/>
   </url>
 </urlset>
