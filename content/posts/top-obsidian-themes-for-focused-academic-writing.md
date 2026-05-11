@@ -9,6 +9,8 @@ slug: "top-obsidian-themes-for-focused-academic-writing"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best Obsidian Themes for Focused Academic Writing in 2026
 
 > **Quick Answer:** The top Obsidian themes for focused academic writing prioritize minimalism, excellent typography, and soothing color palettes to minimize distraction and enhance readability. Themes like Sanctum, Primary, Catppuccin, Nord, and Things are highly recommended for their clean aesthetics and customizable features that support deep work.
@@ -47,7 +49,7 @@ The choice between dark and light mode is highly personal and often depends on a
 
 Based on their design principles, customization options, and community acclaim for productivity, here are the top Obsidian themes that excel for academic writing.
 
-### 1. Sanctum
+### 1. [Sanctum](https://www.amazon.com/s?k=Sanctum&tag=pkm.notes-automate-20)
 
 **Best for:** Minimalists seeking a clean, distraction-free writing environment.
 **Price:** Free
@@ -65,7 +67,7 @@ Sanctum is renowned for its elegant simplicity and commitment to a distraction-f
 - May feel too stark for users who prefer more visual flair.
 - Limited built-in customization compared to some other themes (relies on snippets).
 
-### 2. Primary
+### 2. [Primary](https://www.amazon.com/s?k=Primary&tag=pkm.notes-automate-20)
 
 **Best for:** Users who value a balanced aesthetic with strong readability and subtle enhancements.
 **Price:** Free
@@ -83,7 +85,7 @@ Primary strikes a superb balance between minimalism and functional aesthetics. I
 - Might require some initial customization to perfectly match individual preferences.
 - Default color palette, while good, might not appeal to everyone.
 
-### 3. Catppuccin
+### 3. [Catppuccin](https://www.amazon.com/s?k=Catppuccin&tag=pkm.notes-automate-20)
 
 **Best for:** Writers who prefer soothing, aesthetically pleasing pastel color palettes for reduced eye strain.
 **Price:** Free
@@ -101,7 +103,7 @@ Catppuccin is a community-driven theme known for its delightful and gentle paste
 - The pastel colors might not appeal to users who prefer high-contrast interfaces.
 - Can feel less "serious" than purely minimalist themes for some users.
 
-### 4. Nord
+### 4. [Nord](https://www.amazon.com/s?k=Nord&tag=pkm.notes-automate-20)
 
 **Best for:** Users who appreciate a calm, cool-toned aesthetic for focused work.
 **Price:** Free
@@ -119,7 +121,7 @@ Inspired by the Arctic, Nord is a popular theme across many applications, and it
 - The specific color palette might not suit everyone's taste.
 - Less customizable in terms of core color scheme compared to some others.
 
-### 5. Things
+### 5. [Things](https://www.amazon.com/s?k=Things&tag=pkm.notes-automate-20)
 
 **Best for:** Academics who appreciate a clean, task-oriented design reminiscent of productivity apps.
 **Price:** Free

@@ -9,6 +9,8 @@ slug: "best-pkm-apps-for-visual-thinkers-2026"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best PKM Apps for Visual Thinkers in 2026
 
 > **Quick Answer:** The best PKM apps for visual thinkers in 2026 are [Heptabase](/posts/scrintal-vs-heptabase-for-visual-note-taking/) for intensive [research](/posts/progressive-summarization-workflow-for-deep-research-papers/) and sense-making, Scrintal for seamless [Zettelkasten](/posts/zettelkasten-method-explained/) mapping, and [Obsidian](/posts/what-is-personal-knowledge-management/) (using Canvas) for combining robust local markdown files with free-form spatial layouts. Muse remains the premium choice for iPad users who rely on hand-drawn conceptualization.
@@ -21,7 +23,7 @@ In 2026, selecting the right platform means finding a tool that balances free-fo
 
 ## Top Visual Knowledge Management Tools
 
-### 1. Heptabase
+### 1. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=pkm.notes-automate-20)
 
 **Best for:** Deep researchers and complex sense-making
 **Price:** $8.99-$11.99/month
@@ -40,7 +42,7 @@ For academics and researchers, the integrated PDF reader allows you to highlight
 - Subscription-only model with no one-time purchase option
 - Formatting options within individual cards remain somewhat basic compared to dedicated text editors
 
-### 2. Scrintal
+### 2. [Scrintal](https://www.amazon.com/s?k=Scrintal&tag=pkm.notes-automate-20)
 
 **Best for:** Zettelkasten practitioners and visual outliners
 **Price:** $8.00/month or $249 lifetime
@@ -59,7 +61,7 @@ The standout feature of Scrintal is how it handles hierarchical extraction. You 
 - Lacks robust offline support, requiring an internet connection for full functionality
 - The ecosystem of plugins and community extensions is relatively small
 
-### 3. Obsidian (with Canvas)
+### 3. [Obsidian (with Canvas)](https://www.amazon.com/s?k=Obsidian%20%28with%20Canvas%29&tag=pkm.notes-automate-20)
 
 **Best for:** Privacy advocates and [local-first](/posts/anytype-review-local-first-privacy-lovers/) customization
 **Price:** Free (Sync is $4-$8/month)
@@ -78,7 +80,7 @@ The true power of Obsidian Canvas is data ownership. Your boards are saved local
 - Steeper [learning](/posts/how-to-remember-what-you-read-effectively/) curve to configure the optimal workspace
 - Syncing across devices requires a paid subscription or technical workarounds
 
-### 4. Muse
+### 4. [Muse](https://www.amazon.com/s?k=Muse&tag=pkm.notes-automate-20)
 
 **Best for:** iPad users and tactile conceptualization
 **Price:** Free tier, then $3.99/month or $39.99/year
@@ -97,7 +99,7 @@ Instead of traditional links, Muse relies on "boards within boards." You can nes
 - Strictly limited to the Apple ecosystem (macOS and iPadOS only)
 - Weak support for structured text editing or long-form [writing](/posts/atomic-notes-writing-guide/)
 
-### 5. Milanote
+### 5. [Milanote](https://www.amazon.com/s?k=Milanote&tag=pkm.notes-automate-20)
 
 **Best for:** Creative directors, designers, and visual mood boarding
 **Price:** Free tier, then $9.99-$12.50/month

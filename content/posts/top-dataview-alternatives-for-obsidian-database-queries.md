@@ -33,6 +33,8 @@ slug: "top-dataview-alternatives-obsidian-database-queries"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Top Dataview Alternatives for Obsidian Database Queries in 2026
 
 > **Quick Answer:** The top Dataview alternatives for Obsidian database queries are **Obsidian Projects** for visual task management, **DB Folder** for Notion-style inline editing, and **DataLoom** for standalone, query-free tables. If you need powerful frontmatter schema management, **Metadata Menu** is the premier choice.
@@ -59,7 +61,7 @@ Finally, **visual flexibility** is restricted. Dataview primarily renders tables
 
 Here is a comprehensive breakdown of the best plugins currently available for managing your Obsidian data, offering varied approaches to querying, visualizing, and editing your notes.
 
-### 1. Obsidian Projects
+### 1. [Obsidian Projects](https://www.amazon.com/s?k=Obsidian%20Projects&tag=pkm.notes-automate-20)
 
 **Best for:** Visual thinkers and project managers
 **Price:** Free
@@ -78,7 +80,7 @@ The biggest advantage of Obsidian Projects is that its Table and Board views are
 - Performance can degrade when a single project contains thousands of notes
 - Limited mathematical aggregation compared to Dataview's native summary functions
 
-### 2. DB Folder
+### 2. [DB Folder](https://www.amazon.com/s?k=DB%20Folder&tag=pkm.notes-automate-20)
 
 **Best for:** Notion converts wanting inline database editing
 **Price:** Free
@@ -97,7 +99,7 @@ DB Folder excels in data entry and structural organization. You can add new colu
 - Heavily reliant on strict folder structures rather than tag-based queries
 - The settings menu is dense and takes time to configure optimally
 
-### 3. DataLoom
+### 3. [DataLoom](https://www.amazon.com/s?k=DataLoom&tag=pkm.notes-automate-20)
 
 **Best for:** Creating standalone database views without complex queries
 **Price:** Free
@@ -116,7 +118,7 @@ This makes DataLoom incredibly versatile. If you just want to track a list of ex
 - Lacks the automated pulling and querying power of Dataview
 - Mobile editing experience can be cramped on smaller smartphone screens
 
-### 4. Metadata Menu
+### 4. [Metadata Menu](https://www.amazon.com/s?k=Metadata%20Menu&tag=pkm.notes-automate-20)
 
 **Best for:** Power users managing complex frontmatter properties
 **Price:** Free
@@ -135,7 +137,7 @@ The plugin provides a graphical table view of all notes belonging to a Fileclass
 - Steepest learning curve of any plugin on this list
 - Setup is highly manual and requires meticulous vault architecture planning
 
-### 5. Datacore
+### 5. [Datacore](https://www.amazon.com/s?k=Datacore&tag=pkm.notes-automate-20)
 
 **Best for:** Dataview power users looking for the next generation
 **Price:** Free

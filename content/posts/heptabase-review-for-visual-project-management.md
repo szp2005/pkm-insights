@@ -8,6 +8,8 @@ tags: ["Heptabase review", "visual project management", "knowledge management", 
 slug: "heptabase-review-for-visual-project-management"
 type: "review"
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Heptabase Review for Visual Project Management: Is It Right for You in 2026?
 
 > **Quick Answer:** Heptabase is an innovative visual project management tool that excels for individuals and small teams who thrive on spatial thinking and interconnected knowledge. Its infinite canvas, bi-directional linking, and robust [note-taking](/posts/differences-between-fleeting-and-permanent-notes-explained/) capabilities make it ideal for creative professionals, researchers, and anyone managing complex projects visually, offering a significant departure from traditional linear [tools](/posts/personal-knowledge-management-tools-comparison/).
@@ -22,7 +24,7 @@ Heptabase isn't just another task manager or note-taking app; it's a digital wor
 
 At its core, Heptabase combines elements of a mind-mapping tool, a robust note-taking application, and a visual task manager. The power lies in its flexibility and the ability to see relationships between pieces of information that might remain hidden in a linear document. This approach is particularly beneficial for projects that involve research, creative ideation, strategic planning, or any endeavor where understanding context and connections is paramount.
 
-### 1. Heptabase
+### 1. [Heptabase](https://www.amazon.com/s?k=Heptabase&tag=pkm.notes-automate-20)
 
 **Best for:** Visual thinkers, researchers, creatives, knowledge workers, small teams managing complex, interconnected projects, students, and academics.
 **Price:** ~$12/month (individual, billed annually), ~$20/month (individual, billed monthly). Team pricing varies based on users.

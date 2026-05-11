@@ -9,6 +9,8 @@ slug: "tiago-forte-building-a-second-brain-review-2026"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Tiago Forte Building a Second Brain Review 2026: Still Worth It?
 
 > **Quick Answer:** Tiago Forte's Building a Second Brain (BASB) remains a highly effective foundational framework in 2026 for organizing digital information. While the core concepts like PARA and CODE are brilliant and the book is a must-read, the expensive premium courses are only necessary for professionals who require structured accountability and community support to overhaul their [personal knowledge management](/posts/digital-decluttering-for-information-overload/) [workflows](/posts/getting-things-done-for-knowledge-workers/).
@@ -54,7 +56,7 @@ The brilliance of PARA lies in its [focus](/posts/managing-digital-information-o
 
 Tiago Forte offers his methodology in several formats, ranging from a relatively inexpensive book to high-ticket cohort-based courses. Below, we break down each option to help you determine which provides the best value for your specific needs.
 
-### 1. Building a Second Brain (The Book)
+### 1. [Building a Second Brain (The Book)](https://www.amazon.com/s?k=Building%20a%20Second%20Brain%20%28The%20Book%29&tag=pkm.notes-automate-20)
 
 **Best for:** [Beginners](/posts/map-of-content-obsidian-tutorial-for-beginners/) to personal knowledge management and self-starters
 **Price:** $15-$25

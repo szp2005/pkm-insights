@@ -8,6 +8,8 @@ tags: ["reference management", "obsidian", "zotero", "mendeley", "research tools
 slug: "mendeley-vs-zotero-obsidian-integration-2026"
 type: "review"
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 # Mendeley vs Zotero for Obsidian Integration 2026: Ultimate Review
 
 > **Quick Answer:** For researchers prioritizing deep, flexible, and future-proof integration with Obsidian in 2026, Zotero generally offers a superior solution due to its open-source nature, robust plugin ecosystem, and direct linking capabilities. While Mendeley provides strong reference management, its proprietary structure often introduces more friction for seamless Obsidian workflows, requiring more manual intervention or less direct connections.
@@ -108,7 +110,7 @@ When evaluating Mendeley vs Zotero for Obsidian integration in 2026, several key
 
 Based on the critical requirements for Obsidian integration, our recommendations lean heavily towards the tool that offers the most seamless, flexible, and future-proof workflow.
 
-### 1. Zotero
+### 1. [Zotero](https://www.amazon.com/s?k=Zotero&tag=pkm.notes-automate-20)
 
 **Best for:** Academic researchers, power users, open-source advocates, and those prioritizing deep, customizable Obsidian integration.
 **Price:** Free (open-source), optional paid cloud storage for syncing attachments (Zotero Storage starts at $20/year for 2GB, up to $120/year for unlimited).
@@ -128,7 +130,7 @@ Zotero stands out as the premier choice for researchers seeking robust and highl
 - Native cloud storage for attachments is limited in the free tier, requiring paid upgrades or WebDAV alternatives.
 - User interface, while functional, may feel less polished than proprietary alternatives for some.
 
-### 2. Mendeley
+### 2. [Mendeley](https://www.amazon.com/s?k=Mendeley&tag=pkm.notes-automate-20)
 
 **Best for:** Researchers in large institutions, those needing robust cloud sync, and users comfortable with a more structured, proprietary ecosystem.
 **Price:** Free (basic), paid tiers for increased storage and features (e.g., Mendeley Reference Manager Pro starts at $55/year for 5GB).

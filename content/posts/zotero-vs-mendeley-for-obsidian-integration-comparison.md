@@ -33,6 +33,8 @@ slug: "zotero-vs-mendeley-for-obsidian-integration-comparison"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Zotero vs Mendeley for Obsidian Integration: 2026 Comparison
 
 > **Quick Answer:** For Obsidian users, Zotero is the undisputed champion due to its open-source architecture, robust local storage options, and exceptional community plugins (like Zotero Integration and Citations). Mendeley offers a polished interface but struggles with Obsidian integration due to its closed ecosystem, encrypted local databases, and reliance on cloud-only sync mechanisms.
@@ -49,7 +51,7 @@ For the full note-taking side of the workflow, connect your reference manager to
 
 Before diving into the Obsidian-specific workflows, it is essential to understand the core philosophy and architecture of both applications, as these foundational differences dictate how well they integrate with external tools.
 
-### 1. Zotero
+### 1. [Zotero](https://www.amazon.com/s?k=Zotero&tag=pkm.notes-automate-20)
 
 **Best for:** Academic researchers, open-source advocates, and power Obsidian users.
 **Price:** Free (open-source), cloud storage pricing starts at $20/year for 2GB.
@@ -67,7 +69,7 @@ Zotero is a free, open-source reference management software developed by the Cor
 - Interface feels slightly dated compared to modern alternatives
 - Free cloud storage is limited to 300MB (though local/WebDAV sync is free)
 
-### 2. Mendeley Reference Manager
+### 2. [Mendeley Reference Manager](https://www.amazon.com/s?k=Mendeley%20Reference%20Manager&tag=pkm.notes-automate-20)
 
 **Best for:** Collaborative laboratory environments and Elsevier ecosystem users.
 **Price:** Free, institutional plans available.

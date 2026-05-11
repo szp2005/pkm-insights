@@ -9,6 +9,8 @@ slug: "arivu-vs-readwise-for-information-capture"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Arivu vs Readwise for Information Capture: Which Is Better?
 
 > **Quick Answer:** Readwise is the undisputed champion for aggregating highlights from books, podcasts, and articles while enforcing [spaced repetition](/posts/remnote-vs-logseq-for-medical-students-comparison/) to retain knowledge. Arivu is better suited for users who want an AI-first web clipper that automatically summarizes content, scores source credibility, and builds semantic knowledge graphs from saved links without manual tagging.
@@ -29,7 +31,7 @@ Arivu operates on the principle of semantic synthesis. It functions as an active
 
 ## Product Breakdown
 
-### 1. Readwise
+### 1. [Readwise](https://www.amazon.com/s?k=Readwise&tag=pkm.notes-automate-20)
 
 **Best for:** Avid readers, researchers, and users deeply invested in established [note-taking](/posts/digital-garden-vs-second-brain-difference/) tools like [Obsidian](/posts/personal-knowledge-management-tools-comparison/) or [Notion](/posts/second-brain-dashboard-for-notion-power-users/).
 **Price:** $4.49-$7.99/month
@@ -48,7 +50,7 @@ Beyond aggregation, Readwise forces engagement. Its daily review feature uses sp
 - User interface of the core dashboard feels dated
 - Requires the higher pricing tier to access note-export integrations
 
-### 2. Arivu
+### 2. [Arivu](https://www.amazon.com/s?k=Arivu&tag=pkm.notes-automate-20)
 
 **Best for:** Web researchers, analysts, and users who want AI to do the heavy lifting of summarizing and organizing links.
 **Price:** $0-$10/month

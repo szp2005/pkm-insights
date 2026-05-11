@@ -9,6 +9,8 @@ slug: "capacities-review-for-personal-research-management"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Capacities Review for Personal Research Management in 2026
 
 > **Quick Answer:** Capacities excels at personal research management by using an object-based architecture (like Notion) combined with networked linking (like Obsidian). It is ideal for researchers managing hundreds of PDFs, academic papers, and meeting notes, though its reliance on a cloud connection may deter strict [local-first](/posts/anytype-review-local-first-privacy-lovers/) advocates.
@@ -40,7 +42,7 @@ Like many modern PKM tools, Capacities includes a graph view to visualize connec
 
 ## Product Evaluation
 
-### 1. Capacities Free
+### 1. [Capacities Free](https://www.amazon.com/s?k=Capacities%20Free&tag=pkm.notes-automate-20)
 
 **Best for:** Students and casual researchers starting their PKM journey
 **Price:** $0
@@ -57,7 +59,7 @@ The free tier of Capacities is remarkably generous and provides everything neede
 - Limited integration with external task managers and calendars
 - Lacks advanced AI search and automated metadata extraction
 
-### 2. Capacities Pro (Believer)
+### 2. [Capacities Pro (Believer)](https://www.amazon.com/s?k=Capacities%20Pro%20%28Believer%29&tag=pkm.notes-automate-20)
 
 **Best for:** Professional researchers, academics, and power users
 **Price:** $10-$12/month
@@ -79,7 +81,7 @@ Capacities Pro unlocks the full potential of the platform for serious research m
 
 To provide a complete picture, it is essential to understand how Capacities stacks up against the two major paradigms in the PKM space: the local flat-file network and the collaborative database.
 
-### 3. Obsidian
+### 3. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
 
 **Best for:** Developers, privacy advocates, and offline researchers
 **Price:** $0 (Sync is extra)
@@ -96,7 +98,7 @@ Obsidian remains the gold standard for local-first markdown note-taking. It is l
 - Steep [learning](/posts/how-to-remember-what-you-read-effectively/) curve for non-technical users
 - Requires community plugins to achieve database-like functionality
 
-### 4. Notion
+### 4. [Notion](https://www.amazon.com/s?k=Notion&tag=pkm.notes-automate-20)
 
 **Best for:** Collaborative teams and highly structured [project management](/posts/tana-supertags-for-project-managers-download/)
 **Price:** $0-$10/month

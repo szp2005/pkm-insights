@@ -9,6 +9,8 @@ slug: "tana-workflows-for-systematic-literature-reviews"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Tana Workflows for Systematic Literature Reviews: Complete Guide
 
 > **Quick Answer:** The most effective Tana workflows for systematic literature reviews utilize the `#paper` and `#author` supertags combined with search nodes to automatically track inclusion and exclusion criteria. By mapping the PRISMA framework into Tana's native database structure, researchers can seamlessly transition from abstract screening to full-text synthesis without losing metadata or context.
@@ -48,7 +50,7 @@ This workflow translates the Preferred Reporting Items for Systematic Reviews an
 - Requires significant upfront time to build the precise supertags and nested fields
 - Can feel overly rigid and heavy for informal or exploratory literature reviews
 
-### 2. Zettelkasten-Integrated Synthesis Workflow
+### 2. [Zettelkasten-Integrated Synthesis Workflow](https://www.amazon.com/s?k=Zettelkasten-Integrated%20Synthesis%20Workflow&tag=pkm.notes-automate-20)
 
 **Best for:** Theoretical researchers, humanities scholars, and authors focusing on conceptual synthesis.
 **Price:** Free (Self-built) - $49 (Premium Templates)
@@ -65,7 +67,7 @@ While the PRISMA setup focuses heavily on the inclusion pipeline, the Zettelkast
 - Less [focus](/posts/digital-decluttering-for-information-overload/) on the rigorous, quantitative exclusion criteria needed for medical reviews
 - High manual maintenance overhead to ensure all atomic notes are properly tagged and linked
 
-### 3. Tana AI-Assisted Data Extraction Workflow
+### 3. [Tana AI-Assisted Data Extraction Workflow](https://www.amazon.com/s?k=Tana%20AI-Assisted%20Data%20Extraction%20Workflow&tag=pkm.notes-automate-20)
 
 **Best for:** Researchers dealing with massive volumes of full-text PDFs and strict timelines.
 **Price:** Requires Tana Core subscription ($10/month)

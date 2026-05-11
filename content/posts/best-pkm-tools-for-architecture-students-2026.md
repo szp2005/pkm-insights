@@ -9,6 +9,8 @@ slug: "best-pkm-tools-for-architecture-students-2026"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best PKM Tools for Architecture Students 2026: Top Picks
 
 > **Quick Answer:** For architecture students in 2026, the best PKM tools integrate visual thinking with robust [information management](/posts/structural-vs-organic-note-taking-methodologies/). Top contenders include [Obsidian](/posts/what-is-personal-knowledge-management/) for deep research and concept mapping, [Notion](/posts/personal-knowledge-management-tools-comparison/) for comprehensive project and studio management, Milanote for visual brainstorming and mood boards, and Trello for streamlined task [organization](/posts/steps-to-building-a-second-brain/). Selecting the right tool depends on individual workflow preferences and specific project demands.
@@ -49,7 +51,7 @@ Choosing the right PKM tool involves evaluating its features against the specifi
 
 Based on the unique demands of architectural education, several PKM tools stand out for their ability to support visual thinking, rigorous research, and complex project management. Here are our top recommendations for 2026:
 
-### 1. Obsidian
+### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
 
 **Best for:** Deep research, concept mapping, interconnected knowledge graphs, local data control.
 **Price:** Free (core app), $50/year (Catalyst license for early access/sync), $10/month (Obsidian Sync).
@@ -69,7 +71,7 @@ Obsidian is a powerful, privacy-focused knowledge base that operates on local Ma
 - No native cloud sync in the free version (requires third-party solutions or paid Obsidian Sync).
 - Less emphasis on collaborative features out-of-the-box.
 
-### 2. Notion
+### 2. [Notion](https://www.amazon.com/s?k=Notion&tag=pkm.notes-automate-20)
 
 **Best for:** All-in-one project management, collaborative studio work, structured databases for research, portfolio organization.
 **Price:** Free (Personal), $8/month (Plus), $15/month (Business). Student discounts available.
@@ -89,7 +91,7 @@ Notion is an incredibly versatile workspace that combines notes, databases, wiki
 - Primarily cloud-based, limited offline functionality.
 - Performance can slow down with very large, complex pages or databases.
 
-### 3. Milanote
+### 3. [Milanote](https://www.amazon.com/s?k=Milanote&tag=pkm.notes-automate-20)
 
 **Best for:** Visual brainstorming, mood boards, concept development, creative collaboration.
 **Price:** Free (limited boards), $12.50/month (Unlimited).
@@ -109,7 +111,7 @@ Milanote is a highly visual workspace designed for creative professionals, makin
 - Can become cluttered if not organized regularly.
 - Pricing can be a consideration for unlimited use compared to text-focused tools.
 
-### 4. Trello
+### 4. [Trello](https://www.amazon.com/s?k=Trello&tag=pkm.notes-automate-20)
 
 **Best for:** Simple project task management, studio project tracking, collaborative checklists.
 **Price:** Free (Basic), $5/month (Standard), $10/month (Premium).

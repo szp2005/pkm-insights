@@ -9,6 +9,8 @@ slug: "best-self-hosted-pkm-tools-for-data-privacy"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best Self-Hosted PKM Tools for Data Privacy in 2026
 
 > **Quick Answer:** For unparalleled data privacy and control over your personal knowledge, self-hosted PKM tools like Obsidian, Logseq, Joplin, and TiddlyWiki offer robust solutions. These platforms allow you to store your data on your own infrastructure, leveraging local files, end-to-end encryption, and open-source principles to ensure your information remains secure and accessible only to you.
@@ -55,7 +57,7 @@ Finally, some advanced users might opt for **full-fledged server-based knowledge
 
 Here are our top picks for self-hosted PKM tools that prioritize data privacy and give you full control over your knowledge base.
 
-### 1. Obsidian
+### 1. [Obsidian](https://www.amazon.com/s?k=Obsidian&tag=pkm.notes-automate-20)
 
 **Best for:** Users who prioritize local file storage, extensibility, and a powerful graph view for knowledge linking.
 **Price:** Free (core app), $50/year for Obsidian Sync (optional, cloud-based), or free for self-hosted sync.
@@ -75,7 +77,7 @@ Obsidian is a highly popular and powerful knowledge base that operates on local 
 - No official mobile sync solution without Obsidian Sync (paid) or third-party self-hosted options.
 - Steep learning curve for advanced features and plugin configuration.
 
-### 2. Logseq
+### 2. [Logseq](https://www.amazon.com/s?k=Logseq&tag=pkm.notes-automate-20)
 
 **Best for:** Researchers, students, and anyone who prefers an outliner-based, block-level knowledge management system with strong Git integration.
 **Price:** Free (open-source)
@@ -95,7 +97,7 @@ Logseq is an open-source, local-first PKM tool that operates on Markdown and Org
 - Mobile experience is still maturing compared to desktop.
 - Outliner paradigm might not suit all users' note-taking styles.
 
-### 3. Joplin
+### 3. [Joplin](https://www.amazon.com/s?k=Joplin&tag=pkm.notes-automate-20)
 
 **Best for:** Users needing robust end-to-end encryption and flexible synchronization options with various self-hosted services.
 **Price:** Free (open-source)
@@ -115,7 +117,7 @@ Joplin is an open-source note-taking and to-do application that offers powerful 
 - Graph view or advanced linking features are not as prominent as in Obsidian or Logseq.
 - Mobile app can sometimes be slower to sync with large note collections.
 
-### 4. TiddlyWiki
+### 4. [TiddlyWiki](https://www.amazon.com/s?k=TiddlyWiki&tag=pkm.notes-automate-20)
 
 **Best for:** Minimalists, power users seeking extreme portability, and those who want a self-contained, single-file knowledge base.
 **Price:** Free (open-source)

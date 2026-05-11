@@ -9,6 +9,8 @@ slug: "capacities-vs-anytype-for-local-first-notes"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Capacities vs Anytype for Local First Notes: Which Is Better in 2026?
 
 > **Quick Answer:** If your absolute priority is true [local-first](/posts/anytype-review-local-first-privacy-lovers/) architecture, end-to-end encryption, and complete data ownership, **Anytype** is the clear winner. However, if you are willing to trade strict local-first infrastructure for a more polished, intuitive user experience and robust offline caching, **Capacities** provides a highly capable, visually pleasing alternative for object-based [note-taking](/posts/zettelkasten-method-explained/).
@@ -29,7 +31,7 @@ This architecture provides three massive benefits: immediate load times (because
 
 ## Core Contenders Reviewed
 
-### 1. Anytype
+### 1. [Anytype](https://www.amazon.com/s?k=Anytype&tag=pkm.notes-automate-20)
 
 **Best for:** Privacy advocates, tech-savvy users, and offline-heavy workflows
 **Price:** Free (Self-hosted/Local) - $99/year (Any-Sync Cloud)
@@ -50,7 +52,7 @@ Because it operates locally, Anytype is blazingly fast. Searching through thousa
 - Lack of a web version (requires installing local apps on all devices)
 - UI can occasionally feel spartan compared to consumer-focused apps
 
-### 2. Capacities
+### 2. [Capacities](https://www.amazon.com/s?k=Capacities&tag=pkm.notes-automate-20)
 
 **Best for:** Visual thinkers, Notion transplants, and structured knowledge builders
 **Price:** Free - $10/month (Capacities Pro)
