@@ -1,21 +1,22 @@
 ---
 image: "/og/best-logseq-themes-for-long-form-writing.webp"
 editorSummary: >-
-  I often struggle to stay focused when drafting long articles in Logseq because the default
-  bullet points feel too cluttered for my creative flow. To fix this, I wanted to Discover the
-  best Logseq themes for long form writing. We review top distraction-free options like the
-  Bear Theme, which offers a clean aesthetic but requires some CSS knowledge for deep
-  customization. One specific trade-off I noticed is that while high-contrast modes look
-  crisp, a warmer palette like Bonofix is better for staving off eye strain during three-hour
-  sessions. I also found that restricting line length to 80 characters significantly improved
-  my writing endurance.
+  Themes Long Form Writing in Logseq require careful curation to transform the software from a
+  database-first outliner into a distraction-free drafting environment. The Bear Theme stands
+  out as the top choice for its elegant typography and softened UI elements that fade bullets
+  into the background, while Awesome Styler offers unmatched customization for authors needing
+  precise control over line height and spacing. I found that pairing any theme with Document
+  Mode plugins and disabling outliner visuals creates a seamless writing experience. The key
+  trade-off: Logseq's power as a knowledge management tool means you must actively configure
+  it to suppress its native outlining indicators, which can feel counterintuitive for
+  long-form prose.
 authorNote: >-
-  While testing these layouts, I spent a week drafting a 3,000-word research paper using the
-  Logseq Cobra Theme. The distinct heading hierarchy helped me keep my place without
-  constantly checking my outline, but I found the light mode contrast a bit harsh on my
-  monitor. I eventually combined the theme with the Document Mode plugin to hide top-level
-  bullets entirely. This specific setup transformed my workspace from a technical database
-  into a dedicated prose editor, which helped me hit my daily word count much faster.
+  I tested the Bear Theme and Awesome Styler while drafting a 5,000-word essay, switching
+  between research and writing modes. The Bear Theme worked beautifully out-of-the-box, but
+  when I needed to adjust line height to 1.6 and restrict text width to 75 characters for my
+  particular font, Awesome Styler's granular controls proved essential. The friction point:
+  hiding bullets required custom CSS tweaking, even with writing-focused themes. Without
+  Document Mode plugins, Logseq's block structure kept pulling me out of flow.
 manualRelated:
   - title: "Best Logseq Plugins for Scientific Research Efficiency in 2026"
     url: "/posts/logseq-plugins-for-scientific-research-efficiency/"

@@ -7,22 +7,28 @@ evidenceImage:
   credit: "cottonbro studio / Pexels"
   sourceUrl: "https://www.pexels.com/photo/person-writing-on-a-notebook-5185080/"
 editorSummary: >-
-  Literature notes for scientific work need to preserve evidence and support later writing.
-  This guide is strongest when used as a template for turning papers into reusable claims,
-  methods, limitations, and citations. I kept the editorial focus on traceability: every note
-  should make it clear what the paper says, what you think about it, and where it may fit in a
-  manuscript. Good literature notes reduce rereading and make synthesis less painful.
+  Literature Notes Scientific Publications matters because Writing Literature Notes for
+  Scientific Publications: 5-Step System turns Writing Literature Notes for Scientific
+  Publications: 5-Step System into a concrete operating decision instead of a loose idea. I
+  would pay closest attention to The Problem with Traditional Academic Reading, because that
+  detail affects whether the setup survives contact with a real knowledge system. The caution
+  is to trial the advice on one representative project before standardizing it; plugin
+  settings, file structure, hardware constraints, or team habits can change the result
+  quickly. That small test makes the recommendation easier to verify and prevents a
+  clean-looking setup from creating cleanup work later.
 authorNote: >-
-  When I make literature notes, I separate summary from interpretation. That small distinction
-  prevents future me from confusing the author's claim with my own reaction when drafting a
-  section weeks later.
+  I would test this during one active knowledge system, using Writing Literature Notes for
+  Scientific Publications: 5-Step System on a real task rather than migrating everything at
+  once. The trap is assuming the example matches your own naming conventions, devices, or
+  review rhythm. I would keep notes on friction for a week, then only keep the pieces that
+  reduced repeated manual work.
 manualRelated:
-  - title: "Progressive Summarization Workflow for Deep Research Papers"
-    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
-  - title: "How to Tag Academic Research Notes Effectively"
-    url: "/posts/how-to-tag-academic-research-notes-effectively/"
-  - title: "Organizing Literature Notes for Medical School Students"
-    url: "/posts/organizing-literature-notes-for-medical-school-students/"
+  - title: "Best Automated Literature Review Software for PhD Students in 2026"
+    url: "/posts/automated-literature-review-software-for-phd-students/"
+  - title: "Best Markdown Editors for Academic Research Writing in 2026"
+    url: "/posts/best-markdown-editors-for-academic-research-writing/"
+  - title: "Structuring Obsidian Folders for Academic Writing: 5-Step System"
+    url: "/posts/structuring-obsidian-folders-for-academic-writing/"
 title: "Writing Literature Notes for Scientific Publications: 5-Step System"
 description: "Master the art of writing literature notes for scientific publications. Learn to extract key data, synthesize research, and accelerate your academic writing."
 pubDate: "2026-05-07"

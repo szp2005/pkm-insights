@@ -7,23 +7,28 @@ evidenceImage:
   credit: "cottonbro studio / Pexels"
   sourceUrl: "https://www.pexels.com/photo/person-writing-on-a-notebook-5185080/"
 editorSummary: >-
-  This comparison is written for Obsidian users, so the winner is not just the reference
-  manager with the cleanest interface. The real test is whether citations, annotations, PDF
-  notes, and markdown exports can move through your research system without lock-in. I kept
-  the edit focused on portability and integration depth. Zotero's open ecosystem usually fits
-  Obsidian better, while Mendeley may still make sense in teams already tied to its
-  collaboration or institutional environment.
+  Zotero Mendeley Obsidian Integration matters because Zotero vs Mendeley for Obsidian
+  Integration: 2026 Comparison turns Zotero vs Mendeley for Obsidian Integration: 2026
+  Comparison into a concrete operating decision instead of a loose idea. I would pay closest
+  attention to The Reference Managers at a Glance, because that detail affects whether the
+  setup survives contact with a real knowledge system. The caution is to trial the advice on
+  one representative project before standardizing it; plugin settings, file structure,
+  hardware constraints, or team habits can change the result quickly. That small test makes
+  the recommendation easier to verify and prevents a clean-looking setup from creating cleanup
+  work later.
 authorNote: >-
-  When I evaluate reference tools for PKM, I export a small paper set and try to rebuild one
-  literature note. If citation keys, highlights, and PDF links survive that test, the workflow
-  is worth deeper setup.
+  I would test this during one active knowledge system, using Zotero vs Mendeley for Obsidian
+  Integration: 2026 Comparison on a real task rather than migrating everything at once. The
+  trap is assuming the example matches your own naming conventions, devices, or review rhythm.
+  I would keep notes on friction for a week, then only keep the pieces that reduced repeated
+  manual work.
 manualRelated:
-  - title: "Mendeley vs Zotero Obsidian Integration 2026"
-    url: "/posts/mendeley-vs-zotero-for-obsidian-integration-2026/"
-  - title: "How to Organize Research Papers Using Zotero and Obsidian"
-    url: "/posts/how-to-organize-research-papers-using-zotero-and-obsidian/"
-  - title: "Obsidian Academic Workflow for Thesis 2026"
+  - title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
     url: "/posts/obsidian-academic-workflow-for-thesis-2026/"
+  - title: "Mendeley vs Zotero for Obsidian Integration 2026: Ultimate Review"
+    url: "/posts/mendeley-vs-zotero-obsidian-integration-2026/"
+  - title: "Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison"
+    url: "/posts/logseq-vs-obsidian-for-second-brain/"
 title: "Zotero vs Mendeley for Obsidian Integration: 2026 Comparison"
 description: "Discover whether Zotero or Mendeley offers the best Obsidian integration for your academic workflow, with detailed comparisons of plugins, sync, and PDF extraction."
 pubDate: "2026-05-07"

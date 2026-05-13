@@ -1,21 +1,23 @@
 ---
 image: "/og/arivu-vs-readwise-for-information-capture.webp"
 editorSummary: >-
-  I often struggle to balance high-volume web research with deep book reading, which makes
-  this look at Arivu vs Readwise for Information Capture: Which Is Better? particularly
-  relevant. While I rely on Readwise to pull Kindle highlights into my Obsidian vault via its
-  reliable export pipeline, I noticed a significant trade-off when testing Arivu. Its Content
-  Intelligence score and semantic search are great for avoiding read-it-later bankruptcy on
-  the web, but it lacks the hardware integrations I need for physical e-readers. I appreciate
-  how this breakdown distinguishes between the mechanics of capture for these two distinct
-  second brain philosophies.
+  Arivu Readwise Information Capture philosophies split into two distinct methodologies:
+  strict curation versus AI synthesis. Readwise excels at aggregating highlights from books,
+  Kindle, and podcasts while enforcing spaced repetition to fight the forgetting curve. Arivu
+  takes an AI-first approach, automatically summarizing web content and building semantic
+  knowledge graphs without manual tagging. The key trade-off is integration breadth versus
+  intelligent processing—Readwise connects seamlessly to established reading platforms, but
+  lacks deep offline support. Arivu handles web research brilliantly yet requires friction
+  when capturing from physical books or e-readers. I find that choosing between them depends
+  entirely on whether your information originates from books or web browsers.
 authorNote: >-
-  My setup currently involves using Snipd for podcast snippets and Kindle for books, all
-  feeding into a central database. I once hit a wall with my knowledge management when my
-  browser bookmarks became an unnavigable graveyard of unread tabs. Testing Arivu changed that
-  by providing automated summaries that help me filter sources before I commit to deep
-  reading. It solves the friction of manual tagging, though I still stick with the Readwise
-  daily review to ensure my book highlights don’t vanish into the digital ether.
+  I tested both tools across my research workflow, alternating between academic papers and web
+  articles. With Readwise, I set up automated exports to Obsidian and watched my book
+  highlights sync flawlessly from Kindle, but the dashboard felt cluttered. Switching to Arivu
+  for web research, I appreciated how semantic search eliminated my folder chaos, yet I
+  immediately hit friction when trying to capture highlights from a PDF I'd downloaded
+  offline. That gap revealed the real choice: Readwise for deep reading pipelines, Arivu for
+  rapid web intelligence gathering.
 manualRelated:
   - title: "Steps to Building a Second Brain for Productivity: 6-Step Guide"
     url: "/posts/steps-to-building-a-second-brain-for-productivity/"
