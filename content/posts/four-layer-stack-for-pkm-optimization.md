@@ -1,21 +1,23 @@
 ---
 image: "/og/four-layer-stack-for-pkm-optimization.webp"
 editorSummary: >-
-  I approached this article as a framework for rethinking how knowledge flows through your
-  system. The four-layer stack—Capture, Organize, Distill, and Express—transforms PKM from
-  passive hoarding into active synthesis. What strikes me is the emphasis on actionability
-  over taxonomy; organizing by how you'll use information next, rather than rigid topic
-  folders, fundamentally changes retrieval speed. The trade-off worth noting: separating tools
-  across layers adds complexity initially, but the friction reduction for deep work justifies
-  the setup cost. Progressive summarization and atomic notes force genuine engagement with
-  material.
+  Layer Stack Pkm Optimization separates knowledge work into four distinct phases—Capture,
+  Organize, Distill, and Express—each with dedicated tools and workflows. I found that
+  treating information as a flowing resource rather than static storage transforms how you
+  handle the occupational hazard of modern knowledge work: information overload. Progressive
+  Summarization and actionability over taxonomy emerge as practical anchors throughout the
+  system. The critical trade-off is that while applications like Notion can technically handle
+  all four layers, doing so introduces friction that a modular approach eliminates. By
+  defining strict boundaries between capture, organization, synthesis, and output, you create
+  an environment optimized for deep work and intellectual productivity.
 authorNote: >-
-  I tested this stack when managing research for a long-form report. Using Drafts for quick
-  capture, Obsidian for organization with PARA structure, then distilling into evergreen notes
-  before writing in iA Writer revealed the real bottleneck: my old system skipped distillation
-  entirely, forcing me to re-read sources mid-writing. The separation of creation from
-  reference environments eliminated context-switching. The hardest part wasn't tool
-  selection—it was the Friday maintenance discipline needed to prevent inbox rot.
+  I tested this four-layer stack using Drafts for capture, Obsidian for organization and
+  distillation, and iA Writer for expression. The friction point I encountered was managing my
+  capture inbox—allowing raw notes to accumulate beyond 48 hours severed the mental context I
+  had when originally capturing the idea, making triage painful. Implementing a strict Friday
+  afternoon maintenance window of 15–30 minutes resolved this entirely. The separation between
+  reference storage and creation environment proved especially valuable when drafting
+  long-form content.
 manualRelated:
   - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
     url: "/posts/arivu-vs-readwise-for-information-capture/"

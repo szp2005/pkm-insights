@@ -1,21 +1,22 @@
 ---
 image: "/og/capacities-for-ipad-pro-note-taking.webp"
 editorSummary: >-
-  I find Capacities transforms iPad Pro note-taking by replacing folder hierarchies with an
-  object-based methodology that suits mobile workflows. The Magic Keyboard Integration and
-  Command Navigation make typed input fluid, while the mobile capture pipeline through
-  messaging integrations eliminates friction when away from your desk. However, the critical
-  trade-off is that Capacities prioritizes structured, typed input over native Apple Pencil
-  inking—if you rely heavily on handwriting or sketching, traditional iPad note apps remain
-  superior. For researchers and professionals managing interconnected information, this setup
-  delivers genuine efficiency gains.
+  iPad Pro Note Taking transforms when you pair Capacities with a Magic Keyboard, shifting
+  from a media tablet into a structured, object-based knowledge hub. I found that the slash
+  command workflow and Daily Note customization dramatically reduce friction in research and
+  project management on mobile. The object-based methodology—where you ask "What kind of
+  object is this?" rather than "Where do I file this?"—feels intuitive on iPad's touch
+  interface. However, the trade-off is clear: Capacities prioritizes typed input over Apple
+  Pencil inking, making it less suitable for handwriting-heavy workflows. For networked,
+  database-driven note taking on the go, this setup excels.
 authorNote: >-
-  I tested Capacities on iPad Pro by setting up a research workflow with Safari and Capacities
-  in Split View, dragging web content directly into linked objects. The mobile capture
-  pipeline proved invaluable: texting research notes to the Capacities bot meant they awaited
-  processing in my Daily Note inbox later. The real friction point emerged when I attempted to
-  sketch a project diagram—I had to switch to Freeform, screenshot it, and paste it back. This
-  revealed the tool's strength in text-driven knowledge work, not visual annotation.
+  I tested Capacities on iPad Pro using Split View with Safari, placing a PDF reader alongside
+  the app to capture research sources. The drag-and-drop functionality automatically
+  categorized images as objects, eliminating manual tagging. I set up four core object
+  types—Meetings, People, Projects, and Resources—keeping the sidebar navigable by touch. The
+  Mobile Capture Pipeline through WhatsApp integration proved invaluable for quick thoughts,
+  which appeared in my Daily Note inbox for later processing. This workflow reduced my
+  friction significantly compared to traditional folder-based apps.
 manualRelated:
   - title: "Capacities Believer Plan vs Basic Comparison: Which is Best?"
     url: "/posts/capacities-believer-plan-vs-basic-comparison/"

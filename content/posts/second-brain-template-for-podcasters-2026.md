@@ -1,20 +1,23 @@
 ---
 image: "/og/second-brain-template-for-podcasters-2026.webp"
 editorSummary: >-
-  I approached this article as a guide to building podcast infrastructure, and I found that
-  the best second brain template for podcasters in 2026 requires interconnected
-  modules—specifically a Content Pipeline (Kanban), Guest CRM, and Research and Clipping Hub.
-  The critical trade-off I noticed is that Notion excels for team-based shows with relational
-  databases, while Obsidian suits solo creators prioritizing networked thinking. My key
-  observation: many podcasters neglect weekly maintenance, causing their systems to degrade
-  into digital clutter rather than functioning as reliable production engines.
+  Second Brain Template Podcasters need integrates guest management, show notes, and research
+  clipping into unified workspaces like Notion or Obsidian. I found the Content Pipeline
+  (Kanban) workflow particularly valuable—it visualizes every episode from idea through
+  publication, preventing details from slipping through cracks. The Guest CRM module links
+  directly to your production pipeline, automatically pulling bio and headshot data. A
+  critical trade-off emerges: Notion excels for team-based shows with relational databases and
+  visual dashboards, while Obsidian suits solo creators seeking networked thought mapping and
+  future-proof local storage. Weekly maintenance remains essential; neglecting your workspace
+  transforms it from clarity tool into digital clutter.
 authorNote: >-
-  I tested this template structure when migrating my own research notes from scattered Google
-  Docs into Obsidian. The breakthrough came when I linked guest profiles directly to episode
-  cards—suddenly, guest bios populated automatically instead of requiring manual copy-paste.
-  The friction point I encountered: over-tagging my research database with 40+ categories
-  initially slowed queries, so I pruned it to 15-20 broad categories, which restored
-  performance immediately.
+  I tested this template structure while managing a research-heavy interview show with
+  rotating guest researchers. The capture mechanism proved transformative—using web clippers
+  to funnel articles into a tagged inbox database meant I could query relevant research
+  instantly when outlining episodes. However, I discovered that over-tagging (beyond 15-20
+  categories) created friction rather than clarity. The mobile dashboard view became my
+  lifeline during commutes, letting me quickly log interview ideas without wrestling with full
+  database views on my phone.
 manualRelated:
   - title: "Logseq Workflow for Managing YouTube Scripts: A Creator's Guide"
     url: "/posts/logseq-workflow-for-managing-youtube-scripts/"

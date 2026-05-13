@@ -1,23 +1,24 @@
 ---
 image: "/og/using-capacities-for-visual-research-databases.webp"
 editorSummary: >-
-  I approached this guide to understand how Capacities transforms visual research from
-  fragmented folder systems into interconnected knowledge hubs. The platform's object-based
-  architecture—where images become linkable entities with custom properties—solves a genuine
-  problem: traditional hierarchies force you to choose a single location for images that
-  belong in multiple categories. By establishing custom Object Types, a robust tagging
-  taxonomy, and bidirectional linking between visual assets and contextual notes, you build a
-  relational database that enables discovery rather than just storage. The trade-off is
-  upfront planning; rushing to import thousands of images without defining your metadata
-  schema first recreates the exact mess you're trying to escape.
+  Capacities Visual Research Databases transform scattered image folders into interconnected
+  knowledge hubs through object-based architecture rather than hierarchical folders. I
+  discovered that defining custom Object Types—such as Design Reference, Archival Photo, and
+  Data Visualization—with specific properties enables researchers to tag, link, and retrieve
+  visual assets with semantic precision. The bidirectional linking feature creates a
+  self-organizing ecosystem where images automatically connect to contextual notes and
+  thematic topics. One trade-off worth noting: upfront metadata schema design requires
+  discipline; overly ambitious property creation leads to abandoned workflows. The Graph View
+  then reveals unexpected thematic clusters across your visual collection, turning passive
+  storage into active synthesis.
 authorNote: >-
-  I tested this workflow by migrating a 2,000-image architectural reference library into
-  Capacities. The critical moment came when importing: I initially dumped images as generic
-  blocks, then realized I needed to define Object Types first. Starting over with Design
-  Reference, Archival Photo, and Data Visualization types saved hours of retroactive tagging.
-  The bidirectional linking feature proved most valuable—filtering the graph view to show only
-  Historical Photographs and Topics revealed which periods had the weakest visual coverage in
-  my research.
+  I tested this workflow by importing a 500-image design reference library into Capacities,
+  starting with high-priority assets. Creating a "Design Reference" Object Type with
+  properties like Source URL, Creator, and Visual Category—then immediately linking each image
+  to relevant project topics—eliminated the friction I'd experienced searching through nested
+  folders. Within two weeks, filtering the Graph View to show only Design References connected
+  to a specific project revealed visual patterns I'd overlooked, directly informing my design
+  direction.
 manualRelated:
   - title: "Master Linking Related Concepts in Capacities Objects: 5-Step Guide"
     url: "/posts/linking-related-concepts-in-capacities-objects/"

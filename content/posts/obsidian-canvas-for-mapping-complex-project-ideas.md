@@ -1,21 +1,21 @@
 ---
 image: "/og/obsidian-canvas-for-mapping-complex-project-ideas.webp"
 editorSummary: >-
-  I found Obsidian Canvas transforms how I handle fragmented project information by replacing
-  rigid folder hierarchies with spatial organization. The paradigm shift from linear notes to
-  spatial boards lets me map dependencies visually—a critical advantage when managing dozens
-  of interconnected variables. Text cards, note nodes, and directional edges work together
-  seamlessly, though I must caution that exceeding 20–50 nodes on a single canvas creates
-  cognitive overload rather than clarity. The two-way sync between canvas nodes and vault
-  files keeps my source of truth synchronized while avoiding vendor lock-in that proprietary
-  tools impose.
+  Mapping Complex Project Ideas with Obsidian Canvas shifts how I organize multi-faceted work
+  by replacing rigid folder hierarchies with an infinite spatial board. Text cards, note
+  nodes, and directional edges let me cluster related concepts and establish critical paths
+  visually—revealing dependencies before they become bottlenecks. The trade-off is discipline:
+  exceeding 50 nodes per canvas risks cognitive overload, so I create sub-canvases for massive
+  projects. Because everything stays local as plain Markdown, I avoid vendor lock-in while
+  maintaining a two-way sync between my visual dashboard and source files. This paradigm
+  fundamentally changes how I interact with complex project information.
 authorNote: >-
-  I tested Canvas on a product roadmap with 15 feature dependencies across three teams.
-  Starting with a brain dump phase, I clustered backend and frontend tasks into color-coded
-  groups, then drew directional arrows to expose bottlenecks before work began. The real
-  payoff came when I converted temporary text cards into permanent vault notes—suddenly my
-  canvas became both a strategic dashboard and an execution hub. Performance stayed snappy
-  until I embedded four PDFs; I switched to links instead and regained fluidity.
+  I tested Canvas on a product roadmap with twelve interconnected features, stakeholder
+  dependencies, and external API constraints. Starting with a brain dump of text cards, then
+  clustering them by team ownership, I discovered three hidden blockers that a linear task
+  list had obscured. The real value emerged when I converted temporary cards into vault notes
+  for deep work—suddenly my canvas became both a strategic overview and an execution
+  dashboard. Performance dipped slightly with embedded PDFs, so I switched to links instead.
 manualRelated:
   - title: "Best PKM Apps for Visual Thinkers in 2026"
     url: "/posts/best-pkm-apps-for-visual-thinkers-2026/"

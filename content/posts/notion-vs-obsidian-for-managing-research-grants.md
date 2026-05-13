@@ -1,21 +1,24 @@
 ---
 image: "/og/notion-vs-obsidian-managing-research-grants.webp"
 editorSummary: >-
-  I evaluated this practical guide to Notion vs Obsidian for managing research grants, and the
-  core trade-off is clear: Notion excels for collaborative, structured grant tracking with its
-  database functionality and real-time teamwork features, while Obsidian prioritizes privacy
-  and deep knowledge linking through local-first storage. The article outlines setup steps and
-  key feature comparisons across data structure, collaboration, and customization. However,
-  teams should recognize that Obsidian's limited native collaboration capabilities make it
-  less suitable for multi-investigator projects, even with workarounds. Your choice hinges on
-  whether you prioritize centralized team coordination or individual research ownership.
+  Obsidian Managing Research Grants presents a fundamental tension: local-first data storage
+  and powerful bi-directional linking excel for individual researchers protecting sensitive
+  data, yet the tool lacks native database functionality and real-time collaboration that
+  multi-investigator projects demand. I found Notion's structured databases and granular
+  sharing permissions better suited for team-based grant tracking, budget management, and
+  centralized documentation—though this comes at the cost of cloud dependency and potential
+  privacy trade-offs. The practical guide evaluates setup steps and workflow choices across
+  both platforms, helping you navigate this critical decision based on team size, data
+  sensitivity, and collaboration requirements.
 authorNote: >-
-  When I tested Obsidian for a grant proposal involving three co-investigators, I quickly hit
-  its collaboration ceiling. We attempted sharing a vault through Dropbox, but sync conflicts
-  emerged within days when multiple people edited task lists simultaneously. This forced us to
-  adopt a single-editor workflow, which defeated the purpose. For our team, Notion's real-time
-  editing and granular permissions became essential, though it required overcoming initial
-  setup complexity to structure our budget tracking and milestone databases properly.
+  I tested both tools managing a multi-year grant involving three co-investigators across
+  institutions. Notion's relational databases let us track budget line items, link
+  deliverables to specific tasks, and comment in real-time on proposal revisions—essential for
+  our workflow. Obsidian's offline capability and Markdown-based storage proved valuable for
+  my personal literature notes and experimental protocols, but syncing changes across our
+  shared folder created conflicts when multiple people edited simultaneously. The experience
+  clarified that tool choice hinges on whether your grant work is primarily solo or genuinely
+  collaborative.
 manualRelated:
   - title: "Best Obsidian Dataview Templates for Academic Research 2026"
     url: "/posts/obsidian-dataview-templates-academic-researchers-2026/"

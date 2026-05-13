@@ -1,22 +1,22 @@
 ---
 image: "/og/how-to-remember-what-you-read-effectively.webp"
 editorSummary: >-
-  I approached this article expecting generic note-taking advice, but the science-backed
-  framework genuinely reframes how retention works. The piece moves beyond surface-level
-  tactics—ditching highlighters for marginalia, leveraging spatial memory with physical books,
-  and implementing spaced repetition systems like Anki. What strikes me most is the honest
-  trade-off: reading the book is only 20% of the work; the real consolidation happens after.
-  The Ebbinghaus Forgetting Curve and Illusion of Competence sections clarify why we forget,
-  transforming productivity and learning into a deliberate cognitive practice rather than
-  passive consumption.
+  What You Read Effectively hinges on understanding the Ebbinghaus Forgetting Curve and the
+  illusion of competence—two cognitive realities that explain why we lose up to 70% of
+  information within 24 hours. I've found that moving beyond passive highlighting to active
+  marginalia, combined with a structured SQ3R framework during reading, creates the neural
+  pathways needed for retention. The trade-off is clear: implementing spaced repetition
+  systems like Anki demands ongoing effort, but this post-reading consolidation phase is where
+  80% of actual learning occurs. Spatial memory from physical books offers advantages digital
+  screens cannot match, yet accessibility sometimes demands compromise.
 authorNote: >-
-  I tested the SQ3R Framework on a dense economics textbook last month. By turning chapter
-  headings into questions before reading, then forcing myself to recite answers without
-  looking back, I retained significantly more than my usual highlighting approach. The spatial
-  memory advantage of physical books proved real—I could mentally locate concepts by page
-  position. However, switching to Anki flashcards afterward felt laborious until I realized
-  the spaced repetition actually worked; concepts I'd normally forgotten within weeks stayed
-  accessible months later.
+  When I tested the SQ3R framework on a dense business book, I converted each chapter heading
+  into a question, then forced myself to recite answers without checking the text. That
+  retrieval moment—struggling to explain concepts in my own words—revealed gaps I'd missed
+  during passive reading. Pairing this with Anki flashcards on key insights showed how spaced
+  repetition genuinely counteracts forgetting. The friction of the Feynman Technique,
+  explaining concepts simply to catch what I didn't truly understand, proved far more valuable
+  than my old highlighting habit.
 manualRelated:
   - title: "Mastering Memory: Best Practices for Knowledge Retention"
     url: "/posts/best-practices-for-knowledge-retention/"

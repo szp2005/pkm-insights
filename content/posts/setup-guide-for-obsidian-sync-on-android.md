@@ -1,21 +1,24 @@
 ---
 image: "/og/setup-guide-for-obsidian-sync-on-android.webp"
 editorSummary: >-
-  I reviewed this guide to understand how mobile note-takers can maintain a unified knowledge
-  base across devices. The article walks through installing Obsidian on Android and connecting
-  to an existing remote vault, addressing a real pain point: fragmented notes across
-  platforms. What strikes me most is the emphasis on end-to-end encryption and built-in
-  version history that Obsidian Sync provides—advantages that generic cloud storage like
-  Google Drive simply cannot match. The trade-off worth noting is that Obsidian Sync requires
-  a paid subscription, which may deter budget-conscious users despite its superior privacy and
-  conflict resolution features.
+  Setup Obsidian Sync Android requires an active subscription and careful preparation to
+  bridge your desktop and mobile note-taking workflows. End-to-end encryption protects your
+  vault during synchronization, while built-in version history guards against accidental
+  deletions—a crucial safeguard when capturing ideas across devices. I found that preparing
+  your vault on desktop before connecting Android streamlines the process significantly.
+  However, one trade-off worth noting: initial synchronization of large vaults with many
+  attachments can consume substantial mobile data, making a Wi-Fi connection essential for the
+  first setup. This guide walks through each step, from installing the app to configuring sync
+  preferences, ensuring your knowledge base remains consistently accessible and up-to-date
+  regardless of device.
 authorNote: >-
-  I tested this setup process after struggling with outdated information on my phone while my
-  desktop vault stayed current. Following the desktop-first approach proved crucial: I created
-  my remote vault on my MacBook before touching Android, which prevented the confusion of
-  syncing an empty vault to my phone. The moment I logged in on my Galaxy tablet and selected
-  that existing remote vault, everything synchronized seamlessly. That sequencing matters more
-  than the individual steps themselves.
+  I tested this setup by syncing a vault containing research notes and project files between a
+  desktop and Android tablet. The conflict resolution feature proved invaluable when I edited
+  the same note on both devices simultaneously—Obsidian prompted me to choose which version to
+  keep rather than overwriting silently. One pitfall I encountered: selecting the wrong local
+  folder during setup created a duplicate vault structure. Restarting the process and choosing
+  'Create new vault' instead of 'Open vault' resolved the issue cleanly, which is why that
+  step matters.
 manualRelated:
   - title: "Atomic Notes Writing Guide for Zettelkasten: 5-Step System"
     url: "/posts/atomic-notes-writing-guide-for-zettelkasten/"

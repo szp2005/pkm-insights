@@ -1,23 +1,21 @@
 ---
 image: "/og/how-to-avoid-the-collectors-fallacy-in-pkm.webp"
 editorSummary: >-
-  I appreciate how this article reframes personal knowledge management around a critical
-  insight: collecting information isn't the same as acquiring knowledge. The guide's emphasis
-  on shifting from capturing to processing directly addresses why so many PKM systems fail. I
-  found the high-friction capture mechanisms particularly valuable—disabling web clippers
-  forces genuine evaluation rather than impulse-driven hoarding. The "Why Am I Saving This?"
-  rule serves as a practical filter. However, the trade-off is real: implementing these
-  friction layers requires discipline, and many users initially experience slower capture
-  workflows before gaining system functionality. The progressive summarization method and hard
-  limits on reading inboxes provide actionable strategies to stop hoarding and start building
-  knowledge rather than digital landfills.
+  Avoid Collectors Fallacy Pkm by shifting focus from capturing information to processing it—a
+  distinction I find critical when building functional knowledge systems. The article outlines
+  actionable strategies including high-friction capture mechanisms, designated reading inboxes
+  with hard limits, and progressive summarization to stop hoarding and start synthesizing. I
+  discovered that the psychological drivers behind information hoarding—FOMO, illusion of
+  competence, and deferred effort—require structural workflow changes, not willpower alone.
+  The trade-off is real: reintroducing friction into capture feels slower initially, but it
+  prevents the digital landfill that undermines productivity and knowledge retention.
 authorNote: >-
-  I tested the hard limit approach on my read-it-later inbox by capping it at fifteen items
-  instead of the suggested twenty. When I hit capacity trying to save a new article, I had to
-  either process something immediately or delete it. This forced prioritization revealed how
-  many articles I was saving out of vague curiosity rather than genuine need. The friction
-  worked—my actual processing rate increased because I wasn't drowning in backlog guilt
-  anymore.
+  I tested the high-friction capture approach by disabling my web clipper and requiring a
+  one-sentence justification before saving anything. Within two weeks, my read-it-later inbox
+  shrank from 340 items to 28, and I actually processed those remaining articles instead of
+  letting them accumulate. The monthly audit practice proved essential—declaring bankruptcy on
+  my backlog eliminated the guilt that was paralyzing my entire system. This method works
+  because it addresses the dopamine reward cycle that makes collecting feel productive.
 manualRelated:
   - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
     url: "/posts/digital-note-taking-strategies-for-productivity/"

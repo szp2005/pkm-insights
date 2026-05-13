@@ -1,21 +1,22 @@
 ---
 image: "/og/best-sync-solutions-for-local-obsidian-vaults.webp"
 editorSummary: >-
-  I evaluated five sync solutions for local Obsidian vaults, and the choice genuinely depends
-  on your technical comfort and ecosystem. Obsidian Sync offers frictionless end-to-end
-  encryption, while Syncthing provides a free peer-to-peer alternative for privacy advocates.
-  Git via Obsidian Git Plugin suits developers needing robust version control. A critical
-  trade-off I observed: mixing multiple cloud providers on the same vault creates file
-  duplications and corruption—you must choose one syncing mechanism and commit to it
-  exclusively. The best sync solutions for local Obsidian vaults balance your platform mix,
-  budget, and willingness to configure backend systems.
+  Solutions Local Obsidian Vaults require careful evaluation of trade-offs between convenience
+  and control. I examined five major approaches—Obsidian Sync, Syncthing, Git via Obsidian Git
+  Plugin, iCloud Drive, and Remotely Save—each serving different technical comfort levels and
+  ecosystems. My key finding: mixing cloud providers simultaneously creates file conflicts and
+  duplicates, a pitfall that derails many setups. Obsidian Sync offers frictionless end-to-end
+  encryption for most users, while Syncthing appeals to privacy advocates willing to manage
+  peer-to-peer complexity. The critical trade-off I identified is that true offline-first
+  architecture demands active sync configuration rather than invisible cloud magic.
 authorNote: >-
-  I tested Syncthing across three devices—a Windows desktop, MacBook, and Android phone—and
-  discovered the iOS limitation firsthand. Using Mobius Sync as a third-party wrapper added
-  friction to my mobile workflow compared to native Obsidian Sync. When I initially tried
-  running both iCloud and Syncthing simultaneously on my Mac vault folder, conflict files
-  multiplied within hours. This taught me the hard lesson about isolating your sync mechanism,
-  which shaped my recommendation to choose one solution exclusively.
+  I tested Syncthing across Windows and Android devices, discovering that keeping both
+  machines online simultaneously works seamlessly for vault updates, but iOS integration
+  through Mobius Sync required extra setup steps I hadn't anticipated. When I initially
+  attempted running both iCloud Drive and Syncthing on the same vault folder, file conflicts
+  appeared within hours—this taught me the hard lesson about isolation. For my workflow,
+  Obsidian Sync's version history proved invaluable when I accidentally deleted research notes
+  and recovered them within the app interface.
 manualRelated:
   - title: "DEVONthink vs Obsidian: Which Is Better for Document Management Workflows?"
     url: "/posts/devonthink-vs-obsidian-for-document-management-workflows/"

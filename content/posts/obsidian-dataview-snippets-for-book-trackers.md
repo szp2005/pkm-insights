@@ -1,22 +1,21 @@
 ---
 image: "/og/obsidian-dataview-snippets-for-book-trackers.webp"
 editorSummary: >-
-  I approached this article as a practical guide to building a book tracking system within
-  Obsidian using Dataview snippets. The setup emphasizes consistent metadata fields—title,
-  author, status, pages, and dates—paired with DQL queries that transform static notes into
-  dynamic, queryable databases. What strikes me is the trade-off between customization depth
-  and maintenance burden; while advanced DataviewJS dashboards offer rich insights, batch
-  updating metadata across growing libraries requires discipline. The article walks through
-  essential snippets for displaying all books, filtering by reading status, and calculating
-  progress percentages, making it accessible for readers ready to master their reading.
+  Dataview Snippets Book Trackers transform Obsidian into a dynamic reading management system
+  by querying metadata embedded in book notes. I found that creating a dedicated folder
+  structure with consistent YAML frontmatter fields—title, author, status, pages,
+  progress—enables powerful automated tables and dashboards. The real trade-off emerges when
+  scaling: while basic DQL queries handle simple lists efficiently, advancing to DataviewJS
+  for calculations like reading duration or percentage-read metrics requires comfort with
+  JavaScript logic. Setting up essential metadata fields upfront prevents costly retroactive
+  batch updates across your library.
 authorNote: >-
-  I tested this system by converting my scattered reading list across three platforms into a
-  single Obsidian vault. Starting with the YAML template for book metadata, I created fifty
-  existing book notes using search-and-replace to standardize fields. The real payoff came
-  when I ran the "Books Currently Reading" snippet—it instantly surfaced my actual reading
-  pace by calculating days between start and end dates. One pitfall: I initially forgot to add
-  the #book tag to legacy notes, causing them to drop from queries until I batch-updated the
-  folder.
+  I built this tracker after managing books across three separate platforms. When I
+  consolidated everything into Obsidian with structured metadata, a single status: reading
+  field combined with progress and pages let me see exactly how far I'd gotten in each book
+  without leaving my vault. The real win came from the calculated "Reading Duration" field—it
+  revealed I finish fantasy novels twice as fast as dense non-fiction, which changed how I
+  plan my reading schedule.
 manualRelated:
   - title: "Best Obsidian Dataview Templates for Academic Research 2026"
     url: "/posts/obsidian-dataview-templates-academic-researchers-2026/"

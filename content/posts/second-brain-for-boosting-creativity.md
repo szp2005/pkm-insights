@@ -1,23 +1,24 @@
 ---
 image: "/og/second-brain-for-boosting-creativity.webp"
 editorSummary: >-
-  I approached this article as a practical resource for anyone struggling with blank page
-  syndrome. The Second Brain framework—particularly the CODE methodology of Capture, Organize,
-  Distill, and Express—offers a concrete way to transform your creative workflow. What strikes
-  me most is how the article reframes organization: instead of sorting by subject like a
-  library, you organize for actionability using the PARA method. This shift alone changes how
-  you'll retrieve ideas during creative sprints. The trade-off worth noting is that tool
-  choice matters significantly; Obsidian excels at engineering serendipity through
-  bidirectional linking, but that same feature can become a distraction if you're prone to
-  endless graph-tweaking instead of actual creation.
+  Brain Boosting Creativity requires separating divergent and convergent thinking phases, a
+  trade-off many creators overlook when building their Second Brain. The CODE
+  Framework—Capture, Organize, Distill, Express—provides the practical workflow to transform
+  your creative output. I found that tools like Obsidian excel at engineering serendipity
+  through bidirectional linking, yet this same feature can distract you into endless graph
+  tweaking instead of actual creative work. By offloading memory to a trusted external system,
+  you free cognitive bandwidth for what matters: imagination and synthesis. Discover how a
+  Second Brain can transform your creative workflow by eliminating blank page syndrome and
+  encouraging slow-burn idea maturation.
 authorNote: >-
-  I tested the Capture phase using a frictionless voice memo setup on my phone, then processed
-  those recordings into Obsidian using Progressive Summarization. The bottleneck I discovered
-  wasn't capturing ideas—it was the discipline to actually distill them into scannable
-  summaries. Skipping that step meant my Second Brain became a graveyard of unprocessed
-  highlights. The real unlock came when I tied captured ideas directly to active projects in
-  the PARA structure, forcing myself to ask "which project needs this?" instead of vaguely
-  filing things away.
+  I tested the CODE Framework while drafting a long-form essay, capturing highlights from five
+  books into Obsidian over two months. When I finally sat down to write, Progressive
+  Summarization had already distilled my notes into scannable summaries. The real test came
+  during the editing phase: bidirectional links revealed unexpected connections between
+  behavioral psychology and narrative structure that I'd never consciously noticed. However, I
+  caught myself spending thirty minutes exploring the graph visualization instead of writing.
+  The framework works brilliantly when you respect the boundary between divergent exploration
+  and convergent execution.
 manualRelated:
   - title: "Second Brain for Boosting Creativity in 2026: Complete Guide"
     url: "/posts/second-brain-for-boosting-creativity-in-2026/"

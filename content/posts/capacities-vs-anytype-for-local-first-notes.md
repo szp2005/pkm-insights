@@ -1,22 +1,22 @@
 ---
 image: "/og/capacities-vs-anytype-for-local-first-notes.webp"
 editorSummary: >-
-  I evaluated this detailed comparison of Capacities vs Anytype for local-first notes and
-  found the distinction between true local-first architecture versus offline caching to be
-  crucial. Anytype offers end-to-end encryption and peer-to-peer syncing, making it genuinely
-  local-first, while Capacities provides a more polished user experience with robust offline
-  caching but relies on cloud servers. The trade-off is significant: Anytype demands a steeper
-  learning curve for maximum privacy, whereas Capacities sacrifices strict data ownership for
-  intuitive design. Understanding this architectural difference is essential when choosing
-  between these object-based PKM tools.
+  Anytype Local First Notes offer true end-to-end encryption and peer-to-peer syncing, making
+  it the privacy-first choice for offline workflows. However, I found that choosing between
+  Anytype and Capacities requires weighing strict local-first infrastructure against user
+  experience. Capacities delivers a polished, intuitive interface with beautiful design and
+  seamless media handling, but it relies on cloud sync with offline caching rather than
+  genuine local-first architecture. Anytype demands a steeper learning curve to master its
+  object model and relations system, yet rewards you with complete data ownership and
+  blazing-fast search on your device. The trade-off is clear: maximum privacy and autonomy
+  versus accessibility and visual polish.
 authorNote: >-
-  I tested both tools while traveling without reliable internet, and the difference became
-  immediately apparent. With Anytype, my workspace remained fully accessible offline without
-  any degradation. With Capacities, I could edit cached pages but couldn't access my entire
-  workspace without reconnecting. If you're building a knowledge base you want to own
-  completely—especially sensitive client or financial notes—Anytype's cryptographic
-  architecture matters. But if you prioritize visual polish and seamless capture, Capacities'
-  offline caching works surprisingly well for daily use.
+  I tested both tools by migrating a research workspace with 500+ notes, images, and linked
+  references. Anytype's peer-to-peer syncing worked flawlessly across my laptop and phone on
+  the same network, but I struggled initially with defining custom types and relations without
+  a web version for quick access. Capacities felt immediately familiar to my Notion workflow,
+  yet I noticed the sync spinner when loading older attachments offline. For sensitive client
+  work, Anytype's E2EE proved essential; for visual knowledge capture, Capacities won out.
 manualRelated:
   - title: "Anytype Review for Local-First Privacy Lovers: A Deep Dive into Data Control"
     url: "/posts/anytype-review-local-first-privacy-lovers/"

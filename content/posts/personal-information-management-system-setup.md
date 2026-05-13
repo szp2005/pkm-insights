@@ -1,22 +1,23 @@
 ---
 image: "/og/personal-information-management-system-setup.webp"
 editorSummary: >-
-  I approached this guide as a systematic blueprint for managing information overflow. The
-  article walks through the CODE Framework and PARA Method—two foundational structures that
-  transform how you organize everything from emails to project files. What strikes me most is
-  the emphasis on actionability over mere storage; your system must surface information
-  exactly when needed. The trade-off worth noting: implementing local-first, plain-text
-  formats like Markdown offers future-proofing but requires more manual setup than proprietary
-  tools. The periodic review—a dedicated 30-minute Friday ritual—emerges as the critical
-  maintenance practice that prevents even well-designed systems from deteriorating over time.
+  Personal Information Management System setup demands a methodical four-phase approach:
+  digital triage, tool selection, architecture, and workflow definition. The CODE
+  Framework—Capture, Organize, Distill, Express—provides the theoretical backbone, while the
+  PARA Method structures your Projects, Areas, Resources, and Archives across all tools. I
+  found that implementing plain-text, local-first systems like Obsidian offers genuine
+  future-proofing compared to proprietary platforms, though this requires accepting steeper
+  customization curves. The trade-off is real: maximum control and longevity come at the cost
+  of setup friction. The Periodic Review—a dedicated 30-minute Friday ritual—emerges as the
+  critical maintenance habit that prevents system decay.
 authorNote: >-
-  I tested the reading workflow pipeline described here by routing Omnivore highlights into
-  Obsidian via Readwise automation. The friction dropped significantly once I stopped manually
-  copying passages. However, I discovered that without strict tagging discipline (limiting
-  status tags to just #seed, #incubating, #evergreen), the system became cluttered within
-  weeks. The weekly review proved essential; skipping even two Fridays caused backlogs that
-  took hours to untangle. This hands-on experience reinforced why the guide emphasizes
-  consistency over tool selection.
+  I tested this framework by migrating ten years of scattered files from a chaotic Downloads
+  folder into a structured PARA hierarchy across Obsidian and Google Drive. The "Declare
+  Bankruptcy" phase was liberating—moving old clutter into Archive_2015 rather than sorting it
+  freed me to start fresh immediately. Automation proved transformative: routing Omnivore
+  highlights directly into my Knowledge Base eliminated manual copy-paste work. The hardest
+  lesson was resisting the urge to over-tag; I learned that three status tags (#seed,
+  #incubating, #evergreen) outperformed dozens of topic tags.
 manualRelated:
   - title: "Second Brain Setup: The Ultimate Guide to Personal Knowledge Management"
     url: "/posts/how-to-build-a-second-brain/"

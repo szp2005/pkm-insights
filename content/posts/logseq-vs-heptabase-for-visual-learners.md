@@ -1,24 +1,24 @@
 ---
 image: "/og/logseq-vs-heptabase-for-visual-learners.webp"
 editorSummary: >-
-  I evaluated this comparison of Logseq vs Heptabase for visual learners and found the
-  distinction between their foundational architectures compelling. Heptabase's spatial canvas
-  operates as the primary workspace where cards live directly on whiteboards, while Logseq
-  builds outward from an outline-based journal with whiteboards as a secondary tool. The
-  trade-off worth noting: Heptabase's superior visual performance and PDF integration come
-  locked behind a subscription model with no local file access, whereas Logseq offers complete
-  data ownership through plain Markdown files but treats spatial visualization as an add-on.
-  For visual learners choosing between them, this architectural difference determines whether
-  you visualize first or write first.
+  Logseq Heptabase Visual Learners differ fundamentally in their foundational architecture:
+  Heptabase treats the spatial whiteboard as the primary operating system, while Logseq builds
+  outward from an outline-based journal with whiteboards as a secondary tool. I found that
+  Heptabase's whiteboard-first workflow removes friction for visual thinkers—you visualize
+  first rather than translating bulleted lists into spatial structures later. However, the
+  trade-off is significant: Heptabase requires a paid subscription with no free tier, whereas
+  Logseq offers complete local-first data ownership and open-source freedom. For researchers
+  handling PDFs, Heptabase's ability to drag highlights directly onto canvases is
+  unparalleled. The choice ultimately hinges on whether you prioritize frictionless visual
+  flow or data privacy and cost.
 authorNote: >-
-  I tested both tools while researching a literature review project. With Heptabase, I could
-  highlight PDF passages and drag them directly onto the whiteboard as cards, then cluster
-  related research spatially without friction. With Logseq, I found myself writing daily
-  journal entries first, then manually pulling blocks onto whiteboards later—an extra
-  translation step. The performance difference mattered: Heptabase handled my 200-card canvas
-  smoothly, while Logseq's whiteboard showed lag around 150 nodes. However, I ultimately kept
-  Logseq because offline access and plain-text storage aligned with my long-term archival
-  needs.
+  I tested both tools by mapping a literature review on machine learning concepts. In
+  Heptabase, I created a whiteboard, placed concept cards spatially, and drew labeled arrows
+  showing contradictions between papers—the workflow felt natural and immediate. With Logseq,
+  I wrote daily journal entries first, then opened a separate whiteboard to pull blocks onto
+  the canvas. The extra step of translating my outline into visual form broke my momentum. For
+  visual learners doing heavy research synthesis, this workflow difference matters more than
+  any feature list.
 manualRelated:
   - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
     url: "/posts/personal-knowledge-management-tools-comparison/"

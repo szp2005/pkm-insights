@@ -1,21 +1,23 @@
 ---
 image: "/og/how-to-refactor-old-notes-in-your-pkm.webp"
 editorSummary: >-
-  I approached this article as a practical guide to eliminating digital clutter from a mature
-  PKM system. The 5-Step Refactoring Process—from isolating orphaned notes to forging
-  intentional connections—directly addresses the friction that accumulates when metadata
-  inconsistency and overly dense "jumbo" notes go unchecked. What strikes me most is the
-  emphasis on timeboxing maintenance rather than attempting massive overhauls; this trade-off
-  between perfectionism and sustainability feels especially relevant for knowledge workers
-  managing large vaults. The principle of atomicity, combined with progressive summarization,
-  transforms retrieval speed and makes your knowledge base genuinely useful over time.
+  Old Notes Your Pkm system accumulate structural debt over time—orphaned files, inconsistent
+  metadata, and overly dense "jumbo" notes that violate atomicity principles. This 5-Step
+  Refactoring Process guides you through isolating outdated content, breaking large notes into
+  focused ideas, applying progressive summarization, standardizing metadata, and forging
+  intentional connections to rebuild retrieval speed and knowledge graph coherence. The key
+  trade-off: refactoring demands human cognition and cannot be fully automated, so I recommend
+  timeboxing maintenance to 15–30 minutes weekly rather than attempting massive vault
+  overhauls. A well-factored system transforms stale repositories into engines for compound
+  learning.
 authorNote: >-
-  I tested this system on a two-year-old Obsidian vault where orphaned notes and inconsistent
-  tags had made searching frustrating. Starting with Step 1's triage approach, I identified 40
-  candidates using a query for notes over a year old with zero backlinks. Rather than refactor
-  all at once, I adopted the Campground Rule—spending five minutes on one note each morning.
-  Within three weeks, my unlinked mentions dropped by 60%, and I rediscovered connections I'd
-  forgotten existed. The query automation dashboard proved invaluable for staying consistent.
+  I discovered the power of this approach when my Obsidian vault hit 800+ notes and searches
+  became unreliable. I picked one legacy note on marketing strategy—a sprawling 3,000-word
+  document—and applied the five steps: triaged sections, split it into atomic notes on SEO,
+  copywriting, and paid ads, added progressive summarization at the top, updated deprecated
+  tags to match my current schema, and linked everything to my marketing MOC. What took 20
+  minutes unlocked three new connections I'd missed before. Now I apply this incrementally
+  whenever I revisit old notes.
 manualRelated:
   - title: "Folgezettel Numbering in Zettelkasten Systems: Complete Guide"
     url: "/posts/what-is-folgezettel-numbering-in-zettelkasten-systems/"

@@ -1,21 +1,21 @@
 ---
 editorSummary: >-
-  I approach content creation as a problem of friction, and this article directly addresses
-  that challenge through a structured second brain pipeline. By separating information capture
-  from information processing, you can transform sporadic writing sessions into consistent
-  output. The PARA method integration and Kanban board approach are particularly valuable
-  here, though I'd caution that the system requires genuine weekly maintenance—skipping those
-  thirty-minute reviews causes bottlenecks to compound quickly. The real insight is learning
-  how to build a content pipeline with a second brain that lets you assemble pre-existing
-  blocks rather than fabricating material on demand, fundamentally changing how you approach
-  productivity.
+  Content Pipeline Second Brain systems separate information capture from processing, a
+  distinction I find essential for consistent publishing. The PARA method and progressive
+  summarization create discoverable material before drafting begins, while a Kanban board
+  visualizes where each piece sits in production. I appreciate how this architecture
+  transforms writing from sporadic inspiration into modular assembly—pulling pre-existing
+  notes rather than generating from scratch. The trade-off is real: establishing frictionless
+  capture, processing routines, and maintenance requires upfront infrastructure work, but the
+  payoff is eliminating blank-page paralysis and scaling output without burnout.
 authorNote: >-
-  I tested this pipeline when managing a quarterly content calendar across three platforms.
-  The breakthrough came when I separated my Obsidian notes from my Notion Kanban board but
-  linked them with URIs—suddenly, moving a card from "Researching" to "Drafting" meant jumping
-  directly to my organized highlights and summaries. Within two weeks, my drafting time
-  dropped by forty percent. The catch: when I skipped the weekly inbox clearing, everything
-  stalled within a month.
+  I tested this pipeline while managing a monthly newsletter and quarterly long-form guide. My
+  bottleneck was the drafting stage—I'd outline ambitiously but lack sufficient processed
+  notes, causing stalls. After implementing progressive summarization on Kindle highlights and
+  routing them through PARA, my drafting phase became genuinely faster. The critical moment
+  came when I separated assembly from editing; allowing messy first drafts while pulling
+  pre-written blocks reduced my cognitive load dramatically and revealed that my actual
+  constraint was editing capacity, not ideation.
 manualRelated:
   - title: "Building a Second Brain for Fiction Authors: 5-Step Guide"
     url: "/posts/building-a-second-brain-for-fiction-authors/"

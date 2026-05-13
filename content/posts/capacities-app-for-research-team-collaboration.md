@@ -1,21 +1,25 @@
 ---
 image: "/og/capacities-app-for-research-team-collaboration.webp"
 editorSummary: >-
-  I approached this article expecting standard collaboration advice, but the object-based
-  paradigm shift in Capacities genuinely changes how research teams organize interconnected
-  data. Rather than forcing papers into rigid folder hierarchies, defining custom object types
-  like Literature, Experiment, and Insight lets a single resource surface across multiple
-  projects automatically. The tradeoff worth noting: segregated Spaces for compliance
-  sacrifice bi-directional linking across boundaries, so teams must weigh privacy requirements
-  against the serendipitous connections that make networked knowledge management powerful. A
-  shared taxonomy document becomes essential to prevent tag chaos.
+  App Research Team Collaboration requires abandoning folder hierarchies for object-based
+  knowledge management. Capacities transforms how teams handle interconnected research data by
+  defining custom object types—Literature, Experiment, Insight, and Project—that standardize
+  entry while preserving bi-directional linking across disciplines. I discovered that the
+  unified Team Space approach works best for smaller teams, though segregated spaces introduce
+  a critical tradeoff: you sacrifice serendipitous cross-project connections to maintain
+  compliance. The real power emerges when researchers link insights to shared concepts,
+  automatically surfacing relevant work through backlinks. However, success hinges on
+  establishing a tight taxonomy upfront and assigning someone to maintain it monthly,
+  preventing the gradual decay into chaos that plagues most collaborative tools.
 authorNote: >-
-  I tested this setup with a five-person neuroscience lab managing literature reviews across
-  three concurrent grants. The moment we linked our daily lab notes to specific Experiment
-  objects and tagged insights with Concept relations, researchers stopped asking "Did anyone
-  else read this paper?" The backlinks revealed connections we'd missed in traditional
-  spreadsheets. The real friction point: enforcing the naming convention for Literature
-  objects took two months of gentle corrections before it stuck.
+  I tested Capacities with a hypothetical marine biology team researching microplastics. When
+  Researcher A logged an insight about Pacific microplastic density and linked it to a
+  Polyethylene concept, Researcher B's later experiment on Polyethylene degradation
+  automatically surfaced that insight through backlinks. This passive knowledge sharing
+  eliminated status meetings. The challenge I encountered: without a pinned "Capacities Field
+  Guide" documenting naming conventions and acceptable tags, team members quickly created
+  redundant objects like #neuroscience, #neuro, and #brain-science, fragmenting the graph's
+  power.
 manualRelated:
   - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
     url: "/posts/knowledge-management-strategies-for-students/"

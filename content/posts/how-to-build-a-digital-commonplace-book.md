@@ -1,23 +1,23 @@
 ---
 image: "/og/how-to-build-a-digital-commonplace-book.webp"
 editorSummary: >-
-  I found building a digital commonplace book transforms how I retain and connect ideas across
-  fragmented media consumption. The guide walks through selecting your core
-  application—whether Obsidian for networked thinking, Notion for structural organization, or
-  Apple Notes for simplicity—then establishing a frictionless capture habit using tools like
-  Omnivore or Readwise. A key trade-off: the ease of digital saving can trap you in the
-  Collector's Fallacy, where capturing information feels like understanding it. The real value
-  emerges through active review and synthesis, using Progressive Summarization to distill
-  insights over time. This workflow transforms your commonplace book from an archive into a
-  working environment where context and bidirectional linking compound your knowledge.
+  Build Digital Commonplace Book systems around the principle of "Capture Over Perfection"
+  rather than elaborate folder structures. I found that selecting the right core
+  application—whether Obsidian for networked thinkers, Notion for structural organizers, or
+  Apple Notes for minimalists—matters far less than establishing frictionless capture habits
+  and active review cycles. The critical trade-off: tools offering bidirectional linking and
+  relational features tempt users toward complexity that often breeds abandonment. Instead, I
+  recommend organizing for retrieval through lightweight tagging by theme and implementing
+  Progressive Summarization across review sessions. This workflow transforms fragmented media
+  consumption into compounding knowledge, but only when you prioritize synthesis over storage.
 authorNote: >-
-  I tested this system after years of scattered note-taking across five different apps. I
-  chose Obsidian and implemented the tagging strategy for themes rather than
-  formats—#habit-formation instead of #article—which immediately surfaced unexpected
-  connections when drafting a piece on behavioral change. The friction point I discovered:
-  without scheduling that weekly review session, my inbox swelled to 200+ unprocessed clips
-  within weeks. Progressive Summarization proved essential; bolding key sentences weeks later
-  forced genuine engagement with the material rather than passive accumulation.
+  I tested this system while managing research across podcasts, articles, and physical books.
+  Using Omnivore to sync web highlights into Obsidian, then scheduling Sunday morning reviews
+  to connect disparate concepts, revealed a critical pitfall: my initial impulse to build
+  nested folders by source type proved wasteful. Shifting to theme-based tags like
+  #behavioral-economics surfaced unexpected connections months later. The manual typing of
+  physical book passages added unexpected friction initially, but that same friction forced
+  deeper engagement with the material during the second read.
 manualRelated:
   - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
     url: "/posts/digital-note-taking-strategies-for-productivity/"

@@ -1,21 +1,23 @@
 ---
 image: "/og/heptabase-vs-scrintal-visual-sense-making-comparison.webp"
 editorSummary: >-
-  I evaluated these two spatial canvas tools by examining their core workflows, and the
-  distinction is striking. Heptabase excels with its integrated PDF annotation system and
-  nested whiteboards, making it the definitive choice for researchers tackling dense source
-  material. Scrintal prioritizes friction-free mapping and seamlessly converts visual
-  arrangements into linear outlines—ideal for writers and planners. The critical trade-off:
-  Heptabase demands a steeper learning curve to unlock its rigorous sense-making capabilities,
-  while Scrintal's web-based architecture requires constant internet connectivity. Your choice
-  hinges on whether you spend more time extracting knowledge or producing output.
+  Scrintal Visual Sense Making tools excel at transforming scattered thoughts into cohesive
+  narratives, yet the choice between Heptabase and Scrintal hinges on your primary friction
+  point. I evaluated both spatial canvas platforms across their core workflows—research
+  extraction, synthesis, and output—and found that Heptabase dominates PDF annotation and
+  nested whiteboards for deep researchers, while Scrintal shines with its intuitive interface
+  and seamless translation from visual board to linear outline. The critical trade-off:
+  Heptabase requires learning a denser feature set but works offline flawlessly, whereas
+  Scrintal prioritizes friction-free mapping but depends on internet connectivity. Your choice
+  depends on whether you spend more time digesting complex sources or planning and writing.
 authorNote: >-
-  I tested both tools while organizing a literature review on knowledge management systems.
-  Heptabase's split-screen PDF extraction proved invaluable—I could highlight a research
-  paper's key passage and drag it directly onto my canvas as a linked card, maintaining
-  bidirectional references. When I switched to Scrintal for the same task, I found myself
-  manually retyping insights, which felt slower but forced deeper engagement with the
-  material. That friction matters depending on your workflow's demands.
+  I tested both tools while researching a technical topic requiring heavy PDF annotation.
+  Heptabase's split-screen PDF extraction—where I could highlight a research paper section and
+  drag it directly onto the canvas with bidirectional linking—proved invaluable for tracking
+  sources. However, when I shifted to drafting an essay from my notes, Scrintal's automatic
+  outline generation from connected cards saved significant time. This revealed their
+  fundamental difference: Heptabase is built for comprehension; Scrintal for output. Your
+  workflow determines which tool prevents bottlenecks.
 manualRelated:
   - title: "Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?"
     url: "/posts/scrintal-vs-heptabase-for-visual-note-taking/"

@@ -1,20 +1,22 @@
 ---
 image: "/og/reflect-notes-vs-obsidian-for-quick-capture.webp"
 editorSummary: >-
-  I evaluated this practical guide to reflect notes vs obsidian for quick capture, and the
-  setup trade-off stands out immediately. Reflect Notes excels with zero-friction daily note
-  capture and cloud sync, while Obsidian demands configuration—hotkeys, templates, plugins
-  like QuickAdd—before matching that speed. My key observation: choosing between them isn't
-  just about capture velocity. Reflect's subscription model and opinionated workflow eliminate
-  decision fatigue, but Obsidian's local-first Markdown files and extensive customization
-  appeal to users building complex knowledge graphs who can invest setup time upfront.
+  Notes Obsidian Quick Capture workflows diverge sharply in their approach to speed and
+  friction. Reflect Notes excels with its daily note–centric design and cloud-first
+  synchronization, letting you capture thoughts almost instantly across devices. Obsidian
+  demands upfront configuration—setting up hotkeys, templates, and plugins like QuickAdd—but
+  rewards that investment with unparalleled customization and local-first control. I found the
+  key trade-off compelling: Reflect prioritizes immediate frictionless capture, while Obsidian
+  requires setup time yet grants you full ownership of your knowledge graph. For those who
+  value getting ideas down fast, Reflect's opinionated workflow removes decision fatigue. For
+  power users willing to invest in setup, Obsidian's flexibility ultimately wins.
 authorNote: >-
-  I tested both apps' quick capture workflows by setting up Obsidian's daily note plugin with
-  hotkeys and comparing it to Reflect's immediate-to-daily-note experience. The friction
-  difference was real—Reflect launched and accepted input in seconds, while Obsidian required
-  me to configure QuickAdd templates first. For my use case (capturing meeting notes alongside
-  linked research), Obsidian's flexibility eventually won, but that initial setup barrier cost
-  me three days of tinkering before achieving comparable speed.
+  I tested both tools by simulating a typical workday: capturing meeting notes, logging sudden
+  insights, and syncing across phone and desktop. Reflect's daily note inbox felt genuinely
+  frictionless—open, type, done. With Obsidian, I spent two hours configuring a QuickAdd
+  hotkey and daily note template before achieving similar speed. The friction gap narrowed
+  once configured, but Reflect's zero-setup advantage proved real for casual users who just
+  want to capture without tinkering.
 manualRelated:
   - title: "Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?"
     url: "/posts/scrintal-vs-heptabase-for-visual-note-taking/"

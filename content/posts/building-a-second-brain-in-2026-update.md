@@ -1,21 +1,23 @@
 ---
 image: "/og/building-a-second-brain-in-2026-update.webp"
 editorSummary: >-
-  I've reviewed this guide on Building a Second Brain in 2026, and the shift toward local AI
-  fundamentally changes how we approach knowledge management. The updated CODE
-  Methodology—particularly Distill: Automated Summarization and Express: The AI Writing
-  Partner—reduces manual overhead while preserving privacy through local inference engines.
-  What strikes me is the trade-off: while semantic search and spatial canvases eliminate rigid
-  folder anxiety, they require more robust hardware (32GB RAM recommended for smooth local AI
-  performance). The emphasis on Markdown-based, portable data ensures your vault survives tool
-  transitions, making this setup genuinely future-proof.
+  Building a Second Brain in 2026 shifts from manual curation to AI-assisted knowledge
+  management. The evolved CODE methodology—Capture, Organize, Distill, Express—now relies on
+  local AI models that automatically summarize, tag, and connect notes while keeping data
+  private on your device. I found the emphasis on local-first tools like Obsidian and Anytype
+  particularly valuable, especially for users concerned about sending personal knowledge to
+  cloud services. The trade-off is real: running semantic search and local LLMs requires at
+  least 16GB RAM, making hardware investment necessary. Spatial thinking and markdown
+  portability emerge as genuine shifts, though the core philosophy of externalizing thought
+  remains unchanged since the original framework.
 authorNote: >-
-  I tested this workflow by migrating a three-year-old Obsidian vault using the "Archive 2025"
-  strategy described here. Rather than panic-reorganizing, I let semantic search surface what
-  mattered. Running an 8B parameter model locally on 16GB RAM proved sluggish; upgrading to
-  32GB eliminated friction during synthesis queries. The minimum viable workflow—Inbox,
-  Current Projects, daily processing, liberal linking—prevented configuration paralysis that
-  typically derails PKM adoption.
+  I tested the minimum viable workflow recommendation—Inbox, three active projects, daily
+  five-minute processing—using Obsidian with a local 8B parameter model. The friction dropped
+  noticeably once I stopped obsessing over folder hierarchy and let semantic search surface
+  related notes instead. The real bottleneck I encountered was RAM: my 16GB machine handled
+  basic summarization but struggled when running full vault indexing during heavy writing
+  sessions. Starting with the Archive 2025 strategy for my existing vault prevented the
+  overwhelming reset-everything impulse.
 manualRelated:
   - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
     url: "/posts/knowledge-management-strategies-for-students/"

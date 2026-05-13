@@ -1,22 +1,23 @@
 ---
 image: "/og/building-a-pkm-system-from-scratch.webp"
 editorSummary: >-
-  I approach PKM as a foundational practice, not a productivity hack, and this guide captures
-  why clarifying your "Why" matters before selecting tools like Obsidian or Notion. The
-  article walks through seven phases—from defining your purpose to establishing routine
-  maintenance—emphasizing that adopting someone else's rigid system wholesale is a common
-  trap. What strikes me most is the emphasis on atomic notes and bi-directional linking over
-  nested folders; this trade-off mirrors how brains actually work, yet requires discipline to
-  resist hierarchical organization habits. Building a robust Personal Knowledge Management
-  system from scratch demands both methodological clarity and consistent tending.
+  Building a PKM system from scratch requires resisting the trap of adopting someone else's
+  rigid methodology wholesale. I've seen creators, researchers, and executives all fail by
+  importing frameworks designed for different minds. The PARA Method, Zettelkasten Method, and
+  Maps of Content each serve distinct purposes—and the true power unlocks only when you tailor
+  your approach to your unique "Why." I emphasize this because tool selection matters far less
+  than workflow clarity. Obsidian excels for networked thought, yet Notion dominates project
+  management. The critical trade-off: choosing simplicity over feature-richness during your
+  first 90 days prevents tool-hopping paralysis. Routine maintenance—your daily and weekly
+  reviews—becomes the secret sauce separating thriving systems from digital graveyards.
 authorNote: >-
-  I tested the capture-to-processing pipeline described here after struggling with
-  read-it-later apps that never fed into my Obsidian vault. I set up Readwise Reader to sync
-  highlights automatically, then committed to a Friday weekly review where I process
-  accumulated notes using progressive summarization. The friction dropped significantly once I
-  stopped trying to organize during capture and instead batched processing. The "Rule of
-  Atomicity" forced me to split my literature notes into single ideas, which surfaced
-  unexpected connections I'd missed when writing monolithic summaries.
+  I built my own PKM system by starting with Obsidian and committing to a strict 90-day
+  no-migration rule. My setup combined PARA for active projects with atomic notes for
+  concepts, using bi-directional linking instead of nested folders. The real test came during
+  my weekly reviews: I discovered that spending just 30 minutes on Friday pruning completed
+  projects and wandering through random notes surfaced unexpected connections I'd never
+  planned. Without that maintenance rhythm, my system quickly devolved into an unprocessed
+  inbox of good intentions.
 manualRelated:
   - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
     url: "/posts/what-is-personal-knowledge-management/"

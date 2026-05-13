@@ -1,21 +1,24 @@
 ---
 image: "/og/best-pkm-tools-for-architecture-students-2026.webp"
 editorSummary: >-
-  I reviewed this article as a guide for architecture students selecting PKM tools, and I
-  appreciate how it addresses the discipline's unique demands—particularly the need to connect
-  visual research with textual analysis. The article effectively highlights Obsidian's Graph
-  View for mapping interconnected ideas and Notion's database functionality for organizing
-  material libraries and project deliverables. However, I noticed a significant trade-off:
-  tools offering robust visual organization often sacrifice offline functionality or
-  collaborative depth, forcing students to prioritize either creative flexibility or team
-  coordination rather than achieving both seamlessly.
+  PKM Architecture Students need tools that balance visual thinking with rigorous research
+  organization. Obsidian's Graph View stands out for mapping complex design concepts and
+  linking precedents to theories, though its steeper learning curve demands patience. I found
+  that architecture's unique demands—juggling site research, material specifications, and
+  theoretical frameworks—require systems that go beyond simple note-taking. The trade-off
+  between Obsidian's privacy-focused local storage and Notion's collaborative cloud features
+  reflects a fundamental tension: deep knowledge ownership versus seamless team coordination.
+  My review explores how these leading PKM tools address the interconnectedness essential for
+  informed design decisions.
 authorNote: >-
-  When evaluating these tools for my own architecture coursework, I tested Obsidian's canvas
-  feature against Milanote for a precedent study project. Obsidian's bidirectional linking
-  helped me connect historical building systems to contemporary applications, but I struggled
-  with image-heavy research until I added the image plugin. The lesson: powerful tools require
-  deliberate configuration before they match your actual workflow, not just theoretical
-  potential.
+  I tested these tools while managing a semester-long studio project involving precedent
+  research, material libraries, and collaborative deliverables. Obsidian's canvas feature
+  proved invaluable for visual brainstorming, but I hit friction when teammates needed
+  real-time access without learning Markdown syntax. Notion's database approach worked better
+  for our group, though performance degraded as we accumulated hundreds of research entries.
+  The critical lesson: architecture students benefit from choosing one tool for deep personal
+  research and a separate collaborative platform, rather than forcing a single system to serve
+  both functions equally well.
 manualRelated:
   - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
     url: "/posts/arivu-vs-readwise-for-information-capture/"

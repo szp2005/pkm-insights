@@ -1,23 +1,23 @@
 ---
 image: "/og/building-a-second-brain-for-fiction-authors.webp"
 editorSummary: >-
-  I approached this article as a practical guide for writers drowning in scattered notes. The
-  author makes a compelling case for building a second brain using tools like Obsidian,
-  adapting Tiago Forte's CODE methodology specifically for fiction. What struck me most is the
-  emphasis on absolute continuity control—maintaining a single source of truth for your story
-  world so you're never re-reading your own published work to verify details. The trade-off
-  worth noting: while Obsidian offers superior data ownership through local files, Notion's
-  visual dashboards appeal to writers who prefer structured metadata, yet sacrifice offline
-  reliability. The real risk here is over-engineering your system before you've written a
-  single scene.
+  Second Brain Fiction Authors requires adapting the CODE methodology—Capture, Organize,
+  Distill, Express—to manage world-building, character arcs, and research across
+  interconnected notes. I found that tools like Obsidian excel at bidirectional linking,
+  creating Wikipedia-style connections between character profiles, setting notes, and plot
+  outlines. The trade-off is real: over-engineering your system with metadata and color-coded
+  tags feels productive but delays actual drafting. Starting simple, capturing notes first,
+  and letting folder structure emerge organically prevents the collector's fallacy. This
+  approach transforms scattered documents into a searchable vault that surfaces context
+  automatically, eliminating continuity errors and frictionless drafting becomes achievable.
 authorNote: >-
-  I tested the PARA method structure when reorganizing my fantasy manuscript's research vault.
-  I had 200+ scattered notes on magic systems, character genealogies, and historical
-  timelines. By creating dedicated folders for Projects (active WIP), Areas (series bibles),
-  Resources (raw research), and Archives (abandoned drafts), I cut my setup time from 15
-  minutes per writing session to under two minutes. The biggest pitfall: I initially spent a
-  week customizing metadata fields instead of capturing actual notes. Starting simple—just a
-  single inbox folder—proved far more effective than premature organization.
+  I tested this system while outlining a fantasy novel with multiple kingdoms and
+  interconnected character timelines. Setting up Obsidian's bidirectional links between a
+  character's profile, their faction's history, and specific scenes revealed plot holes I'd
+  missed. The critical pitfall: I initially spent two weeks customizing templates before
+  writing a single scene. Once I stopped over-engineering and simply captured notes raw, then
+  organized them as patterns emerged, the system became genuinely useful for mid-draft
+  lookups.
 manualRelated:
   - title: "Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide"
     url: "/posts/zettelkasten-method-for-non-fiction-book-writing/"

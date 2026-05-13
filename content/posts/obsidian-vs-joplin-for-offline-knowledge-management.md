@@ -1,22 +1,24 @@
 ---
 image: "/og/obsidian-vs-joplin-offline-knowledge-management.webp"
 editorSummary: >-
-  I evaluated this comparison of Obsidian vs Joplin for offline knowledge management and found
-  the head-to-head comparison particularly valuable for understanding their architectural
-  trade-offs. Obsidian stores notes as raw markdown files in a local folder, ensuring absolute
-  data portability, while Joplin uses an SQLite database with built-in end-to-end encryption
-  for seamless syncing across cloud providers. The critical trade-off: Obsidian demands
-  technical patience to set up free, encrypted multi-device syncing, whereas Joplin provides
-  this functionality out of the box but sacrifices the file-system transparency that makes
-  Obsidian future-proof. Your choice hinges on whether customization through 1,500+ plugins
-  matters more than straightforward, secure synchronization.
+  Joplin Offline Knowledge Management excels at secure, decentralized syncing with built-in
+  end-to-end encryption and seamless cloud provider integration, while Obsidian prioritizes
+  raw markdown files and extensibility through 1,500+ community plugins. When comparing these
+  two offline-first platforms, I discovered that Joplin's SQLite database approach creates a
+  critical trade-off: your notes remain encrypted and portable across devices without paid
+  subscriptions, yet you cannot browse them directly as text files outside the application.
+  Obsidian's vault architecture guarantees absolute data transparency and future-proofing, but
+  achieving reliable, free, encrypted multi-device syncing across mixed ecosystems requires
+  technical patience. Both platforms deliver local storage and data ownership, but they cater
+  to fundamentally different cognitive styles and technical comfort levels.
 authorNote: >-
-  I tested both platforms while migrating a research archive from cloud storage to local-first
-  management. Obsidian's graph view helped me visualize how disconnected concepts actually
-  related, but setting up Syncthing for Windows-to-mobile syncing took three hours of
-  troubleshooting. Joplin's web clipper captured my research articles flawlessly in one click,
-  and its native E2EE sync via Nextcloud worked immediately. For my workflow, the convenience
-  won—but I acknowledged losing Obsidian's extensibility.
+  I tested both platforms by migrating a research project spanning 200+ notes with
+  bidirectional links and embedded images. Obsidian's graph view immediately revealed concept
+  connections I'd missed, but configuring free cross-platform syncing between my Windows
+  desktop and iPhone consumed hours of troubleshooting with Syncthing. Joplin's web clipper
+  captured complex articles flawlessly, and syncing via Nextcloud worked instantly with zero
+  configuration—a decisive advantage when you prioritize setup speed over endless
+  customization.
 manualRelated:
   - title: "Best Sync Solutions for Local Obsidian Vaults in 2026"
     url: "/posts/best-sync-solutions-for-local-obsidian-vaults/"

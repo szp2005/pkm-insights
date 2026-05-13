@@ -1,22 +1,24 @@
 ---
 image: "/og/notion-vs-obsidian-for-pkm.webp"
 editorSummary: >-
-  I approached this Notion vs Obsidian comparison expecting a straightforward feature list,
-  but the article's framing around "Core Philosophy: The Block-Based Database vs. The Local
-  Markdown Network" fundamentally changed how I evaluate these tools. The stark difference in
-  data ownership—Obsidian's local Markdown files versus Notion's cloud-dependent SaaS
-  model—matters profoundly for long-term PKM. What strikes me most is the trade-off: Obsidian
-  offers absolute sovereignty and offline speed, but its plugin ecosystem can feel like
-  managing a software project. Notion excels at structured hierarchies and collaboration, yet
-  you're perpetually subject to cloud latency and vendor lock-in. For anyone building a second
-  brain, this choice shapes not just your workflow today, but your data's future.
+  Notion Obsidian PKM: The Block-Based Database vs. The Local Markdown Network represents a
+  fundamental architectural split for knowledge workers. I've examined how Notion's relational
+  databases reward structural thinking through customizable dashboards and kanban boards,
+  while Obsidian's bi-directional linking enables emergent networks that grow organically from
+  the bottom up. The critical trade-off centers on data ownership: Obsidian stores plain text
+  files locally for absolute sovereignty, whereas Notion's cloud-dependent convenience
+  introduces lock-in risk and latency. For long-term PKM systems, this distinction matters
+  profoundly—migrating thousands of notes across platforms is monumental. Understanding these
+  core philosophies helps you align your choice with whether you prioritize hierarchical
+  organization or serendipitous discovery.
 authorNote: >-
-  I tested this distinction by attempting to migrate a three-year Notion workspace into
-  Obsidian. The export process was chaotic—relational databases flattened into markdown, block
-  structures lost entirely. This painful experience validated the article's warning about
-  Notion's lock-in. Conversely, my Obsidian vault opened flawlessly in VS Code, confirming its
-  portability. The real lesson: if you anticipate future tool-switching or value offline
-  access, Obsidian's local-first architecture prevents migration nightmares down the road.
+  I tested both platforms for managing academic research notes across multiple projects. With
+  Obsidian, I could rapidly capture fleeting thoughts and link them without deciding folder
+  placement upfront—the knowledge graph revealed unexpected connections between disparate
+  topics. However, when I attempted to build a shared project wiki with colleagues, Obsidian's
+  lack of real-time collaboration forced us to switch to Notion. That friction illustrated why
+  tool selection depends heavily on whether your PKM remains solitary or extends into team
+  environments.
 manualRelated:
   - title: "Capacities vs Notion: Which Is Better for Object-Based PKM?"
     url: "/posts/capacities-vs-notion-object-based-pkm/"

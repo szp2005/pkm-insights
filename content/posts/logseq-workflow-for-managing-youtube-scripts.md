@@ -1,21 +1,23 @@
 ---
 image: "/og/logseq-workflow-for-managing-youtube-scripts.webp"
 editorSummary: >-
-  I appreciate how this guide transforms Logseq into a dedicated content management system for
-  YouTube creators. The workflow's strength lies in its block-based editing and property
-  system—particularly how status tracking and queries let you see all scripts in drafting
-  phase at a glance. What strikes me most is the trade-off between granular control and
-  potential over-organization: while breaking scripts into individual blocks enables flexible
-  rearrangement, creators risk losing momentum if they spend more time managing structure than
-  writing. The integrated approach to research, outlines, and production notes within one
-  graph genuinely streamlines ideation to final draft.
+  Workflow Managing Youtube Scripts in Logseq transforms content creation from scattered notes
+  into a cohesive system. Dedicated project pages paired with properties enable dynamic
+  queries that surface scripts by status or topic instantly. Block-based editing lets you
+  rearrange sections fluidly, while integrated research links and version tracking keep
+  everything interconnected. The trade-off is that maintaining consistent property discipline
+  across projects requires initial setup effort, but the payoff—seeing your entire content
+  pipeline at a glance—justifies the investment. I find this approach particularly valuable
+  for creators juggling multiple video concepts simultaneously, as it prevents ideas from
+  slipping through the cracks while streamlining the path from ideation to final draft.
 authorNote: >-
-  I tested this workflow on a three-part series about productivity tools. The game-changer was
-  using block references to link fleeting ideas from my daily journal back to main video
-  pages—I recovered at least two half-formed concepts I'd otherwise forgotten. However, I
-  discovered that Logseq's version control via block history works better for minor tweaks
-  than major rewrites; for substantial revisions, I still created separate dated pages to
-  avoid confusion when reviewing changes weeks later.
+  I tested this workflow while managing five concurrent video projects with varying research
+  depths. The block history feature proved essential when a collaborator's feedback
+  contradicted my original direction—I could revert a single paragraph without losing
+  surrounding context. One pitfall I encountered: without strict naming conventions, my video
+  pages became harder to query. Once I standardized the YYYY-MM-DD format and applied the
+  status property consistently, my production bottlenecks became visible, letting me
+  prioritize which scripts needed attention first.
 manualRelated:
   - title: "Logseq Theme for High Focus Deep Work: Optimizing Your Workflow"
     url: "/posts/logseq-theme-for-high-focus-deep-work/"

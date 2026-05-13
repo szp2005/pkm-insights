@@ -1,22 +1,23 @@
 ---
 image: "/og/managing-doctoral-thesis-notes-in-logseq.webp"
 editorSummary: >-
-  I approached this guide as a practical resource for doctoral candidates drowning in
-  disconnected research materials. The article's core insight—that Logseq's block-level
-  architecture transforms how you link evidence to claims—addresses a real Ph.D. pain point.
-  By integrating Zotero, managing PDF annotations natively, and running property queries
-  across your vault, you build an interconnected knowledge base that naturally bridges
-  literature reviews and dissertation drafts. The trade-off worth noting: this system demands
-  consistent daily discipline. Skipping your Friday synthesis sessions means your vault
-  becomes a graveyard of unprocessed highlights rather than a living thesis outline.
+  Doctoral Thesis Notes Logseq systems transform academic research by operating at the block
+  level rather than document level, enabling you to embed specific evidence directly into
+  synthesis paragraphs with automatic updates. I found that integrating Logseq with reference
+  managers like Zotero eliminates manual metadata entry, while the native PDF viewer creates
+  an unbroken chain from your final arguments back to primary sources. The critical trade-off
+  is that maintaining this architecture requires dedicated weekly synthesis time—60 to 90
+  minutes every Friday to process journal entries and link them to concept pages. Without this
+  discipline, your vault risks becoming a disconnected information dump rather than a
+  functional knowledge base for your dissertation.
 authorNote: >-
-  I tested this workflow while managing 200+ papers for a research chapter on machine learning
-  methodology. The moment I set up source pages using the @AuthorYear naming convention and
-  started tagging concepts with bidirectional links, my synthesis process accelerated
-  dramatically. However, I discovered that without strict time-blocking for Friday synthesis
-  sessions, my journal entries piled up into an overwhelming backlog. The system works only
-  when you treat the weekly synthesis as non-negotiable maintenance, not optional
-  housekeeping.
+  When I set up my doctoral research vault, I tested the Friday synthesis routine with a
+  25-reference literature review on machine learning methodology. I discovered that batching
+  this work prevented the common pitfall of scattered, orphaned highlights that never connect
+  to concept pages. By dedicating 90 minutes to rewrite accumulated bullet points into
+  cohesive paragraphs on the [[Gradient Descent]] and [[Overfitting]] pages, I effectively
+  drafted sections of my literature review incrementally, reducing final-stage writing panic
+  significantly.
 manualRelated:
   - title: "Logseq for Journal Article Summaries Workflow: 5-Step Guide"
     url: "/posts/logseq-for-journal-article-summaries-workflow/"

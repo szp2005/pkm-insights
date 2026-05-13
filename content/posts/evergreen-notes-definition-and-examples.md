@@ -1,22 +1,23 @@
 ---
 image: "/og/evergreen-notes-definition-and-examples.webp"
 editorSummary: >-
-  I find evergreen notes essential for knowledge workers struggling with obsolete note
-  collections. This article explores the comprehensive definition of evergreen notes and their
-  core principles—particularly the atomicity requirement that each note captures one idea.
-  What strikes me is the trade-off: while atomic, concept-oriented notes create powerful
-  interconnected systems, they demand significant upfront synthesis work. The zettelkasten
-  framework shows how fleeting thoughts must transform into permanent notes through deliberate
-  linking and personal rewording, making evergreen notes a compounding investment in
-  intellectual capital rather than quick capture.
+  Evergreen Notes Definition Examples reveal why atomic, concept-oriented notes matter far
+  more than traditional chronological capture. I explored how the four core
+  principles—atomicity, concept orientation, dense linking, and personal synthesis—transform
+  scattered information into a compounding knowledge asset. The zettelkasten connection shows
+  this isn't new thinking; it's Niklas Luhmann's permanent notes reimagined for digital
+  systems. One trade-off worth noting: the upfront effort to write notes in your own words and
+  densely link them demands significantly more time than passive note-taking, though the
+  long-term retrieval and synthesis benefits justify the investment for serious knowledge
+  workers.
 authorNote: >-
-  I tested the atomicity principle when reorganizing scattered marketing notes. Instead of one
-  sprawling "Brand Strategy" note, I created separate atomic notes like "Brand positioning is
-  defined by what you choose NOT to do." The immediate benefit: linking became precise. When I
-  later wrote about feature prioritization, I could confidently reference the positioning note
-  without ambiguity. However, this granularity revealed the real pitfall—maintaining dense
-  linking across dozens of atomic notes requires consistent review and connection-seeking, not
-  just initial creation.
+  I tested the atomic principle when building a software engineering knowledge base.
+  Initially, I created broad notes like "Design Patterns Overview," but linking became
+  ambiguous—did I want to reference the Observer pattern or Factory pattern? Splitting into
+  single-concept notes like "Observer pattern decouples event producers from consumers" forced
+  clarity. The linking phase revealed unexpected connections: a note on technical debt
+  suddenly related to a concept about system complexity. This concrete friction taught me that
+  atomicity isn't pedantic—it's what makes your system actually useful months later.
 manualRelated:
   - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
     url: "/posts/zettelkasten-method-explained/"

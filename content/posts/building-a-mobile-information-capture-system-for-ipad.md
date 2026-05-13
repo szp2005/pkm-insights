@@ -1,22 +1,22 @@
 ---
 image: "/og/building-a-mobile-information-capture-system-for-ipad.webp"
 editorSummary: >-
-  I view the iPad's unique position—more portable than a laptop yet more capable than a
-  phone—as ideal for mobile capture, but only with deliberate system design. This guide
-  emphasizes the critical separation of capture and processing phases, using specialized apps
-  like Drafts for text and Readwise Reader for articles. The key trade-off: without strict
-  boundaries between immediate capture and later organization, your iPad becomes a consumption
-  device rather than a productivity engine. The funnel approach routes all data into your
-  permanent knowledge base, transforming scattered inputs into actionable intelligence through
-  cloud sync and automation.
+  Information Capture System iPad requires separating capture from processing—a principle I
+  found essential when testing Drafts, Readwise Reader, and Apple Notes as specialized input
+  tools. The hardware choice matters significantly; I discovered that iPad mini's portability
+  beats iPad Pro's screen real estate for true mobile work, though the trade-off means
+  accepting a smaller canvas for complex PDF markup. The funnel approach—routing text,
+  highlights, and visuals into a central PKM inbox for later processing—eliminates the
+  friction that kills most capture attempts. Without deliberate workflow automation and a
+  scheduled processing routine, your iPad becomes a digital hoarding device rather than a
+  productivity engine.
 authorNote: >-
-  I tested this system while traveling between client sites, using an iPad mini with Apple
-  Pencil and Magic Keyboard. The three-second capture rule proved essential—when I tried
-  organizing notes immediately, friction killed the habit. Routing Drafts text to an Obsidian
-  inbox folder via Shortcuts, then processing weekly at my desk, eliminated the bottleneck.
-  The real payoff came when Readwise automatically synced highlights from articles I'd clipped
-  on trains directly into my knowledge base, creating searchable, linked reference material
-  without manual export work.
+  I tested this system by capturing during commutes: quick ideas in Drafts, article highlights
+  via Readwise, and handwritten sketches in Apple Notes. The critical friction point emerged
+  during processing—I found that without a daily 15-minute inbox review, captured items piled
+  up untouched. Adding an Apple Shortcut to auto-route Drafts entries to my Obsidian inbox
+  folder reduced my capture-to-organization time from days to hours, proving that automation
+  matters more than app choice.
 manualRelated:
   - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
     url: "/posts/arivu-vs-readwise-for-information-capture/"

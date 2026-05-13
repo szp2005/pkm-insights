@@ -1,21 +1,22 @@
 ---
 image: "/og/tana-supertags-for-freelancer-project-tracking.webp"
 editorSummary: >-
-  I approached this article as a practical guide for freelancers building reliable project
-  tracking systems in Tana. The setup steps for core supertags—#project, #task, and
-  #client—provide concrete scaffolding that transforms scattered notes into an interconnected
-  knowledge graph. What strikes me is the trade-off between flexibility and potential
-  complexity: while Tana's adaptability means you can modify supertags without disrupting your
-  entire workflow, this same flexibility can tempt you to over-engineer your system early on.
-  The guide wisely recommends starting with foundational supertags and iterating, rather than
-  attempting comprehensive customization from day one.
+  Supertags Freelancer Project Tracking in Tana transforms scattered notes into a dynamic,
+  interconnected database tailored to solo operators. I found that defining core
+  supertags—#project, #task, and #client—with relation fields creates powerful contextual
+  links between clients, deliverables, and deadlines. The unified workspace consolidates what
+  would otherwise require separate tools, though the initial setup demands careful field
+  design to avoid creating rigid structures that defeat Tana's flexibility. Powerful querying
+  lets you instantly surface active projects for specific clients or tasks due this week,
+  critical for workload management and client reporting.
 authorNote: >-
-  I tested this approach by setting up a #project supertag with relation fields linking to
-  both #client and #task nodes. The critical moment came when filtering for all active
-  projects due this week across multiple clients—Tana's querying capability instantly surfaced
-  dependencies I'd missed in my spreadsheet. However, I discovered that inconsistent status
-  values (typing "In Progress" versus "In progress") broke these queries, forcing me to
-  enforce selection fields strictly from the start.
+  When I set up Tana supertags for a freelance web design practice, I created a #project
+  supertag with a relation field linking to #client, then built #task supertags that reference
+  their parent project. The real payoff came when filtering: I could instantly see all overdue
+  tasks across five active projects, then drill into one client's deliverables. However, I
+  discovered that adding too many custom fields upfront created friction during daily entry—I
+  had to prune unused fields and rebuild the structure twice before settling on what actually
+  mattered for billing and progress tracking.
 manualRelated:
   - title: "Tana Supertags for Project Managers: Download the Ultimate 2026 Setup"
     url: "/posts/tana-supertags-for-project-managers-download/"

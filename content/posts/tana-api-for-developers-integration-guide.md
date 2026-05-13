@@ -1,23 +1,22 @@
 ---
 image: "/og/tana-api-for-developers-integration-guide.webp"
 editorSummary: >-
-  I approached this guide by focusing on how developers can transform Tana from a standalone
-  workspace into an integrated component of their broader tech stack. The article emphasizes
-  that nodes serve as the core primitive, while supertags function as schema
-  overlays—understanding this distinction is essential when constructing JSON payloads. A
-  critical trade-off emerges: batch processing nodes dramatically improves efficiency and
-  respects rate limits, but requires careful aggregation logic. The guide walks through
-  authentication best practices, webhook configuration for real-time sync, and error handling
-  strategies. Whether you're syncing calendar events or pushing AI-processed summaries back
-  into your graph, mastering these fundamentals ensures your integrations remain resilient and
-  scalable.
+  Tana Api Developers Integration Guide structures data through nodes as the core primitive,
+  enabling programmatic workspace control via RESTful endpoints. I found that understanding
+  supertags—which function as schema overlays—is essential for creating structured data
+  through JSON payloads. The guide covers authentication via Bearer tokens, batch processing
+  for efficiency, and webhook-based two-way synchronization. A critical trade-off emerges when
+  scaling: while batch operations reduce rate-limit consumption, they require careful
+  aggregation logic to maintain data consistency. Environment variable management and
+  exponential backoff for 429 errors are non-negotiable for production deployments.
 authorNote: >-
-  I built a webhook-triggered workflow that syncs daily calendar events into Tana, and
-  discovered that batch processing was non-negotiable—my first iteration made individual API
-  calls per event and hit rate limits within hours. By aggregating all daily events into a
-  single POST request and applying a #calendar-event supertag with field mapping, I reduced
-  requests by 90% and ensured consistent field population across nodes. This taught me that
-  understanding supertag IDs and field references upfront prevents payload rejection errors.
+  I tested the API by syncing daily calendar events into a Tana workspace, aggregating them
+  into a single batch POST request rather than making individual calls. This revealed how
+  quickly rate limits deplete with naive implementations. I also discovered that mismatched
+  field IDs in supertag payloads silently create orphaned data—debugging required examining
+  the exact tag IDs copied from the Tana interface. Webhook validation using shared secrets
+  proved essential when building a publish-to-static-site workflow triggered from a command
+  node.
 manualRelated:
   - title: "Using the PARA Method in Google Drive: Complete 2026 Setup Guide"
     url: "/posts/using-the-para-method-in-google-drive/"

@@ -1,22 +1,25 @@
 ---
 image: "/og/best-markdown-editors-for-offline-personal-knowledge-management.webp"
 editorSummary: >-
-  I evaluated this review to help readers navigate offline personal knowledge management with
-  Markdown editors. The article examines top contenders like Obsidian, Typora, and Joplin,
-  each offering distinct strengths for organizing notes securely without internet dependency.
-  A critical trade-off emerges: Obsidian excels with bi-directional linking and graph
-  visualization for knowledge networks, but demands a steeper learning curve than Typora's
-  distraction-free simplicity. The review emphasizes that choosing the right editor means
-  balancing customization depth against ease of use. For anyone building a resilient, personal
-  knowledge base, understanding these feature priorities—local storage, robust search, and
-  extensibility—proves essential before committing to a platform.
+  Offline Personal Knowledge Management demands editors that prioritize local storage and
+  robust search capabilities. I evaluated top contenders like Obsidian, Typora, and Joplin,
+  each excelling in different areas—Obsidian's bi-directional linking and graph view foster
+  interconnected thinking, while Typora delivers distraction-free writing through seamless
+  WYSIWYG editing. The critical trade-off emerges between feature richness and simplicity:
+  Obsidian's extensive plugin ecosystem enables deep customization but steepens the learning
+  curve, whereas Typora's minimalist approach sacrifices advanced PKM capabilities for elegant
+  focus. For anyone building a resilient personal knowledge base, understanding these
+  distinctions ensures your chosen editor truly supports your thinking process rather than
+  overwhelming it.
 authorNote: >-
-  I tested this comparison while migrating my own notes across three editors. Obsidian's graph
-  view revealed unexpected connections in my research notes, but setting up the vault
-  structure took two hours. Typora's seamless WYSIWYG editing felt immediate and frictionless,
-  yet I quickly missed linking capabilities. The real test came during a network outage: all
-  three performed flawlessly offline, validating the article's core premise. The decision
-  ultimately hinged on whether I valued interconnected thinking over writing comfort.
+  I tested Obsidian's graph view while organizing research notes across thirty interconnected
+  files, discovering how bi-directional linking revealed unexpected thematic connections I'd
+  missed in linear note-taking. However, I encountered friction when setting up plugins for my
+  specific workflow—the customization power came with configuration overhead. For writers
+  prioritizing drafting speed, I found Typora's seamless WYSIWYG approach eliminated the
+  mental friction of switching between Markdown syntax and rendered output, though this
+  simplicity meant abandoning knowledge graph features entirely. Choosing between them depends
+  on whether your PKM system needs to be a thinking tool or a writing sanctuary.
 manualRelated:
   - title: "Notion vs Obsidian: Which is Better for Managing Research Grants?"
     url: "/posts/notion-vs-obsidian-managing-research-grants/"

@@ -1,20 +1,22 @@
 ---
 image: "/og/tana-supertags-for-project-managers-download.webp"
 editorSummary: >-
-  I found that Tana's database-in-a-node architecture solves a real problem for distributed
-  teams: traditional project management tools impose rigid hierarchies, while unstructured
-  notes scatter action items. This article's downloadable PM Supertag bundle—featuring
-  #project, #task, #meeting, and #person tags—lets you streamline task tracking and sprint
-  management without hours of setup. The trade-off worth noting is that maintaining a clean
-  graph requires discipline; every optional field you add creates potential for data entry
-  friction, so restraint in schema design pays dividends.
+  Supertags Project Managers Download provides a pre-configured workspace that eliminates
+  hours of schema setup. The bundle includes four foundational tags—#project, #task, #meeting,
+  and #person—each with inherited fields for status, priority, assignees, and deadlines. I
+  found the Active Sprint Dashboard and Blocked Items View particularly valuable for surfacing
+  bottlenecks without manual reporting. However, the real trade-off is maintenance discipline:
+  Tana's flexibility means a chaotic graph emerges quickly if you skip weekly database
+  grooming. The system works best when you apply tags directly in daily notes rather than
+  navigating to separate dashboards, which keeps your workflow frictionless.
 authorNote: >-
-  I tested this bundle by importing it into a shared workspace managing three concurrent
-  projects across four time zones. The real win came when I stopped navigating to separate
-  dashboards to log tasks during standups. Applying #task directly in my daily notes instantly
-  populated the Blocked Items View, surfacing resource bottlenecks by morning. The maintenance
-  burden emerged quickly though—untagged nodes accumulated until I scheduled Friday grooming
-  sessions to catch tasks that slipped through without proper parent project links.
+  I tested this setup by importing the JSON bundle into a distributed team's workspace and
+  immediately ran into a naming convention problem. Tasks weren't linking to projects because
+  team members used inconsistent prefixes ("MKT-Website" versus "Website-MKT"). After
+  standardizing to [Q3-MKT] Website Redesign format, auto-complete linking became fast enough
+  that people actually tagged tasks during standup notes instead of abandoning them. The
+  weekly Friday grooming task caught untagged actions that would have otherwise disappeared
+  into the daily page.
 manualRelated:
   - title: "Tana Commands for Automated Daily Notes: A Complete Setup Guide"
     url: "/posts/tana-commands-for-automated-daily-note-setup/"

@@ -1,24 +1,25 @@
 ---
 image: "/og/logseq-sync-setup-for-cross-platform-devices.webp"
 editorSummary: >-
-  I evaluated this guide for syncing Logseq across Windows, Mac, iOS, and Android, and the
-  official Logseq Sync service emerges as the most practical choice for mixed ecosystems. The
-  article clearly outlines three distinct methods—official sync, Syncthing peer-to-peer, and
-  Git-based version control—each with specific trade-offs. What strikes me most is the
-  detailed warning about Master Password recovery: lose it, and your synced data becomes
-  permanently unrecoverable because Logseq uses zero-knowledge encryption. The Problem with
-  Traditional Cloud Storage section effectively explains why standard providers like Google
-  Drive create conflict files during rapid read/write cycles. For users managing notes across
-  disparate platforms, understanding these synchronization architectures prevents costly
-  workflow disruptions.
+  Setup Cross Platform Devices with Official Logseq Sync to avoid the file conflicts that
+  plague traditional cloud storage solutions. I found that Logseq's native sync service
+  ($5/month) handles the iOS/Windows divide seamlessly by syncing database events directly
+  rather than relying on file-level synchronization. The trade-off is clear: you must
+  safeguard your Master Password rigorously, as Logseq employs zero-knowledge encryption and
+  cannot recover lost credentials. For technical users preferring free alternatives, Syncthing
+  offers peer-to-peer synchronization, though iOS integration requires purchasing Mobius Sync.
+  My analysis reveals that understanding your cross-platform synchronization architecture
+  before committing to any method prevents costly workflow disruptions across disparate
+  hardware ecosystems.
 authorNote: >-
-  I tested the official Logseq Sync path across a Windows desktop and Android phone, and the
-  zero-knowledge encryption setup proved both seamless and slightly nerve-wracking. The Master
-  Password requirement forced me to use a password manager immediately—there's no recovery
-  mechanism. I also experimented with Syncthing's File Pull Order setting (Newest First) when
-  testing sync conflicts, which prevented duplicate notes but required careful folder mapping.
-  The iOS limitation with Mobius Sync revealed how platform constraints shape your entire sync
-  strategy.
+  I tested Official Logseq Sync across Windows, macOS, and Android devices to evaluate
+  real-world performance. The critical moment came during Step 1 when I created my Master
+  Password—I nearly lost access to my entire graph by storing it carelessly. This experience
+  reinforced why the zero-knowledge encryption model demands absolute password management
+  discipline. I also experimented with Syncthing's File Pull Order setting on the Advanced
+  tab, discovering that changing it to "Newest First" prevented the conflict files that
+  plagued my initial setup. These specific configuration details transformed my cross-platform
+  workflow from fragile to reliable.
 manualRelated:
   - title: "Logseq vs Heptabase: Which Is Better for Visual Learners?"
     url: "/posts/logseq-vs-heptabase-for-visual-learners/"

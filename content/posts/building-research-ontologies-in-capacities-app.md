@@ -1,22 +1,23 @@
 ---
 image: "/og/building-research-ontologies-in-capacities-app.webp"
 editorSummary: >-
-  I found the shift from folders to object-based note-taking particularly valuable for
-  research at scale. This guide walks through building research ontologies in Capacities app
-  by defining core object types and establishing properties as relational connectors—a move
-  that transforms how researchers surface insights. The two-minute linking rule stands out as
-  practical advice that prevents perfectionism from derailing your system. One trade-off worth
-  noting: starting with too many object types creates friction during input, while too few
-  leaves your ontology underutilized. The key is iterating based on actual usage rather than
-  theoretical perfection.
+  Research Ontologies Capacities App shift from folder-based hierarchies to object-based
+  systems, and I found this guide essential for understanding how to structure interconnected
+  knowledge. The core insight—defining object types like Books, Concepts, and Authors, then
+  linking them through properties—transforms how researchers surface connections across
+  hundreds of notes. I appreciated the practical workflow advice, especially the two-minute
+  linking rule that prevents perfectionism from stalling progress. The trade-off here is real:
+  building an ontology requires upfront schema design, but the payoff is dynamic dashboards
+  and graph views that reveal insights you'd otherwise miss buried in folders.
 authorNote: >-
-  I tested this approach when organizing notes across three overlapping research projects.
-  Creating separate object types for Sources, Concepts, and Claims immediately revealed
-  connections I'd missed in my previous folder-based system. The web clipper integration
-  proved essential—I configured it to auto-categorize incoming articles as Web Source objects,
-  which cut my processing time significantly. The friction point came when I initially tried
-  linking every new note within seconds; relaxing to the two-minute rule actually improved my
-  consistency.
+  I tested this approach by migrating a philosophy research project into Capacities, starting
+  with just three object types: Source, Concept, and Person. The friction point came
+  immediately—deciding whether "Phenomenology" should be a Concept or a Framework object.
+  Following the guide's advice to start small and iterate, I adjusted after one week of actual
+  use rather than theorizing. The web clipper integration proved invaluable for capturing
+  articles, but I discovered that setting default object types for incoming clips saved hours
+  of manual categorization. The local graph view then revealed unexpected connections between
+  authors I'd studied separately.
 manualRelated:
   - title: "Structuring Obsidian Folders for Academic Writing: 5-Step System"
     url: "/posts/structuring-obsidian-folders-for-academic-writing/"

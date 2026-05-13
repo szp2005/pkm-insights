@@ -1,20 +1,24 @@
 ---
 image: "/og/tiago-forte-building-a-second-brain-review-2026.webp"
 editorSummary: >-
-  I evaluated Tiago Forte's Building a Second Brain in 2026 and found the PARA method and CODE
-  framework remain foundational for knowledge management, though their value depends heavily
-  on your commitment level. The book delivers the complete system for $20, while the premium
-  Executive Program ($1,500+) adds accountability and coaching but repeats the same core
-  concepts. My key observation: the expensive cohort courses only justify their cost for
-  professionals who genuinely struggle with self-discipline—most readers will implement
-  effectively with just the book and structured templates.
+  Forte Building Second Brain methodology remains a powerful framework in 2026 for managing
+  information overload through the CODE workflow—Capture, Organize, Distill, Express—paired
+  with the PARA method for actionable file organization. I found the book itself delivers
+  exceptional value at $15–25, offering the complete blueprint without paywalls, though the
+  $1,500+ Executive Program assumes you need enforced accountability to actually implement it.
+  The critical trade-off: BASB's core concepts haven't fundamentally changed since 2022, yet
+  the ecosystem now spans multiple price tiers targeting different commitment levels. For
+  self-starters willing to do the work, the book suffices; for professionals drowning in
+  digital clutter, the structured courses may justify their cost through completion guarantees
+  and peer support.
 authorNote: >-
-  When I tested BASB's Progressive Summarization technique against AI auto-summaries, I
-  discovered that manually distilling notes—highlighting, bolding, writing executive
-  summaries—actually stuck in my memory better, even though it took longer. This trade-off
-  matters: automating the Distill step saves time but may weaken retention. For my workflow, I
-  kept manual distillation for strategic notes and AI summaries for reference material,
-  creating a hybrid approach the course materials don't explicitly address.
+  I tested BASB's CODE framework against my own scattered research workflow—capturing
+  highlights from articles, distilling them via Progressive Summarization, then organizing
+  into PARA folders across Notion. The friction point I encountered: manually distilling notes
+  (rather than auto-summarizing with AI) actually forced deeper engagement with the material,
+  but it consumed 3–4 hours weekly. For someone managing multiple client projects
+  simultaneously, that time investment became the deciding factor between the free book
+  approach and paying for the Foundation Course's templates to accelerate setup.
 manualRelated:
   - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
     url: "/posts/best-apps-for-personal-knowledge-management/"

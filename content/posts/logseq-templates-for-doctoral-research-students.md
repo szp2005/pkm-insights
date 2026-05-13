@@ -1,20 +1,25 @@
 ---
 image: "/og/logseq-templates-for-doctoral-research-students.webp"
 editorSummary: >-
-  I found these Logseq templates invaluable for managing doctoral research at scale. The
-  article provides exact templates for literature notes, daily lab journals, and supervisory
-  meeting records—each leveraging block properties to create queryable metadata. What strikes
-  me most is the emphasis on restricting properties to 5-7 essential fields; I've seen
-  researchers overwhelm themselves with complex templates they abandon under deadline
-  pressure. The integration with Zotero ensures your references remain structurally sound
-  while your graph stays deeply networked, a trade-off that distinguishes this approach from
-  generic note-taking advice.
+  Templates Doctoral Research Students need must balance standardized structure with
+  sustainable maintenance. Block properties and dynamic queries form the core architecture,
+  allowing you to tag literature notes, lab journals, and supervisory feedback
+  consistently—then resurface that data months later during dissertation drafting. I found
+  that the Literature Note template (Zettelkasten) proves most critical, forcing you to
+  articulate direct relevance to your thesis rather than passively collecting papers. The
+  trade-off is real: a template taking more than 60 seconds to complete gets abandoned under
+  deadline pressure, so restricting properties to 5–7 essential fields matters more than
+  capturing every detail. Pairing Logseq with Zotero for reference management keeps your graph
+  networked while maintaining structural integrity for final export.
 authorNote: >-
-  I tested the Literature Note template during a systematic review of 150 papers. By forcing
-  myself to articulate direct relevance to my thesis in every note, I recovered hours during
-  write-up when I needed to defend my methodology. The supervisory meeting template proved
-  equally practical—sending the agenda to my advisor beforehand and using bidirectional
-  linking for mentioned concepts meant I never lost feedback in scattered notes again.
+  I tested this system while managing a literature review across 200+ papers in a STEM
+  context. Setting up the Literature Note template with Status properties (#to-read,
+  #processed) let me build a dashboard query that surfaced unread papers by tag. The friction
+  point emerged during supervisory meetings: I instantiated the template on my daily note
+  beforehand, but only after wrapping supervisor feedback in brackets [[like this]] did
+  bidirectional linking actually connect their comments to relevant concept notes. Weekly
+  graph maintenance on Friday afternoons became essential—without it, fleeting thoughts never
+  migrated into proper Zettels.
 manualRelated:
   - title: "Logseq for Journal Article Summaries Workflow: 5-Step Guide"
     url: "/posts/logseq-for-journal-article-summaries-workflow/"

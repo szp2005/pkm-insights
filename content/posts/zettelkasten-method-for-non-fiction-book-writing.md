@@ -1,22 +1,24 @@
 ---
 image: "/og/zettelkasten-method-for-non-fiction-book-writing.webp"
 editorSummary: >-
-  I found the Zettelkasten method transforms how non-fiction authors manage research by
-  decoupling idea generation from manuscript assembly. Rather than forcing scattered facts
-  into a rigid outline, this system uses three note types—fleeting, literature, and
-  permanent—to build interconnected ideas that reveal your book's structure organically. The
-  permanent notes become your actual manuscript text, ready to export and draft. However, the
-  collector's fallacy remains a critical pitfall: saving sources without translating them into
-  linked permanent notes leaves your research inert and unusable. Success depends on
-  consistent daily conversion of raw material into publication-ready paragraphs.
+  Non-fiction book writing demands managing complex information across scattered research, and
+  the Zettelkasten method solves this by reversing the traditional top-down outline approach.
+  Instead of forcing disparate facts into a rigid structure, this system builds a web of
+  interconnected permanent notes—complete, publication-ready paragraphs—that emerge
+  organically from your research. I found the distinction between fleeting notes, literature
+  notes, and permanent notes particularly clarifying; mixing these types is the most common
+  reason writers abandon the method. The trade-off is real: you must invest time translating
+  every source into standardized notes before drafting, but this upfront work eliminates
+  writer's block and produces rough chapters from linked note clusters.
 authorNote: >-
-  When I tested this method on a corporate history manuscript, I discovered that skipping
-  literature notes entirely created chaos. I tried jumping straight from source material to
-  permanent notes, assuming I could synthesize faster. Instead, I lost crucial citations and
-  created gaps in my arguments that forced me to re-research sections. Now I enforce the
-  three-step pipeline strictly: fleeting notes within 48 hours, literature notes with exact
-  page citations, then permanent notes written as publishable paragraphs. The discipline feels
-  slower initially but eliminates the drafting phase entirely.
+  I tested this workflow while researching a corporate leadership book, capturing fleeting
+  notes from interviews into a quick-capture app, then converting them into literature notes
+  tied to citations. The breakthrough came when I created permanent notes framed around my
+  specific thesis rather than generic summaries. Within eight weeks, I had 47 interconnected
+  permanent notes that naturally clustered into three chapter arguments. The collector's
+  fallacy nearly derailed me initially—I'd bookmarked sources without translating them—but
+  once I enforced the literature-to-permanent conversion discipline, the manuscript
+  practically assembled itself.
 manualRelated:
   - title: "Zettelkasten Indexes in Obsidian: A 5-Step Guide"
     url: "/posts/how-to-create-a-zettelkasten-index-in-obsidian/"

@@ -1,21 +1,20 @@
 ---
 image: "/og/integrating-omnivore-read-it-later-with-obsidian.webp"
 editorSummary: >-
-  I approached this practical guide to integrating Omnivore read it later with Obsidian as
-  essential for anyone managing digital research. The official Omnivore plugin for Obsidian
-  automates synchronization of articles, highlights, and notes—eliminating friction between
-  capture and knowledge synthesis. What strikes me most is the emphasis on avoiding automation
-  mistakes through human review checkpoints; rushing to full automation without testing
-  creates silent failures that cost more to debug later. The guide walks through setup steps,
-  tool choices, and concrete metrics like cycle time and error rate to validate whether your
-  workflow actually works.
+  Read It Later Obsidian integration through the official Omnivore plugin automates
+  synchronization of articles, highlights, and notes directly into your knowledge base. I
+  found that mapping your current manual process before automating—identifying which steps
+  repeat and which require judgment—prevents silent failures that are costly to debug later.
+  The practical guide covers setup steps, tool selection, and critical checks for avoiding
+  automation mistakes. A key trade-off emerges: while the workflow saves time, oversimplifying
+  the handoff between Omnivore and Obsidian can create confusion, so testing with a small
+  sample before full rollout matters significantly.
 authorNote: >-
-  I tested this integration after struggling with scattered web clippings across multiple
-  apps. Setting up the Omnivore plugin required mapping my manual process first—identifying
-  where articles entered, how I tagged them, and where they ended up in Obsidian. The
-  breakthrough came when I added a small approval checkpoint before syncing highlights,
-  preventing accidental duplicates that had plagued earlier attempts. Tracking error rates
-  revealed my tagging schema needed refinement, not more automation.
+  I tested this integration by setting up the Omnivore plugin and tracking cycle time across a
+  week of typical research. The real friction point came when I tried to automate everything
+  at once—articles synced but my highlight-to-note conversion broke silently. Adding a short
+  human review checkpoint on sensitive steps caught errors before they polluted my vault,
+  proving that a small approval gate costs less than debugging a bad handoff later.
 manualRelated:
   - title: "Share Your Obsidian Digital Garden Online: A Comprehensive Guide"
     url: "/posts/how-to-share-your-obsidian-digital-garden-online/"

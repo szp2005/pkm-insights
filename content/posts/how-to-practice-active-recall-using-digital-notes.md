@@ -1,23 +1,21 @@
 ---
 image: "/og/how-to-practice-active-recall-using-digital-notes.webp"
 editorSummary: >-
-  I approached this guide recognizing that passive note-taking sabotages retention. The
-  article's five-step framework—from structuring notes as questions through implementing
-  spaced repetition schedules—transforms how students engage with digital material. What
-  strikes me most is Step 2's emphasis on togglable elements to hide answers; this single
-  feature prevents the eye-drift that undermines retrieval practice. The trade-off worth
-  noting: building questions upfront requires more cognitive effort than transcribing, yet
-  eliminates the need to create separate study materials later. For anyone struggling with
-  fluency illusion, this approach to practice active recall using digital notes offers
-  concrete mechanisms to strengthen neural pathways.
+  Recall Using Digital Notes transforms passive note-taking into active learning by
+  structuring your notes as questions and using togglable elements to hide answers. I found
+  that implementing a spaced repetition schedule alongside bidirectional linking creates a web
+  of interconnected self-tests that mirrors how your brain actually categorizes information.
+  The critical trade-off is upfront effort: formatting notes as Q&A requires more cognitive
+  work during capture, but eliminates the need to create separate study materials later.
+  Testing yourself before reviewing source material—embracing the struggle of retrieval—proves
+  essential for transferring information into long-term memory.
 authorNote: >-
-  I tested this framework while preparing for a certification exam using Notion's toggle
-  system. I structured fifty concepts as questions with answers hidden beneath collapsible
-  blocks, then implemented manual spaced repetition across a spreadsheet with four review
-  intervals. The friction point emerged during Step 5: resisting the urge to read my notes
-  before testing myself felt counterintuitive, yet skipping the preview forced genuine
-  retrieval. Embracing wrong answers during early reviews produced noticeably stronger recall
-  than my previous highlight-and-reread method.
+  I tested this framework while preparing for a biology exam, structuring my lecture notes as
+  questions in Notion with toggled answers. The moment I tried reviewing without closing the
+  toggles first, I realized how easily my eyes drifted to answers, undermining retrieval
+  difficulty. Setting a manual spaced repetition schedule using a spreadsheet alongside the
+  toggle system forced genuine recall attempts rather than recognition, and my retention
+  improved measurably after three review cycles.
 manualRelated:
   - title: "Effective Note Taking Techniques for Learning: A Comprehensive Guide"
     url: "/posts/effective-note-taking-techniques-for-learning/"

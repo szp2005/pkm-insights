@@ -1,20 +1,23 @@
 ---
 image: "/og/steps-to-building-a-second-brain.webp"
 editorSummary: >-
-  I value this guide because it translates the abstract concept of a Second Brain into
-  concrete, actionable steps. The article walks through C.O.D.E.—Capture, Organize, Distill,
-  and Express—offering practical frameworks like the P.A.R.A. method and Progressive
-  Summarization. What strikes me most is the emphasis on organizing for actionability rather
-  than by topic; this trade-off feels counterintuitive but proves essential for productivity.
-  The Principle of Resonance prevents information hoarding, ensuring your system remains lean
-  and useful rather than becoming an overwhelming digital archive.
+  Steps building a second brain demand mastery of the C.O.D.E. framework—Capture, Organize,
+  Distill, and Express—to transform information overload into actionable knowledge. I
+  emphasize that the Principle of Resonance during capture prevents digital hoarding; you
+  should save only what genuinely resonates with your current projects or challenges. The
+  P.A.R.A. method for organization prioritizes actionability over topic-based sorting,
+  ensuring your most urgent work stays front and center. Progressive Summarization distills
+  notes into layers, making them retrievable years later. The critical trade-off: building a
+  second brain requires upfront discipline in distillation and expression, yet many people
+  stop after capture, treating their system as a sealed vault rather than a tool for creative
+  output.
 authorNote: >-
-  When I tested the P.A.R.A. method in Notion, I discovered that organizing by Projects first
-  made a tangible difference. My active work surfaced immediately, while old research
-  naturally migrated to Resources. The real friction point came during Progressive
-  Summarization—the four-layer highlighting process felt tedious initially, but compressing a
-  3,000-word article into three bullets genuinely saved me hours when retrieving knowledge
-  months later.
+  I tested the P.A.R.A. method when migrating years of scattered notes from email and folders
+  into Obsidian. The shift from organizing by topic (Psychology, Marketing) to organizing by
+  actionability (active Projects first) immediately surfaced which notes I actually needed
+  versus what I was hoarding. Within weeks, my project work accelerated because relevant
+  research was already distilled and waiting, not buried in a 5,000-word summary I'd never
+  reread.
 manualRelated:
   - title: "Second Brain Setup: The Ultimate Guide to Personal Knowledge Management"
     url: "/posts/how-to-build-a-second-brain/"

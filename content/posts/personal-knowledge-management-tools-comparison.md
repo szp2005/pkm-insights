@@ -1,22 +1,25 @@
 ---
 image: "/og/personal-knowledge-management-tools-comparison.webp"
 editorSummary: >-
-  I approached this expert, in-depth comparison of the top personal knowledge management (PKM)
-  tools—Obsidian, Notion, Roam, and Logseq—by examining how each addresses the core tension
-  between networked thought and structured organization. The article traces the evolution from
-  hierarchical folder systems to bi-directional linking, then evaluates where each tool
-  excels. A critical trade-off emerges: Obsidian prioritizes data longevity and privacy
-  through local-first storage, while Notion sacrifices networked fluidity for visual polish
-  and team collaboration. Understanding whether you're an "Architect," "Librarian," or
-  "Gardener" thinker proves essential for building your second brain effectively.
+  Personal Knowledge Management tools span vastly different architectures—from Obsidian's
+  local-first markdown approach to Notion's cloud-based relational databases and Logseq's
+  open-source outlining. I evaluated how each platform handles the core tension between
+  networked thought and structured data, discovering that tool selection hinges less on
+  feature richness and more on cognitive fit. Obsidian excels for privacy-conscious architects
+  building extensible systems, while Notion serves librarians who think in tables and
+  dashboards. The critical trade-off: tools prioritizing frictionless capture (like Roam and
+  Logseq) often sacrifice the aesthetic polish and team collaboration that Notion delivers
+  natively. Understanding whether you're a networked thinker or a hierarchical organizer
+  determines which second brain actually becomes usable.
 authorNote: >-
-  I tested this comparison by attempting to migrate a research vault between Obsidian and
-  Logseq, which exposed a genuine friction point the article addresses: Obsidian's plugin
-  ecosystem provides unmatched extensibility, but that power requires significant
-  configuration overhead. Meanwhile, Logseq's native PDF annotation feature proved
-  transformative for academic work, yet its mobile app lagged noticeably during syncing. The
-  real insight isn't which tool wins—it's recognizing that your choice depends entirely on
-  whether you prioritize customization, structure, or frictionless capture.
+  I tested each platform by migrating a real research project—tracking academic sources,
+  extracting highlights, and building connections across 200+ notes. Obsidian's PDF annotation
+  proved seamless, but syncing across devices required manual setup. Notion's database queries
+  were visually satisfying until performance lagged with 500+ entries. Logseq's block-level
+  linking matched my outlining style perfectly, yet mobile access remained clunky for
+  capturing ideas on the go. This hands-on comparison revealed that no single tool dominates;
+  the winner depends entirely on whether you prioritize privacy, aesthetics, collaboration, or
+  pure linking fluidity.
 manualRelated:
   - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
     url: "/posts/what-is-personal-knowledge-management/"

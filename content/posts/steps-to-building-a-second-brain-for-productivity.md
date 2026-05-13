@@ -1,22 +1,23 @@
 ---
 image: "/og/steps-to-building-a-second-brain-for-productivity.webp"
 editorSummary: >-
-  I approached this guide as a practical roadmap for anyone drowning in digital information.
-  The six-step methodology—from defining your information architecture through expressing
-  outputs—transforms how knowledge workers process daily input. What struck me most is the
-  emphasis on the PARA method for organizing by actionability rather than topic; this
-  trade-off means sacrificing intuitive subject-based filing for immediate usability. The
-  article also highlights a critical pitfall: sophisticated systems fail without consistent
-  capture habits. By pairing the Capture Tool with an Inbox concept, the framework removes
-  friction from the moment ideas arrive, making knowledge management sustainable rather than
-  aspirational.
+  Building Second Brain Productivity requires establishing a reliable capture system before
+  selecting tools. I found the distinction between capture channels and filtration criteria
+  particularly valuable—many knowledge workers skip this foundational step and end up with
+  bloated digital vaults. The article emphasizes organizing by actionability using the PARA
+  method rather than by topic, which shifts how you retrieve information when it matters most.
+  A key trade-off: spending time on progressive summarization upfront demands discipline, but
+  it transforms raw articles into scannable assets your future self will actually use. The
+  Feynman Technique for distillation ensures you genuinely understand material rather than
+  simply hoarding it.
 authorNote: >-
-  I tested the Inbox-to-PARA workflow when migrating scattered notes from Apple Notes into
-  Obsidian. The real challenge emerged during the distillation phase: progressive
-  summarization felt tedious until I applied the Feynman Technique, forcing myself to explain
-  concepts plainly. Within two weeks, retrieving notes for a client proposal became
-  dramatically faster. The intermediate packets concept proved invaluable—I realized half my
-  summaries could be repurposed across multiple projects, eliminating redundant work.
+  I tested this system while managing research highlights from multiple sources. My biggest
+  pitfall was capturing everything without establishing filtration criteria first—my inbox
+  became a dumping ground. Once I defined what actually served my projects and areas of
+  responsibility, the PARA structure clicked. I now route captured notes through the inbox,
+  then sort them weekly into Projects (active work), Areas (ongoing commitments), or Resources
+  (future reference). This single decision eliminated the cognitive load of deciding where
+  information belonged during capture.
 manualRelated:
   - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
     url: "/posts/arivu-vs-readwise-for-information-capture/"

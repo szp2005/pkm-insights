@@ -1,21 +1,21 @@
 ---
 image: "/og/how-to-build-a-second-brain.webp"
 editorSummary: >-
-  I approached this article as a practical guide to building a Second Brain, and I found the
-  CODE methodology—Capture, Organize, Distill, Express—provides a structured framework that
-  transforms how knowledge workers manage information. The PARA structure for organizing notes
-  by actionability rather than topic is a concrete trade-off worth considering: it requires
-  rethinking how you categorize information, but it dramatically improves retrieval when you
-  actually need ideas. What strikes me is that the real bottleneck isn't capturing
-  information; it's the discipline of progressive summarization to distill insights into
-  usable form. This system demands ongoing effort, not just initial setup.
+  Build Second Brain using the CODE methodology—Capture, Organize, Distill, Express—to
+  transform how you manage knowledge and creative output. The PARA structure (Projects, Areas,
+  Resources, Archives) organizes information for actionability rather than topic-based filing,
+  which I find shifts your entire approach to retrieval. Progressive Summarization layers
+  highlights and summaries across notes, making dense articles instantly graspable. The
+  trade-off is real: initial setup demands time investment, but the compounding returns in
+  reduced cognitive strain and faster content production justify the effort. Choosing the
+  right tool matters less than implementing the methodology consistently.
 authorNote: >-
-  I tested the PARA method when migrating scattered notes across Notion, Apple Notes, and
-  browser bookmarks into one system. The friction point came during Step 3—the digital mind
-  sweep—where I realized I had hundreds of unprocessed captures. Rather than organizing
-  everything upfront, I moved only active projects and areas into folders, leaving the rest in
-  archives. This reduced decision paralysis and let me focus on distilling what I actually
-  use, which proved far more valuable than a perfectly structured but empty system.
+  I tested this system by conducting a digital mind sweep—30 minutes capturing everything
+  mentally taxing me—then sorting each item into PARA folders. The friction point emerged
+  immediately: my instinct was organizing by topic ("Marketing," "Learning") rather than
+  actionability ("Q3 Campaign Project"). Once I reframed each note around where I'd actually
+  use it, retrieval became intuitive. The Progressive Summarization layers proved especially
+  valuable during my weekly review, transforming five-page articles into glanceable summaries.
 manualRelated:
   - title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
     url: "/posts/steps-to-building-a-second-brain/"

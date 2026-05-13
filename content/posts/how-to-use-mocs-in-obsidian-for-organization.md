@@ -1,21 +1,21 @@
 ---
 image: "/og/how-to-use-mocs-in-obsidian-for-organization.webp"
 editorSummary: >-
-  I find that Maps of Content transform Obsidian from a chaotic knowledge graph into a
-  navigable system. This guide walks through establishing core pillars, creating a Home MOC as
-  your index, and building topic-specific maps that emerge organically from your notes. The
-  key trade-off: while MOCs require ongoing maintenance through just-in-time updates, they
-  scale far better than rigid folders or tag-heavy approaches. The 30-link threshold serves as
-  a practical checkpoint—when an MOC exceeds 40 links, it's time to split it into sub-MOCs.
-  This structure bridges the gap between folder silos and backlink chaos, giving you
-  intentional control over your knowledge base.
+  Use Mocs Obsidian Organization to transform a chaotic vault into a navigable knowledge
+  system. The Home MOC serves as your index, linking to broad categories and specialized
+  sub-MOCs as your notes grow. I found the 30-link threshold particularly useful—when an MOC
+  exceeds this limit, it's time to split it into smaller, focused maps. The trade-off here is
+  clear: MOCs require ongoing maintenance through just-in-time updates, but this curation
+  effort pays dividends by bridging the gap between rigid folders and chaotic backlinks. The
+  bottom-up creation process ensures your organizational structure emerges organically rather
+  than forcing premature categorization.
 authorNote: >-
-  I tested this approach after my vault hit 300 notes and became unsearchable. Creating a Home
-  MOC pointing to domain-specific maps took two hours, but the friction disappeared
-  immediately. The just-in-time update method—spending 30 seconds to add a new link when I
-  create a related note—kept everything current without feeling like a chore. When my Software
-  Engineering MOC hit 45 links, I split it into Fundamentals and Advanced topics, which made
-  retrieval instant again.
+  I tested the just-in-time maintenance workflow on a Software Engineering MOC with roughly 40
+  notes. When I created a new database technology note, I spent 30 seconds adding it to the
+  appropriate section with context. A month later, I ran a periodic review using Dataview to
+  catch orphaned notes—three fell through my cracks. This revealed that even with discipline,
+  automated queries catch what manual curation misses. The lesson: pair manual MOC updates
+  with monthly Dataview scans for a genuinely sustainable system.
 manualRelated:
   - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
     url: "/posts/what-is-personal-knowledge-management/"

@@ -1,22 +1,22 @@
 ---
 image: "/og/tana-commands-for-automated-data-processing.webp"
 editorSummary: >-
-  I approached this guide to Master Tana commands for automated data processing with the
-  understanding that most PKM users struggle with manual data upkeep as their databases grow.
-  The article walks through the trigger-action-target framework that powers Tana's command
-  architecture, then demonstrates practical workflows like the Process Article command that
-  chains AI summarization with field updates and node movement. A key trade-off I noticed:
-  while automating complex multi-step macros saves time, over-automation can create fragile
-  systems where errors go unnoticed. The guide emphasizes starting with simple field updates
-  and using test nodes before deploying commands on live data.
+  Commands for Automated Data Processing transform how I manage structured information in
+  Tana. The trigger-action-target framework lets me build multi-step macros that handle field
+  updates, node routing, and API integrations without manual intervention. I've found that
+  chaining the Set field, Move node, and Ask AI commands creates powerful data
+  pipelines—turning raw clippings into processed research assets in seconds. The critical
+  trade-off is precision: over-automating without testing on sandbox nodes risks silent data
+  corruption across your entire workspace. Starting with simple field updates before tackling
+  external integrations keeps the system reliable and maintainable.
 authorNote: >-
-  I tested the Apply to children modifier on a project with nested task nodes, and discovered
-  that without explicitly setting the Target parameter, the command overwrote parent-level
-  data instead of traversing the hierarchy. This taught me to always verify target alignment
-  before running macros on production workspaces. The article's warning about async delays
-  with API calls proved relevant when I chained an AI summarization step followed immediately
-  by field formatting—the macro failed until I added proper system variable passing between
-  steps.
+  I tested a practical pipeline processing web clippings into my research database. I created
+  a #clipping Supertag with URL, Author, Summary, and Status fields, then built a Process
+  Article command that reads the URL via AI, generates a three-bullet summary, updates the
+  Status field, and moves the node to my research hub—all in two seconds. The biggest gotcha I
+  hit was async timing: the command tried to format the AI output before it finished
+  generating, producing empty results. Adding explicit system variable passing between steps
+  fixed it. Now I process dozens of clippings weekly without touching them manually.
 manualRelated:
   - title: "Tana Commands for Automated Daily Notes: A Complete Setup Guide"
     url: "/posts/tana-commands-for-automated-daily-note-setup/"

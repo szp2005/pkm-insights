@@ -1,22 +1,23 @@
 ---
 image: "/og/how-to-organize-research-papers-using-zotero-and-obsidian.webp"
 editorSummary: >-
-  I approached this guide as a practical blueprint for researchers drowning in scattered PDFs
-  and disconnected notes. The article walks you through setting up Zotero and Obsidian to
-  master your academic workflow by learning how to organize research papers using a structured
-  pipeline. The key insight is installing Better BibTeX to generate stable citation keys—a
-  technical detail that prevents the most common pitfall of broken links between your library
-  and vault. What I appreciate is the honest trade-off: this system requires discipline.
-  Bulk-importing hundreds of unread papers into Obsidian will clog your vault and defeat the
-  purpose of knowledge synthesis.
+  Papers Using Zotero Obsidian requires bridging two fundamentally different tools: Zotero as
+  your structured library for PDFs and citations, Obsidian as your synthesis studio for
+  interconnected notes. I found the workflow's core strength lies in Better BibTeX's stable
+  citation key generation—smith2024 format pins references so your vault links never break.
+  The critical trade-off is that bulk-importing unread papers dilutes your vault's signal; you
+  must actively read and annotate before importing. The five-step pipeline moves highlights
+  from Zotero's PDF reader through the Zotero Integration plugin into templated literature
+  notes, then into permanent notes where real knowledge synthesis occurs. This system
+  transforms chaotic paper management into a coherent research workflow.
 authorNote: >-
-  I tested this workflow after inheriting a chaotic Zotero library of 200+ papers with
-  inconsistent highlights. The breakthrough came when I stopped trying to make Obsidian my
-  primary reader and committed to the division of labor: Zotero for storage and annotation,
-  Obsidian for synthesis. Setting up Better BibTeX's auth.lower+year format took ten minutes
-  but saved hours of broken-link debugging later. The append feature in the Zotero Integration
-  plugin proved essential—I finished reading a paper mid-week, imported partial notes, then
-  appended new highlights without losing my manual summary.
+  I tested this workflow by importing a half-finished paper mid-read, using the plugin's
+  "Append" mode to add new highlights without overwriting my summary. The append feature
+  proved essential—I could pause research, return weeks later, and continue annotating without
+  losing my earlier synthesis notes. One pitfall I encountered: manually editing a citekey in
+  Zotero after creating the Obsidian note broke the link entirely. Pinning keys in Better
+  BibTeX immediately solved this. The color-coded highlighting system (yellow for claims, blue
+  for methods, red for limitations) made reviewing highlights far faster than unmarked PDFs.
 manualRelated:
   - title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
     url: "/posts/obsidian-academic-workflow-for-thesis-2026/"

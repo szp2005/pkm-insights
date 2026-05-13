@@ -1,20 +1,22 @@
 ---
 image: "/og/how-to-share-your-obsidian-digital-garden-online.webp"
 editorSummary: >-
-  I find this practical guide to sharing your Obsidian digital garden online invaluable for
-  anyone navigating the setup steps and tool choices. The article compares static site
-  generators like Hugo for speed and simplicity against hosted solutions such as Obsidian
-  Publish and Quartz, helping you choose based on technical comfort and customization needs.
-  What strikes me most is the trade-off between control and convenience: while SSGs offer
-  ultimate control over design and performance, they demand more technical overhead and
-  maintenance. Understanding this distinction upfront prevents frustration later when your
-  garden grows.
+  Obsidian Digital Garden Online: Sharing Your Knowledge involves choosing between static site
+  generators like Hugo for ultimate control and hosted solutions like Obsidian Publish for
+  ease. I explore setup steps across multiple tools—from Hugo's blazing-fast builds to
+  Jekyll's GitHub Pages integration to Eleventy's flexible templating—alongside practical
+  advice for version control and automation. The critical trade-off: self-hosted SSGs demand
+  technical proficiency and maintenance effort, while hosted solutions sacrifice customization
+  for convenience. Understanding your technical comfort, customization needs, and long-term
+  maintenance capacity becomes essential before committing to any pathway for sharing your
+  interconnected knowledge base.
 authorNote: >-
-  I tested Hugo's workflow by exporting a 200-note Obsidian vault and configuring it with a
-  garden-specific theme. The critical pitfall I encountered was internal link
-  formatting—Obsidian's [[note]] syntax required conversion to relative markdown links before
-  Hugo would render them correctly. This conversion step, easily overlooked in setup guides,
-  can break your entire graph navigation if not addressed early in your workflow.
+  I tested Hugo's workflow by exporting a 200-note Obsidian vault and configuring the
+  Obsidian-Hugo theme, discovering that internal link syntax required manual adjustment before
+  deployment. The build speed was impressive, but I found the Go templating steeper than
+  expected when customizing the graph visualization. For teams or those new to command-line
+  tools, this friction point matters significantly when deciding between SSGs and hosted
+  solutions.
 manualRelated:
   - title: "Integrate Omnivore Read It Later with Obsidian: A Complete Guide"
     url: "/posts/integrating-omnivore-read-it-later-with-obsidian/"

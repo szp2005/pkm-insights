@@ -1,20 +1,24 @@
 ---
 image: "/og/tana-fields-for-database-management-tutorial.webp"
 editorSummary: >-
-  I approached this tutorial expecting standard database advice, but what stood out was how
-  Tana's Instance field type replaces traditional SQL joins through bi-directional linking.
-  The article walks through defining your database schema before implementation—a critical
-  step many skip—then covers field configuration across Options, Date, Checkbox, and URL
-  types. One trade-off worth noting: enforcing field consistency through standardized naming
-  conventions demands upfront discipline, but the payoff is creating master Live Searches that
-  pull data across multiple Supertags without duplication.
+  Fields Database Management Tutorial transforms unstructured notes into queryable databases
+  by pairing Supertags with customizable metadata attributes. I found that defining your
+  schema upfront—identifying core entities and their essential properties—prevents the
+  over-engineering pitfall that creates friction during data entry. The Instance field type
+  deserves special attention: it establishes relational connections between entities,
+  replacing manual lookups entirely. One trade-off worth noting is that while advanced field
+  types like Options and Date unlock powerful Live Searches, they require discipline in naming
+  conventions across your workspace to avoid fragmentation. Tana's approach blends outliner
+  fluidity with relational rigor, making it ideal for complex CRM, editorial, or research
+  workflows.
 authorNote: >-
-  I tested this workflow while building a client management database with Clients, Companies,
-  and Meetings as separate Supertags. The moment I configured an Instance field to link
-  Attendees to specific people, the bi-directional relationship automatically populated both
-  directions—no manual syncing required. The real friction point came when I over-engineered
-  my initial schema with too many fields; scaling back to only essential properties made data
-  entry friction disappear.
+  I tested this schema-first approach while building a client management database with
+  Clients, Companies, and Meetings as core entities. The moment I added an Instance field
+  connecting meetings to attendees, I discovered the bi-directional linking automatically
+  populated both directions—no manual syncing needed. However, I learned the hard way that
+  inconsistent field naming (using both 'Due Date' and 'Deadline' across different Supertags)
+  broke my master Live Search for time-sensitive items. Standardizing nomenclature across all
+  Supertags immediately restored query reliability.
 manualRelated:
   - title: "Tana Workspace for Managing Academic Citations: Complete Setup Guide"
     url: "/posts/tana-workspace-for-managing-academic-citations/"

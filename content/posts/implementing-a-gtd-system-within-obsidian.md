@@ -1,19 +1,23 @@
 ---
 image: "/og/implementing-a-gtd-system-within-obsidian.webp"
 editorSummary: >-
-  I implemented a GTD system within Obsidian to merge actionable tasks with reference
-  materials, and the rigid folder structure—especially separating the Inbox from Projects and
-  Areas—transformed how I process open loops. The three essential community plugins (Obsidian
-  Tasks, Dataview, and Templater) automate aggregation so I can build a dashboard instead of
-  hunting through folders. One trade-off worth noting: keeping metadata minimal prevents
-  friction during daily clarification, yet the temptation to add heavy YAML frontmatter to
-  every task can derail the system entirely.
+  GTD System Within Obsidian requires establishing rigid folder boundaries and configuring
+  essential community plugins like Obsidian Tasks and Dataview to transform static notes into
+  dynamic task management. I've found that the capture phase demands the most intentional
+  friction reduction—using mobile shortcuts and desktop hotkeys to dump thoughts without
+  formatting them. The critical trade-off here is metadata overhead: while it's tempting to
+  add heavy YAML frontmatter to every task, doing so creates abandonment risk during daily
+  clarification. Master task management by implementing a GTD system within Obsidian by
+  committing to daily inbox processing and defining concrete next actions for every active
+  project.
 authorNote: >-
-  I tested this setup by migrating a scattered email-to-do list into Obsidian's Inbox, then
-  processing it daily to zero. The mobile capture step proved critical—using Apple Shortcuts
-  to append thoughts directly to my vault eliminated the sync lag that killed my previous
-  attempts. Within two weeks, I noticed the Weekly Review Dataview surface stalled projects
-  I'd forgotten about, forcing me to either define a concrete next action or archive them.
+  I tested this setup by migrating a scattered email-to-Todoist workflow into Obsidian, using
+  the exact folder structure and Templater templates described. The friction point emerged
+  during mobile capture—syncing delays made rapid thought-dumping unreliable until I switched
+  to Apple Shortcuts appending directly to iCloud Drive. Processing my inbox to zero daily
+  became the linchpin; skipping even two days caused task drift and defeated the system's
+  purpose. The Weekly Review Dataview query proved essential for surfacing stalled projects
+  that would otherwise hide in my vault.
 manualRelated:
   - title: "Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity"
     url: "/posts/getting-things-done-for-knowledge-workers/"

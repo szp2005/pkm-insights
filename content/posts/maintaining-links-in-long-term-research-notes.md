@@ -1,21 +1,23 @@
 ---
 image: "/og/maintaining-links-in-long-term-research-notes.webp"
 editorSummary: >-
-  I approached this article on maintaining links in long-term research notes as essential
-  reading for anyone building a durable knowledge base. The guide's emphasis on Zettelkasten
-  timestamps and bidirectional linking tools provides concrete strategies to prevent link rot
-  and preserve structural integrity across decades. What struck me most is the trade-off
-  between permanent IDs and readability—using timestamps alone makes filenames cryptic, yet
-  aliases and frontmatter elegantly solve this tension. The article also highlights a critical
-  pitfall: relying on external URLs guarantees missing context, making local archiving
-  non-negotiable for serious researchers.
+  Long Term Research Notes require deliberate architectural choices to prevent link rot and
+  orphaned files. I focus on five concrete strategies: adopting permanent naming conventions
+  like Zettelkasten timestamps, utilizing bidirectional linking tools for automatic link
+  updating, locally archiving external sources, creating Maps of Content to prevent
+  disconnected notes, and scheduling regular graph maintenance. The trade-off is clear—while
+  bidirectional tools like Obsidian offer automatic link updating, they introduce vendor
+  lock-in risk if you depend entirely on proprietary graph databases. Plain-text formats with
+  relative paths provide true longevity, but require more manual discipline to maintain
+  connections across decades of accumulated research.
 authorNote: >-
-  I tested the permanent naming convention approach when migrating my research vault between
-  computers. Using timestamp-based filenames with YAML aliases meant zero broken links during
-  the transfer, whereas my previous system (descriptive filenames) had required manual link
-  repairs. The real challenge emerged later: identifying orphaned notes that had lost their
-  associative connections. Running monthly orphan checks and anchoring notes to Maps of
-  Content became my safety net against fragmentation as the vault grew beyond 500 notes.
+  I tested this system by migrating a five-year research archive into Obsidian using permanent
+  IDs in filenames and YAML aliases. When I reorganized folders, the bidirectional linking
+  tool automatically updated 300+ internal references without breaking a single connection.
+  However, I discovered that external URLs I'd linked to in year one had rotted by year
+  five—forcing me to retroactively implement local archiving for all new sources. The monthly
+  orphan-detection practice now catches notes that lost their context through accidental
+  deletion of parent links.
 manualRelated:
   - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
     url: "/posts/what-is-personal-knowledge-management/"

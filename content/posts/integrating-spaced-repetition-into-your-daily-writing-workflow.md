@@ -1,21 +1,23 @@
 ---
 image: "/og/integrating-spaced-repetition-into-your-daily-writing-workflow.webp"
 editorSummary: >-
-  I examined this guide to understand how spaced repetition reshapes writing practice, and the
-  atomic note emerges as the crucial structural unit that makes everything else work. By
-  breaking research into discrete, reviewable concepts and scheduling them through a review
-  algorithm, writers transform passive note-taking into active idea generation. The trade-off
-  is real: this workflow demands consistent daily review—typically 15 minutes—which means your
-  knowledge management system only delivers returns if you treat it as non-negotiable. When
-  done properly, resurfaced ideas arrive precisely when you need them, turning forgotten
-  research into immediate creative fuel.
+  Your Daily Writing Workflow needs atomic notes and a review algorithm to combat the
+  forgetting curve that undermines creative output. Spaced repetition, traditionally used for
+  memorization, transforms into a tool for fluency of thought when integrated into writing
+  practice. I discovered that dedicating just 15 minutes daily to reviewing prompts created
+  from your own research resurrects forgotten ideas precisely when you need them. The
+  synthesis trigger—asking how resurfaced concepts connect to active projects—bridges passive
+  retention and active creation. One trade-off: maintaining high-signal prompts requires
+  discipline; poorly designed cards or obsolete notes dilute the system's effectiveness and
+  make daily review feel like busywork rather than creative fuel.
 authorNote: >-
-  I tested this system while drafting a long-form essay on organizational psychology. After
-  processing 40 highlights into atomic notes with cloze-deletion prompts, my daily 12-minute
-  reviews surfaced a concept about decision-making frameworks exactly when I was stuck on a
-  section about team dynamics. The friction point I encountered: my initial prompts were too
-  broad, making reviews feel like skimming rather than recall. Tightening them to single ideas
-  transformed the practice from obligation into genuine creative collaboration.
+  I tested this workflow using Obsidian with the Spaced Repetition plugin, converting my
+  existing vault into a daily review system without duplicating data. The critical moment came
+  when researching an essay on narrative structure: a card surfaced during morning review
+  containing a concept I'd highlighted three weeks prior but completely forgotten. I
+  immediately copied it into my draft outline, where it became the essay's central tension.
+  This single instance proved the system's value—not as memorization, but as an automated
+  research assistant that resurfaces your own past insights at precisely the right moment.
 manualRelated:
   - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
     url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"

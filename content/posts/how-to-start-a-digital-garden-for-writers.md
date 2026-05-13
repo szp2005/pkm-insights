@@ -1,21 +1,22 @@
 ---
 image: "/og/how-to-start-a-digital-garden-for-writers.webp"
 editorSummary: >-
-  I approached this guide as a practical roadmap for writers tired of losing ideas in
-  scattered documents. The digital garden philosophy—organizing by context and connection
-  rather than chronology—fundamentally changes how you draft and iterate. What struck me most
-  is the emphasis on the Stages of Note Maturity: seedlings, incubating, and evergreen notes
-  give you permission to publish unfinished work without the perfectionism trap. The trade-off
-  is real, though: tools like Obsidian require a steeper learning curve, and maintaining
-  bidirectional links demands consistent discipline. Start with just ten atomic notes to avoid
-  organizational paralysis.
+  Start Digital Garden Writers by choosing networked note-taking software like Obsidian or
+  Notion, then establishing a low-friction flat folder structure to defeat writer's block and
+  organize ideas. The stages of note maturation—seedlings, incubating, evergreen—let you
+  publish unfinished work without perfectionism's paralysis. Bidirectional linking replaces
+  chronology, creating webs of thought across your writing process. I found the 10-note
+  starting method particularly valuable; it prevents overwhelm when beginning. One caution:
+  the appeal of customizing aesthetics can derail your actual writing habit. Focus on
+  connecting atomic notes first, then refine your garden's appearance later.
 authorNote: >-
-  I tested this approach while drafting a novel outline using Obsidian. Creating atomic notes
-  for individual plot threads—rather than one massive document—forced me to see unexpected
-  connections between character motivations and worldbuilding details I'd missed before. The
-  real friction point came during routine maintenance: I discovered half my seedlings had no
-  links because I'd written them in isolation. Dedicating thirty minutes weekly to reconnect
-  orphaned notes transformed my garden from a filing cabinet into an actual thinking tool.
+  I tested this approach while drafting a historical fiction project. Starting with ten atomic
+  notes about my protagonist's background, the setting's economy, and key plot conflicts
+  immediately revealed unexpected connections—a character motivation linked to worldbuilding
+  details I'd scattered across old documents. The bidirectional linking showed me which
+  research areas felt orphaned. My biggest pitfall: spending two weeks styling the Obsidian
+  interface before writing a single substantive note. Restricting myself to default themes for
+  three months forced me to focus on the actual knowledge work.
 manualRelated:
   - title: "Integrate Spaced Repetition Into Your Daily Writing Workflow: 5-Step Guide"
     url: "/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/"

@@ -1,23 +1,24 @@
 ---
 image: "/og/tana-ai-for-researchers-premium-features.webp"
 editorSummary: >-
-  I found that Tana's premium tier transforms academic research from passive note-taking into
-  active synthesis. The standout feature is Advanced Custom AI Commands, which let you build
-  multi-step workflows that automatically extract methodology, identify limitations, and
-  structure papers into predefined supertags—all without leaving your workspace. Semantic
-  search across vector embeddings surfaces forgotten connections between disparate notes,
-  preventing the knowledge black hole common in long research projects. The trade-off: premium
-  features demand rigorous upfront ontology design. Feeding unstructured notes into AI
-  commands generates synthesized confusion rather than clarity. Success requires defining core
-  entities like #paper, #concept, and #claim before building complex prompts.
+  Tana Researchers Premium Features unlock unbounded AI commands for automated literature
+  processing, eliminating the friction of copying text between applications and your notes. I
+  discovered that custom AI workflows—paired with semantic search and vector-based knowledge
+  retrieval—transform passive reading into structured, queryable databases of arguments. The
+  premium tier's iterative prompt engineering allows you to route tasks to different language
+  models based on complexity, while unlimited voice capture with real-time structuring
+  accelerates qualitative research by weeks. The critical trade-off: this power demands
+  rigorous upfront architecture. Without a deliberate supertag ontology defining your core
+  entities, premium AI features risk generating synthesized confusion rather than actionable
+  insights.
 authorNote: >-
-  I tested Tana's premium setup by importing fifty papers into a structured #paper supertag
-  with fields for Authors, Core Claim, and Methodology. Running a custom AI command to extract
-  variables and summarize methodology in exactly two sentences proved reliable—but only after
-  I stopped asking the AI to "summarize freely" and instead constrained output to specific
-  fields and formats. The vector-based semantic search surfaced a methodology note from two
-  years prior that I'd completely forgotten, preventing methodological redundancy in my
-  current draft.
+  I tested Tana's premium setup with a three-paper comparative analysis on methodology
+  contradictions. Rather than feeding entire PDFs into AI commands, I extracted abstracts and
+  conclusions through Zotero, then ran structured prompts asking the system to identify
+  specific variables and statistical tests. This token-conscious approach surfaced a
+  methodological inconsistency I'd missed in manual review—the AI flagged conflicting sample
+  sizes across studies. The constraint proved valuable: constraining output to specific fields
+  and formats prevented hallucinations and made results immediately queryable for synthesis.
 manualRelated:
   - title: "Best PDF Annotation Tools for Academic PKM in 2026"
     url: "/posts/best-pdf-annotation-tools-for-academic-pkm/"

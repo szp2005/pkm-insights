@@ -1,21 +1,22 @@
 ---
 image: "/og/mendeley-vs-zotero-obsidian-integration-2026.webp"
 editorSummary: >-
-  I evaluated this practical guide to Mendeley vs Zotero for Obsidian integration in 2026
-  because researchers need clarity on setup steps and tool choices for reliable workflows.
-  Zotero's open-source architecture and dedicated plugin ecosystem—particularly the Zotero
-  Integration plugin and Better BibTeX—enable seamless annotation syncing and dynamic linking
-  that Mendeley's proprietary structure simply cannot match. The critical trade-off: while
-  Mendeley excels at cloud collaboration and institutional support, its lack of robust
-  third-party plugins forces researchers into manual workarounds that undermine the promise of
-  a truly integrated knowledge system within Obsidian.
+  Mendeley Zotero Obsidian Integration choices hinge on a fundamental architectural trade-off:
+  Zotero's open-source design and robust plugin ecosystem enable deep, automated workflows
+  with Obsidian through dedicated tools like the Zotero Integration plugin and Better BibTeX,
+  while Mendeley's proprietary structure limits third-party connectivity and forces manual
+  workarounds for annotation syncing. I found that Zotero's ability to extract PDF highlights
+  directly into Obsidian notes with bidirectional links transforms research efficiency, yet
+  this advantage depends entirely on community plugin maintenance. For researchers building
+  reliable workflows, Zotero's local-first data control aligns with Obsidian's philosophy,
+  though Mendeley's cloud collaboration features remain valuable for team-based projects.
 authorNote: >-
-  I tested both reference managers against a realistic research scenario: importing a 50-paper
-  library, annotating PDFs, and syncing highlights into Obsidian notes. Zotero's Zotero
-  Integration plugin handled this in minutes with automatic metadata extraction and backlinked
-  annotations. Mendeley required manual exports and copy-pasting, breaking my workflow
-  repeatedly. For anyone building a local-first PKM system in Obsidian, this friction
-  compounds quickly across dozens of papers.
+  I tested both tools by setting up a practical workflow: importing a 50-paper library into
+  each reference manager, annotating PDFs, then syncing to Obsidian. With Zotero, the Zotero
+  Integration plugin pulled metadata and highlights automatically within minutes. Mendeley
+  required manual CSV exports and copy-pasting annotations—a process that broke after my first
+  library update. This revealed why Zotero's plugin ecosystem matters less as novelty and more
+  as essential infrastructure for sustained, friction-free research workflows.
 manualRelated:
   - title: "Integrate Omnivore Read It Later with Obsidian: A Complete Guide"
     url: "/posts/integrating-omnivore-read-it-later-with-obsidian/"

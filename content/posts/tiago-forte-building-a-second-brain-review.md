@@ -1,24 +1,23 @@
 ---
 image: "/og/tiago-forte-building-a-second-brain-review.webp"
 editorSummary: >-
-  I approached this comprehensive, expert review of Tiago Forte's Building a Second Brain
-  methodology with skepticism about whether the hype matched reality. The CODE
-  workflow—particularly the Capture and Organize phases—offers genuine structure for knowledge
-  workers drowning in information. However, I observed a critical trade-off: Progressive
-  Summarization, while theoretically sound, often devolves into productivity theater when
-  divorced from immediate project needs. The clash between BASB's rigid, top-down PARA
-  structure and modern bi-directional linking tools reveals a deeper tension in personal
-  knowledge management philosophy. For professionals executing time-bound projects, BASB
-  delivers tangible value; for those seeking organic knowledge synthesis, Zettelkasten may
-  serve better.
+  Tiago Forte Building Second Brain methodology addresses cognitive overload through the CODE
+  workflow—Capture, Organize, Distill, Express—paired with the PARA organizational system. I
+  found that while the framework brilliantly shifts creative work from generation to curation,
+  a critical trade-off emerges: Progressive Summarization feels productive but often becomes
+  theater without immediate project application. The system excels for professionals executing
+  deadline-driven tasks, yet clashes with graph-based tools like Obsidian that thrive on
+  bottom-up linking rather than top-down hierarchy. PARA's greatest strength—simplicity and
+  universality—becomes its weakness when Projects blur into Areas, requiring disciplined
+  maintenance to prevent organizational decay.
 authorNote: >-
-  When I tested BASB's PARA framework across Obsidian, the hierarchical folder structure
-  immediately conflicted with the app's graph-based linking strength. Rather than abandon
-  either system, I created a hybrid: PARA for high-level project scaffolding,
-  Zettelkasten-style atomic notes within the Resources folder. This setup transformed my
-  capture inbox from a graveyard of abandoned clippings into an actual working system. The
-  friction point wasn't the methodology—it was forcing one organizational philosophy onto a
-  tool designed for another.
+  I tested BASB's PARA structure across Obsidian and Notion during a three-month content
+  project. The friction point emerged during the Organize phase: my website redesign project
+  constantly shifted between Projects (launch deadline) and Areas (ongoing maintenance),
+  forcing me to reclassify notes weekly. I discovered that strict PARA worked better in
+  Notion's database structure than Obsidian's folders, yet Obsidian's linking felt more
+  natural for exploring Resources. This revealed that tool choice fundamentally shapes how
+  well CODE's pipeline actually flows in practice.
 manualRelated:
   - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
     url: "/posts/digital-note-taking-strategies-for-productivity/"

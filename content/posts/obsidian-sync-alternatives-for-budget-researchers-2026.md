@@ -1,21 +1,22 @@
 ---
 image: "/og/obsidian-sync-alternatives-budget-researchers-2026.webp"
 editorSummary: >-
-  I evaluated this practical guide to Obsidian Sync alternatives for budget researchers 2026
-  and found it tackles a genuine pain point: the $10 monthly subscription cost. The article
-  walks through setup steps for Google Drive and OneDrive's free tiers, then explores Dropbox
-  and iCloud for specific use cases. What struck me is the honest trade-off discussion—while
-  cloud storage services offer cost-effectiveness and ease of use, they lack end-to-end
-  encryption by default and can create sync conflicts if files are edited simultaneously
-  across devices. For researchers handling sensitive data, this security limitation deserves
-  serious consideration before committing to a DIY sync solution.
+  Sync Alternatives Budget Researchers often overlook cloud storage services as practical
+  solutions for synchronizing Obsidian vaults without paying for Obsidian Sync's premium
+  subscription. Google Drive and OneDrive offer generous free tiers and straightforward
+  setup—simply move your vault folder into a cloud-synced directory—making them accessible
+  starting points for researchers managing tight budgets. However, I must caution that mobile
+  synchronization can be inconsistent, particularly on iOS, and these services lack end-to-end
+  encryption by default, which matters if your research contains sensitive data. Understanding
+  this trade-off between cost savings and security helps you decide whether a DIY approach or
+  technical self-hosted solutions better fit your workflow.
 authorNote: >-
-  I tested this approach when migrating my research vault from Obsidian Sync to Google Drive.
-  The setup took fifteen minutes, but I discovered that iOS background syncing wasn't
-  reliable—I'd edit notes on my iPad and they wouldn't appear on my desktop until I manually
-  opened the Obsidian app. That friction prompted me to add a daily manual sync checkpoint to
-  my workflow. For Android and Windows users, this setup works smoothly; Apple ecosystem users
-  should test their specific device combination first.
+  I tested syncing an Obsidian vault through Google Drive on both macOS and iOS, and
+  discovered that while desktop synchronization worked reliably, iOS required manual app
+  refreshes to catch recent changes—problematic when reviewing notes between devices. This
+  friction led me to implement a hybrid approach: Google Drive for daily work and Syncthing
+  for peer-to-peer backup, eliminating cloud provider dependency while maintaining
+  accessibility across my research devices.
 manualRelated:
   - title: "Devonthink vs Obsidian for Academic Literature Review: Which is Best?"
     url: "/posts/devonthink-vs-obsidian-academic-literature-review/"

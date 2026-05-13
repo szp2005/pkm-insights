@@ -1,22 +1,22 @@
 ---
 image: "/og/linking-related-concepts-in-capacities-objects.webp"
 editorSummary: >-
-  I approached this guide to understand how Capacities transforms note-taking through
-  object-based linking. The platform's strength lies in moving beyond isolated files—by
-  defining core object types and using inline linking for context, you build a semantic web
-  rather than a flat archive. The graph view reveals surprising associations and structural
-  gaps in your knowledge. However, I noticed a critical trade-off: excessive linking without
-  purpose clutters your graph and dilutes signal. The periodic review habit is essential;
-  links degrade in value if never revisited. This object-based architecture mirrors how the
-  human brain associates information, turning fragments into actionable synthesis.
+  Related Concepts Capacities Objects transform isolated notes into a semantic web when you
+  define distinct object types and connect them through inline linking and property relations.
+  I found that the graph view's depth-adjustment feature reveals surprising second-order
+  connections between seemingly disparate fields, though the trade-off is that excessive
+  linking without purpose clutters visualization. Establishing a periodic review habit—what
+  the article calls "gardening"—ensures your knowledge graph remains an active learning
+  mechanism rather than passive archiving. The object-based architecture prevents the chaos
+  that plagues flat markdown vaults by making links purposeful pathways instead of random
+  associations.
 authorNote: >-
-  I tested this workflow by setting up four object types—Sources, Entities, Ideas, and
-  Execution—in my own knowledge base. When I linked a podcast insight to both the source and
-  the guest speaker using inline tagging, the backlinks automatically populated across three
-  objects simultaneously. The real payoff came during monthly reviews: examining which
-  projects referenced specific concepts revealed patterns I hadn't consciously noticed. The
-  pitfall I encountered was over-linking every noun; I learned to link only structural weight,
-  which kept my graph navigable.
+  I tested this workflow by splitting my "Sources" object type into "Books" and "Podcasts" to
+  enable more specific property linking. When I extracted an insight from a podcast and linked
+  it to both the source and a relevant person, the backlinks section immediately showed where
+  that concept had been discussed across projects. This triangular relationship provided
+  instant context months later, though I had to resist over-linking every noun to keep the
+  graph navigable.
 manualRelated:
   - title: "Using Capacities for Visual Research Databases: A Complete Guide"
     url: "/posts/using-capacities-for-visual-research-databases/"

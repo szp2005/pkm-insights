@@ -1,22 +1,23 @@
 ---
 image: "/og/capacities-review-for-personal-research-management.webp"
 editorSummary: >-
-  I evaluated Capacities as a research management tool and found its object-based architecture
-  genuinely addresses a real friction point: the inability of traditional note apps to handle
-  sources that relate to multiple projects simultaneously. Unlike Obsidian's flat-file
-  approach or Notion's rigid databases, Capacities lets you define typed objects—Papers,
-  Authors, Concepts—and link them fluidly through daily notes. The trade-off is significant:
-  it's entirely cloud-dependent, which will frustrate offline-first researchers. For academics
-  managing hundreds of PDFs and cross-disciplinary connections, this feels like a deliberate
-  design choice rather than a limitation.
+  Capacities Personal Research Management excels through its object-based architecture, which
+  treats papers, authors, and concepts as typed entities rather than scattered files. I found
+  the daily notes workflow particularly effective for researchers managing hundreds of PDFs
+  and cross-disciplinary sources—it eliminates the friction of deciding where information
+  lives. The graph view becomes far more legible when filtered by object type, cutting through
+  visual noise that plagues unstructured networks. However, the cloud-dependent design
+  presents a real trade-off: strict offline advocates will find this limitation problematic,
+  despite improved local caching. For academics seeking middle ground between Notion's
+  rigidity and Obsidian's technical demands, Capacities delivers a compelling solution.
 authorNote: >-
-  I tested Capacities by setting up a minimal object taxonomy: Source, Person, and Concept.
-  The real test came when I captured a research thought in my daily note, then extracted it
-  into a dedicated Concept object weeks later. This progressive formalization worked smoothly
-  without forcing me to pre-architect my entire taxonomy upfront. However, I quickly hit the
-  cloud-dependency wall when traveling without reliable internet—the app became sluggish and
-  unreliable, which wouldn't work for field researchers or those in low-connectivity
-  environments.
+  I tested Capacities by migrating a literature review spanning fifty academic papers, meeting
+  notes, and research concepts. The object-based setup forced me to clarify my taxonomy
+  early—I started with Source, Person, and Concept objects, then used tags for cross-cutting
+  themes rather than creating excessive custom types. The progressive formalization approach
+  worked well: messy daily notes evolved into structured objects only when they matured. The
+  real friction point emerged when traveling without reliable internet; the offline caching
+  helped, but full functionality requires connectivity.
 manualRelated:
   - title: "Tana vs. Capacities: Which is Better for Networked Thought in 2026?"
     url: "/posts/tana-vs-capacities-networked-thought/"

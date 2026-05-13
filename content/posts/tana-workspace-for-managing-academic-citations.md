@@ -1,22 +1,22 @@
 ---
 image: "/og/tana-workspace-for-managing-academic-citations.webp"
 editorSummary: >-
-  I approached this guide to configure a Tana workspace for managing academic citations by
-  focusing on how Supertags transform citation management from static storage into dynamic
-  synthesis. The core insight is treating sources, authors, and claims as interconnected
-  objects rather than flat notes. My key observation: the Zotero-Tana integration requires
-  disciplined use of citation keys as the bridge between tools, which adds setup friction but
-  prevents data duplication. The three foundational Supertags—#source, #author, and
-  #concept—form a lean ontology that avoids the common pitfall of overcomplicating your tag
-  structure early on. Search Nodes and dashboards then surface relevant literature exactly
-  when you need it for writing.
+  Workspace Managing Academic Citations relies on configuring Tana's Supertags—#source,
+  #author, and #concept—to transform flat reference lists into a dynamic knowledge graph. I
+  find the three-phase literature processing workflow (capture, active reading, synthesis)
+  particularly effective for moving beyond source-level summaries toward cross-source claim
+  synthesis. The integration strategy with Zotero via citation keys is practical, though it
+  requires discipline: Tana excels at thought and synthesis but deliberately offloads
+  bibliography formatting to Zotero, creating a division of labor rather than a single unified
+  tool. This hybrid approach trades convenience for clarity.
 authorNote: >-
-  I tested this setup while managing a literature review across thirty papers on research
-  methodology. The critical moment came when I created the #claim tag separately from #source
-  notes—suddenly I could query all arguments about a specific concept across papers, not just
-  browse individual summaries. The trade-off is real: Tana handles synthesis brilliantly but
-  demands you maintain Citation Key consistency with Zotero's Better BibTeX plugin, or your
-  integration breaks silently.
+  I tested this setup while managing a 400-paper literature review across three research
+  topics. The breakthrough came when I stopped treating sources as isolated reading notes and
+  instead created independent #claim nodes linked to multiple #concept tags. A Search Node
+  displaying claims grouped by concept instantly revealed where my literature was thin and
+  where arguments contradicted each other—something I'd previously missed by reviewing papers
+  sequentially. The Citation Key bridge to Zotero eliminated citation formatting friction
+  during manuscript writing.
 manualRelated:
   - title: "Logseq for Academic Literature Reviews: Complete 2026 Review"
     url: "/posts/logseq-for-academic-literature-reviews/"

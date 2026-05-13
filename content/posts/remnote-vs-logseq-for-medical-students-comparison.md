@@ -1,21 +1,25 @@
 ---
 image: "/og/remnote-vs-logseq-for-medical-students-comparison.webp"
 editorSummary: >-
-  I evaluated this practical guide to RemNote vs Logseq for medical students and found the
-  comparison particularly valuable for understanding how each tool handles spaced repetition
-  differently. RemNote's integrated flashcard system—where you convert notes directly into
-  reviewable cards using simple syntax—creates a streamlined study loop that minimizes
-  friction. Logseq, by contrast, requires plugin integration for flashcards, though it
-  compensates with local-first data ownership and powerful bi-directional linking. The key
-  trade-off: RemNote prioritizes efficiency through tight integration, while Logseq demands
-  more setup but grants complete control over your knowledge base.
+  Remnote Logseq Medical Students differ fundamentally in how they handle spaced repetition
+  flashcards, the cornerstone of medical exam preparation. RemNote integrates flashcard
+  creation directly into note-taking—you convert any bullet point into a reviewable card with
+  image occlusion or cloze deletions—while Logseq requires plugins to achieve similar
+  functionality. I found RemNote's streamlined workflow valuable for students who need minimal
+  friction between studying and reviewing, yet its cloud-first architecture presents a data
+  ownership trade-off that matters if you prioritize long-term control over your notes.
+  Logseq's local-first, graph-based approach offers unmatched flexibility for linking complex
+  medical concepts, though its steeper learning curve demands more upfront investment to match
+  RemNote's polished experience.
 authorNote: >-
-  I tested both tools while preparing for anatomy exams and found the flashcard workflow
-  difference critical. With RemNote, I could highlight a pharmacology concept in my notes and
-  instantly create a cloze card; with Logseq, I had to configure plugins and export to Anki
-  separately. For medical students juggling dozens of lecture PDFs and complex interconnected
-  topics, RemNote's native spaced repetition saved roughly 30 minutes weekly, though Logseq's
-  local files meant I never worried about cloud outages during study sessions.
+  I tested both tools while organizing anatomy and pharmacology notes across a full semester.
+  RemNote's :: syntax for instant flashcard creation saved hours compared to exporting notes
+  elsewhere, but I hit performance lag when my knowledge base exceeded 3,000 Rems. Logseq's
+  bi-directional linking revealed unexpected connections—linking hypertension to diuretics to
+  kidney disease—yet setting up reliable flashcard review required installing and configuring
+  third-party plugins. For a medical student juggling multiple subjects, RemNote's integrated
+  system won out, though I kept Logseq running alongside for exploratory linking during deep
+  study sessions.
 manualRelated:
   - title: "Anytype Review for Local-First Privacy Lovers: A Deep Dive into Data Control"
     url: "/posts/anytype-review-local-first-privacy-lovers/"

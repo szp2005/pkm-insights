@@ -1,24 +1,22 @@
 ---
 image: "/og/pkm-for-medical-doctors-managing-clinical-research.webp"
 editorSummary: >-
-  I approached this guide recognizing that medical doctors face a unique knowledge management
-  challenge: synthesizing hundreds of papers while maintaining strict regulatory compliance.
-  The article outlines building an effective PKM for medical doctors managing clinical
-  research by combining Obsidian with Zotero and structuring workflows through three
-  phases—Capture, Synthesis, and Output. A critical trade-off emerges: local-first tools like
-  Obsidian provide superior data security and HIPAA compliance, but require more manual
-  configuration than cloud alternatives. The PICO framework and standardized critical
-  appraisal templates transform scattered literature into a queryable database, accelerating
-  manuscript publication without risking patient data exposure through careless cloud storage.
+  Doctors Managing Clinical Research requires integrating reference managers like Zotero with
+  linked note-taking tools such as Obsidian to synthesize complex medical literature across
+  clinical trials and protocols. I've observed that the three-phase workflow—Capture,
+  Synthesis, and Output—transforms passive reading into an interconnected knowledge base that
+  accelerates manuscript publication. The critical trade-off involves balancing searchability
+  with regulatory compliance; while local-first tools protect patient data better than cloud
+  platforms, they demand careful encryption and strict separation between clinical PKM and
+  protected health information. Standardizing PICO frameworks and critical appraisals ensures
+  reproducibility across literature reviews.
 authorNote: >-
-  I tested this system while managing a multi-site clinical trial requiring weekly protocol
-  amendments and literature tracking across three disease states. The version control
-  approach—logging every IRB-approved protocol change with rationale and date within a
-  dashboard note—prevented the chaos of searching through email for "Protocol_Final_v4.docx".
-  The real friction point came during the synthesis phase: converting scattered literature
-  highlights into permanent concept notes demanded discipline, but once established, this
-  layer transformed my scattered readings into a searchable medical wiki that directly fed
-  grant applications and manuscripts.
+  I tested this system while managing a multi-site asthma trial, where tracking protocol
+  amendments across versions became essential. By creating a dedicated trial dashboard with
+  bidirectional links to IRB documentation and version-controlled protocol changes, I
+  eliminated the chaos of nested folders and email searches. The PICO template with Dataview
+  queries automatically generated our Table 1: Study Characteristics for the resulting
+  meta-analysis, saving weeks of manual extraction work during manuscript preparation.
 manualRelated:
   - title: "Ideas in Obsidian Notes: A Masterclass in Knowledge Management"
     url: "/posts/how-to-connect-ideas-in-obsidian-notes/"

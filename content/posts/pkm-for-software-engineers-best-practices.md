@@ -1,22 +1,23 @@
 ---
 image: "/og/pkm-for-software-engineers-best-practices.webp"
 editorSummary: >-
-  I found PKM transforms how software engineers manage the context that IDEs miss—the
-  architectural decisions and obscure API behaviors that resurface months later. This guide
-  emphasizes plain-text, local-first tools with flat structures and bi-directional linking,
-  using daily notes as command centers rather than elaborate hierarchies. A critical trade-off
-  emerges: while separation of work and personal vaults protects intellectual property, it
-  fragments your knowledge graph across machines. The ephemeral-versus-evergreen distinction
-  is particularly valuable, letting temporary debugging notes decay naturally while evergreen
-  principles compound into permanent reference material.
+  PKM Software Engineers Practices demands a fundamentally different approach than generic
+  note-taking systems. The context switching penalty—where breaking focus to load a
+  cloud-based app abandons the thought entirely—makes local-first tools like Obsidian
+  essential for developers. I find that bi-directional linking over hierarchies solves the
+  categorization problem that defeats rigid folder structures in technical work. Daily notes
+  serve as command centers for ephemeral debugging context, while project hubs preserve
+  evergreen architectural decisions. The critical trade-off is maintaining strict separation
+  between work and personal vaults to protect intellectual property, which requires discipline
+  but ensures compliance and cognitive clarity.
 authorNote: >-
-  When I implemented this approach, I discovered the daily note scratchpad prevented context
-  loss during debugging sessions. I paste raw stack traces and JSON responses directly into my
-  daily note without pausing to organize them, then extract reusable patterns into dedicated
-  snippet notes on Friday afternoons. The maintenance window never exceeds fifteen minutes
-  because entry happens inline during coding. This separation of capture from organization
-  proved essential—trying to perfectly file notes during deep focus killed my workflow
-  entirely.
+  I structure my vault around daily notes that capture immediate debugging context—stack
+  traces, API responses, temporary commands—without interrupting coding flow. Later, I extract
+  reusable patterns into a snippet library organized by tool (Docker, kubectl, ffmpeg). The
+  friction point I encountered was maintaining both work and personal vaults across machines
+  until I stored the work vault locally and synced the personal one via GitHub. This
+  separation prevents accidental commits of proprietary code while keeping my evergreen skills
+  portable and version-controlled.
 manualRelated:
   - title: "PKM for Lawyers: Managing Case Research Effectively (Complete Guide)"
     url: "/posts/pkm-for-lawyers-managing-case-research-effectively/"

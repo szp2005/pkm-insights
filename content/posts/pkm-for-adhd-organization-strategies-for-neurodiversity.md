@@ -1,23 +1,22 @@
 ---
 image: "/og/pkm-for-adhd-organization-strategies-neurodiversity.webp"
 editorSummary: >-
-  I approached this article on PKM for ADHD as a practical guide to bypassing the traditional
-  organizational pitfalls that neurodivergent brains face. The core insight—that search trumps
-  sorting—reframes how we think about knowledge capture entirely. Tools like Obsidian and
-  Logseq excel here, but the real trade-off is that visual appeal can become a distraction for
-  ADHD users, pulling focus from what matters most: frictionless capture. The daily note
-  strategy eliminates decision fatigue by creating a universal inbox, while bidirectional
-  linking mirrors how associative minds naturally work. Understanding working memory deficits
-  and idea object permanence is essential; these aren't productivity failures but neurological
-  realities that demand systems designed around them, not against them.
+  Adhd Organization Strategies Neurodiversity demand a fundamentally different approach than
+  traditional filing systems. Working memory deficits and idea object permanence mean that
+  rigid folders and complex categorization schemes fail neurodivergent brains almost
+  immediately. I've found that the daily note as a universal inbox—combined with bidirectional
+  linking and visual mapping—transforms scattered thoughts into actionable knowledge without
+  requiring sustained executive function. The critical trade-off is accepting messiness: a
+  functional, imperfect system beats an abandoned perfect one. When capture is frictionless
+  and search trumps sorting, a PKM becomes genuinely indispensable rather than another source
+  of guilt.
 authorNote: >-
-  I tested the daily note approach when managing scattered project notes across multiple
-  contexts. By dumping everything into a single entry point without deciding where it belongs,
-  I eliminated the paralysis that usually stopped me from capturing thoughts at all. The real
-  payoff came during weekly reviews—searching back through daily notes surfaced connections
-  I'd forgotten making. However, I noticed the system only works if I resist the urge to
-  perfect it. The moment I started creating elaborate tag hierarchies, the friction returned
-  and capture stopped happening.
+  I tested the daily note strategy after years of failed folder hierarchies, and the
+  difference was immediate. Instead of deciding where each thought belonged, I dumped
+  everything into today's note—meeting snippets, random ideas, task reminders. During a weekly
+  review, I'd link important items to project pages using bidirectional brackets. Even when I
+  skipped weeks of processing, searching my history still surfaced buried ideas. This
+  low-maintenance approach finally broke my cycle of system abandonment and actually stuck.
 manualRelated:
   - title: "Avoiding Collector's Fallacy in PKM: 5-Step Guide"
     url: "/posts/how-to-avoid-the-collectors-fallacy-in-pkm/"

@@ -1,23 +1,24 @@
 ---
 image: "/og/semantic-layers-in-personal-knowledge-management.webp"
 editorSummary: >-
-  I approached this article as a guide to transforming scattered notes into queryable systems.
-  The semantic layer concept—using typed links, properties, and metadata—shifts personal
-  knowledge management from passive storage to active relational databases. What strikes me
-  most is the trade-off between flexibility and rigor: while folksonomies offer fluidity, they
-  scale poorly without standardized nomenclature. The article's step-by-step implementation
-  framework emphasizes incremental adoption rather than bulk refactoring, which I find
-  practical. By defining entity types, standardizing properties, and building dynamic
-  dashboards, you unlock retrieval capabilities that simple bidirectional links cannot match.
-  However, maintaining consistent YAML schemas across thousands of notes demands discipline.
+  Semantic Layers in Personal Knowledge Management transform scattered notes into an
+  interconnected, queryable database by introducing structured metadata and typed
+  relationships. I found that properties and metadata (frontmatter), typed links, and
+  standardized nomenclature form the foundation of this approach. The trade-off is
+  significant: while semantic layers enable powerful dynamic queries and dashboards that
+  automatically surface relevant information, they require upfront planning and strict
+  adherence to your terminology—inconsistent key naming breaks queries and undermines the
+  entire system. Building an ontology that defines valid entity types and relationships takes
+  time, but the payoff scales dramatically as your knowledge base grows from hundreds to
+  thousands of notes.
 authorNote: >-
-  I tested this approach by retrofitting a 3,000-note vault with typed links and frontmatter
-  templates. The friction point came immediately: my existing Project notes used three
-  different status formats (active, in progress, ongoing). Rather than bulk-edit, I created a
-  Templater template for new projects and updated old ones only when I referenced them. Within
-  two months, querying active projects by deadline became automatic. The real payoff emerged
-  when I built a dashboard pulling projects linked to quarterly goals—something impossible
-  with unstructured links alone.
+  I tested this framework by retrofitting a 3,000-note vault with semantic structure
+  incrementally rather than attempting a bulk migration. I focused first on new project and
+  person notes using templates that auto-populated YAML frontmatter, then built a simple
+  Dataview dashboard to surface active projects. The friction point came when I realized my
+  inconsistent use of status: active versus status: in-progress—a single terminology slip
+  broke the query. This taught me that standardized nomenclature is non-negotiable; I now
+  maintain a reference schema document I check before creating any new note type.
 manualRelated:
   - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
     url: "/posts/best-apps-for-personal-knowledge-management/"

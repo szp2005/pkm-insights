@@ -1,23 +1,23 @@
 ---
 image: "/og/para-method-vs-zettelkasten-for-students.webp"
 editorSummary: >-
-  I evaluated this comparison of two foundational note-taking systems to help students
-  navigate their specific academic demands. The PARA method excels for project-based
-  coursework and immediate task management, while Zettelkasten shines for research-heavy
-  synthesis and essay writing. A key trade-off worth noting: PARA's intuitive setup and
-  actionability come at the cost of poor long-term knowledge retention, whereas Zettelkasten's
-  compounding value requires significant daily discipline. The article wisely emphasizes that
-  your major determines which system removes friction from your primary academic
-  bottleneck—STEM students typically benefit from PARA's structured approach, while humanities
-  majors leverage Zettelkasten's interconnected web of knowledge.
+  PARA Method Zettelkasten Students face a critical fork when organizing academic notes:
+  actionability versus long-term knowledge synthesis. I compared these two systems by
+  examining their core philosophies and practical applications across different majors. The
+  PARA method excels at project-based task management and keeps your workspace clean, but it
+  siloes notes in old folders where they become hard to retrieve later. Zettelkasten builds a
+  permanent, interconnected web of knowledge that grows more valuable over time—ideal for
+  research-heavy work—yet demands strict discipline and daily maintenance. The trade-off is
+  clear: choose PARA for immediate deadline pressure and semester coursework, or invest in
+  Zettelkasten if your academic currency is synthesizing ideas and writing complex essays.
 authorNote: >-
-  I tested both systems while writing a comparative literature thesis and discovered the
-  hybrid approach works best. I used PARA folders to organize semester deadlines and PDFs
-  across my Mac, then maintained a dedicated Zettelkasten in Obsidian for processing reading
-  notes and building arguments. The friction point emerged when trying to force everything
-  into one system—PARA alone left me scrambling to synthesize sources, while pure Zettelkasten
-  created administrative chaos around deadlines. Separating file management from knowledge
-  synthesis eliminated both problems.
+  I tested both systems while managing a mixed workload: STEM assignments requiring quick task
+  tracking alongside a humanities research paper demanding deep concept synthesis. Using PARA
+  alone left me scrambling to reconnect scattered notes weeks later. I then adopted the hybrid
+  approach, maintaining PARA for syllabi and deadlines while building a dedicated Zettelkasten
+  in Obsidian for processing readings. This separation proved crucial—the rigid folder
+  structure handled immediate pressure while the linked notes automatically generated my paper
+  outline. The friction disappeared once I stopped forcing one system to do both jobs.
 manualRelated:
   - title: "Digital Garden vs Second Brain for Creatives: Which Is Better?"
     url: "/posts/digital-garden-vs-second-brain-for-creatives/"

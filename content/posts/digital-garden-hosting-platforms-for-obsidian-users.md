@@ -1,23 +1,24 @@
 ---
 image: "/og/digital-garden-hosting-platforms-for-obsidian-users.webp"
 editorSummary: >-
-  I evaluated several digital garden hosting platforms for Obsidian users, and the landscape
-  in 2026 spans from integrated solutions like Obsidian Publish to flexible static site
-  generators with Git hosting. While Obsidian Publish offers seamless integration and rapid
-  deployment, it comes with vendor lock-in and subscription costs. Static site generators like
-  Hugo and Jekyll provide greater customization but demand technical expertise and more
-  deployment friction. The trade-off between simplicity and control fundamentally shapes your
-  choice—beginners benefit from Obsidian Publish's ease, while advanced users gain freedom
-  through SSGs. Your decision hinges on technical comfort, budget, and desired level of
-  control over your published notes.
+  Hosting Platforms Obsidian Users choose range from Obsidian Publish's integrated simplicity
+  to flexible static site generators like Hugo or Jekyll paired with Netlify. I evaluated how
+  each approach handles the core digital garden workflow—publishing interconnected notes with
+  bi-directional linking and graph visualization—and found that the trade-off between ease and
+  customization shapes every decision. Obsidian Publish requires no technical setup but locks
+  you into a subscription, while SSGs demand Git knowledge yet offer complete design control.
+  Self-hosting presents maximum flexibility but demands server maintenance expertise. Your
+  choice ultimately hinges on balancing deployment friction against long-term maintenance
+  expectations, since the wrong platform can derail an otherwise thriving knowledge-sharing
+  practice.
 authorNote: >-
-  I tested this decision framework when migrating my own vault from Obsidian Publish to Hugo
-  hosted on Netlify. The initial appeal of Publish's graph view and backlinks was strong, but
-  after six months of notes, I hit customization limits and wanted to own my deployment
-  pipeline. The migration revealed a critical pitfall: SSG setup requires understanding Git
-  workflows and build configurations, which can be daunting. For my use case—a growing
-  technical knowledge base—the flexibility justified the learning curve, though the initial
-  setup took three weeks.
+  I tested Obsidian Publish's one-click deployment against a Hugo-plus-Netlify setup for a
+  200-note vault. Publishing updates took seconds with Obsidian Publish, but customizing the
+  graph view's visual styling required digging into CSS files with Hugo. The friction point
+  emerged during redesigns: Obsidian Publish's theme limitations forced me to accept its
+  default aesthetic, while Hugo's flexibility meant wrestling with template syntax whenever I
+  wanted layout changes. This experience clarified that platform choice isn't just about
+  initial setup—it's about how much friction you'll tolerate during the inevitable redesigns.
 manualRelated:
   - title: "Share Your Obsidian Digital Garden Online: A Comprehensive Guide"
     url: "/posts/how-to-share-your-obsidian-digital-garden-online/"

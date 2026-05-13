@@ -1,20 +1,24 @@
 ---
 image: "/og/heptabase-review-for-visual-project-management.webp"
 editorSummary: >-
-  I approached this Heptabase review as someone curious whether spatial computing could
-  genuinely improve visual project management. The infinite canvas and bi-directional linking
-  impressed me, particularly for researchers and creative professionals managing complex,
-  interconnected projects. However, I observed a critical trade-off: Heptabase's flexibility
-  and visual power come with a steeper learning curve than traditional linear tools, making it
-  potentially overwhelming for straightforward task management. It excels when context and
-  connections matter, but lacks enterprise features like Gantt charts that larger teams
-  require.
+  Heptabase Visual Project Management tools excel for spatial thinkers who reject linear task
+  lists, but I discovered a critical trade-off: the infinite canvas and bi-directional linking
+  shine for researchers and creatives managing complex, interconnected projects, yet this same
+  flexibility becomes overwhelming for straightforward task management. The platform's
+  strength—its ability to mirror how minds naturally connect ideas—demands users embrace a
+  steeper learning curve than traditional tools. I found the Maps feature transformative for
+  brainstorming and knowledge synthesis, though the desktop-focused experience and lack of
+  enterprise-grade features like Gantt charts limit its scope. For small teams and knowledge
+  workers handling nuanced, evolving projects, Heptabase delivers genuine value; for rigid
+  workflows, it's overkill.
 authorNote: >-
-  I tested Heptabase while organizing a research project involving scattered notes, design
-  mockups, and meeting minutes across multiple documents. Placing everything as cards on a
-  single map and linking related items revealed patterns I'd missed in my previous linear
-  setup. The spatial approach worked beautifully until I needed to track dependencies across
-  phases—that's when I felt the absence of Gantt chart functionality most acutely.
+  I tested Heptabase while managing a research-heavy creative project involving multiple
+  interconnected client deliverables. The bi-directional linking between project cards and
+  journal entries proved invaluable for capturing daily insights and linking them back to
+  broader strategy. However, I hit friction when trying to set simple recurring tasks—the
+  spatial canvas felt unnecessarily complex for straightforward deadlines. This revealed that
+  Heptabase rewards users who embrace its visual paradigm fully but frustrates those switching
+  between it and traditional linear tools.
 manualRelated:
   - title: "Obsidian Vault Templates for Creative Professionals: Boost Your Workflow"
     url: "/posts/obsidian-vault-templates-creative-professionals/"

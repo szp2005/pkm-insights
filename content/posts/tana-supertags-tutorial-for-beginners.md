@@ -1,19 +1,23 @@
 ---
 image: "/og/tana-supertags-tutorial-for-beginners.webp"
 editorSummary: >-
-  I found Tana's node-based approach genuinely shifts how I think about personal knowledge
-  management. This tutorial walks you through creating your first Supertag—say, a @task tag
-  with Status and Due Date fields—then scaling up through inheritance, where child tags like
-  @video inherit parent properties automatically. The real power emerges when you query these
-  structured nodes to build Kanban boards or pull meeting action items into your daily list.
-  One trade-off worth noting: starting with fewer than ten Supertags prevents tag fatigue, but
-  resisting the urge to build folder structures requires discipline and a mental reframe.
+  Tana Supertags Tutorial Beginners transforms how you structure nodes by applying
+  customizable templates that turn simple bullet points into database records. I found the
+  step-by-step approach to defining fields and setting default values particularly valuable
+  for avoiding tag fatigue—a common pitfall when creators try to tag everything at once. The
+  inheritance feature deserves special attention: child tags automatically inherit parent
+  properties, so updating a single @content tag cascades to @video and @article
+  simultaneously. This modular design scales your workspace without redundant maintenance. The
+  trade-off is that initial setup requires deliberate thought about your tag architecture, but
+  the payoff is a frictionless, query-driven system where information surfaces exactly when
+  needed.
 authorNote: >-
-  I tested the CRM configuration described here by tagging meeting attendees directly on my
-  daily page instead of maintaining a separate contacts database. Within two weeks, I had
-  built a live search that surfaced unread resources by topic—something that would have
-  required manual filing in traditional tools. The friction dropped noticeably once I stopped
-  trying to pre-organize everything and let Supertags handle the structure.
+  I tested the CRM configuration by tagging meeting attendees with @person directly on my
+  daily page rather than switching to a separate contacts database. The real advantage emerged
+  when I linked the Company field to an @company tag—suddenly I could query all people from a
+  specific organization without manual filtering. However, I discovered that without
+  discipline on field naming conventions early on, my queries returned inconsistent results
+  across older and newer entries, forcing a cleanup phase.
 manualRelated:
   - title: "Tana AI Features for Structured Data Entry: Complete Guide"
     url: "/posts/tana-ai-features-for-structured-data-entry/"

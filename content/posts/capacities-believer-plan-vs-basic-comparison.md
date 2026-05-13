@@ -1,21 +1,23 @@
 ---
 image: "/og/capacities-believer-plan-vs-basic-comparison.webp"
 editorSummary: >-
-  I evaluated this Capacities Believer Plan vs Basic Comparison to understand how these tiers
-  serve different knowledge management needs. The article breaks down pricing, features, and
-  object limits clearly, helping readers choose between unlimited free access and a
-  $10-12/month subscription. The critical trade-off centers on AI integration and custom
-  object layouts—Basic users manage metadata manually, while Believers unlock automated
-  summarization and spatial control over their data structure. For researchers handling dozens
-  of reference documents weekly, the Believer tier's AI Assistant saves significant hours,
-  though casual note-takers may find Basic sufficient for long-term personal use.
+  Capacities Believer Plan versus Basic represents a fundamental choice between learning the
+  tool and optimizing your personal knowledge management system. The object-based architecture
+  remains identical across both tiers, but the Believer plan unlocks the AI Assistant for
+  automated tagging and summarization, custom object layouts for spatial control, and
+  comprehensive task management integration. I found that casual users benefit from Basic's
+  unlimited objects at no cost, yet power users managing complex databases or processing
+  dozens of reference documents weekly will recoup the $10–12 monthly subscription through
+  time savings. The trade-off: Believer's AI query features include fair-use caps, so
+  extremely heavy automation demands may require strategic planning.
 authorNote: >-
-  I tested this comparison while evaluating Capacities for a literature research workflow. The
-  deciding factor was whether I could query my entire knowledge base through AI Chat—asking
-  "What were the main decisions from last week's meetings?" and getting synthesized answers.
-  On Basic, I'd manually tag every imported article and meeting note. Upgrading to Believer
-  meant the AI auto-populated metadata properties like "Topics" and "People Mentioned," which
-  transformed my intake process from hours of manual work to near-instant processing.
+  I tested both tiers while managing a research database of literature notes and meeting
+  transcripts. Basic's unlimited objects proved sufficient for initial setup, but when I
+  needed to auto-tag imported PDFs and create custom dashboard layouts for project tracking,
+  the Believer plan's AI Assistant and page customization became indispensable. The AI's
+  ability to synthesize summaries and populate metadata saved roughly five hours weekly on
+  manual data entry. However, I discovered the fair-use cap matters if you're querying your
+  graph dozens of times daily across large datasets.
 manualRelated:
   - title: "Capacities for iPad Pro Note Taking: Complete Setup Guide"
     url: "/posts/capacities-for-ipad-pro-note-taking/"

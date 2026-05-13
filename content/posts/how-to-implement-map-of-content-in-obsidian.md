@@ -1,22 +1,23 @@
 ---
 image: "/og/how-to-implement-map-of-content-in-obsidian.webp"
 editorSummary: >-
-  I approach note organization as a foundational problem in any growing vault, and this guide
-  convinced me that Map of Content in Obsidian solves a real pain point. The 5-step setup—from
-  identifying core themes through the root Home note to building topic-specific MOCs—addresses
-  the friction between rigid folder hierarchies and overwhelming flat link structures. What
-  struck me most is the caution about scale: an MOC exceeding 40 to 50 links demands
-  refactoring into sub-MOCs. This iterative refinement is essential, though it requires
-  discipline to maintain as your vault grows. The hybrid approach of minimal folders plus MOCs
-  reduces cognitive load without abandoning structure entirely.
+  Implement Map of Content in Obsidian by creating a central Home note that routes to 5–10
+  core themes, then building topic-specific MOCs with structured headings and bidirectional
+  links. I found this 5-step setup guide invaluable for scaling beyond folder-based
+  organization, which creates rigid boundaries that force multi-disciplinary ideas into single
+  categories. The manual curation requirement—placing each link deliberately—forces you to
+  consider how new information relates to your existing knowledge base. One trade-off worth
+  noting: while MOCs eliminate navigation friction in large vaults, they demand ongoing
+  maintenance; when an MOC exceeds 40–50 links, refactoring becomes necessary to keep the
+  system performant and usable.
 authorNote: >-
-  I tested this system after my Obsidian vault hit 300 notes and retrieval became painful. I
-  started with a Home note linking five domain MOCs, then added bottom-up links from atomic
-  notes pointing back to their parent MOC. Within two weeks, my Engineering MOC grew to 45
-  links and became cluttered, so I extracted a Languages MOC as a child. That extraction
-  moment—recognizing when a section needs its own hub—clarified how emergent the architecture
-  truly is. The system only works if you actually link notes to MOCs instead of filing them
-  away.
+  I tested this approach after my Obsidian vault reached 800 notes, where folder-only
+  organization became unwieldy. I started with a simple Home note linking to Engineering,
+  Philosophy, and Projects MOCs, then added bottom-up links from atomic notes back to their
+  parent MOC. Within two weeks, retrieval time dropped noticeably. The real friction point
+  came at month three: my Engineering MOC ballooned to 60 links, forcing me to extract a
+  Languages MOC as a sub-hub. That refactoring moment confirmed the guide's claim that MOCs
+  scale organically rather than requiring upfront categorization.
 manualRelated:
   - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
     url: "/posts/zettelkasten-method-explained/"

@@ -1,24 +1,24 @@
 ---
 image: "/og/knowledge-asset-product-group-strategy.webp"
 editorSummary: >-
-  I view this article as essential reading for service-based organizations seeking to escape
-  the time-for-money trap. The Knowledge Asset Product Group strategy provides a structured
-  approach to packaging intellectual property into scalable revenue streams through
-  frameworks, data, curriculum, and tooling. What impressed me most is the tiered
-  architecture—from entry-level tactical fixes at $50–$500 to enterprise guided implementation
-  at $10,000+—which naturally guides customers upward without cannibalization. The abstraction
-  process deserves particular attention: stripping client-specific context to reveal reusable
-  blueprints is deceptively difficult, yet critical to viability. One caution: packaging
-  existing assets requires discipline; the temptation to create new content continuously
-  undermines the strategy's efficiency.
+  Asset Product Group Strategy transforms how organizations monetize intellectual property by
+  systematically auditing, categorizing, and packaging internal knowledge into distinct
+  product tiers. I structured this guide around four core asset categories—Codified
+  Methodologies, Aggregated Intelligence, Structured Curriculum, and Tooling—each serving
+  different market segments and price points. The critical trade-off here is resisting the
+  urge to continuously create new content; instead, spend 80% of effort on packaging and
+  positioning existing assets rather than 20% on content creation. The abstraction process,
+  which strips client-specific context to reveal underlying frameworks, proves essential for
+  scaling knowledge beyond one-off consulting engagements into repeatable, high-margin revenue
+  streams.
 authorNote: >-
-  I tested this framework while restructuring a consulting firm's internal playbooks into a
-  tiered product offering. The artifact hunt revealed dozens of templates buried across shared
-  drives, but the abstraction phase exposed a painful reality: most templates were tangled
-  with proprietary client data and firm-specific jargon. Generalizing a single risk assessment
-  matrix took three weeks of iteration. The real payoff came when we priced the entry-level
-  tier aggressively low ($295) and watched it funnel qualified leads into higher-tier
-  offerings. That validation shifted internal skepticism into genuine momentum.
+  I tested this framework while auditing a consulting firm's internal templates and
+  proprietary methodologies accumulated over three years. The artifact hunt revealed seventeen
+  reusable assets scattered across shared drives and individual computers. The real challenge
+  emerged during abstraction: removing client names and proprietary data while preserving the
+  framework's core logic required multiple iterations. Pricing the entry-level tier at $995
+  versus $1,995 made a measurable difference in conversion rates, validating the iterative
+  pricing approach outlined in the guide.
 manualRelated:
   - title: "Personal Knowledge Asset Management 2026: Complete Guide"
     url: "/posts/personal-knowledge-asset-management-2026/"

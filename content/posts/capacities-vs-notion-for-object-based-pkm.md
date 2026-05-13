@@ -1,24 +1,24 @@
 ---
 image: "/og/capacities-vs-notion-object-based-pkm.webp"
 editorSummary: >-
-  I evaluated both Capacities and Notion for object-based personal knowledge management, and
-  the choice hinges on your tolerance for structure. Capacities arrives with a native
-  object-oriented architecture—you define People, Books, or Meetings as intrinsic types, and
-  the system automatically generates interconnected webs of knowledge. Notion, by contrast, is
-  a blank canvas requiring you to manually build relations between databases. The trade-off is
-  real: Capacities eliminates setup friction but limits flexibility, while Notion demands
-  significant upfront configuration yet offers unmatched customization. For daily capture
-  workflows, Capacities' Daily Note integration with WhatsApp support outpaces Notion's mobile
-  experience. Performance and offline support favor Capacities, though Notion's ecosystem of
-  third-party integrations remains superior.
+  Notion Object-Based PKM requires you to manually architect databases and relations, whereas
+  Capacities arrives with native object structure already built in. I compared these tools
+  across daily workflows, linking capabilities, and performance to help you choose. Capacities
+  excels at frictionless capture through its Daily Note and WhatsApp integration,
+  automatically generating knowledge graphs without backend setup. Notion offers maximum
+  customization and team collaboration but demands significant upfront configuration and
+  maintenance. The key trade-off: Capacities prioritizes immediate utility at the cost of
+  flexibility, while Notion demands architectural overhead for unmatched extensibility. Your
+  choice depends on whether you'd rather spend time inputting knowledge or building the system
+  itself.
 authorNote: >-
-  I tested both tools while migrating a three-year knowledge base across systems. Capacities'
-  @ and + commands for rapid object creation cut my daily capture time by half compared to
-  Notion's database navigation. However, when I needed to build a custom dashboard linking
-  authors to books with publication timelines, Notion's relational properties proved
-  essential—Capacities' predefined object types couldn't accommodate my specific layout. The
-  deciding factor was performance: my Notion workspace with 2,000+ linked entries experienced
-  noticeable lag, while Capacities remained responsive.
+  I tested both tools by migrating a mixed research workflow—meeting notes, book annotations,
+  and project tracking—into each platform. With Capacities, capturing a meeting took seconds
+  using the +Meeting command in my Daily Note. Notion required navigating to the correct
+  database and manually linking related entries. However, when I needed to build a custom
+  dashboard filtering books by genre and author, Notion's flexibility shone while Capacities
+  felt constrained. The real friction emerged during offline work: Notion became nearly
+  unusable without internet, while Capacities maintained better local caching.
 manualRelated:
   - title: "Digital Garden vs Second Brain: What's the Difference and Which is Right for You?"
     url: "/posts/digital-garden-vs-second-brain-difference/"

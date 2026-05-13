@@ -1,21 +1,21 @@
 ---
 image: "/og/how-to-capture-ideas-on-the-go.webp"
 editorSummary: >-
-  I appreciate how this article tackles the core problem: ideas vanish because working memory
-  decays in 15 to 30 seconds without capture infrastructure. The 5-step system emphasizes
-  speed over structure, using tools like pocket notebooks and Drafts to eliminate friction.
-  What strikes me most is the practical trade-off between analog and digital capture—Field
-  Notes notebooks are slim but fill quickly, while Drafts opens instantly but requires a
-  smartphone. The key insight is that processing happens separately from capture, transforming
-  your inbox from a graveyard into a searchable resource through a dedicated habit.
+  Capture Ideas on the Go requires eliminating friction at the moment of inspiration. I've
+  found that pocket notebooks and fast-loading mobile apps—especially Drafts for iOS—work best
+  because they demand fewer than five seconds to record a raw thought before it decays from
+  working memory. The critical trade-off is choosing speed over organization at capture time;
+  trying to categorize or structure ideas while generating them interrupts creative flow. By
+  funneling all captures into a single inbox and deferring processing until you're back at
+  your workstation, you protect the fragile state of inspiration and build a resilient system
+  that actually catches stray thoughts instead of letting them vanish.
 authorNote: >-
-  I tested this system while working on a design project where ideas struck during commutes
-  and client calls. I paired a pocket A6 notebook with Drafts on my home screen, funneling
-  everything into a single Obsidian inbox folder. The friction reduction was
-  immediate—capturing took under five seconds. The real test came during my weekly processing
-  session: I discovered that half my voice memos needed AI transcription to be useful, and
-  several notebook sketches were too vague to act on. This revealed that capture speed matters
-  less than building a consistent processing rhythm.
+  I tested this system while managing multiple creative projects, switching between a Field
+  Notes notebook and Drafts on my iPhone. The biggest shift came when I stopped trying to
+  organize ideas immediately. Instead, I let my pocket notebook fill with sketches and quick
+  phrases, then processed everything in a single weekly review session. The one pitfall I hit:
+  I kept forgetting to carry the notebook until I moved it to my everyday carry pouch. Once it
+  became as automatic as my keys, capture became effortless.
 manualRelated:
   - title: "Differences Between Fleeting and Permanent Notes Explained: Complete Guide to Knowledge Management"
     url: "/posts/differences-between-fleeting-and-permanent-notes-explained/"

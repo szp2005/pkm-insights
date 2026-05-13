@@ -1,25 +1,23 @@
 ---
 image: "/og/getting-things-done-for-knowledge-workers.webp"
 editorSummary: >-
-  I approached this article expecting another generic productivity guide, but it offers
-  something sharper: a framework for adapting David Allen's Getting Things Done methodology
-  specifically for knowledge workers drowning in information exhaustion. The author dissects
-  how to rebuild GTD for modern tech stacks, moving beyond simple to-do lists. What struck me
-  most is the emphasis on energy and software contexts rather than physical locations—a
-  crucial trade-off that acknowledges remote work realities. The weekly review emerges as
-  non-negotiable system maintenance, yet the article warns that fiddling with tools often
-  derails adoption entirely. For anyone managing Slack, emails, and continuous context
-  switching, this masterclass in modern productivity offers practical clarity on the art of
-  the "Next Action."
+  Things Done Knowledge Workers face information exhaustion from endless Slack messages,
+  emails, and context switching—a problem that David Allen's GTD methodology directly
+  addresses, though blindly applying 2001-era GTD to a 2026 tech stack often leads to friction
+  and abandoned systems. I've found that the real power emerges when you redesign GTD
+  specifically for modern knowledge work: building a frictionless capture funnel, clarifying
+  the "Next Action" with precision, and organizing by energy and software contexts rather than
+  physical location. The critical trade-off is that this system demands a weekly review
+  ritual—60 to 90 minutes of sacred maintenance—without which your brain reverts to acting as
+  a storage device, eroding the cognitive freedom the methodology promises.
 authorNote: >-
-  I tested this framework when my task manager became a graveyard of vague intentions like
-  "improve database performance." The shift to defining exact next actions—"Run EXPLAIN
-  ANALYZE on the users_table query and post to Slack"—immediately reduced anxiety and
-  clarified what execution actually required. The energy-based contexts (@High_Energy,
-  @Low_Energy) proved transformative during my mid-afternoon slump, letting me batch routine
-  work rather than forcing deep thinking when depleted. The weekly review discipline, though
-  time-consuming, finally made me trust my system enough to stop using my brain as a storage
-  device.
+  I tested this framework while managing concurrent research projects, Slack overload, and
+  deep-work blocks. The turning point came when I separated my task manager (actionable items
+  only) from my PKM system (reference material and synthesis). Suddenly, my weekly review
+  became surgical rather than chaotic. One pitfall I hit early: I tried organizing tasks by
+  physical contexts, which made no sense working remotely. Switching to energy-level contexts
+  (@High_Energy for architecture decisions, @Low_Energy for ticket updates) aligned my task
+  batching with actual cognitive patterns and cut my context-switching friction significantly.
 manualRelated:
   - title: "Ideas in Obsidian Notes: A Masterclass in Knowledge Management"
     url: "/posts/how-to-connect-ideas-in-obsidian-notes/"

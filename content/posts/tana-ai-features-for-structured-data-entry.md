@@ -1,21 +1,23 @@
 ---
 image: "/og/tana-ai-features-for-structured-data-entry.webp"
 editorSummary: >-
-  I approached this guide by examining how Tana bridges the persistent tension between
-  frictionless capture and rigorous organization in knowledge management. The platform's
-  integration of AI as a functional layer—not just a chatbot—transforms raw input through
-  automated Supertags and semantic field extraction. What struck me most is the trade-off:
-  while AI-powered data entry dramatically reduces manual tagging, the system's accuracy
-  depends heavily on well-defined Supertags and specific, context-aware prompts. Without
-  precise schema design upfront, you risk miscategorization that requires ongoing correction
-  and refinement.
+  Features Structured Data Entry: Tana's approach fundamentally shifts how you bridge
+  unstructured capture and organized databases. I found that automated
+  Supertags—template-driven fields applied to any node—eliminate the friction between messy
+  human thoughts and queryable structure. The platform's AI acts as a data entry clerk,
+  parsing voice memos, web highlights, and raw text to automatically extract fields, apply
+  tags, and generate semantic links. One critical trade-off: the system's accuracy depends
+  heavily on how explicitly you define your Supertags and write context-aware prompts. Without
+  precise field definitions and specific instructions, AI output becomes unreliable, requiring
+  constant manual correction that undermines the automation benefit.
 authorNote: >-
-  I tested Tana's voice capture workflow by recording meeting transcripts and letting the AI
-  parse them into separate nodes with appropriate tags. The system correctly identified action
-  items and extracted due dates, but only because I'd built explicit date fields and
-  task-specific prompts beforehand. When I tried with vague Supertag definitions, the AI
-  struggled to distinguish between ideas and tasks, forcing me to rebuild my schema before the
-  automation became reliable.
+  I tested Tana's voice capture workflow by recording meeting transcripts during live calls,
+  then triggering an AI command to parse them into separate nodes tagged as tasks, decisions,
+  and ideas. The setup required building a robust #meeting Supertag with explicit fields
+  first—otherwise the AI extracted irrelevant data. After refining my prompts to be more
+  specific (e.g., "extract only explicit commitments, not observations"), accuracy improved
+  dramatically. This revealed that Tana's AI features work best when you invest upfront in
+  schema design rather than expecting the system to guess your structure.
 manualRelated:
   - title: "Tana Supertags Tutorial for Beginners: A Step-by-Step Guide"
     url: "/posts/tana-supertags-tutorial-for-beginners/"

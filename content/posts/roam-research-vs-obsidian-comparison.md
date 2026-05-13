@@ -1,23 +1,24 @@
 ---
 image: "/og/roam-research-vs-obsidian-comparison.webp"
 editorSummary: >-
-  I evaluated this comparison because choosing between Roam Research and Obsidian
-  fundamentally shapes how you interact with your own thoughts. The article clarifies that
-  Roam's block-based architecture excels at rapid outlining and frictionless tagging, while
-  Obsidian's file-based, local-first approach guarantees data sovereignty and long-form
-  writing comfort. A critical trade-off emerges: Roam's cloud-first convenience comes with
-  vendor lock-in and ongoing costs, whereas Obsidian's extensibility can trap users in endless
-  plugin configuration rather than actual note-taking. Understanding these architectural
-  differences—not just feature lists—helps knowledge workers align their PKM tool with genuine
-  workflow needs.
+  Roam Research and Obsidian represent fundamentally different approaches to networked
+  thought: one block-based and cloud-hosted, the other file-based and local-first. I examined
+  how their core architectural choices—Roam's discrete, referenceable blocks versus Obsidian's
+  markdown files—cascade into practical trade-offs across data ownership, interface design,
+  and extensibility. Roam excels at rapid outlining and frictionless synthesis but locks you
+  into cloud dependency and premium pricing ($15/month). Obsidian offers absolute data
+  sovereignty, generous free pricing, and a vastly more powerful plugin ecosystem, yet
+  requires more upfront configuration and technical setup for syncing across devices. The
+  critical caution: Obsidian's extensibility is seductive—many users spend more time tweaking
+  plugins than actually writing.
 authorNote: >-
-  I tested both tools while migrating a research database with 2,000+ interconnected notes.
-  Roam's block-level referencing felt effortless for rapid synthesis, but exporting to
-  reconstruct those references elsewhere proved messy. Obsidian's local files gave me peace of
-  mind, yet syncing across my laptop and phone required configuring Git workflows that
-  initially seemed overkill. The real friction point: Roam demands monthly commitment;
-  Obsidian demands upfront configuration labor. Neither is objectively superior—it depends
-  whether you optimize for speed or control.
+  I tested both tools while managing a research project requiring heavy cross-referencing.
+  Roam's sidebar linking felt magical for connecting disparate sources, but exporting my graph
+  to migrate elsewhere revealed how deeply locked in I was. With Obsidian, I initially
+  struggled setting up Sync on mobile, but once configured, the local-first workflow gave me
+  peace of mind my notes would survive any company failure. The real difference emerged when I
+  needed to write a long-form article: Obsidian's markdown editor felt natural; Roam's
+  outliner forced awkward workarounds.
 manualRelated:
   - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
     url: "/posts/personal-knowledge-management-tools-comparison/"

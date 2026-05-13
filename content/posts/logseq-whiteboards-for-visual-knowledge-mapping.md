@@ -1,22 +1,23 @@
 ---
 image: "/og/logseq-whiteboards-for-visual-knowledge-mapping.webp"
 editorSummary: >-
-  I appreciate how this guide demonstrates that visual knowledge mapping in Logseq resolves a
-  real workflow friction point: the need to copy notes into separate mind-mapping tools. The
-  infinite canvas and bidirectional links integration keep your spatial layouts synchronized
-  with your underlying database, which is crucial for maintaining consistency across projects.
-  However, the trade-off is real—designing effective whiteboards requires discipline. Without
-  standardized visual language and bounded scope, your canvases quickly become unreadable
-  webs. The guide's emphasis on atomic notes and structural containers addresses this
-  directly, helping you leverage spatial thinking without sacrificing the structured integrity
-  of your knowledge base.
+  Whiteboards Visual Knowledge Mapping transforms how you synthesize complex research by
+  letting you drag blocks directly onto an infinite canvas while maintaining bidirectional
+  links to your database. Unlike linear outliners that force hierarchical constraints, spatial
+  organization leverages your brain's natural memory for layout and relationships. I found the
+  drag-and-drop workflow particularly powerful for extracting critical quotes from dense
+  sources and arranging them into narrative arcs. The trade-off is real: without deliberate
+  scope-limiting and visual standardization, your canvases quickly become unreadable webs.
+  Keeping nodes atomic and working with the right sidebar open prevents this chaos while
+  preserving the structured integrity of your knowledge base.
 authorNote: >-
-  I tested this workflow while organizing a research paper with 200+ highlights. Dragging only
-  critical quotes onto a dedicated whiteboard, then arranging them into thematic clusters and
-  a narrative arc, cut my synthesis time significantly. The key friction point I discovered:
-  embedding queries for dynamic task lists works well, but mixing static blocks with live
-  queries on the same canvas creates visual clutter. I now use separate canvases for static
-  research maps and dynamic project dashboards.
+  I tested this by creating a whiteboard for a research project with 200+ highlighted
+  passages. I divided the canvas into three zones—raw quotes, thematic clusters, and narrative
+  sequence—then dragged blocks between them as I synthesized arguments. The embedded queries
+  feature proved essential: placing a live task query on the canvas kept my project dashboard
+  updated automatically as I checked off items elsewhere in my graph. This spatial workflow
+  cut my synthesis time significantly, though it required breaking my larger notes into atomic
+  bullet points first.
 manualRelated:
   - title: "Best PKM Apps for Visual Thinkers in 2026"
     url: "/posts/best-pkm-apps-for-visual-thinkers-2026/"

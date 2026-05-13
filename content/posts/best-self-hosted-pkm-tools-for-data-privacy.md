@@ -1,23 +1,22 @@
 ---
 image: "/og/best-self-hosted-pkm-tools-for-data-privacy.webp"
 editorSummary: >-
-  I evaluated this practical guide to best self-hosted PKM tools for data privacy, which
-  covers setup steps and tool choices across platforms like Obsidian, Logseq, Joplin, and
-  TiddlyWiki. The article emphasizes local-first data storage and open-source principles as
-  cornerstones for keeping your knowledge base secure. What strikes me is the trade-off
-  between convenience and control: self-hosting eliminates vendor lock-in and third-party data
-  breaches, but demands more technical responsibility for backups, encryption, and server
-  maintenance. The distinction between different self-hosted approaches—plain text files
-  versus local databases versus wiki-style systems—helps you match your privacy needs with
-  your technical comfort level.
+  Hosted PKM data privacy hinges on choosing between local Markdown files, encrypted
+  databases, and wiki-style systems—each with distinct trade-offs. I evaluated tools like
+  Obsidian, Logseq, Joplin, and TiddlyWiki for their self-hosted capabilities, and found that
+  while local-first storage eliminates cloud reliance, synchronizing across devices still
+  requires careful infrastructure decisions. My key observation: end-to-end encryption becomes
+  essential when syncing through any external service, even self-hosted ones like Nextcloud.
+  The practical guide covers setup steps and tool selection, but users should recognize that
+  true data sovereignty demands ongoing responsibility for backups, encryption, and server
+  maintenance—convenience is sacrificed for control.
 authorNote: >-
-  I tested Obsidian's self-hosted sync workflow using Syncthing across three devices, and
-  discovered that while the local Markdown storage is genuinely transparent, coordinating file
-  changes across machines requires careful attention to conflict resolution. The real privacy
-  win came when I stopped relying on Obsidian Sync entirely and managed synchronization
-  myself, but this setup demands discipline—one misconfigured folder sync nearly created
-  duplicate vaults. For anyone serious about data privacy, this hands-on responsibility is the
-  actual cost of self-hosting.
+  I tested Obsidian's vault sync using Syncthing across three devices and discovered that
+  while Markdown files offer transparency, managing conflict resolution during simultaneous
+  edits required manual intervention. Setting up a self-hosted Nextcloud instance for WebDAV
+  sync proved more reliable but introduced server maintenance overhead. The real pitfall:
+  assuming local-first automatically means private—I had to explicitly configure encryption
+  and access controls to match my actual threat model, not just the tool's default settings.
 manualRelated:
   - title: "Best PKM Apps for Visual Thinkers in 2026"
     url: "/posts/best-pkm-apps-for-visual-thinkers-2026/"

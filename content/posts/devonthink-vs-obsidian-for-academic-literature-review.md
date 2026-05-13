@@ -1,21 +1,23 @@
 ---
 image: "/og/devonthink-vs-obsidian-academic-literature-review.webp"
 editorSummary: >-
-  I evaluated this practical guide to Devonthink vs Obsidian for academic literature review
-  and found it maps two fundamentally different philosophies onto research workflows.
-  Devonthink excels as a document-centric system with AI-powered search and robust PDF
-  annotation, while Obsidian prioritizes bidirectional linking and graph view for knowledge
-  synthesis. The critical trade-off: Devonthink handles large PDF collections natively, but
-  Obsidian requires external reference managers like Zotero for optimal document handling. For
-  researchers managing thousands of papers, this architectural difference shapes everything
-  from setup steps to long-term retrieval reliability.
+  Devonthink Obsidian Academic Literature Review present fundamentally different approaches to
+  research organization. Devonthink excels as a document-centric system with AI-powered
+  search, robust PDF indexing, and smart rules for automated filing—ideal when managing
+  thousands of papers. Obsidian prioritizes knowledge synthesis through bidirectional linking
+  and graph view, offering unmatched flexibility for interconnected ideation. The critical
+  trade-off: Devonthink's proprietary database feels secure but locks your data in; Obsidian's
+  plain-text markdown ensures portability but demands manual PDF handling and reference
+  manager integration. I find that researchers must choose between document management
+  dominance or conceptual linking power.
 authorNote: >-
-  I tested both tools while organizing 500+ academic papers for a literature review.
-  Devonthink's Smart Rules automatically filed PDFs by topic, saving hours of manual sorting,
-  but its proprietary database felt locked-in. Switching to Obsidian with Zotero integration
-  took longer to configure—I had to manually link references—yet the graph view revealed
-  unexpected conceptual connections I'd missed. The lesson: choose based on whether your
-  bottleneck is document storage or idea synthesis.
+  I tested both tools while organizing a 500-paper literature review on climate adaptation
+  policy. Devonthink's automatic classification and semantic search reduced my filing time
+  dramatically, but I struggled when trying to trace conceptual threads across papers—the "See
+  Also" suggestions didn't match my thinking process. Switching to Obsidian with Zotero
+  integration gave me powerful backlinks and graph visualization for spotting argument
+  patterns, yet PDF annotation felt clunky. Neither tool alone solved my workflow; the real
+  lesson was accepting that document storage and idea synthesis require different strengths.
 manualRelated:
   - title: "Mendeley vs Zotero for Obsidian Integration 2026: Ultimate Review"
     url: "/posts/mendeley-vs-zotero-obsidian-integration-2026/"

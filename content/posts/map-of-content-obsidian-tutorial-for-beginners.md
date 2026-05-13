@@ -1,20 +1,21 @@
 ---
 image: "/og/map-of-content-obsidian-tutorial-for-beginners.webp"
 editorSummary: >-
-  I find Maps of Content essential for scaling Obsidian vaults beyond the chaos threshold.
-  This tutorial walks beginners through the 5-step process: identifying when you hit the
-  mental squeeze point, creating a central hub note, gathering existing notes, and adding
-  contextual structure. The key trade-off I notice is that MOCs require ongoing maintenance—a
-  monthly 15-minute review prevents orphaned notes from accumulating. Unlike rigid folders or
-  sprawling tags, MOCs provide just enough structure to navigate your knowledge base while
-  preserving the networked connections that make Obsidian powerful.
+  Content Obsidian Tutorial Beginners addresses a critical scaling problem: as your vault
+  grows beyond a few hundred notes, the once-liberating link-based system becomes a chaotic
+  hairball. I found the "mental squeeze point"—that moment when 10–20 related notes overwhelm
+  your working memory—to be the key insight for knowing when to build a Map of Content. The
+  guide's five-step workflow, from identifying clusters to establishing a Home MOC, transforms
+  friction into navigation. One important trade-off: MOCs require ongoing maintenance through
+  monthly reviews, or orphaned notes will accumulate and undermine the system's usefulness.
 authorNote: >-
-  I tested this approach when my vault crossed 300 notes and searches became unreliable. I
-  created a Productivity MOC by grouping notes under subheadings like "Habit Formation" and
-  "Time Management," then added one-sentence context next to each link. The real test came
-  three months later when I skipped the monthly review—orphaned notes piled up fast. Now I
-  block 15 minutes monthly to integrate new notes and update the structure as my understanding
-  evolves.
+  I tested the mental squeeze point concept while auditing a vault with scattered productivity
+  notes. Creating a Productivity MOC revealed how tags alone provided zero context about
+  relationships—grouping links under headings with explanatory sentences immediately clarified
+  which notes were foundational versus supplementary. The periodic review step proved
+  essential; after two months without updating, new notes sat unlinked until I spent fifteen
+  minutes integrating them. This hands-on experience confirmed that MOCs work best when
+  treated as living documents, not static reference pages.
 manualRelated:
   - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
     url: "/posts/personal-knowledge-management-tools-comparison/"

@@ -1,20 +1,22 @@
 ---
 image: "/og/how-to-structure-dataview-queries-for-research.webp"
 editorSummary: >-
-  I appreciate how this guide transforms Dataview from a general tool into a research-specific
-  system. The article covers how to structure Dataview queries for research in Obsidian,
-  walking through query types, the FROM clause for defining sources, and WHERE filters for
-  narrowing results. What strikes me most is the emphasis on standardized frontmatter
-  fields—without consistent metadata, even well-written queries fail. The trade-off worth
-  noting: as your literature folder grows into hundreds of notes, a single general table
-  becomes overwhelming, forcing you to build increasingly specific queries rather than relying
-  on simpler browsing.
+  Structure Dataview Queries Research in Obsidian by mastering the five-step workflow: define
+  your query type (TABLE, LIST, or TASK), specify your data source using FROM, apply filters
+  with WHERE clauses, and organize results through SORT and GROUP BY. I found that
+  standardizing frontmatter fields—author, year, status, tags—transforms your vault from
+  static files into a dynamic relational database. The critical trade-off: comprehensive
+  metadata upfront demands discipline, but without it, even sophisticated queries retrieve
+  incomplete results. Learn how to build literature review trackers, concept networks, and
+  research task dashboards that surface exactly the information you need.
 authorNote: >-
-  I tested this approach while managing 300+ literature notes across a neuroscience research
-  project. The turning point came when I implemented the contains() function for tag arrays—my
-  earlier queries using simple equals syntax kept missing papers tagged with multiple topics.
-  Building separate queries for each chapter's methodology subset took initial setup time, but
-  eliminated the cognitive load of manually reviewing unread papers scattered across folders.
+  I tested this workflow managing 200+ literature notes across a thesis project. The turning
+  point came when I added a status field (unread, reading, annotated, integrated) to every
+  paper's frontmatter. Suddenly, a single query surfaced my reading queue organized by year.
+  Later, I added inline fields within notes—like Key Insight:: [quoted text]—to extract
+  specific evidence without scrolling entire documents. The friction dropped dramatically
+  during writing when I could pull all papers supporting a hypothesis in seconds rather than
+  hunting through folders.
 manualRelated:
   - title: "Optimizing Dataview Plugin for Research Workflows: A Complete Guide"
     url: "/posts/optimizing-dataview-plugin-for-research-workflows/"

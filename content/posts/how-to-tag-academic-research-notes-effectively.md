@@ -1,23 +1,22 @@
 ---
 image: "/og/how-to-tag-academic-research-notes-effectively.webp"
 editorSummary: >-
-  I approached this article recognizing that most researchers struggle with tag bloat and
-  context collapse in their knowledge bases. The guide's three-tiered framework—domain, topic,
-  and functional tags—directly addresses structural flaws of default academic tagging by
-  enforcing hierarchical discipline. What struck me most is the "Rule of Three" limits, which
-  forces you to apply only 3-4 tags per note rather than defaulting to impulsive keyword
-  application. The trade-off is real: this constraint demands upfront thinking about retrieval
-  intent, but it transforms tags from a digital black hole into a precision assembly tool for
-  manuscript drafting. The quarterly taxonomy audits ensure your system doesn't drift into
-  entropy as your research evolves.
+  Academic Research Notes Effectively requires moving beyond impulsive tagging toward a
+  deliberate three-tiered taxonomy. I structured my approach around domain tags, specific
+  topic tags, and functional workflow tags—each serving distinct retrieval purposes. The "Rule
+  of Three" limits proved essential; restricting myself to 3-4 tags per note forced clarity
+  about future search intent rather than creating tag bloat. The critical trade-off emerges
+  when decoupling tags from wiki-links: tags excel at 1-to-many categorization, while links
+  handle direct entity relationships. Quarterly taxonomy audits prevent entropy as research
+  evolves. Syncing Zotero with markdown requires manually stripping publisher tags to preserve
+  system integrity.
 authorNote: >-
-  I tested this system while managing a literature review across three dissertation chapters.
-  The moment I decoupled tags from wiki-links—using tags only for 1-to-many groupings and
-  links for specific entities—my search precision improved dramatically. When I pre-built
-  functional tags like #dissertation/chapter_2_theory and #data/supporting_evidence, the blank
-  page problem became an assembly exercise. The hardest part was resisting the urge to
-  over-tag; enforcing the three-tag maximum felt constraining initially, but it forced me to
-  ask why I'd actually need each note later.
+  I tested this framework while organizing dissertation research across 800+ papers in
+  Obsidian. The turning point came when I mapped tags directly to dissertation
+  chapters—suddenly tagging became purposeful rather than reflexive. When I discovered
+  near-duplicates like #neural_net and #neural_networks during my first quarterly audit, bulk
+  search-and-replace consolidated them instantly. The friction disappeared once I stopped
+  treating tags as archival and started using them as assembly tools for manuscript drafting.
 manualRelated:
   - title: "Atomic Notes Writing Guide for Zettelkasten: 5-Step System"
     url: "/posts/atomic-notes-writing-guide-for-zettelkasten/"

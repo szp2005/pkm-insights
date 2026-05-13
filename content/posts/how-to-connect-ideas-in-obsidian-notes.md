@@ -1,20 +1,22 @@
 ---
 image: "/og/how-to-connect-ideas-in-obsidian-notes.webp"
 editorSummary: >-
-  I approached this article as a deep dive into transforming Obsidian from a note-taking tool
-  into a genuine knowledge system. The piece excels at explaining bidirectional linking as the
-  engine of connection, and I found the distinction between links for content relationships
-  versus tags for attributes particularly clarifying. The author wisely cautions against
-  over-linking, which creates noise rather than signal—a trade-off many PKM enthusiasts
-  overlook. By combining atomic notes with intentional contextual linking and Maps of Content
-  for structure, you can build a living system that mirrors how your brain actually works.
+  Connect Ideas Obsidian Notes through bidirectional linking, the engine that transforms
+  isolated notes into an interconnected second brain. I found that Maps of Content (MOCs)
+  provide essential architectural structure as your vault grows, while the Graph View reveals
+  hidden clusters and orphaned notes begging for integration. The core trade-off worth noting:
+  over-linking creates noise rather than signal. Be intentional about which connections
+  genuinely provide value. Mastering these core mechanisms—bidirectional links, tags for
+  status, and block references—requires shifting your mindset from passive information storage
+  to active knowledge synthesis, a practice that compounds over time.
 authorNote: >-
-  I tested the Zettelkasten adaptation while reviewing my own Obsidian vault and discovered
-  that adding explanatory sentences around links—articulating *why* two ideas
-  connect—transformed my graph from visually impressive but semantically hollow into genuinely
-  useful. Without that friction, I was just creating link dumps. The real breakthrough came
-  when I stopped trying to build a perfect hierarchy upfront and instead let MOCs emerge
-  organically from clusters I spotted in the graph view.
+  I tested this approach by converting a scattered research vault into an interconnected
+  system using MOCs as navigational hubs. The turning point came when I stopped linking every
+  noun and instead focused on concept-to-concept relationships. Creating a [[Habits MOC]] to
+  centralize [[Atomic Habits]] and [[Dopamine Detox]] immediately clarified my understanding.
+  The Graph View then exposed orphaned notes I'd forgotten about, which I retroactively wove
+  back in. This selective, intentional linking proved far more useful than comprehensive link
+  saturation.
 manualRelated:
   - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
     url: "/posts/what-is-personal-knowledge-management/"

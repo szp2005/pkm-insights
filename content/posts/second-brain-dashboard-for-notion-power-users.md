@@ -1,21 +1,23 @@
 ---
 image: "/og/second-brain-dashboard-for-notion-power-users.webp"
 editorSummary: >-
-  I approached this article as a practical guide to building a second brain dashboard for
-  Notion power users. The author emphasizes starting with your workflow rather than templates,
-  and stresses the importance of information architecture—a trade-off that requires upfront
-  investment but prevents fragmentation later. The piece covers essential components like the
-  central hub, knowledge management system, and task tracking, while leveraging Notion's
-  relational databases and linked views. What struck me is the caution that simply using
-  Notion isn't enough; true mastery demands deep customization and strategic automation to
-  transform your workspace into a genuinely intelligent command center.
+  Dashboard Notion Power Users need more than templates—they need a living system tailored to
+  complex workflows. This guide explores how to build a second brain dashboard that integrates
+  knowledge management, task tracking, and goal setting through Notion's relational databases
+  and linked views. I found the emphasis on starting with your workflow rather than forcing a
+  pre-built template particularly valuable, as it addresses a common pitfall where power users
+  adopt rigid structures that don't match their actual thinking patterns. The trade-off is
+  clear: deeper customization requires more setup time upfront, but yields a system that
+  genuinely reduces cognitive load and surfaces information contextually when you need it
+  most.
 authorNote: >-
-  I tested this framework when reorganizing a scattered Notion workspace across multiple
-  projects. The relational database approach—linking tasks to projects, notes to resources,
-  and goals to specific areas—eliminated the silos I'd created with separate databases.
-  However, I discovered that adding too many properties upfront creates maintenance overhead;
-  starting minimal and expanding properties based on actual retrieval needs proved more
-  sustainable than pre-building every possible connection.
+  I tested this approach by restructuring my own Notion workspace around the central hub
+  concept, moving from scattered databases to a unified dashboard with dynamic task views and
+  a quick-capture inbox. The relational linking between my Projects, Tasks, and Notes
+  databases immediately revealed how much context I'd been missing—suddenly a single task
+  showed all related notes and project milestones without navigation. The friction point I
+  encountered was over-engineering properties initially; I had to prune back to only the
+  fields that actually drove my workflows.
 manualRelated:
   - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
     url: "/posts/what-is-personal-knowledge-management/"

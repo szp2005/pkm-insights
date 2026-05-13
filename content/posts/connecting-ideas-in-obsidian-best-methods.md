@@ -1,23 +1,24 @@
 ---
 image: "/og/connecting-ideas-in-obsidian-best-methods.webp"
 editorSummary: >-
-  I approached this guide to connecting ideas in Obsidian by focusing on how bidirectional
-  wikilinks and Maps of Content work together to prevent vaults from becoming chaotic webs of
-  meaningless connections. The article emphasizes that having the capability to link
-  everything does not mean you should—a crucial trade-off when scaling your knowledge
-  management system. What struck me most was the distinction between using links for
-  conceptual relationships and tags for status tracking, paired with the minimalist approach
-  to folders that lets atomic note-taking flourish. The practical emphasis on moving from
-  fleeting notes to permanent notes grounds the entire framework in sustainable daily
-  workflows.
+  Connecting Ideas in Obsidian Methods reveals a fundamental tension: bidirectional wikilinks
+  and Maps of Content (MOCs) enable powerful network-based architecture, yet without
+  deliberate strategy, your vault risks devolving into chaotic, meaningless connections. I've
+  found that the most effective workflows balance links for conceptual relationships with tags
+  reserved for status tracking, while the Zettelkasten approach—requiring each permanent note
+  to link to at least one existing idea—enforces the disciplined friction that prevents orphan
+  notes. Block references and Dataview plugins offer precision for synthesis, but they demand
+  upfront metadata discipline. The real challenge isn't mastering these tools; it's developing
+  consistent daily habits that ensure your system grows organically rather than fragmenting
+  into isolated silos.
 authorNote: >-
-  I tested the Zettelkasten approach outlined here by forcing myself to search my vault before
-  saving any new permanent note, looking for at least one existing connection. This deliberate
-  friction felt cumbersome initially, but it revealed how easily ideas can slip in unmoored.
-  When I eventually stopped doing this search step during a busy period, my orphan notes
-  multiplied and my graph view became visually impressive but useless. The backward linking
-  habit—reviewing what already exists before writing something new—proved far more valuable
-  than the graph visualization itself.
+  When I first implemented MOCs in my vault, I created one for "Productivity Frameworks" but
+  neglected to maintain backward links from atomic notes back to it. This left the MOC stale
+  within weeks. I now practice both directions: when writing a new note on time-blocking, I
+  search for existing productivity concepts to link to, then ensure the MOC references the new
+  note. This bidirectional discipline has transformed my vault from a collection of
+  disconnected thoughts into a genuinely navigable system where unexpected connections surface
+  naturally through the Local Graph.
 manualRelated:
   - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
     url: "/posts/digital-note-taking-strategies-for-productivity/"

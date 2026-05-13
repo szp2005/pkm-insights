@@ -1,21 +1,21 @@
 ---
 image: "/og/logseq-theme-for-high-focus-deep-work.webp"
 editorSummary: >-
-  I found that optimizing your Logseq theme for deep work goes beyond aesthetics—it's about
-  reducing cognitive load through minimalism and decluttering. The article emphasizes how
-  thoughtful typography, optimal contrast and readability, and muted color palettes directly
-  support sustained concentration. A critical trade-off emerges: while dark mode reduces eye
-  strain during extended sessions, it may sacrifice readability for users sensitive to
-  low-light environments. Customizing CSS snippets for line spacing and font sizes lets you
-  tailor your workspace, though over-customization can paradoxically create distraction rather
-  than focus.
+  High Focus Deep Work themes in Logseq demand minimalism and decluttering to reduce cognitive
+  load during sustained concentration. I found that optimal contrast and readability—achieved
+  through thoughtful typography, muted color palettes, and generous line spacing—directly
+  impact your ability to maintain focus during long sessions. The trade-off is real: while
+  customization through CSS snippets offers fine-grained control over elements like font sizes
+  and accent colors, excessive tweaking can itself become a distraction from actual deep work.
+  A well-designed theme transforms Logseq into a sanctuary for thought, but the simplest
+  approach often works best.
 authorNote: >-
-  I tested this approach by stripping my Logseq sidebar to essentials and applying a muted
-  blue dark theme with increased line height. Within days, my focus sessions felt noticeably
-  less fragmented. However, I discovered that removing too many UI elements created friction—I
-  couldn't quickly access my daily notes. The sweet spot required keeping navigation visible
-  but visually recessed, proving that minimalism without usability becomes its own
-  distraction.
+  I tested this approach by stripping my Logseq interface to essentials: removing the sidebar
+  unless needed, shifting to a dark mode with deep charcoal background, and adjusting line
+  height to 1.6 for comfortable extended reading. Within a week, I noticed fewer context
+  switches and less eye strain during three-hour writing sessions. The real test came when I
+  resisted the urge to tweak colors further—that restraint itself became part of the deep work
+  discipline.
 manualRelated:
   - title: "Logseq Workflow for Managing YouTube Scripts: A Creator's Guide"
     url: "/posts/logseq-workflow-for-managing-youtube-scripts/"

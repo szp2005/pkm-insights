@@ -1,22 +1,24 @@
 ---
 image: "/og/tana-workflows-for-systematic-literature-reviews.webp"
 editorSummary: >-
-  I reviewed this guide on Tana workflows for systematic literature reviews and found the
-  PRISMA Protocol Setup particularly valuable for academic rigor. The article demonstrates how
-  mapping PRISMA stages directly into Tana's supertag structure creates automated screening
-  pipelines—a concrete workflow that eliminates manual spreadsheet tracking. What strikes me
-  is the trade-off: while this structured approach prevents missing variables during data
-  extraction, it demands significant upfront architecture work. Researchers must balance the
-  initial setup burden against the efficiency gains from live search nodes that automatically
-  count papers at each review phase. For those conducting formal reviews, this systematic
-  foundation proves essential.
+  Workflows Systematic Literature Reviews demand rigorous architecture before importing
+  papers. The PRISMA Protocol Setup maps inclusion-exclusion criteria directly into Tana's
+  supertag structure, using live search nodes to automatically track papers through screening
+  phases—eliminating manual spreadsheet updates. I found the metadata import bottleneck
+  particularly challenging; leveraging Zotero as an intermediary with custom export
+  translators solves this elegantly. The trade-off is substantial: upfront setup time is
+  significant, but once configured, administrative overhead becomes a byproduct of actual
+  research work rather than a separate task. For academics, this structured approach prevents
+  lost context and broken mental models when transitioning from abstract screening to
+  synthesis.
 authorNote: >-
-  I tested the Zotero-to-Tana import workflow when managing a literature review on cognitive
-  load across 300+ papers. By configuring a custom Zotero export translator to output Tana
-  Paste format, I eliminated manual entry entirely. The critical moment came during
-  deduplication: Zotero caught duplicates before they reached Tana, preventing contaminated
-  screening data. This intermediate step transformed what could have been chaotic metadata
-  into a clean, queryable database within hours rather than weeks.
+  I tested the Zotero-to-Tana import workflow on a 200-paper systematic review in educational
+  psychology. Configuring the custom export translator took three hours initially, but
+  bulk-pasting deduplicated results into Tana's format eliminated weeks of manual entry. The
+  real win emerged during full-text screening: updating a paper's Status field from "Abstract
+  Screened" to "Excluded" automatically removed it from my "To Read" search node. This
+  frictionless administrative tracking prevented the scattered decision-making that typically
+  derails large reviews.
 manualRelated:
   - title: "Tana AI Features for Structured Data Entry: Complete Guide"
     url: "/posts/tana-ai-features-for-structured-data-entry/"

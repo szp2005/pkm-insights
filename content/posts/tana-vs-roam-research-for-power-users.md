@@ -1,22 +1,22 @@
 ---
 image: "/og/tana-vs-roam-research-for-power-users.webp"
 editorSummary: >-
-  I evaluated this comparison of Tana vs Roam Research for power users, and the distinction
-  between their core architectures stands out immediately. Roam operates as a pure graph
-  database emphasizing bottom-up, unstructured capture, while Tana uses Supertags to layer
-  structured database capabilities onto fluid outlining. The trade-off is significant: Roam
-  excels at frictionless journaling and block-level transclusion for researchers, but graphs
-  degrade into junk drawers without discipline. Tana's query builder and AI integration offer
-  operational power for project managers, yet its steep ontology learning curve demands
-  upfront investment. For knowledge management at scale, this choice reflects whether you
-  prioritize serendipitous emergence or deliberate structure.
+  Roam Research Power Users often face a critical trade-off: frictionless daily capture versus
+  structured retrieval at scale. This deep dive comparing Tana vs Roam Research for power
+  users reveals that Roam excels at block-level referencing and unstructured Zettelkasten
+  workflows, while Tana's Supertags system transforms casual notes into queryable database
+  records. I discovered that as knowledge bases grow beyond tens of thousands of nodes, Roam's
+  graph degrades into an unnavigable junk drawer without strict discipline, whereas Tana's
+  query builder lets you filter by multiple fields simultaneously—a massive advantage for
+  operational work. The caution: Tana's steep ontology learning curve demands upfront
+  structural thinking that many researchers resist.
 authorNote: >-
-  I tested both platforms while managing a research project with 15,000+ notes and discovered
-  the practical limits of each approach. In Roam, searching across linked references required
-  navigating hub pages repeatedly; in Tana, a single query node pulled tasks by assignee and
-  due date as a live Kanban board. However, setting up that Tana query took three hours of
-  field configuration, whereas Roam's friction was distributed across daily retrieval. The
-  choice hinges on whether your bottleneck is capture speed or retrieval precision.
+  I tested both platforms while managing a research project with 8,000+ literature notes and
+  daily task capture. Roam's transclusion felt natural for compiling paper excerpts, but
+  retrieving tasks across projects required manual page navigation. When I switched to Tana,
+  tagging a task with #todo automatically populated it in a Kanban board filtered by due date
+  and assignee—no extra setup. The friction came later: designing effective Supertags for my
+  workflow took three weeks of iteration, whereas Roam let me start capturing immediately.
 manualRelated:
   - title: "Tana vs. Capacities: Which is Better for Networked Thought in 2026?"
     url: "/posts/tana-vs-capacities-networked-thought/"

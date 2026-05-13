@@ -1,21 +1,23 @@
 ---
 image: "/og/best-practices-for-knowledge-retention.webp"
 editorSummary: >-
-  I approached this article seeking practical methods to beat the forgetting curve, and I
-  discovered that knowledge retention hinges on active engagement rather than passive
-  consumption. The piece outlines evidence-based strategies—spaced repetition, active recall,
-  and the Feynman Technique—alongside architectural frameworks like progressive summarization
-  and the Zettelkasten method. What strikes me most is the trade-off between interleaving
-  practice and initial learning speed: while mixing topics feels harder in the moment, it
-  dramatically improves real-world application. Building a robust personal knowledge
-  management system transforms how we capture and retain information.
+  Practices Knowledge Retention through spaced repetition and active recall—two evidence-based
+  strategies that transform how knowledge workers combat the forgetting curve. I found the
+  article's emphasis on cognitive friction particularly valuable: passive rereading creates a
+  dangerous illusion of competence, while retrieval practice actually strengthens neural
+  pathways. The Zettelkasten method and progressive summarization offer practical frameworks
+  for building a durable personal knowledge management system. However, I observed a
+  significant trade-off: implementing these techniques requires sustained discipline and time
+  investment upfront, which may feel slower than passive consumption despite yielding superior
+  long-term retention.
 authorNote: >-
-  I tested progressive summarization when processing research articles for my knowledge base,
-  highlighting key passages, then bolding critical sentences, then writing executive
-  summaries. The layered distillation forced genuine engagement with the material—far more
-  effective than my previous habit of bookmarking and forgetting. The method revealed how
-  quickly copied text becomes useless without active processing, pushing me to restructure how
-  I capture insights across Obsidian.
+  I tested progressive summarization on research articles for a project, highlighting key
+  passages, then extracting and bolding the most critical sentences. The layered distillation
+  forced genuine engagement—I couldn't passively copy-paste. When I reviewed those notes weeks
+  later, the executive summaries I'd written made the core concepts instantly accessible. This
+  contrasts sharply with my previous habit of bookmarking articles and never revisiting them.
+  The method works, but demands deliberate effort at capture time rather than hoping future
+  review will suffice.
 manualRelated:
   - title: "Remember What You Read Effectively: A Masterclass in Knowledge Retention"
     url: "/posts/how-to-remember-what-you-read-effectively/"

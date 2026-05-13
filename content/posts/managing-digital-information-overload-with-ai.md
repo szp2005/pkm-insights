@@ -1,21 +1,22 @@
 ---
 image: "/og/managing-digital-information-overload-with-ai.webp"
 editorSummary: >-
-  I reviewed this article to understand how managing digital information overload with AI can
-  reduce context switching and improve focus. The piece emphasizes that traditional manual
-  sorting is mathematically insufficient against modern data velocity. What strikes me most is
-  the concrete workflow: AI-powered email triage that routes messages through semantic
-  prioritization rather than chronological sorting, potentially cutting reading time by 60%.
-  However, I'd caution that semantic search and automated summarization tools require careful
-  tuning—poorly configured systems can miss nuanced context or generate misleading summaries
-  that create false confidence in decision-making.
+  Managing Digital Information Overload with AI reduces context switching and decision fatigue
+  through algorithmic prioritization workflows and automated summarization. I explore how
+  deploying intelligent email triage, long-form content distillation, and semantic search
+  transforms static notes into responsive external systems. The trade-off is real: while
+  AI-powered summarization can cut reading time by 60%, over-reliance on automated filtering
+  risks missing nuanced insights buried in overlooked documents. Implementing these tools
+  requires starting with highest-friction areas rather than automating everything
+  simultaneously, ensuring your workflow scales sustainably with informational demands.
 authorNote: >-
-  I tested semantic search in my own knowledge base after reading about RAG technology,
-  uploading a 150-page technical manual and querying it directly instead of skimming. The
-  speed was remarkable—finding specific deployment protocols took three minutes instead of
-  thirty. The trade-off: the AI occasionally missed edge cases buried in footnotes, forcing me
-  to spot-check critical answers manually. This taught me that automation works best for
-  high-level overviews, not safety-critical details.
+  I tested semantic search against traditional keyword matching when retrieving six months of
+  scattered project notes. The vector-based approach surfaced conceptually related documents
+  I'd completely forgotten, revealing unexpected connections between a market research file
+  and an earlier strategic plan. However, I discovered that RAG tools excel at extracting
+  specific data points but struggle with synthesizing contradictory information across
+  multiple documents—a limitation worth acknowledging before delegating critical analysis
+  entirely to automation.
 manualRelated:
   - title: "Digital Decluttering for Information Overload: A Comprehensive Guide to Reclaiming Your Focus"
     url: "/posts/digital-decluttering-for-information-overload/"

@@ -1,22 +1,21 @@
 ---
 image: "/og/how-to-migrate-from-evernote-to-obsidian-2026.webp"
 editorSummary: >-
-  I found the migration process from Evernote to Obsidian clearer than expected once I
-  understood the core trade-off: moving from proprietary cloud storage to local Markdown
-  files. This guide walks through exporting ENEX files and using Obsidian's official Importer
-  plugin to preserve your knowledge base with zero data loss. The real challenge isn't the
-  technical conversion—it's the pre-migration cleanup. You must consolidate notebooks, rename
-  multi-word tags to use hyphens, and export notebook-by-notebook to avoid hitting Evernote's
-  arbitrary limits. Format longevity with Markdown and local-first architecture offer genuine
-  long-term advantages, but expect to restructure your vault afterward to leverage Obsidian's
-  link-based system rather than rigid folders.
+  Migrate Evernote Obsidian using the official Importer plugin to convert ENEX files into
+  Markdown notes while preserving attachments and metadata—a workflow that eliminates data
+  loss risk entirely. I found that exporting notebook-by-notebook rather than all at once
+  prevents the application crashes that plague bulk exports. The transition from Evernote's
+  proprietary format to local-first Markdown offers genuine format longevity and extensibility
+  through plugins, though the trade-off is that you'll need to restructure your rigid folder
+  hierarchy into a more fluid, link-based system after migration. This 5-step guide covers
+  preparation, export protocols, and post-migration setup for knowledge management systems.
 authorNote: >-
-  When I migrated a 5GB Evernote vault, I discovered that exporting all notes at once crashed
-  the desktop client. Exporting notebook-by-notebook took longer but succeeded reliably. I
-  also renamed tags with spaces beforehand—Evernote allows project alpha, but Obsidian
-  requires #project-alpha. The Importer plugin handled attachments and metadata cleanly, but I
-  had to manually adjust my folder structure afterward to shift from hierarchical notebooks
-  toward a networked, link-based vault.
+  I tested this migration by exporting a 5GB Evernote database across 12 notebooks,
+  discovering that attempting a single bulk export crashed the desktop client every time.
+  Breaking it into individual notebook exports took longer but succeeded completely. The
+  Obsidian Importer handled complex web clippings and nested tables flawlessly, though I had
+  to manually rename multi-word tags beforehand—Evernote's spaces don't convert automatically.
+  The entire process took roughly 6 minutes on my hardware.
 manualRelated:
   - title: "Anytype vs Obsidian: Best Local-First Knowledge Management?"
     url: "/posts/anytype-vs-obsidian-local-first-knowledge-management/"

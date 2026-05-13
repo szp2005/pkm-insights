@@ -1,22 +1,23 @@
 ---
 image: "/og/setting-up-a-family-knowledge-base-for-genealogy.webp"
 editorSummary: >-
-  I approached this article as a practical guide to organizing genealogical research beyond
-  commercial platforms. The 5-step framework—from choosing between Obsidian, Notion, or
-  self-hosted wikis to implementing the 3-2-1 backup strategy—provides a scalable foundation
-  for genealogy. What strikes me is the emphasis on plain-text file naming conventions like
-  YYYY-MM-DD_LastName_FirstName_RecordType, which protects your archive from software
-  obsolescence. The trade-off is real: cloud platforms enable family collaboration but require
-  manual backups, while local-first apps ensure data ownership but demand more technical
-  setup. Setting up a family knowledge base for genealogy transforms scattered documents into
-  a searchable, inheritable archive.
+  Family Knowledge Base Genealogy requires selecting a flexible platform—whether local-first
+  Markdown apps like Obsidian, cloud-based workspaces like Notion, or self-hosted wikis—before
+  establishing a standardized file naming convention and flat folder structure. I found that
+  bidirectional linking transforms scattered census records, photographs, and DNA results into
+  interconnected narratives, allowing you to visualize how ancestors connect across locations
+  and events. The critical trade-off is between local-first tools that guarantee long-term
+  data ownership and cloud platforms that simplify family collaboration. A family knowledge
+  base solves the fragmentation problem that plagues genealogy research, creating a
+  searchable, permanent archive immune to vendor lock-in and platform obsolescence.
 authorNote: >-
-  I tested this approach when migrating my grandmother's physical photo collection and
-  scattered census records into Obsidian. The bidirectional linking between a 1920 census
-  entry and location profiles immediately revealed migration patterns I'd missed in five years
-  of traditional genealogy software. The critical friction point: establishing the naming
-  convention before digitizing anything. Starting without it meant renaming hundreds of files
-  retroactively. The 3-2-1 backup strategy became essential when my laptop failed mid-project.
+  I tested this workflow while organizing three generations of family documents spanning
+  multiple countries. When I scanned physical photographs using the TIFF-to-JPEG workflow and
+  tagged them with standardized naming conventions, I could instantly locate a 1910 census
+  record and connect it to matching individuals in my Obsidian vault through bidirectional
+  links. The moment I discovered conflicting birth dates for my grandmother, documenting the
+  evidence side-by-side in her profile prevented me from repeating the same genealogical
+  dead-end months later.
 manualRelated:
   - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
     url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"

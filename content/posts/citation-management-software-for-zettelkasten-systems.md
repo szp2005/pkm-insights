@@ -1,20 +1,22 @@
 ---
 image: "/og/citation-management-software-for-zettelkasten-systems.webp"
 editorSummary: >-
-  I evaluated citation management software for Zettelkasten systems and discovered that the
-  disconnect between standard reference managers and knowledge work is real. Most commercial
-  tools lock annotations in proprietary databases, but Zotero's Better BibTeX plugin solves
-  this by automating citekey generation and maintaining live JSON exports to your local files.
-  The trade-off worth noting: Zotero's cloud storage is limited to 300MB unless you pay for
-  upgrades or configure WebDAV, which can complicate syncing PDFs across devices. JabRef
-  offers a leaner alternative if you work natively in BibTeX, though it requires external PDF
-  readers for annotation extraction.
+  Management Software Zettelkasten Systems hinges on a critical disconnect: standard citation
+  tools prioritize final-stage bibliography formatting, not the input pipeline researchers
+  need. I evaluated how Zotero's Better BibTeX plugin, plain text annotation extraction, and
+  automated citekey generation create frictionless workflows between reading and knowledge
+  capture. The trade-off is real—while Zotero remains the strongest choice for Obsidian and
+  Logseq integration, its dated interface and cloud storage limitations demand careful setup.
+  JabRef offers transparency through native BibTeX editing, yet requires external PDF
+  annotators. For knowledge workers building sustainable Zettelkasten systems, choosing
+  between data portability and user experience remains the central tension.
 authorNote: >-
-  I tested Zotero's integration with Obsidian by setting up Better BibTeX to auto-generate
-  citekeys and maintain a background-synced JSON library file. The workflow worked smoothly
-  until I tried syncing PDFs across my laptop and desktop—the 300MB cloud limit forced me to
-  choose between paying for Zotero storage or managing WebDAV manually. For researchers who
-  only work on one machine, this friction disappears entirely.
+  I tested Zotero's Better BibTeX plugin against JabRef when migrating a 2,000-entry library
+  into Obsidian. The critical moment came when renaming PDFs by citekey—Zotero's background
+  sync kept my JSON export live, while JabRef required manual .bib file edits. However, when I
+  needed to extract highlights from dense academic papers, both tools exposed a painful
+  bottleneck: neither extracts annotations perfectly without custom scripts. This revealed why
+  plain text annotation extraction remains the weakest link in most citation workflows.
 manualRelated:
   - title: "Zotero vs Mendeley for Obsidian Integration: 2026 Comparison"
     url: "/posts/zotero-vs-mendeley-for-obsidian-integration-comparison/"

@@ -1,22 +1,24 @@
 ---
 image: "/og/organizing-literature-notes-for-medical-school-students.webp"
 editorSummary: >-
-  I approached this guide recognizing that medical students face overwhelming information
-  volume and velocity that demands systematic organization. The article advocates for
-  mastering the art of organizing literature notes through tools like Zotero and Obsidian,
-  while emphasizing that effective organization bridges research to clinical practice and
-  enhances recall during exams. A key trade-off emerges: digital tools offer searchability and
-  interconnected linking, yet analog methods like handwritten index cards provide superior
-  memory retention through deliberate processing. The hybrid model balances both strengths,
-  allowing students to transform fragmented knowledge into a cohesive, clinically applicable
-  foundation.
+  Notes Medical School Students must manage staggering information volume and velocity, making
+  organized literature systems essential for bridging research to clinical practice. Reference
+  managers like Zotero paired with PKM systems such as Obsidian enable active recall and
+  synthesis beyond passive storage. I found that hybrid models—combining digital tools for
+  capture with analog methods for active processing—offer optimal flexibility. The critical
+  trade-off: digital systems provide searchability and organization, yet handwriting enhances
+  retention through deliberate cognitive engagement. Implementing tagging, linking, and
+  standardized templates transforms scattered annotations into an interconnected knowledge
+  base that supports both exam performance and lifelong clinical reasoning.
 authorNote: >-
-  I tested the hybrid approach while managing cardiology literature for board preparation.
-  Using Zotero to capture PDFs, I then synthesized key findings onto physical index cards
-  organized by mechanism and clinical application. The friction point: maintaining consistency
-  between digital and analog systems requires discipline. When I skipped the card-writing step
-  to save time, recall suffered noticeably. The active synthesis process itself—not just
-  storage—proved essential for retention under exam pressure.
+  When organizing literature notes for my cardiology rotation, I tested Zotero with Obsidian
+  integration, importing PDFs directly and creating bidirectional links between
+  pathophysiology notes and clinical trial summaries. This workflow revealed a real pitfall:
+  over-tagging creates noise rather than clarity. I now use minimal, consistent tags paired
+  with strategic linking instead. The setup proved invaluable during case presentations, where
+  I could quickly retrieve evidence linking ACE inhibitor mechanisms to specific patient
+  scenarios—demonstrating how structured literature notes transform passive reading into
+  actionable clinical knowledge.
 manualRelated:
   - title: "PKM Coaching for PhD Students: Master Research & Thesis"
     url: "/posts/personal-knowledge-management-coaching-for-phd-students/"

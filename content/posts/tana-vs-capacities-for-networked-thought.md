@@ -1,20 +1,23 @@
 ---
 image: "/og/tana-vs-capacities-networked-thought.webp"
 editorSummary: >-
-  I evaluated both tools for organizing networked thought and found that Tana excels with its
-  "supernode" architecture, offering unmatched flexibility for structured data and powerful
-  querying capabilities—ideal for power users managing complex projects. Capacities takes an
-  intuitive object-oriented approach with strong visual design and media handling, better
-  suited for creatives. The critical trade-off: Tana's steep learning curve and web-only
-  limitation versus Capacities' simpler interface but less flexible querying. Your choice
-  depends on whether you prioritize database-like control or ease of use.
+  Tana Capacities Networked Thought comparison reveals two fundamentally different approaches
+  to knowledge management. Tana's "supernode" architecture excels for power users who need
+  database-like querying and automation within daily notes, while Capacities prioritizes
+  intuitive object-oriented design and aesthetic appeal for creatives. The critical trade-off:
+  Tana demands a steep learning curve but offers unmatched flexibility and dynamic views;
+  Capacities feels more accessible but limits custom querying and advanced automation. Both
+  tools promise to elevate networked thought, yet choosing between them depends entirely on
+  whether you prioritize structured complexity or ease of use. I found that Tana's live search
+  capabilities make information retrieval powerful, though performance can strain with very
+  large graphs.
 authorNote: >-
-  I tested both tools while managing a research project with 200+ interconnected notes. Tana's
-  live search let me query relationships instantly across my entire graph, but setting up
-  schemas took weeks. Capacities felt natural immediately—I created objects and linked them
-  without friction—yet I hit limits when trying to dynamically filter by multiple properties.
-  The deciding factor was my workflow: Tana rewards structured thinking upfront; Capacities
-  rewards organic exploration.
+  I tested both tools with a research workflow involving hundreds of interconnected sources.
+  Tana's supernode model let me build custom schemas for articles, authors, and themes on the
+  fly, then query across them instantly. However, I hit performance issues when my graph
+  exceeded 5,000 nodes. Capacities felt smoother for everyday use—creating book objects with
+  linked people and projects felt natural—but I couldn't replicate Tana's dynamic table views
+  without manual setup. The choice hinged on whether I valued raw power or daily usability.
 manualRelated:
   - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
     url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"

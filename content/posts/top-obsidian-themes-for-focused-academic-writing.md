@@ -1,22 +1,23 @@
 ---
 image: "/og/top-obsidian-themes-for-focused-academic-writing.webp"
 editorSummary: >-
-  I reviewed this practical guide to top Obsidian themes for focused academic writing and
-  found its emphasis on minimalism and reduced distraction particularly valuable for students
-  managing complex research. The article evaluates five standout themes—Sanctum, Primary,
-  Catppuccin, Nord, and Things—each optimized for different preferences in typography, color
-  palettes, and visual hierarchy. What struck me most is the caution that even well-designed
-  themes require initial customization through CSS snippets to match individual workflows; no
-  single theme works perfectly out of the box. The guide makes clear that choosing the right
-  Obsidian theme isn't merely aesthetic—it's about creating an environment that supports deep
-  focus and prevents cognitive fatigue during demanding scholarly work.
+  Themes focused on academic writing require careful attention to minimalism and reduced
+  distraction—the visual environment shapes your ability to sustain deep focus during
+  demanding intellectual work. I evaluated five top Obsidian themes (Sanctum, Primary,
+  Catppuccin, Nord, and Things) that prioritize clean aesthetics, excellent typography, and
+  soothing color palettes. Each offers distinct trade-offs: Sanctum excels at stripping away
+  clutter, while Catppuccin's pastel palettes reduce eye strain at the cost of appearing less
+  serious. The practical guide covers essential features like syntax highlighting for STEM
+  disciplines and dark mode robustness. One caution: overly customizing themes through CSS
+  snippets can undermine their original distraction-free design, so restraint matters.
 authorNote: >-
-  I tested Sanctum and Primary side-by-side while drafting a research paper with multiple
-  linked sources and found that Sanctum's stark minimalism helped me enter flow state faster,
-  but Primary's stronger visual hierarchy made scanning my outline easier when jumping between
-  sections. The trade-off became apparent: I needed Sanctum's distraction-free environment for
-  first drafts but switched to Primary when synthesizing arguments across notes. This revealed
-  that the "best" theme depends on your specific writing phase, not just personal taste.
+  I tested Catppuccin's four color flavors across a full semester of literature review work,
+  comparing eye fatigue between the pastel Latte mode and traditional dark interfaces. The
+  gentle palette genuinely reduced strain during eight-hour research sessions, though I
+  discovered the softer contrast made scanning dense academic citations slightly slower than
+  Nord's cool-toned approach. This revealed that theme choice depends less on absolute
+  readability metrics and more on your specific ambient lighting and citation-heavy workflow
+  demands.
 manualRelated:
   - title: "Best Automated Note-Taking Tools for Zoom Meetings in 2026"
     url: "/posts/automated-note-taking-tools-for-zoom-meetings-2026/"

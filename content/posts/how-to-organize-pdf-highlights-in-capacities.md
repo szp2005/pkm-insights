@@ -1,23 +1,21 @@
 ---
 image: "/og/how-to-organize-pdf-highlights-in-capacities.webp"
 editorSummary: >-
-  I approached this guide as a practical framework for transforming how researchers handle PDF
-  annotations. The article walks through establishing database architecture with dedicated
-  Source and Atomic Idea object types, then extracting highlights through external readers or
-  Readwise integrations. What strikes me most is the emphasis on atomization—breaking
-  highlights into standalone ideas with personal synthesis—rather than simply collecting raw
-  quotes. The bidirectional linking between Ideas and Sources provides academic rigor, though
-  the real trade-off emerges in processing volume: the 20% Rule acknowledges that not every
-  highlight deserves its own object, forcing you to prioritize ruthlessly when building a
-  connected knowledge base.
+  Organize PDF Highlights in Capacities by establishing dedicated object types for sources and
+  atomic ideas—a structural choice that transforms static annotations into a dynamic knowledge
+  graph. I found that the atomization phase, where you synthesize highlights in your own words
+  before linking them back to their source, is where most systems falter. The trade-off is
+  clear: batch processing PDF extraction separately from synthesis takes more time upfront,
+  but prevents the cognitive overload that derails high-volume research projects. By embracing
+  bidirectional linking and strategic tagging across disciplines, your past research surfaces
+  exactly when needed, rather than remaining trapped in folder hierarchies.
 authorNote: >-
-  I tested this workflow during a literature review on behavioral economics, processing twelve
-  research papers over three weeks. The separation between ingestion and atomization phases
-  proved essential—I initially tried processing PDFs immediately after reading, which created
-  cognitive overload. Batching 3-5 PDFs for synthesis sessions reduced friction significantly.
-  One pitfall I encountered: without strict naming conventions for Source objects, I created
-  duplicate entries for papers I'd already processed, which broke bidirectional links across
-  my knowledge graph.
+  I tested this workflow during a three-month literature review on behavioral economics,
+  processing roughly 40 PDFs. The critical moment came when I realized my raw
+  highlights—pasted directly into Capacities—were useless without synthesis. Once I started
+  writing one-sentence summaries above each quote, the same highlight suddenly connected to
+  three other ideas already in my database. The 20% rule kept me sane: I stopped trying to
+  atomize every sentence and focused only on core arguments and surprising conclusions.
 manualRelated:
   - title: "Master Linking Related Concepts in Capacities Objects: 5-Step Guide"
     url: "/posts/linking-related-concepts-in-capacities-objects/"

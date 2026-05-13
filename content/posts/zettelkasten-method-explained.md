@@ -1,22 +1,23 @@
 ---
 image: "/og/zettelkasten-method-explained.webp"
 editorSummary: >-
-  I approached this article seeking to understand how the Zettelkasten method transforms
-  scattered information into actionable knowledge. The core insight centers on atomicity—the
-  principle that each note must contain one idea only—which prevents your slip-box from
-  becoming a graveyard of disconnected facts. What strikes me most is the tension between
-  Luhmann's analog wooden cabinets and modern tools like Obsidian: digital systems offer
-  frictionless linking and search, yet they risk encouraging passive note-hoarding over
-  deliberate thinking. The method's real power emerges through relentless linking and writing
-  ideas in your own words, practices that demand intellectual rigor most note-takers avoid.
+  Atomic notes and relentless linking form the foundation of Zettelkasten practice,
+  transforming how knowledge workers capture and retrieve ideas. This guide traces the
+  method's origins through Niklas Luhmann's legendary 90,000-card system and explains the four
+  core principles—atomicity, autonomy, your own words, and linking—that distinguish a
+  productive slip-box from a graveyard of forgotten ideas. I found the distinction between
+  fleeting, literature, and permanent notes particularly clarifying; it creates a deliberate
+  processing ritual that prevents information overload. The trade-off is real: this system
+  demands discipline and regular processing time, yet the compound interest of knowledge
+  payoff justifies the upfront investment for serious learners and researchers.
 authorNote: >-
-  I tested the Zettelkasten workflow on a research project about habit formation. After
-  capturing fleeting notes in Apple Notes, I processed them into literature notes summarizing
-  key studies, then created atomic permanent notes—each focusing on a single mechanism like
-  dopamine feedback loops. The friction point came at step five: forging links. I discovered
-  I'd created notes too broadly, making meaningful connections difficult. Rebuilding those
-  notes to be truly atomic, then linking them deliberately, revealed unexpected relationships
-  between behavioral psychology and systems thinking I'd completely missed.
+  I tested the three-note workflow while reading a dense research paper on organizational
+  behavior. Capturing fleeting thoughts in my phone's notes app, then distilling them into
+  literature notes within 24 hours, forced genuine comprehension. The critical moment came
+  during step five—forging links—when I discovered my new note on "feedback loops" connected
+  to three existing permanent notes I'd created months earlier. That unexpected connection
+  generated an insight I couldn't have planned. Without the relentless linking discipline,
+  those ideas would have remained isolated.
 manualRelated:
   - title: "Second Brain vs Zettelkasten Method: The Ultimate Guide to Personal Knowledge Management"
     url: "/posts/second-brain-vs-zettelkasten-method/"

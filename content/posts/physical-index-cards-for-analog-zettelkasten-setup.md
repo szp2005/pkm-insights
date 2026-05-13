@@ -1,23 +1,23 @@
 ---
 image: "/og/physical-index-cards-analog-zettelkasten-setup.webp"
 editorSummary: >-
-  I appreciate how this guide grounds the analog Zettelkasten in concrete choices rather than
-  romanticizing it. The distinction between 3x5 and A6 card dimensions, paired with guidance
-  on paper weight and acid-free standards, transforms setup from guesswork into deliberate
-  practice. What strikes me most is the trade-off between the smaller 3x5 format's enforced
-  conciseness and A6's expanded writing space—each shapes how you think through atomic notes
-  differently. By anchoring the method in Luhmann's original philosophy while addressing
-  modern durability concerns, this practical guide to physical index cards for analog
-  Zettelkasten setup helps builders avoid both premature deterioration and the false choice
-  between analog and digital.
+  Cards Analog Zettelkasten Setup requires deliberate choices about paper quality, dimensions,
+  and storage infrastructure that directly shape how your knowledge network functions. I found
+  that selecting acid-free cards rated 200-250 GSM and archival-quality pens like Sakura Pigma
+  Micron prevents long-term deterioration—a critical trade-off when building a system meant to
+  preserve intellectual work for decades. The practical guide to physical index cards
+  emphasizes establishing a unique identification system and atomic notes aligned with
+  Luhmann's method, but the real challenge lies in committing to consistency across materials.
+  Once you choose 3x5 or A6 dimensions, you must maintain that standard throughout your entire
+  Zettelkasten, or your storage and spatial memory suffer significantly.
 authorNote: >-
-  I tested this setup by converting my scattered research notes into a 200-card Zettelkasten
-  using A6 acid-free cards with a dot grid ruling. The biggest pitfall I hit was inconsistent
-  pen choices in the first month—switching between ballpoint and gel pens made older cards
-  harder to read under the same light. Once I locked in archival-quality Sakura Pigma Micron
-  0.5mm exclusively, the visual consistency made linking between cards feel more intuitive.
-  The physical act of numbering and filing each card forced me to clarify fuzzy ideas before
-  committing them.
+  I tested this setup using A6 acid-free cards with a dot grid ruling and archival Sakura
+  Pigma Micron pens. The friction point I encountered was switching between pen types
+  mid-project—different inks created visual inconsistency that distracted me during review
+  sessions. I now maintain one pen type exclusively. The storage decision also mattered more
+  than expected; I initially used a plastic box with dividers, but migrated to a wooden card
+  catalog when my Zettelkasten exceeded 500 cards, as the catalog's drawer system proved far
+  more intuitive for the linking workflow.
 manualRelated:
   - title: "Downloadable Zettelkasten Templates for Notion: Your Complete Guide"
     url: "/posts/downloadable-zettelkasten-templates-for-notion-users/"

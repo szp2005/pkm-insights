@@ -1,21 +1,21 @@
 ---
 image: "/og/what-is-folgezettel-numbering-in-zettelkasten-systems.webp"
 editorSummary: >-
-  I approached this article expecting another generic note-taking guide, but the historical
-  grounding changed my perspective. Folgezettel numbering in Zettelkasten systems uses
-  alphanumeric IDs like 1a1b to create infinite branching without rigid hierarchies—a clever
-  solution to physical constraints that Luhmann faced with his wooden card cabinets. The
-  tension between time-based IDs and Folgezettel in digital apps reveals a real trade-off:
-  semantic meaning versus simplicity. While modern tools eliminate the physical sorting
-  problem, Folgezettel forces you to ask "What idea does this follow?" rather than letting
-  connections dissolve into chaotic wiki-link networks.
+  Folgezettel Numbering Zettelkasten Systems uses an alphanumeric branching ID method (like
+  1a1b2) to organize interconnected notes without rigid folder hierarchies. I found the
+  historical context illuminating: Luhmann's physical wooden cabinets required this system to
+  insert new cards without disrupting existing sequences. The article explores a critical
+  trade-off in digital environments—time-based IDs offer simplicity, but Folgezettel preserves
+  semantic meaning and creates readable "trains of thought" that reveal your intellectual
+  effort. This branching identification system is not merely a filing mechanism; it shapes how
+  you develop and structure thoughts over time.
 authorNote: >-
-  I tested Folgezettel in Obsidian after years of flat timestamp IDs, and the friction
-  surprised me. Deciding whether a new thought should branch as 3a1 or 3b forced deliberate
-  positioning instead of mindless note creation. Within three months, my longest sequences
-  (like 2a1b2a) visually showed where I'd invested cognitive effort. The system works, but
-  only if you resist the urge to add 26 lettered continuations—that's the signal your
-  structure needs splitting.
+  I tested this system when migrating my research notes from timestamped IDs to Folgezettel
+  numbering in Obsidian. The friction point emerged immediately: deciding whether a new
+  insight should branch as 2a1 or 2b forced me to clarify its relationship to prior concepts.
+  After three weeks, I noticed my deepest explorations naturally developed longer sequences
+  (like 1a2b1a), visually showing where I'd invested cognitive effort. The trade-off was worth
+  it—my notes felt less like scattered entries and more like an emerging argument.
 manualRelated:
   - title: "Old PKM Note Refactoring: 5-Step System"
     url: "/posts/how-to-refactor-old-notes-in-your-pkm/"

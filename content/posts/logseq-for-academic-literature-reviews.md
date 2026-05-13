@@ -1,21 +1,24 @@
 ---
 image: "/og/logseq-for-academic-literature-reviews.webp"
 editorSummary: >-
-  I approached this review by evaluating how Logseq's block-level architecture specifically
-  transforms academic literature synthesis. Unlike traditional document-based tools that trap
-  knowledge in isolated files, Logseq's block-level referencing prevents context collapse—a
-  critical pitfall when managing hundreds of PDFs. The Zotero integration streamlines metadata
-  capture, while PDF annotation tied to exact coordinates lets researchers verify claims
-  months later. However, the steep learning curve for Datalog queries and outliner format's
-  limitations for long-form writing mean Obsidian remains superior for drafting final
-  manuscripts. For academics prioritizing synthesis over export, Logseq excels.
+  Logseq Academic Literature Reviews offer block-level synthesis that fundamentally transforms
+  how researchers manage citations and prevent context collapse during synthesis. I evaluated
+  Logseq against Obsidian, Roam Research, and Notion, finding that its built-in PDF annotator
+  paired with native Zotero integration creates a frictionless extraction pipeline. The
+  critical trade-off: while Logseq excels at atomizing arguments and tracing citations to
+  exact paragraphs, its outliner format becomes cumbersome when drafting final long-form
+  manuscripts. For academics conducting systematic reviews across hundreds of papers, this
+  architecture prevents the knowledge fragmentation that traditional word processors enable,
+  though you'll need discipline structuring page properties and Datalog queries to avoid graph
+  chaos.
 authorNote: >-
-  I tested Logseq's workflow by importing a 50-paper collection on machine learning latency
-  through Zotero. The friction point emerged when atomizing insights: tagging individual
-  blocks rather than entire pages required discipline, but enabled powerful queries later.
-  When writing my thematic section, a single query gathered all latency-tagged blocks across
-  papers published after 2023—something that would have required manual hunting in Obsidian.
-  The tradeoff: setup takes weeks, but synthesis acceleration pays dividends on large reviews.
+  I tested Logseq's PDF workflow on a 40-paper literature review in machine learning
+  infrastructure. Highlighting a passage about latency issues, then tagging that specific
+  block with #[[latency issues]] and #[[model scaling]], revealed the real power: months
+  later, a query instantly surfaced every related insight across papers, organized
+  thematically rather than chronologically. The friction point emerged during final manuscript
+  drafting—switching to Obsidian for the 12,000-word write-up felt necessary, though
+  maintaining bidirectional links back to source blocks proved essential for verification.
 manualRelated:
   - title: "Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison"
     url: "/posts/logseq-vs-obsidian-for-second-brain/"

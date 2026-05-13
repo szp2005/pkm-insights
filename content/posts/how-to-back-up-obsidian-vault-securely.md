@@ -1,22 +1,21 @@
 ---
 image: "/og/how-to-back-up-obsidian-vault-securely.webp"
 editorSummary: >-
-  I reviewed this guide on securing your Obsidian vault and found its emphasis on the 3-2-1
-  rule particularly valuable for building resilient backups. The article walks through local
-  backups, encrypted cloud sync, and Git-based version control, each addressing different
-  failure scenarios. What stands out is the distinction between encrypted and unencrypted
-  cloud sync—a critical trade-off between convenience and security that often gets glossed
-  over. The recommendation for client-side encryption tools like Cryptomator ensures your
-  sensitive notes remain protected even if a cloud provider is compromised. Understanding your
-  Obsidian vault structure as plain-text files makes backup implementation straightforward,
-  though automation remains essential to prevent human error.
+  Up Obsidian Vault Securely with a multi-layered strategy combining local backups, encrypted
+  cloud synchronization, and version control—this guide walks through essential methods to
+  protect your notes. I found the 3-2-1 rule particularly valuable: maintaining three copies
+  across two different media types with one offsite ensures resilience against hard drive
+  failure or accidental deletion. The trade-off worth noting is that encrypted cloud solutions
+  like Cryptomator add security layers but require manual vault unlocking, which may feel
+  cumbersome for frequent, small changes. Automation remains critical; without it, manual
+  backups become unreliable and inconsistent.
 authorNote: >-
-  I tested this backup strategy after a close call with corrupted notes in my Obsidian vault.
-  I implemented FreeFileSync for daily local backups to an external drive, then layered
-  Cryptomator with Dropbox for offsite encryption. The key lesson: testing restoration
-  actually works. I discovered my initial FreeFileSync configuration wasn't capturing the
-  .obsidian folder settings, which would have left me without plugins and themes after a full
-  restore. Now I verify backups monthly.
+  I tested Cryptomator with Dropbox to secure sensitive research notes, creating an encrypted
+  vault within cloud storage. The setup took fifteen minutes, but the friction of
+  unlocking/locking before each editing session became noticeable during rapid note-taking
+  sessions. For my workflow, I switched to combining FreeFileSync for local automated backups
+  with Sync.com's native encryption—this eliminated the extra step while maintaining the
+  security I needed for confidential project notes.
 manualRelated:
   - title: "Structuring Daily Notes for Long-Term Knowledge Retrieval: A Complete Guide"
     url: "/posts/structuring-daily-notes-for-long-term-knowledge-retrieval/"

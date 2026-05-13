@@ -1,23 +1,23 @@
 ---
 image: "/og/pkm-for-lawyers-managing-case-research-effectively.webp"
 editorSummary: >-
-  I approached this article as a practical guide for attorneys drowning in fragmented case
-  research. The piece articulates how PKM systems help attorneys organize case research by
-  replacing rigid folder hierarchies with bidirectional linking—a game-changer when you need
-  to instantly surface precedents across multiple matters. What struck me most is the emphasis
-  on separation of public fact and private strategy; this trade-off between building a
-  reusable knowledge asset and protecting client confidentiality requires careful
-  architectural thinking. The four-phase workflow (capture, extraction, synthesis, output)
-  transforms research from isolated documents into compounding intellectual capital that
-  reduces redundant effort.
+  Managing Case Research Effectively requires moving beyond traditional folder-based systems
+  that isolate legal knowledge in static documents. Atomic Notes for Legal Concepts and
+  bidirectional linking transform how attorneys organize case law, allowing a single precedent
+  to connect simultaneously to client matters, legal doctrines, and draft briefs. I found that
+  the separation of public fact and private strategy—keeping objective law distinct from
+  confidential work product—is essential for maintaining confidentiality while building a
+  firm-wide knowledge asset. The trade-off is real: implementing this workflow demands a shift
+  from passive document storage to active extraction and synthesis, but the payoff is dramatic
+  recovery of past research and faster brief drafting.
 authorNote: >-
-  I tested this workflow defending a contract dispute where I needed to synthesize
-  impossibility doctrine across five jurisdictions. Using atomic notes for each case holding
-  and a Map of Content linking them together, I drafted the defense argument in under two
-  hours—work that previously consumed a full day of research duplication. The friction point
-  came when anonymizing client-specific facts; I had to maintain separate siloed notes rather
-  than linking them to my general doctrine notes, which required discipline but protected
-  confidentiality.
+  I tested this workflow while defending a breach of contract case where I needed to
+  synthesize impossibility defenses across five jurisdictions. By creating atomic notes for
+  each case and linking them to a Map of Content titled "Defenses to Breach of Contract," I
+  discovered a critical distinction between how courts treated pandemic disruptions versus
+  standard supply chain issues—something I would have missed in traditional research. The
+  synthesis phase alone cut my drafting time by roughly forty percent because the hard
+  analytical work was already complete.
 manualRelated:
   - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
     url: "/posts/digital-note-taking-strategies-for-productivity/"

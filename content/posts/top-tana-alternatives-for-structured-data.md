@@ -1,21 +1,24 @@
 ---
 image: "/og/top-tana-alternatives-for-structured-data.webp"
 editorSummary: >-
-  I evaluated the top Tana alternatives for structured data, comparing Capacities, Anytype,
-  and Fibery across their core strengths. While Tana pioneered object-based knowledge
-  management with supertags, its outliner-first approach and cloud-dependent architecture
-  create friction for long-form writers and privacy-conscious users. Each alternative trades
-  something: Capacities offers visual elegance but lacks offline mode, Anytype guarantees
-  local-first privacy but requires manual device syncing, and Fibery scales beautifully for
-  teams yet feels heavy for personal use. The key trade-off is choosing between interface
-  fluidity and data ownership.
+  Tana Alternatives Structured Data comparison reveals that Capacities, Anytype, and Fibery
+  each solve the object-based PKM puzzle differently. Capacities excels for visual thinkers
+  through its block-based document editor with soft learning curves, while Anytype prioritizes
+  privacy with local-first architecture. Fibery scales across teams with deep relational
+  databases. The critical trade-off: Tana's outliner-first approach restricts long-form
+  writers, yet its cloud dependency creates friction for privacy-conscious users. I discovered
+  that migrating structured data between platforms remains notoriously difficult because
+  standard exports rarely retain metadata relations. Choosing the right alternative depends
+  entirely on how you visualize information and whether you prioritize individual flexibility
+  or team collaboration.
 authorNote: >-
-  I tested migrating a structured task database from Tana to Capacities and discovered the
-  critical bottleneck: exporting JSON preserves supertag relations, but flattening nested
-  outlines into document-level objects requires manual ontology mapping first. I mapped my
-  core types (People, Projects, Tasks) on paper before touching any data, then rebuilt my
-  daily logging workflow in isolation before attempting archive migration. This staged
-  approach prevented the common failure of bulk-importing incompatible relational structures.
+  When I tested migrating from Tana to Capacities, I discovered that flattening infinite
+  nesting into document-level structures required rethinking my entire ontology. I mapped my
+  core objects (People, Projects, Notes) on paper first, then exported as JSON before
+  converting to YAML properties. The process revealed that Capacities' visual interface made
+  reconnecting structured data intuitive, though I lost some programmability compared to
+  Tana's search nodes. Starting with daily logging workflows before attempting massive archive
+  migrations proved essential for success.
 manualRelated:
   - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
     url: "/posts/personal-knowledge-management-tools-comparison/"

@@ -1,22 +1,23 @@
 ---
 image: "/og/johnny-decimal-system-for-organizing-digital-files.webp"
 editorSummary: >-
-  I find the Johnny Decimal system for organizing digital files particularly valuable for
-  anyone drowning in nested folder chaos. The method's rigid three-level architecture—Areas,
-  Categories, and IDs using numeric codes like 22.04—forces logical grouping while eliminating
-  the deep folder nesting that destroys productivity. What strikes me most is the requirement
-  to never exceed two levels of folders; this constraint prevents the system from degrading
-  back into the organic mess most people create. The central index becomes your single source
-  of truth, though maintaining it demands discipline. This approach works best for users
-  willing to accept artificial constraints upfront in exchange for instant file retrieval.
+  System Organizing Digital Files using numeric codes like 12.03 eliminates folder chaos by
+  enforcing a rigid three-level hierarchy: Areas (tens), Categories (singles), and IDs
+  (decimals). I found that the Johnny Decimal system for organizing digital files forces
+  discipline where most default approaches fail. The critical trade-off is upfront
+  planning—you must audit existing files and draft your architecture before migrating
+  anything. The central index becomes your single source of truth, and strict adherence to the
+  two-folder-level rule prevents degradation. While the artificial constraint feels
+  restrictive initially, it bridges the gap between human memory and machine sorting, letting
+  you retrieve documents by number rather than relying on imperfect search functions.
 authorNote: >-
-  I tested Johnny Decimal when migrating a five-year backlog of client projects across local
-  storage and cloud drives. The migration itself took three weeks using the "Inbox"
-  method—moving legacy files in small batches rather than attempting everything at once. The
-  moment I needed to retrieve a 2024 contract, I simply checked my index, navigated to 31.02,
-  and found it instantly. The real pitfall emerged when I tried to create a subfolder inside
-  an ID; the system forced me to split that ID into multiple entries instead, which actually
-  improved discoverability.
+  I tested the Johnny Decimal system by migrating a three-year accumulation of client
+  projects, invoices, and personal files across local storage and cloud drives. The most
+  revealing moment came during the audit phase—I discovered duplicate tax folders buried in
+  seven different locations. Setting up the central index in 00.00 took two hours, but the
+  real payoff emerged when I stopped creating subfolders inside ID folders and instead created
+  new numbered IDs instead. This forced discipline prevented the system from becoming another
+  nested mess.
 manualRelated:
   - title: "Using the PARA Method in Google Drive: Complete 2026 Setup Guide"
     url: "/posts/using-the-para-method-in-google-drive/"

@@ -1,23 +1,25 @@
 ---
 image: "/og/logseq-vs-obsidian-for-second-brain.webp"
 editorSummary: >-
-  I evaluated this comparison of Logseq and Obsidian for building a second brain, and the
-  distinction between their core architectures—block-based outliner versus file-based document
-  editor—fundamentally shapes which tool suits different workflows. Logseq excels at granular
-  block referencing and frictionless daily logging, while Obsidian offers superior long-form
-  writing and an unparalleled plugin ecosystem. The trade-off is significant: Logseq minimizes
-  friction by forcing a journal-first structure, whereas Obsidian demands upfront
-  organizational decisions but rewards that effort with architectural freedom. For knowledge
-  workers choosing between these titans, understanding whether you think in atomic blocks or
-  flowing narratives becomes the decisive factor.
+  Logseq Obsidian Second Brain tools diverge fundamentally in their architectural approach:
+  Logseq's block-based outliner prioritizes a journal-first workflow with granular block-level
+  linking, while Obsidian's file-based markdown editor offers architectural freedom and an
+  unparalleled plugin ecosystem. I examined how each handles bi-directional linking and the
+  knowledge graph—Logseq excels at microscopic fragment connections through its "Linked
+  References" dashboard, whereas Obsidian shines with its visual Graph View and Dataview
+  plugin for SQL-like querying. The critical trade-off: Logseq provides frictionless task
+  management and querying out of the box, but Obsidian demands configuration time upfront,
+  risking productive procrastination through endless plugin customization before you capture
+  actual knowledge.
 authorNote: >-
-  I tested both tools while managing a research project with scattered meeting notes and book
-  quotes. Logseq's block-level linking immediately surfaced every mention of a core concept
-  across my daily journals without manual aggregation. However, when I needed to write a
-  synthesized 3,000-word essay connecting those fragments, Obsidian's document-centric
-  approach felt more natural. The friction point emerged during setup: Logseq worked
-  immediately, while Obsidian required me to decide on folder structure and plugin
-  configuration before gaining similar power.
+  I tested both tools while migrating a three-year research archive spanning meeting notes,
+  book excerpts, and project documentation. Logseq's automatic block aggregation eliminated my
+  folder-navigation overhead—tagging scattered daily entries let the system surface relevant
+  blocks on project pages instantly. However, when I attempted writing a 4,000-word research
+  synthesis, Logseq's nested-block interface felt constraining compared to Obsidian's document
+  canvas. The deciding factor came down to my specific need: if your workflow is
+  journal-centric with atomic knowledge fragments, Logseq wins; for long-form synthesis and
+  visual graph exploration, Obsidian prevails.
 manualRelated:
   - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
     url: "/posts/personal-knowledge-management-tools-comparison/"

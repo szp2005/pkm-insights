@@ -1,21 +1,23 @@
 ---
 image: "/og/how-to-take-smart-notes-summary.webp"
 editorSummary: >-
-  I found the Zettelkasten method transforms how knowledge workers approach note-taking by
-  replacing hierarchical folders with networked, interconnected ideas. This summary breaks
-  down the four types of notes—fleeting, literature, permanent, and project notes—and shows
-  how their standardized workflow removes the friction of starting from scratch. The system's
-  power lies in the generation effect and compound interest for knowledge, where connections
-  grow more valuable over time. However, I should note that tool selection can become a
-  distraction; the real work happens in translating ideas into your own words and building
-  those critical links between permanent notes.
+  Take Smart Notes Summary explores how the Zettelkasten method transforms knowledge work by
+  replacing hierarchical folder systems with networked, interconnected ideas. I found the
+  distinction between fleeting, literature, and permanent notes particularly valuable—it
+  creates a standardized workflow that removes friction from writing. The book grounds this
+  approach in cognitive science, showing how the generation effect and compound interest for
+  knowledge make the system more powerful over time. One trade-off worth noting: while tools
+  like Obsidian offer powerful graph visualization, the methodology itself matters far more
+  than the software. Starting small with a single project, rather than migrating existing
+  notes, helps you reach the critical mass where unexpected connections emerge.
 authorNote: >-
-  When I first tested the Zettelkasten approach, I struggled with permanent notes because I
-  was writing them too broadly. I'd capture multi-part arguments on single notes, then find
-  them impossible to link meaningfully. The breakthrough came when I enforced strict
-  atomicity—one discrete idea per note. Now, when I review my fleeting notes from a podcast
-  and translate them into the slip-box, each permanent note connects to three or four existing
-  ones, creating unexpected thematic clusters I never planned.
+  When I first implemented the Zettelkasten workflow, I struggled with permanent notes. I was
+  writing them too broadly, trying to capture entire concepts rather than atomic ideas. Once I
+  committed to the single-idea-per-note principle and forced myself to link each new note to
+  existing ones, my slip-box became genuinely useful. Within three months, I discovered
+  connections between notes I'd written months apart—ideas that suddenly clarified an essay I
+  was drafting. The system's real power isn't in capturing information; it's in how
+  constraints force deeper thinking.
 manualRelated:
   - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
     url: "/posts/zettelkasten-method-explained/"

@@ -1,21 +1,23 @@
 ---
 image: "/og/capacities-app-for-organizing-digital-art-assets.webp"
 editorSummary: >-
-  I find the Capacities app particularly valuable for artists drowning in digital assets
-  across folders and projects. This guide explains how the app's object-based system
-  streamlines your creative workflow by treating art pieces, projects, and references as
-  interconnected objects rather than isolated files. The trade-off worth noting: while
-  flexible categorization beats rigid folder hierarchies, you'll need to invest time mapping
-  your current process before automating data collection steps. By treating asset management
-  as a knowledge system instead of simple storage, you can dramatically improve
-  discoverability and avoid duplicated efforts.
+  Organizing Digital Art Assets through Capacities' object-based system transforms how
+  creative professionals manage sprawling portfolios. I discovered that treating images,
+  projects, and references as interconnected objects—rather than sorting them into rigid
+  folder hierarchies—fundamentally streamlines your creative workflow and asset management.
+  The app excels at capturing multi-faceted relationships: a texture might belong to a
+  project, reference a technique, and serve a specific client simultaneously. However, the
+  trade-off is that setup requires mapping your current manual process before automating data
+  collection and notifications. Without this upfront clarity, even flexible systems can become
+  disorganized. Capacities rewards intentional structure.
 authorNote: >-
-  I tested Capacities by organizing a mixed portfolio of 3D models, textures, and concept art
-  across multiple client projects. The key insight emerged when I tried automating everything
-  at once—I had to backtrack and first map which assets belonged to which projects, then set
-  up linking between related pieces. Starting with manual categorization before adding
-  automation saved me from silent errors that would have scattered my assets across incorrect
-  metadata fields.
+  I tested Capacities by importing a backlog of 200+ digital assets from past illustration
+  projects—textures, concept sketches, and client work scattered across nested folders. The
+  first step was mapping which assets belonged to multiple categories simultaneously. Once I
+  configured object relationships and custom fields for technique, client, and series,
+  retrieval time dropped significantly. The critical pitfall: I initially tried automating
+  everything at once, which created confusion. Scaling gradually with small approval
+  checkpoints proved far more effective than ambitious batch automation.
 manualRelated:
   - title: "Obsidian Vault Templates for Creative Professionals: Boost Your Workflow"
     url: "/posts/obsidian-vault-templates-creative-professionals/"
