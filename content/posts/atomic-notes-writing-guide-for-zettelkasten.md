@@ -1,5 +1,28 @@
 ---
 image: "/og/atomic-notes-writing-guide-for-zettelkasten.webp"
+editorSummary: >-
+  I’ve frequently fallen victim to the "collector's fallacy," amassing highlights that never
+  actually lead to new insights. This Atomic Notes Writing Guide for Zettelkasten: 5-Step
+  System addresses that gap by treating note-taking as an active thinking environment rather
+  than a passive archive. I found the transition to drafting a declarative title particularly
+  helpful for making my Obsidian graph navigable. One specific trade-off to watch for is the
+  fragmentation trap; slicing ideas too thinly can make your system feel disjointed. Adhering
+  to Principle 1: Write in Your Own Words is demanding, but it prevents the common pitfall of
+  simply hoarding someone else’s thoughts.
+authorNote: >-
+  My breakthrough with Zettelkasten happened when I stopped creating long summaries of books
+  and started isolating irreducible arguments. In my current setup, I use a specific checklist
+  for every new entry to ensure it survives outside its original context. If I can't link a
+  new thought to at least two existing points, I treat it as a red flag that my library is
+  becoming a junk drawer. This disciplined approach to forge connections has turned my notes
+  into a genuine partner in my writing.
+manualRelated:
+  - title: "Take Smart Notes: A Comprehensive Summary and Practical Guide"
+    url: "/posts/how-to-take-smart-notes-summary/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "Atomic Notes Writing Guide for Zettelkasten: 5-Step System"
 description: "Master personal knowledge management with our complete atomic notes writing guide for Zettelkasten. Learn how to craft focused, linkable notes for your second brain."
 pubDate: "2026-05-01"

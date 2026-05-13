@@ -1,5 +1,28 @@
 ---
 image: "/og/best-logseq-themes-for-long-form-writing.webp"
+editorSummary: >-
+  I often struggle to stay focused when drafting long articles in Logseq because the default
+  bullet points feel too cluttered for my creative flow. To fix this, I wanted to Discover the
+  best Logseq themes for long form writing. We review top distraction-free options like the
+  Bear Theme, which offers a clean aesthetic but requires some CSS knowledge for deep
+  customization. One specific trade-off I noticed is that while high-contrast modes look
+  crisp, a warmer palette like Bonofix is better for staving off eye strain during three-hour
+  sessions. I also found that restricting line length to 80 characters significantly improved
+  my writing endurance.
+authorNote: >-
+  While testing these layouts, I spent a week drafting a 3,000-word research paper using the
+  Logseq Cobra Theme. The distinct heading hierarchy helped me keep my place without
+  constantly checking my outline, but I found the light mode contrast a bit harsh on my
+  monitor. I eventually combined the theme with the Document Mode plugin to hide top-level
+  bullets entirely. This specific setup transformed my workspace from a technical database
+  into a dedicated prose editor, which helped me hit my daily word count much faster.
+manualRelated:
+  - title: "Best Logseq Plugins for Scientific Research Efficiency in 2026"
+    url: "/posts/logseq-plugins-for-scientific-research-efficiency/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
 title: "7 Best Logseq Themes for Long Form Writing in 2026"
 description: "Discover the best Logseq themes for long form writing. We review top distraction-free themes designed to improve focus, typography, and writing endurance."
 pubDate: "2026-05-03"

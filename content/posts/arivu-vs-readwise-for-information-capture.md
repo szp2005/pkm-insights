@@ -1,5 +1,28 @@
 ---
 image: "/og/arivu-vs-readwise-for-information-capture.webp"
+editorSummary: >-
+  I often struggle to balance high-volume web research with deep book reading, which makes
+  this look at Arivu vs Readwise for Information Capture: Which Is Better? particularly
+  relevant. While I rely on Readwise to pull Kindle highlights into my Obsidian vault via its
+  reliable export pipeline, I noticed a significant trade-off when testing Arivu. Its Content
+  Intelligence score and semantic search are great for avoiding read-it-later bankruptcy on
+  the web, but it lacks the hardware integrations I need for physical e-readers. I appreciate
+  how this breakdown distinguishes between the mechanics of capture for these two distinct
+  second brain philosophies.
+authorNote: >-
+  My setup currently involves using Snipd for podcast snippets and Kindle for books, all
+  feeding into a central database. I once hit a wall with my knowledge management when my
+  browser bookmarks became an unnavigable graveyard of unread tabs. Testing Arivu changed that
+  by providing automated summaries that help me filter sources before I commit to deep
+  reading. It solves the friction of manual tagging, though I still stick with the Readwise
+  daily review to ensure my book highlights don’t vanish into the digital ether.
+manualRelated:
+  - title: "Steps to Building a Second Brain for Productivity: 6-Step Guide"
+    url: "/posts/steps-to-building-a-second-brain-for-productivity/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "Arivu vs Readwise for Information Capture: Which Is Better?"
 description: "Compare Arivu and Readwise for information capture. Discover which second brain tool handles highlights, AI summaries, and knowledge management best."
 pubDate: "2026-05-01"

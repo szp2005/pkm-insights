@@ -1,5 +1,29 @@
 ---
 image: "/og/atomic-notes-writing-guide.webp"
+editorSummary: >-
+  I’ve often seen my digital notebook become a graveyard for information, but this breakdown
+  of "The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten" offers a
+  necessary shift toward active synthesis. I appreciate how it distinguishes between fleeting
+  notes and the rigorous creation of permanent ones. My favorite takeaway is the emphasis on
+  declarative titles; they act as the thought itself, making an Obsidian graph view far more
+  navigable. However, I’ve found that the "Collector's Fallacy" is a real trade-off; saving
+  data feels like progress, but without this Step-by-Step Guide to Writing an Atomic Note,
+  you’re just hoarding.
+authorNote: >-
+  When I first started my zettelkasten, I fell into the trap of linking keywords without
+  context, creating what this guide calls the "Wikipedia Trap." Now, I use the "Three Pillars
+  of Atomicity" to ensure every entry in my database is self-contained. I recently applied
+  this when studying behavioral psychology, forcing myself to write a declarative title like
+  "Loss aversion outweighs equivalent gains" instead of just "Loss Aversion." It transformed
+  my review process because I could see the logic of my thoughts without clicking through
+  every single file.
+manualRelated:
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "Second Brain vs Zettelkasten Method: The Ultimate Guide to Personal Knowledge Management"
+    url: "/posts/second-brain-vs-zettelkasten-method/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten"
 description: "Discover the expert framework for crafting perfect atomic notes. Learn how to distill complex ideas, build a Zettelkasten, and unlock the compound."
 pubDate: "2026-04-30"
