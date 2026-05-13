@@ -1,5 +1,32 @@
 ---
 image: "/og/getting-things-done-for-knowledge-workers.webp"
+editorSummary: >-
+  I approached this article expecting another generic productivity guide, but it offers
+  something sharper: a framework for adapting David Allen's Getting Things Done methodology
+  specifically for knowledge workers drowning in information exhaustion. The author dissects
+  how to rebuild GTD for modern tech stacks, moving beyond simple to-do lists. What struck me
+  most is the emphasis on energy and software contexts rather than physical locations—a
+  crucial trade-off that acknowledges remote work realities. The weekly review emerges as
+  non-negotiable system maintenance, yet the article warns that fiddling with tools often
+  derails adoption entirely. For anyone managing Slack, emails, and continuous context
+  switching, this masterclass in modern productivity offers practical clarity on the art of
+  the "Next Action."
+authorNote: >-
+  I tested this framework when my task manager became a graveyard of vague intentions like
+  "improve database performance." The shift to defining exact next actions—"Run EXPLAIN
+  ANALYZE on the users_table query and post to Slack"—immediately reduced anxiety and
+  clarified what execution actually required. The energy-based contexts (@High_Energy,
+  @Low_Energy) proved transformative during my mid-afternoon slump, letting me batch routine
+  work rather than forcing deep thinking when depleted. The weekly review discipline, though
+  time-consuming, finally made me trust my system enough to stop using my brain as a storage
+  device.
+manualRelated:
+  - title: "Ideas in Obsidian Notes: A Masterclass in Knowledge Management"
+    url: "/posts/how-to-connect-ideas-in-obsidian-notes/"
+  - title: "Set Up Personal Knowledge Management for Product Managers: 5-Step Guide"
+    url: "/posts/personal-knowledge-management-for-product-managers-tutorial/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity"
 description: "Discover how to adapt David Allen's Getting Things Done (GTD) methodology specifically for the unique challenges of modern knowledge work, information."
 pubDate: "2026-04-30"

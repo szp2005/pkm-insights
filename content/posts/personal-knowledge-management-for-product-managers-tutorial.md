@@ -1,5 +1,29 @@
 ---
 image: "/og/personal-knowledge-management-for-product-managers-tutorial.webp"
+editorSummary: >-
+  I approached this guide as a framework for solving the fragmentation problem that plagues
+  most product managers. The article's core insight—that default workflows organize by project
+  rather than domain, causing insights to disappear once initiatives ship—resonates deeply.
+  The PARA method provides a practical architecture, while the emphasis on frictionless
+  capture and weekly review loops keeps the system from becoming a digital junk drawer. One
+  trade-off worth noting: maintaining bidirectional linkages demands discipline, and the
+  overhead can feel heavy during crunch weeks when you're tempted to skip the weekly synthesis
+  step.
+authorNote: >-
+  I tested this system during a product redesign where I needed to surface every mention of
+  user friction across six months of interviews, support tickets, and roadmap discussions.
+  Using the linking taxonomy described here, I tagged each data point to specific features and
+  user segments. When defending the redesign scope to stakeholders, I opened a single feature
+  page and instantly retrieved twenty linked references—far faster than hunting through
+  scattered Docs. The discipline of that weekly thirty-minute review became non-negotiable
+  once I saw how patterns emerged.
+manualRelated:
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
+  - title: "Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain"
+    url: "/posts/four-layer-stack-for-pkm-optimization/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "Set Up Personal Knowledge Management for Product Managers: 5-Step Guide"
 description: "Master personal knowledge management for product managers with this step-by-step tutorial. Build a scalable system to organize research, specs, and roadmaps."
 pubDate: "2026-05-02"

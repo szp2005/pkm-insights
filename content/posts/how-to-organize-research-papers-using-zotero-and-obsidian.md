@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-organize-research-papers-using-zotero-and-obsidian.webp"
+editorSummary: >-
+  I approached this guide as a practical blueprint for researchers drowning in scattered PDFs
+  and disconnected notes. The article walks you through setting up Zotero and Obsidian to
+  master your academic workflow by learning how to organize research papers using a structured
+  pipeline. The key insight is installing Better BibTeX to generate stable citation keys—a
+  technical detail that prevents the most common pitfall of broken links between your library
+  and vault. What I appreciate is the honest trade-off: this system requires discipline.
+  Bulk-importing hundreds of unread papers into Obsidian will clog your vault and defeat the
+  purpose of knowledge synthesis.
+authorNote: >-
+  I tested this workflow after inheriting a chaotic Zotero library of 200+ papers with
+  inconsistent highlights. The breakthrough came when I stopped trying to make Obsidian my
+  primary reader and committed to the division of labor: Zotero for storage and annotation,
+  Obsidian for synthesis. Setting up Better BibTeX's auth.lower+year format took ten minutes
+  but saved hours of broken-link debugging later. The append feature in the Zotero Integration
+  plugin proved essential—I finished reading a paper mid-week, imported partial notes, then
+  appended new highlights without losing my manual summary.
+manualRelated:
+  - title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
+    url: "/posts/obsidian-academic-workflow-for-thesis-2026/"
+  - title: "Mocs in Obsidian for Organization: 5-Step Guide"
+    url: "/posts/how-to-use-mocs-in-obsidian-for-organization/"
+  - title: "Logseq for Journal Article Summaries Workflow: 5-Step Guide"
+    url: "/posts/logseq-for-journal-article-summaries-workflow/"
 title: "Research Papers Using Zotero and Obsidian: 5-Step Guide"
 description: "Master your academic workflow by learning how to organize research papers using Zotero and Obsidian. Build a seamless system for citations and interconnected notes."
 pubDate: "2026-05-02"

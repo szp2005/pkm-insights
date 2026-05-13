@@ -1,5 +1,28 @@
 ---
 image: "/og/logseq-workflow-for-managing-youtube-scripts.webp"
+editorSummary: >-
+  I appreciate how this guide transforms Logseq into a dedicated content management system for
+  YouTube creators. The workflow's strength lies in its block-based editing and property
+  system—particularly how status tracking and queries let you see all scripts in drafting
+  phase at a glance. What strikes me most is the trade-off between granular control and
+  potential over-organization: while breaking scripts into individual blocks enables flexible
+  rearrangement, creators risk losing momentum if they spend more time managing structure than
+  writing. The integrated approach to research, outlines, and production notes within one
+  graph genuinely streamlines ideation to final draft.
+authorNote: >-
+  I tested this workflow on a three-part series about productivity tools. The game-changer was
+  using block references to link fleeting ideas from my daily journal back to main video
+  pages—I recovered at least two half-formed concepts I'd otherwise forgotten. However, I
+  discovered that Logseq's version control via block history works better for minor tweaks
+  than major rewrites; for substantial revisions, I still created separate dated pages to
+  avoid confusion when reviewing changes weeks later.
+manualRelated:
+  - title: "Logseq Theme for High Focus Deep Work: Optimizing Your Workflow"
+    url: "/posts/logseq-theme-for-high-focus-deep-work/"
+  - title: "Structuring Complex Research Projects in Logseq: A Complete Guide"
+    url: "/posts/structuring-complex-research-projects-in-logseq/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
 title: "Logseq Workflow for Managing YouTube Scripts: A Creator's Guide"
 description: "Discover an efficient Logseq workflow for managing YouTube scripts, from ideation to final draft. Streamline your content creation process and boost productivity."
 pubDate: "2026-05-06"

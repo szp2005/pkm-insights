@@ -1,5 +1,29 @@
 ---
 image: "/og/linking-related-concepts-in-capacities-objects.webp"
+editorSummary: >-
+  I approached this guide to understand how Capacities transforms note-taking through
+  object-based linking. The platform's strength lies in moving beyond isolated files—by
+  defining core object types and using inline linking for context, you build a semantic web
+  rather than a flat archive. The graph view reveals surprising associations and structural
+  gaps in your knowledge. However, I noticed a critical trade-off: excessive linking without
+  purpose clutters your graph and dilutes signal. The periodic review habit is essential;
+  links degrade in value if never revisited. This object-based architecture mirrors how the
+  human brain associates information, turning fragments into actionable synthesis.
+authorNote: >-
+  I tested this workflow by setting up four object types—Sources, Entities, Ideas, and
+  Execution—in my own knowledge base. When I linked a podcast insight to both the source and
+  the guest speaker using inline tagging, the backlinks automatically populated across three
+  objects simultaneously. The real payoff came during monthly reviews: examining which
+  projects referenced specific concepts revealed patterns I hadn't consciously noticed. The
+  pitfall I encountered was over-linking every noun; I learned to link only structural weight,
+  which kept my graph navigable.
+manualRelated:
+  - title: "Using Capacities for Visual Research Databases: A Complete Guide"
+    url: "/posts/using-capacities-for-visual-research-databases/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Semantic Layers in Personal Knowledge Management: Complete Guide"
+    url: "/posts/semantic-layers-in-personal-knowledge-management/"
 title: "Master Linking Related Concepts in Capacities Objects: 5-Step Guide"
 description: "Discover how linking related concepts in Capacities objects transforms your note-taking from isolated facts into a powerful, interconnected knowledge graph."
 pubDate: "2026-05-03"

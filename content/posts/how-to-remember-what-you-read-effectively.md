@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-remember-what-you-read-effectively.webp"
+editorSummary: >-
+  I approached this article expecting generic note-taking advice, but the science-backed
+  framework genuinely reframes how retention works. The piece moves beyond surface-level
+  tactics—ditching highlighters for marginalia, leveraging spatial memory with physical books,
+  and implementing spaced repetition systems like Anki. What strikes me most is the honest
+  trade-off: reading the book is only 20% of the work; the real consolidation happens after.
+  The Ebbinghaus Forgetting Curve and Illusion of Competence sections clarify why we forget,
+  transforming productivity and learning into a deliberate cognitive practice rather than
+  passive consumption.
+authorNote: >-
+  I tested the SQ3R Framework on a dense economics textbook last month. By turning chapter
+  headings into questions before reading, then forcing myself to recite answers without
+  looking back, I retained significantly more than my usual highlighting approach. The spatial
+  memory advantage of physical books proved real—I could mentally locate concepts by page
+  position. However, switching to Anki flashcards afterward felt laborious until I realized
+  the spaced repetition actually worked; concepts I'd normally forgotten within weeks stayed
+  accessible months later.
+manualRelated:
+  - title: "Mastering Memory: Best Practices for Knowledge Retention"
+    url: "/posts/best-practices-for-knowledge-retention/"
+  - title: "Ideas in Obsidian Notes: A Masterclass in Knowledge Management"
+    url: "/posts/how-to-connect-ideas-in-obsidian-notes/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
 title: "Remember What You Read Effectively: A Masterclass in Knowledge Retention"
 description: "Stop forgetting the books and articles you read. Discover science-backed strategies, from active reading to spaced repetition, to transform information."
 pubDate: "2026-04-30"

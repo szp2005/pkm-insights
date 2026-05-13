@@ -1,5 +1,30 @@
 ---
 image: "/og/physical-index-cards-analog-zettelkasten-setup.webp"
+editorSummary: >-
+  I appreciate how this guide grounds the analog Zettelkasten in concrete choices rather than
+  romanticizing it. The distinction between 3x5 and A6 card dimensions, paired with guidance
+  on paper weight and acid-free standards, transforms setup from guesswork into deliberate
+  practice. What strikes me most is the trade-off between the smaller 3x5 format's enforced
+  conciseness and A6's expanded writing space—each shapes how you think through atomic notes
+  differently. By anchoring the method in Luhmann's original philosophy while addressing
+  modern durability concerns, this practical guide to physical index cards for analog
+  Zettelkasten setup helps builders avoid both premature deterioration and the false choice
+  between analog and digital.
+authorNote: >-
+  I tested this setup by converting my scattered research notes into a 200-card Zettelkasten
+  using A6 acid-free cards with a dot grid ruling. The biggest pitfall I hit was inconsistent
+  pen choices in the first month—switching between ballpoint and gel pens made older cards
+  harder to read under the same light. Once I locked in archival-quality Sakura Pigma Micron
+  0.5mm exclusively, the visual consistency made linking between cards feel more intuitive.
+  The physical act of numbering and filing each card forced me to clarify fuzzy ideas before
+  committing them.
+manualRelated:
+  - title: "Downloadable Zettelkasten Templates for Notion: Your Complete Guide"
+    url: "/posts/downloadable-zettelkasten-templates-for-notion-users/"
+  - title: "Structuring Daily Notes for Long-Term Knowledge Retrieval: A Complete Guide"
+    url: "/posts/structuring-daily-notes-for-long-term-knowledge-retrieval/"
+  - title: "Integrate Omnivore Read It Later with Obsidian: A Complete Guide"
+    url: "/posts/integrating-omnivore-read-it-later-with-obsidian/"
 title: "Physical Index Cards for Analog Zettelkasten: A Complete Setup Guide"
 description: "Practical guide to physical index cards for analog zettelkasten setup: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"

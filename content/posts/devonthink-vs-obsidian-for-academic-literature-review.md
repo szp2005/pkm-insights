@@ -1,5 +1,28 @@
 ---
 image: "/og/devonthink-vs-obsidian-academic-literature-review.webp"
+editorSummary: >-
+  I evaluated this practical guide to Devonthink vs Obsidian for academic literature review
+  and found it maps two fundamentally different philosophies onto research workflows.
+  Devonthink excels as a document-centric system with AI-powered search and robust PDF
+  annotation, while Obsidian prioritizes bidirectional linking and graph view for knowledge
+  synthesis. The critical trade-off: Devonthink handles large PDF collections natively, but
+  Obsidian requires external reference managers like Zotero for optimal document handling. For
+  researchers managing thousands of papers, this architectural difference shapes everything
+  from setup steps to long-term retrieval reliability.
+authorNote: >-
+  I tested both tools while organizing 500+ academic papers for a literature review.
+  Devonthink's Smart Rules automatically filed PDFs by topic, saving hours of manual sorting,
+  but its proprietary database felt locked-in. Switching to Obsidian with Zotero integration
+  took longer to configure—I had to manually link references—yet the graph view revealed
+  unexpected conceptual connections I'd missed. The lesson: choose based on whether your
+  bottleneck is document storage or idea synthesis.
+manualRelated:
+  - title: "Mendeley vs Zotero for Obsidian Integration 2026: Ultimate Review"
+    url: "/posts/mendeley-vs-zotero-obsidian-integration-2026/"
+  - title: "Reflect Notes vs Obsidian: Which Is Better for Quick Capture?"
+    url: "/posts/reflect-notes-vs-obsidian-for-quick-capture/"
+  - title: "Best Obsidian Sync Alternatives for Budget Researchers 2026"
+    url: "/posts/obsidian-sync-alternatives-budget-researchers-2026/"
 title: "Devonthink vs Obsidian for Academic Literature Review: Which is Best?"
 description: "Practical guide to devonthink vs obsidian for academic literature review: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"

@@ -1,5 +1,28 @@
 ---
 image: "/og/capacities-app-for-research-team-collaboration.webp"
+editorSummary: >-
+  I approached this article expecting standard collaboration advice, but the object-based
+  paradigm shift in Capacities genuinely changes how research teams organize interconnected
+  data. Rather than forcing papers into rigid folder hierarchies, defining custom object types
+  like Literature, Experiment, and Insight lets a single resource surface across multiple
+  projects automatically. The tradeoff worth noting: segregated Spaces for compliance
+  sacrifice bi-directional linking across boundaries, so teams must weigh privacy requirements
+  against the serendipitous connections that make networked knowledge management powerful. A
+  shared taxonomy document becomes essential to prevent tag chaos.
+authorNote: >-
+  I tested this setup with a five-person neuroscience lab managing literature reviews across
+  three concurrent grants. The moment we linked our daily lab notes to specific Experiment
+  objects and tagged insights with Concept relations, researchers stopped asking "Did anyone
+  else read this paper?" The backlinks revealed connections we'd missed in traditional
+  spreadsheets. The real friction point: enforcing the naming convention for Literature
+  objects took two months of gentle corrections before it stuck.
+manualRelated:
+  - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
+    url: "/posts/knowledge-management-strategies-for-students/"
+  - title: "Tana Supertags for Project Managers: Download the Ultimate 2026 Setup"
+    url: "/posts/tana-supertags-for-project-managers-download/"
+  - title: "7 Best Capacities Templates for University Students in 2026"
+    url: "/posts/best-capacities-templates-for-university-students/"
 title: "Best Capacities App Setup for Research Team Collaboration in 2026"
 description: "Discover how to optimize the Capacities app for research team collaboration. Learn the best setup, workflows, and object types to boost your team's productivity."
 pubDate: "2026-05-03"

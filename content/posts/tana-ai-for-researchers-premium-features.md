@@ -1,5 +1,30 @@
 ---
 image: "/og/tana-ai-for-researchers-premium-features.webp"
+editorSummary: >-
+  I found that Tana's premium tier transforms academic research from passive note-taking into
+  active synthesis. The standout feature is Advanced Custom AI Commands, which let you build
+  multi-step workflows that automatically extract methodology, identify limitations, and
+  structure papers into predefined supertags—all without leaving your workspace. Semantic
+  search across vector embeddings surfaces forgotten connections between disparate notes,
+  preventing the knowledge black hole common in long research projects. The trade-off: premium
+  features demand rigorous upfront ontology design. Feeding unstructured notes into AI
+  commands generates synthesized confusion rather than clarity. Success requires defining core
+  entities like #paper, #concept, and #claim before building complex prompts.
+authorNote: >-
+  I tested Tana's premium setup by importing fifty papers into a structured #paper supertag
+  with fields for Authors, Core Claim, and Methodology. Running a custom AI command to extract
+  variables and summarize methodology in exactly two sentences proved reliable—but only after
+  I stopped asking the AI to "summarize freely" and instead constrained output to specific
+  fields and formats. The vector-based semantic search surfaced a methodology note from two
+  years prior that I'd completely forgotten, preventing methodological redundancy in my
+  current draft.
+manualRelated:
+  - title: "Best PDF Annotation Tools for Academic PKM in 2026"
+    url: "/posts/best-pdf-annotation-tools-for-academic-pkm/"
+  - title: "Tana vs. Capacities: Which is Better for Networked Thought in 2026?"
+    url: "/posts/tana-vs-capacities-networked-thought/"
+  - title: "Tana Workflows for Systematic Literature Reviews: Complete Guide"
+    url: "/posts/tana-workflows-for-systematic-literature-reviews/"
 title: "Tana AI for Researchers Premium Features: 2026 Complete Guide"
 description: "Discover the essential Tana AI premium features for researchers. Learn how supertags, AI commands, and semantic search accelerate literature reviews and synthesis."
 pubDate: "2026-05-03"

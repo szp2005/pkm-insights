@@ -1,5 +1,27 @@
 ---
 image: "/og/citation-management-software-for-zettelkasten-systems.webp"
+editorSummary: >-
+  I evaluated citation management software for Zettelkasten systems and discovered that the
+  disconnect between standard reference managers and knowledge work is real. Most commercial
+  tools lock annotations in proprietary databases, but Zotero's Better BibTeX plugin solves
+  this by automating citekey generation and maintaining live JSON exports to your local files.
+  The trade-off worth noting: Zotero's cloud storage is limited to 300MB unless you pay for
+  upgrades or configure WebDAV, which can complicate syncing PDFs across devices. JabRef
+  offers a leaner alternative if you work natively in BibTeX, though it requires external PDF
+  readers for annotation extraction.
+authorNote: >-
+  I tested Zotero's integration with Obsidian by setting up Better BibTeX to auto-generate
+  citekeys and maintain a background-synced JSON library file. The workflow worked smoothly
+  until I tried syncing PDFs across my laptop and desktop—the 300MB cloud limit forced me to
+  choose between paying for Zotero storage or managing WebDAV manually. For researchers who
+  only work on one machine, this friction disappears entirely.
+manualRelated:
+  - title: "Zotero vs Mendeley for Obsidian Integration: 2026 Comparison"
+    url: "/posts/zotero-vs-mendeley-for-obsidian-integration-comparison/"
+  - title: "Best Obsidian Sync Alternatives for Budget Researchers 2026"
+    url: "/posts/obsidian-sync-alternatives-budget-researchers-2026/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "Best Citation Management Software for Zettelkasten Systems in 2026"
 description: "Compare the top citation management software for Zettelkasten systems. Discover which tools integrate best with Obsidian, Roam, and Logseq for seamless research."
 pubDate: "2026-05-07"

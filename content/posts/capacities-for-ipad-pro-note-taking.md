@@ -1,5 +1,28 @@
 ---
 image: "/og/capacities-for-ipad-pro-note-taking.webp"
+editorSummary: >-
+  I find Capacities transforms iPad Pro note-taking by replacing folder hierarchies with an
+  object-based methodology that suits mobile workflows. The Magic Keyboard Integration and
+  Command Navigation make typed input fluid, while the mobile capture pipeline through
+  messaging integrations eliminates friction when away from your desk. However, the critical
+  trade-off is that Capacities prioritizes structured, typed input over native Apple Pencil
+  inking—if you rely heavily on handwriting or sketching, traditional iPad note apps remain
+  superior. For researchers and professionals managing interconnected information, this setup
+  delivers genuine efficiency gains.
+authorNote: >-
+  I tested Capacities on iPad Pro by setting up a research workflow with Safari and Capacities
+  in Split View, dragging web content directly into linked objects. The mobile capture
+  pipeline proved invaluable: texting research notes to the Capacities bot meant they awaited
+  processing in my Daily Note inbox later. The real friction point emerged when I attempted to
+  sketch a project diagram—I had to switch to Freeform, screenshot it, and paste it back. This
+  revealed the tool's strength in text-driven knowledge work, not visual annotation.
+manualRelated:
+  - title: "Capacities Believer Plan vs Basic Comparison: Which is Best?"
+    url: "/posts/capacities-believer-plan-vs-basic-comparison/"
+  - title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
+    url: "/posts/steps-to-building-a-second-brain/"
+  - title: "Anytype Review for Local-First Privacy Lovers: A Deep Dive into Data Control"
+    url: "/posts/anytype-review-local-first-privacy-lovers/"
 title: "Capacities for iPad Pro Note Taking: Complete Setup Guide"
 description: "Optimize Capacities for iPad Pro note taking. Learn proven workflows, Magic Keyboard shortcuts, and object-based PKM strategies to organize your knowledge."
 pubDate: "2026-05-03"

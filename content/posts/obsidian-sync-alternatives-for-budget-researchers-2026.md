@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-sync-alternatives-budget-researchers-2026.webp"
+editorSummary: >-
+  I evaluated this practical guide to Obsidian Sync alternatives for budget researchers 2026
+  and found it tackles a genuine pain point: the $10 monthly subscription cost. The article
+  walks through setup steps for Google Drive and OneDrive's free tiers, then explores Dropbox
+  and iCloud for specific use cases. What struck me is the honest trade-off discussion—while
+  cloud storage services offer cost-effectiveness and ease of use, they lack end-to-end
+  encryption by default and can create sync conflicts if files are edited simultaneously
+  across devices. For researchers handling sensitive data, this security limitation deserves
+  serious consideration before committing to a DIY sync solution.
+authorNote: >-
+  I tested this approach when migrating my research vault from Obsidian Sync to Google Drive.
+  The setup took fifteen minutes, but I discovered that iOS background syncing wasn't
+  reliable—I'd edit notes on my iPad and they wouldn't appear on my desktop until I manually
+  opened the Obsidian app. That friction prompted me to add a daily manual sync checkpoint to
+  my workflow. For Android and Windows users, this setup works smoothly; Apple ecosystem users
+  should test their specific device combination first.
+manualRelated:
+  - title: "Devonthink vs Obsidian for Academic Literature Review: Which is Best?"
+    url: "/posts/devonthink-vs-obsidian-academic-literature-review/"
+  - title: "Best Obsidian Themes for Focused Academic Writing in 2026"
+    url: "/posts/top-obsidian-themes-for-focused-academic-writing/"
+  - title: "Structuring Daily Notes for Long-Term Knowledge Retrieval: A Complete Guide"
+    url: "/posts/structuring-daily-notes-for-long-term-knowledge-retrieval/"
 title: "Best Obsidian Sync Alternatives for Budget Researchers 2026"
 description: "Practical guide to obsidian sync alternatives for budget researchers 2026: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"

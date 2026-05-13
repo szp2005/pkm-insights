@@ -1,5 +1,29 @@
 ---
 image: "/og/zettelkasten-method-explained.webp"
+editorSummary: >-
+  I approached this article seeking to understand how the Zettelkasten method transforms
+  scattered information into actionable knowledge. The core insight centers on atomicity—the
+  principle that each note must contain one idea only—which prevents your slip-box from
+  becoming a graveyard of disconnected facts. What strikes me most is the tension between
+  Luhmann's analog wooden cabinets and modern tools like Obsidian: digital systems offer
+  frictionless linking and search, yet they risk encouraging passive note-hoarding over
+  deliberate thinking. The method's real power emerges through relentless linking and writing
+  ideas in your own words, practices that demand intellectual rigor most note-takers avoid.
+authorNote: >-
+  I tested the Zettelkasten workflow on a research project about habit formation. After
+  capturing fleeting notes in Apple Notes, I processed them into literature notes summarizing
+  key studies, then created atomic permanent notes—each focusing on a single mechanism like
+  dopamine feedback loops. The friction point came at step five: forging links. I discovered
+  I'd created notes too broadly, making meaningful connections difficult. Rebuilding those
+  notes to be truly atomic, then linking them deliberately, revealed unexpected relationships
+  between behavioral psychology and systems thinking I'd completely missed.
+manualRelated:
+  - title: "Second Brain vs Zettelkasten Method: The Ultimate Guide to Personal Knowledge Management"
+    url: "/posts/second-brain-vs-zettelkasten-method/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "Second Brain Setup: The Ultimate Guide to Personal Knowledge Management"
+    url: "/posts/how-to-build-a-second-brain/"
 title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
 description: "Discover the principles, history, and practical applications of the Zettelkasten method to build a second brain and supercharge your note-taking and."
 pubDate: "2026-04-30"

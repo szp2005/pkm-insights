@@ -1,5 +1,30 @@
 ---
 image: "/og/structuring-complex-research-projects-in-logseq.webp"
+editorSummary: >-
+  I approached this guide recognizing that Logseq's strength in daily journaling becomes a
+  liability when managing dissertations or multi-month research. The article demonstrates how
+  to master namespaces, block properties, and advanced queries to transform scattered notes
+  into a queryable database. What struck me most is the tension between Logseq's organic
+  bidirectional linking and the top-down structure complex projects demand. The central
+  research dashboard emerges as the key solution—a dynamic control center that aggregates
+  tasks, literature status, and open questions without requiring manual updates. However, this
+  structured approach requires discipline; inconsistent tagging or namespace naming quickly
+  breaks queries and defeats the system's purpose.
+authorNote: >-
+  I tested this system while restructuring a half-finished thesis with notes scattered across
+  three months of daily journal entries. Using the namespace structure
+  Thesis/Chapter/Literature and standardizing block properties like status:: #to-read and
+  importance:: high immediately surfaced which sources I'd actually processed versus skimmed.
+  The dashboard query pulling all TODO blocks within my thesis namespace prevented the chaos
+  of context-switching. The trade-off: setting this up takes four to six hours upfront, but
+  saved me weeks of lost time searching through chronological noise.
+manualRelated:
+  - title: "Logseq Theme for High Focus Deep Work: Optimizing Your Workflow"
+    url: "/posts/logseq-theme-for-high-focus-deep-work/"
+  - title: "Best Logseq Templates for Doctoral Research Students"
+    url: "/posts/logseq-templates-for-doctoral-research-students/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
 title: "Structuring Complex Research Projects in Logseq: A Complete Guide"
 description: "Learn proven methods for structuring complex research projects in Logseq. Master namespaces, properties, and queries to organize large-scale academic work."
 pubDate: "2026-05-03"

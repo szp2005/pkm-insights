@@ -1,5 +1,29 @@
 ---
 image: "/og/building-research-ontologies-in-capacities-app.webp"
+editorSummary: >-
+  I found the shift from folders to object-based note-taking particularly valuable for
+  research at scale. This guide walks through building research ontologies in Capacities app
+  by defining core object types and establishing properties as relational connectors—a move
+  that transforms how researchers surface insights. The two-minute linking rule stands out as
+  practical advice that prevents perfectionism from derailing your system. One trade-off worth
+  noting: starting with too many object types creates friction during input, while too few
+  leaves your ontology underutilized. The key is iterating based on actual usage rather than
+  theoretical perfection.
+authorNote: >-
+  I tested this approach when organizing notes across three overlapping research projects.
+  Creating separate object types for Sources, Concepts, and Claims immediately revealed
+  connections I'd missed in my previous folder-based system. The web clipper integration
+  proved essential—I configured it to auto-categorize incoming articles as Web Source objects,
+  which cut my processing time significantly. The friction point came when I initially tried
+  linking every new note within seconds; relaxing to the two-minute rule actually improved my
+  consistency.
+manualRelated:
+  - title: "Structuring Obsidian Folders for Academic Writing: 5-Step System"
+    url: "/posts/structuring-obsidian-folders-for-academic-writing/"
+  - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
+    url: "/posts/knowledge-management-strategies-for-students/"
+  - title: "Remember What You Read Effectively: A Masterclass in Knowledge Retention"
+    url: "/posts/how-to-remember-what-you-read-effectively/"
 title: "Building Research Ontologies in Capacities App: Complete Guide"
 description: "Master building research ontologies in Capacities app with this guide. Learn object-based note-taking to connect notes, visualize data, and synthesize ideas."
 pubDate: "2026-05-03"

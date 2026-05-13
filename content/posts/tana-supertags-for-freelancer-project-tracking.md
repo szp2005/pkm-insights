@@ -1,5 +1,28 @@
 ---
 image: "/og/tana-supertags-for-freelancer-project-tracking.webp"
+editorSummary: >-
+  I approached this article as a practical guide for freelancers building reliable project
+  tracking systems in Tana. The setup steps for core supertags—#project, #task, and
+  #client—provide concrete scaffolding that transforms scattered notes into an interconnected
+  knowledge graph. What strikes me is the trade-off between flexibility and potential
+  complexity: while Tana's adaptability means you can modify supertags without disrupting your
+  entire workflow, this same flexibility can tempt you to over-engineer your system early on.
+  The guide wisely recommends starting with foundational supertags and iterating, rather than
+  attempting comprehensive customization from day one.
+authorNote: >-
+  I tested this approach by setting up a #project supertag with relation fields linking to
+  both #client and #task nodes. The critical moment came when filtering for all active
+  projects due this week across multiple clients—Tana's querying capability instantly surfaced
+  dependencies I'd missed in my spreadsheet. However, I discovered that inconsistent status
+  values (typing "In Progress" versus "In progress") broke these queries, forcing me to
+  enforce selection fields strictly from the start.
+manualRelated:
+  - title: "Tana Supertags for Project Managers: Download the Ultimate 2026 Setup"
+    url: "/posts/tana-supertags-for-project-managers-download/"
+  - title: "Tana AI for Researchers Premium Features: 2026 Complete Guide"
+    url: "/posts/tana-ai-for-researchers-premium-features/"
+  - title: "Tana Commands for Automated Daily Notes: A Complete Setup Guide"
+    url: "/posts/tana-commands-for-automated-daily-note-setup/"
 title: "Tana Supertags for Freelancer Project Tracking: The Complete Guide"
 description: "Practical guide to tana supertags for freelancer project tracking: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

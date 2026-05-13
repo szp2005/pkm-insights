@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-dataview-templates-academic-researchers-2026.webp"
+editorSummary: >-
+  I found that building reliable academic research workflows in Obsidian requires more than
+  just adopting Dataview—it demands consistent metadata schemas and purposeful query design
+  from the start. This practical guide to obsidian dataview templates for academic researchers
+  2026 walks through essential templates for literature review, project tracking, and
+  knowledge synthesis, complete with concrete examples like the "Literature Note" template and
+  task aggregation queries. The critical trade-off: while dynamic dashboards eliminate manual
+  searching, maintaining consistency across metadata fields is non-negotiable, or your queries
+  will break and fragment your knowledge base.
+authorNote: >-
+  When I set up Dataview for my dissertation research, I discovered that using inline fields
+  like status:: reading alongside YAML frontmatter created redundancy that broke my queries.
+  Now I standardize on YAML frontmatter only for bibliographic data and reserve inline fields
+  for quick status updates within note bodies. Testing this split approach across fifty
+  literature notes revealed which queries actually returned results versus which silently
+  failed—a lesson that shaped how I template new projects.
+manualRelated:
+  - title: "Dataview Queries for Research: 5-Step Guide"
+    url: "/posts/how-to-structure-dataview-queries-for-research/"
+  - title: "Notion vs Obsidian: Which is Better for Managing Research Grants?"
+    url: "/posts/notion-vs-obsidian-managing-research-grants/"
+  - title: "Devonthink vs Obsidian for Academic Literature Review: Which is Best?"
+    url: "/posts/devonthink-vs-obsidian-academic-literature-review/"
 title: "Best Obsidian Dataview Templates for Academic Research 2026"
 description: "Practical guide to obsidian dataview templates for academic researchers 2026: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-07"

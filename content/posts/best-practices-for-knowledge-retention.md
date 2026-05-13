@@ -1,5 +1,28 @@
 ---
 image: "/og/best-practices-for-knowledge-retention.webp"
+editorSummary: >-
+  I approached this article seeking practical methods to beat the forgetting curve, and I
+  discovered that knowledge retention hinges on active engagement rather than passive
+  consumption. The piece outlines evidence-based strategies—spaced repetition, active recall,
+  and the Feynman Technique—alongside architectural frameworks like progressive summarization
+  and the Zettelkasten method. What strikes me most is the trade-off between interleaving
+  practice and initial learning speed: while mixing topics feels harder in the moment, it
+  dramatically improves real-world application. Building a robust personal knowledge
+  management system transforms how we capture and retain information.
+authorNote: >-
+  I tested progressive summarization when processing research articles for my knowledge base,
+  highlighting key passages, then bolding critical sentences, then writing executive
+  summaries. The layered distillation forced genuine engagement with the material—far more
+  effective than my previous habit of bookmarking and forgetting. The method revealed how
+  quickly copied text becomes useless without active processing, pushing me to restructure how
+  I capture insights across Obsidian.
+manualRelated:
+  - title: "Remember What You Read Effectively: A Masterclass in Knowledge Retention"
+    url: "/posts/how-to-remember-what-you-read-effectively/"
+  - title: "Effective Note Taking Techniques for Learning: A Comprehensive Guide"
+    url: "/posts/effective-note-taking-techniques-for-learning/"
+  - title: "Second Brain Setup: The Ultimate Guide to Personal Knowledge Management"
+    url: "/posts/how-to-build-a-second-brain/"
 title: "Mastering Memory: Best Practices for Knowledge Retention"
 description: "Discover proven techniques and practical frameworks to improve knowledge retention, beat the forgetting curve, and build a durable learning system."
 pubDate: "2026-04-30"

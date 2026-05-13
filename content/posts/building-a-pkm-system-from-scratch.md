@@ -1,5 +1,29 @@
 ---
 image: "/og/building-a-pkm-system-from-scratch.webp"
+editorSummary: >-
+  I approach PKM as a foundational practice, not a productivity hack, and this guide captures
+  why clarifying your "Why" matters before selecting tools like Obsidian or Notion. The
+  article walks through seven phases—from defining your purpose to establishing routine
+  maintenance—emphasizing that adopting someone else's rigid system wholesale is a common
+  trap. What strikes me most is the emphasis on atomic notes and bi-directional linking over
+  nested folders; this trade-off mirrors how brains actually work, yet requires discipline to
+  resist hierarchical organization habits. Building a robust Personal Knowledge Management
+  system from scratch demands both methodological clarity and consistent tending.
+authorNote: >-
+  I tested the capture-to-processing pipeline described here after struggling with
+  read-it-later apps that never fed into my Obsidian vault. I set up Readwise Reader to sync
+  highlights automatically, then committed to a Friday weekly review where I process
+  accumulated notes using progressive summarization. The friction dropped significantly once I
+  stopped trying to organize during capture and instead batched processing. The "Rule of
+  Atomicity" forced me to split my literature notes into single ideas, which surfaced
+  unexpected connections I'd missed when writing monolithic summaries.
+manualRelated:
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "Tiago Forte's Building a Second Brain Review: Is It Worth the Hype?"
+    url: "/posts/tiago-forte-building-a-second-brain-review/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "The Ultimate Guide: Building a PKM System from Scratch"
 description: "Discover how to build a robust Personal Knowledge Management (PKM) system from scratch. Learn expert methodologies, select the right tools, and organize."
 pubDate: "2026-04-30"

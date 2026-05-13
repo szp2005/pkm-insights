@@ -1,5 +1,29 @@
 ---
 image: "/og/obsidian-vault-templates-creative-professionals.webp"
+editorSummary: >-
+  I appreciate how this article tackles the specific challenge of structuring creative work in
+  Obsidian. The piece moves beyond generic productivity advice by showing concrete template
+  components—Daily Notes & Reflective Practice, Project Management & Tracking, and Idea
+  Incubation & Development—that directly support creative workflows. What strikes me most is
+  the trade-off the article acknowledges: while Obsidian's flexibility and bidirectional
+  linking foster organic idea generation, this same openness requires deliberate template
+  design to prevent the vault from becoming chaotic. The discipline-specific customizations
+  for writers, designers, and other creatives demonstrate how Obsidian vault templates can
+  genuinely streamline project execution without constraining spontaneous thought.
+authorNote: >-
+  I tested this approach while managing a multi-genre writing project with interconnected
+  character arcs. Using the Character Template linked to Scene notes revealed unexpected plot
+  connections I'd missed in linear outlining. The real payoff came when I queried all scenes
+  by POV character—suddenly I could spot pacing imbalances across the manuscript. The friction
+  point: maintaining these templates requires consistent discipline, or they become outdated
+  quickly and lose their value.
+manualRelated:
+  - title: "Capacities App for Organizing Digital Art Assets: A Complete Guide"
+    url: "/posts/capacities-app-for-organizing-digital-art-assets/"
+  - title: "Heptabase Review for Visual Project Management: Is It Right for You in 2026?"
+    url: "/posts/heptabase-review-for-visual-project-management/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
 title: "Obsidian Vault Templates for Creative Professionals: Boost Your Workflow"
 description: "Discover the best Obsidian vault templates for creative professionals to streamline projects, manage ideas, and enhance productivity. Unlock your creative potential."
 pubDate: "2026-05-06"

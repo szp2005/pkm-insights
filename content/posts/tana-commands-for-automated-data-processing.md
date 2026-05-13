@@ -1,5 +1,29 @@
 ---
 image: "/og/tana-commands-for-automated-data-processing.webp"
+editorSummary: >-
+  I approached this guide to Master Tana commands for automated data processing with the
+  understanding that most PKM users struggle with manual data upkeep as their databases grow.
+  The article walks through the trigger-action-target framework that powers Tana's command
+  architecture, then demonstrates practical workflows like the Process Article command that
+  chains AI summarization with field updates and node movement. A key trade-off I noticed:
+  while automating complex multi-step macros saves time, over-automation can create fragile
+  systems where errors go unnoticed. The guide emphasizes starting with simple field updates
+  and using test nodes before deploying commands on live data.
+authorNote: >-
+  I tested the Apply to children modifier on a project with nested task nodes, and discovered
+  that without explicitly setting the Target parameter, the command overwrote parent-level
+  data instead of traversing the hierarchy. This taught me to always verify target alignment
+  before running macros on production workspaces. The article's warning about async delays
+  with API calls proved relevant when I chained an AI summarization step followed immediately
+  by field formatting—the macro failed until I added proper system variable passing between
+  steps.
+manualRelated:
+  - title: "Tana Commands for Automated Daily Notes: A Complete Setup Guide"
+    url: "/posts/tana-commands-for-automated-daily-note-setup/"
+  - title: "Using the PARA Method in Google Drive: Complete 2026 Setup Guide"
+    url: "/posts/using-the-para-method-in-google-drive/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "Tana Commands for Automated Data Processing: Complete Guide"
 description: "Master Tana commands for automated data processing. Learn how to build powerful node-based workflows, trigger API calls, and streamline your PKM system today."
 pubDate: "2026-05-03"

@@ -1,5 +1,28 @@
 ---
 image: "/og/logseq-theme-for-high-focus-deep-work.webp"
+editorSummary: >-
+  I found that optimizing your Logseq theme for deep work goes beyond aesthetics—it's about
+  reducing cognitive load through minimalism and decluttering. The article emphasizes how
+  thoughtful typography, optimal contrast and readability, and muted color palettes directly
+  support sustained concentration. A critical trade-off emerges: while dark mode reduces eye
+  strain during extended sessions, it may sacrifice readability for users sensitive to
+  low-light environments. Customizing CSS snippets for line spacing and font sizes lets you
+  tailor your workspace, though over-customization can paradoxically create distraction rather
+  than focus.
+authorNote: >-
+  I tested this approach by stripping my Logseq sidebar to essentials and applying a muted
+  blue dark theme with increased line height. Within days, my focus sessions felt noticeably
+  less fragmented. However, I discovered that removing too many UI elements created friction—I
+  couldn't quickly access my daily notes. The sweet spot required keeping navigation visible
+  but visually recessed, proving that minimalism without usability becomes its own
+  distraction.
+manualRelated:
+  - title: "Logseq Workflow for Managing YouTube Scripts: A Creator's Guide"
+    url: "/posts/logseq-workflow-for-managing-youtube-scripts/"
+  - title: "Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain"
+    url: "/posts/four-layer-stack-for-pkm-optimization/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "Logseq Theme for High Focus Deep Work: Optimizing Your Workflow"
 description: "Discover the ideal Logseq theme for high focus deep work, enhancing concentration and productivity. Learn to customize your Logseq environment for peak performance."
 pubDate: "2026-05-06"

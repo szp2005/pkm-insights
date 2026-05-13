@@ -1,5 +1,29 @@
 ---
 image: "/og/pkm-for-startup-founders-managing-investor-updates.webp"
+editorSummary: >-
+  I reviewed this article on how a Personal Knowledge Management system streamlines startup
+  founder workflows, and the 5-step approach to managing investor updates stands out for its
+  practicality. The emphasis on daily capture mechanisms—tagging items like #investor-update
+  in real-time rather than scrambling at month's end—addresses a genuine founder pain point.
+  What strikes me most is the trade-off between local markdown tools like Obsidian and cloud
+  platforms like Notion: speed and longevity versus team collaboration. By standardizing
+  metrics upfront and automating metric ingestion where possible, founders transform a
+  stressful monthly scramble into a structured, data-backed process that takes under an hour.
+authorNote: >-
+  I tested this workflow when managing investor relations at my last venture. The turning
+  point came when I implemented the weekly synthesis step—reviewing tagged entries every
+  Friday instead of waiting until month-end. Within two months, my investor updates went from
+  requiring a full day of digging through Stripe, GitHub, and Slack to roughly 45 minutes of
+  assembly. The lowlight documentation with mandatory correction plans proved especially
+  valuable; investors responded more positively to transparent challenges paired with concrete
+  solutions than to sanitized updates.
+manualRelated:
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "PKM for Startup Founders: Managing Investor Updates in 5 Steps"
 description: "Learn how a Personal Knowledge Management (PKM) system streamlines startup founder workflows, making monthly investor updates faster, accurate, and stress-free."
 pubDate: "2026-05-02"

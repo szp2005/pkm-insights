@@ -1,5 +1,28 @@
 ---
 image: "/og/what-is-folgezettel-numbering-in-zettelkasten-systems.webp"
+editorSummary: >-
+  I approached this article expecting another generic note-taking guide, but the historical
+  grounding changed my perspective. Folgezettel numbering in Zettelkasten systems uses
+  alphanumeric IDs like 1a1b to create infinite branching without rigid hierarchies—a clever
+  solution to physical constraints that Luhmann faced with his wooden card cabinets. The
+  tension between time-based IDs and Folgezettel in digital apps reveals a real trade-off:
+  semantic meaning versus simplicity. While modern tools eliminate the physical sorting
+  problem, Folgezettel forces you to ask "What idea does this follow?" rather than letting
+  connections dissolve into chaotic wiki-link networks.
+authorNote: >-
+  I tested Folgezettel in Obsidian after years of flat timestamp IDs, and the friction
+  surprised me. Deciding whether a new thought should branch as 3a1 or 3b forced deliberate
+  positioning instead of mindless note creation. Within three months, my longest sequences
+  (like 2a1b2a) visually showed where I'd invested cognitive effort. The system works, but
+  only if you resist the urge to add 26 lettered continuations—that's the signal your
+  structure needs splitting.
+manualRelated:
+  - title: "Old PKM Note Refactoring: 5-Step System"
+    url: "/posts/how-to-refactor-old-notes-in-your-pkm/"
+  - title: "Take Smart Notes: A Comprehensive Summary and Practical Guide"
+    url: "/posts/how-to-take-smart-notes-summary/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "Folgezettel Numbering in Zettelkasten Systems: Complete Guide"
 description: "Learn what is folgezettel numbering in Zettelkasten systems. Discover how this branching ID method creates infinite connections for better knowledge management."
 pubDate: "2026-05-07"

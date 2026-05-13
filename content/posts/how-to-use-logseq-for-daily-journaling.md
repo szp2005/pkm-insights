@@ -1,5 +1,30 @@
 ---
 image: "/og/how-to-use-logseq-for-daily-journaling.webp"
+editorSummary: >-
+  I found Logseq's approach to daily journaling compelling because it inverts the typical
+  friction of note-taking. Rather than forcing you to categorize thoughts upfront, the system
+  treats your journal as a friction-free inbox where every bullet point becomes a
+  referenceable block. By using bidirectional linking and tagging liberally, your scattered
+  daily entries automatically assemble into a connected knowledge graph. The trade-off worth
+  noting: this bottom-up method requires discipline with tagging consistency, or your graph
+  becomes harder to query meaningfully over time. The guide covers setting up your journals
+  directory, building templates for consistency, and using properties for habit
+  tracking—practical steps that transform daily journaling into genuine personal knowledge
+  management.
+authorNote: >-
+  I tested this workflow after struggling with scattered daily notes across multiple apps.
+  Setting up a template with properties like mood:: and sleep:: made the difference—suddenly
+  my journal entries became queryable data. When I automated template insertion via the config
+  file, the friction of starting each day vanished. The real test came weeks later when I
+  queried all entries tagged with [[Meditation]] and saw months of patterns emerge
+  automatically. That's when I realized the system actually works.
+manualRelated:
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
+    url: "/posts/steps-to-building-a-second-brain/"
 title: "Logseq for Daily Journaling: 5-Step Guide"
 description: "Discover how to use Logseq for daily journaling to organize your thoughts, track habits, and build a connected personal knowledge base without friction."
 pubDate: "2026-05-03"

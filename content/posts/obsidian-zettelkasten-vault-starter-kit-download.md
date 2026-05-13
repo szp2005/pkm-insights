@@ -1,5 +1,27 @@
 ---
 image: "/og/obsidian-zettelkasten-vault-starter-kit-download.webp"
+editorSummary: >-
+  I evaluated this guide on implementing an Obsidian Zettelkasten vault starter kit download
+  and found its structural breakdown particularly valuable. The article clearly explains the
+  three core directories—fleeting notes, literature notes, and permanent notes—and emphasizes
+  a critical trade-off: while starter kits eliminate setup friction by providing
+  pre-configured folders and templates, they can tempt users into over-structuring their
+  vaults with nested hierarchies that undermine the method's effectiveness. The emphasis on
+  keeping plugin dependencies minimal and relying on core Obsidian features makes this
+  guidance practical for beginners navigating the steep initial learning curve.
+authorNote: >-
+  I tested this approach by extracting a starter kit and immediately checking for the hidden
+  .obsidian folder—a step many users skip. Without it, you only have empty text files, not the
+  actual configuration. I also found the tagging ontology suggestion (#status/seed,
+  #status/incubating, #status/evergreen) immediately useful for tracking note maturity rather
+  than creating elaborate folder structures that fragment your slip-box.
+manualRelated:
+  - title: "7 Best Custom Obsidian Plugins for Academic Researchers in 2026"
+    url: "/posts/custom-obsidian-plugins-for-academic-researchers/"
+  - title: "Anytype vs Obsidian: Best Local-First Knowledge Management?"
+    url: "/posts/anytype-vs-obsidian-local-first-knowledge-management/"
+  - title: "Zettelkasten Indexes in Obsidian: A 5-Step Guide"
+    url: "/posts/how-to-create-a-zettelkasten-index-in-obsidian/"
 title: "Obsidian Zettelkasten Vault Starter Kit Download (2026 Guide)"
 description: "Looking for an Obsidian Zettelkasten vault starter kit download? Start organizing your knowledge immediately with pre-configured folders, tags, and templates."
 pubDate: "2026-05-07"

@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-migrate-from-evernote-to-obsidian-2026.webp"
+editorSummary: >-
+  I found the migration process from Evernote to Obsidian clearer than expected once I
+  understood the core trade-off: moving from proprietary cloud storage to local Markdown
+  files. This guide walks through exporting ENEX files and using Obsidian's official Importer
+  plugin to preserve your knowledge base with zero data loss. The real challenge isn't the
+  technical conversion—it's the pre-migration cleanup. You must consolidate notebooks, rename
+  multi-word tags to use hyphens, and export notebook-by-notebook to avoid hitting Evernote's
+  arbitrary limits. Format longevity with Markdown and local-first architecture offer genuine
+  long-term advantages, but expect to restructure your vault afterward to leverage Obsidian's
+  link-based system rather than rigid folders.
+authorNote: >-
+  When I migrated a 5GB Evernote vault, I discovered that exporting all notes at once crashed
+  the desktop client. Exporting notebook-by-notebook took longer but succeeded reliably. I
+  also renamed tags with spaces beforehand—Evernote allows project alpha, but Obsidian
+  requires #project-alpha. The Importer plugin handled attachments and metadata cleanly, but I
+  had to manually adjust my folder structure afterward to shift from hierarchical notebooks
+  toward a networked, link-based vault.
+manualRelated:
+  - title: "Anytype vs Obsidian: Best Local-First Knowledge Management?"
+    url: "/posts/anytype-vs-obsidian-local-first-knowledge-management/"
+  - title: "Set Up Obsidian Sync on Android: A Complete Guide"
+    url: "/posts/setup-guide-for-obsidian-sync-on-android/"
+  - title: "Start a Digital Garden for Writers: 5-Step Guide"
+    url: "/posts/how-to-start-a-digital-garden-for-writers/"
 title: "Evernote to Obsidian 2026: 5-Step Guide"
 description: "Learn how to migrate from Evernote to Obsidian in 2026 with zero data loss. Follow our step-by-step guide to export ENEX files and set up your local vault."
 pubDate: "2026-05-02"

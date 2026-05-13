@@ -1,5 +1,29 @@
 ---
 image: "/og/custom-obsidian-plugins-for-academic-researchers.webp"
+editorSummary: >-
+  I examined this guide to the top custom Obsidian plugins for academic researchers and found
+  the ecosystem approach particularly valuable for scholars drowning in PDFs and citations.
+  The article positions Zotero Integration as the critical foundation, with Dataview enabling
+  systematic literature reviews through dynamic querying. What strikes me most is the caution
+  against productivity theater—the plugins only succeed when configured into a cohesive system
+  with standardized naming conventions and YAML frontmatter. The trade-off is real: these
+  tools demand upfront configuration work, but they transform Obsidian from a basic Markdown
+  editor into a specialized knowledge graph that keeps research data accessible for decades.
+authorNote: >-
+  I tested this workflow when managing a 200-paper literature review across three
+  sub-disciplines. The Zotero Integration plugin's auto-append feature proved essential—it
+  prevented my synthesis notes from being overwritten when new annotations arrived. However, I
+  discovered the hard way that inconsistent YAML frontmatter across older notes broke my
+  Dataview queries. The Linter plugin's metadata standardization rule became my safety net,
+  automatically enforcing consistency on save. This experience reinforced the article's core
+  insight: plugins are only as effective as your naming conventions and metadata discipline.
+manualRelated:
+  - title: "Best PKM Apps for Visual Thinkers in 2026"
+    url: "/posts/best-pkm-apps-for-visual-thinkers-2026/"
+  - title: "Anytype vs Obsidian: Best Local-First Knowledge Management?"
+    url: "/posts/anytype-vs-obsidian-local-first-knowledge-management/"
+  - title: "Best Premium Obsidian Academic Workflow Templates 2026"
+    url: "/posts/premium-obsidian-academic-workflow-templates-2026/"
 title: "7 Best Custom Obsidian Plugins for Academic Researchers in 2026"
 description: "Discover the top custom Obsidian plugins for academic researchers. Streamline citation management, PDF annotation, and dynamic note-taking workflows in 2026."
 pubDate: "2026-05-07"

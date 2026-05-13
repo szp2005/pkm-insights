@@ -1,5 +1,29 @@
 ---
 image: "/og/johnny-decimal-system-for-organizing-digital-files.webp"
+editorSummary: >-
+  I find the Johnny Decimal system for organizing digital files particularly valuable for
+  anyone drowning in nested folder chaos. The method's rigid three-level architecture—Areas,
+  Categories, and IDs using numeric codes like 22.04—forces logical grouping while eliminating
+  the deep folder nesting that destroys productivity. What strikes me most is the requirement
+  to never exceed two levels of folders; this constraint prevents the system from degrading
+  back into the organic mess most people create. The central index becomes your single source
+  of truth, though maintaining it demands discipline. This approach works best for users
+  willing to accept artificial constraints upfront in exchange for instant file retrieval.
+authorNote: >-
+  I tested Johnny Decimal when migrating a five-year backlog of client projects across local
+  storage and cloud drives. The migration itself took three weeks using the "Inbox"
+  method—moving legacy files in small batches rather than attempting everything at once. The
+  moment I needed to retrieve a 2024 contract, I simply checked my index, navigated to 31.02,
+  and found it instantly. The real pitfall emerged when I tried to create a subfolder inside
+  an ID; the system forced me to split that ID into multiple entries instead, which actually
+  improved discoverability.
+manualRelated:
+  - title: "Using the PARA Method in Google Drive: Complete 2026 Setup Guide"
+    url: "/posts/using-the-para-method-in-google-drive/"
+  - title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
+    url: "/posts/steps-to-building-a-second-brain/"
+  - title: "Digital Decluttering for Information Overload: A Comprehensive Guide to Reclaiming Your Focus"
+    url: "/posts/digital-decluttering-for-information-overload/"
 title: "Johnny Decimal System for Organizing Digital Files (2026 Guide)"
 description: "Learn how the Johnny Decimal system for organizing digital files eliminates folder chaos. Discover categories, numbers, and index structures that save time."
 pubDate: "2026-05-05"

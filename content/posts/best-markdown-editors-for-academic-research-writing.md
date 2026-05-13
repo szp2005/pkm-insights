@@ -1,5 +1,26 @@
 ---
 image: "/og/best-markdown-editors-for-academic-research-writing.webp"
+editorSummary: >-
+  I evaluated the best markdown editors for academic research writing, and the choice depends
+  on your priorities. Zettlr stands out as purpose-built for academics with seamless Zotero
+  integration and robust Pandoc support, while Obsidian excels for complex literature reviews
+  through bidirectional linking. However, there's a crucial trade-off: editors offering the
+  deepest citation management often require steeper configuration, whereas distraction-free
+  options like Typora sacrifice native reference integration. The right tool balances your
+  need for citation handling, export flexibility, and writing environment.
+authorNote: >-
+  I tested Zettlr's graphical Pandoc interface when exporting a 15,000-word thesis with 200+
+  citations from Zotero. The built-in export pipeline handled complex formatting without
+  command-line work, but configuring custom citation styles initially cost me several hours.
+  This revealed a hidden pitfall: even purpose-built academic editors require upfront template
+  setup that generic markdown tools skip entirely.
+manualRelated:
+  - title: "Best Obsidian Themes for Focused Academic Writing in 2026"
+    url: "/posts/top-obsidian-themes-for-focused-academic-writing/"
+  - title: "Best Automated Note-Taking Tools for Zoom Meetings in 2026"
+    url: "/posts/automated-note-taking-tools-for-zoom-meetings-2026/"
+  - title: "Writing Literature Notes for Scientific Publications: 5-Step System"
+    url: "/posts/writing-literature-notes-for-scientific-publications/"
 title: "Best Markdown Editors for Academic Research Writing in 2026"
 description: "Discover the best markdown editors for academic research writing. Compare features, citation support, and export options to streamline your academic workflow."
 pubDate: "2026-05-07"

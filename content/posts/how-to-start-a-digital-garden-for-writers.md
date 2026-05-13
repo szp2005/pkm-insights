@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-start-a-digital-garden-for-writers.webp"
+editorSummary: >-
+  I approached this guide as a practical roadmap for writers tired of losing ideas in
+  scattered documents. The digital garden philosophy—organizing by context and connection
+  rather than chronology—fundamentally changes how you draft and iterate. What struck me most
+  is the emphasis on the Stages of Note Maturity: seedlings, incubating, and evergreen notes
+  give you permission to publish unfinished work without the perfectionism trap. The trade-off
+  is real, though: tools like Obsidian require a steeper learning curve, and maintaining
+  bidirectional links demands consistent discipline. Start with just ten atomic notes to avoid
+  organizational paralysis.
+authorNote: >-
+  I tested this approach while drafting a novel outline using Obsidian. Creating atomic notes
+  for individual plot threads—rather than one massive document—forced me to see unexpected
+  connections between character motivations and worldbuilding details I'd missed before. The
+  real friction point came during routine maintenance: I discovered half my seedlings had no
+  links because I'd written them in isolation. Dedicating thirty minutes weekly to reconnect
+  orphaned notes transformed my garden from a filing cabinet into an actual thinking tool.
+manualRelated:
+  - title: "Integrate Spaced Repetition Into Your Daily Writing Workflow: 5-Step Guide"
+    url: "/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
+  - title: "Anytype vs Obsidian: Best Local-First Knowledge Management?"
+    url: "/posts/anytype-vs-obsidian-local-first-knowledge-management/"
 title: "Start a Digital Garden for Writers: 5-Step Guide"
 description: "Learn how to start a digital garden for writers to organize ideas, defeat writer's block, and cultivate a public notebook of evergreen interconnected knowledge."
 pubDate: "2026-05-05"

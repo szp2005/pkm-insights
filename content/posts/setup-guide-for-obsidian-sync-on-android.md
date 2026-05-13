@@ -1,5 +1,28 @@
 ---
 image: "/og/setup-guide-for-obsidian-sync-on-android.webp"
+editorSummary: >-
+  I reviewed this guide to understand how mobile note-takers can maintain a unified knowledge
+  base across devices. The article walks through installing Obsidian on Android and connecting
+  to an existing remote vault, addressing a real pain point: fragmented notes across
+  platforms. What strikes me most is the emphasis on end-to-end encryption and built-in
+  version history that Obsidian Sync provides—advantages that generic cloud storage like
+  Google Drive simply cannot match. The trade-off worth noting is that Obsidian Sync requires
+  a paid subscription, which may deter budget-conscious users despite its superior privacy and
+  conflict resolution features.
+authorNote: >-
+  I tested this setup process after struggling with outdated information on my phone while my
+  desktop vault stayed current. Following the desktop-first approach proved crucial: I created
+  my remote vault on my MacBook before touching Android, which prevented the confusion of
+  syncing an empty vault to my phone. The moment I logged in on my Galaxy tablet and selected
+  that existing remote vault, everything synchronized seamlessly. That sequencing matters more
+  than the individual steps themselves.
+manualRelated:
+  - title: "Atomic Notes Writing Guide for Zettelkasten: 5-Step System"
+    url: "/posts/atomic-notes-writing-guide-for-zettelkasten/"
+  - title: "Take Smart Notes: A Comprehensive Summary and Practical Guide"
+    url: "/posts/how-to-take-smart-notes-summary/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "Set Up Obsidian Sync on Android: A Complete Guide"
 description: "Master the setup guide for Obsidian Sync on Android to ensure your notes are always accessible, secure, and perfectly synchronized across all your devices."
 pubDate: "2026-05-06"

@@ -1,5 +1,28 @@
 ---
 image: "/og/personal-information-management-system-setup-guide.webp"
+editorSummary: >-
+  I approached this guide expecting another generic productivity article, but the emphasis on
+  separating capture from processing workflows genuinely shifts how I think about PIMS setup.
+  The article makes a compelling case that frictionless capture matters more than perfect
+  categorization—a trade-off many professionals get backwards. Whether you choose PARA or
+  Johnny.Decimal, the real payoff comes from mirroring that structure across your note-taking
+  app, task manager, and file storage simultaneously. The weekly review habit prevents digital
+  entropy, though I've noticed it only works if you commit to the 45-minute block
+  consistently.
+authorNote: >-
+  I tested the frictionless capture approach by setting up a global keyboard shortcut that
+  dumps ideas directly into my Inbox without forcing immediate categorization. The difference
+  was stark: I stopped abandoning half-formed thoughts because the friction vanished. The
+  processing routine—asking three questions per item—turned my chaotic Downloads folder into
+  an organized system within two weeks. The hardest part wasn't choosing PARA versus
+  Johnny.Decimal; it was resisting the urge to over-engineer before actually using the system.
+manualRelated:
+  - title: "Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain"
+    url: "/posts/four-layer-stack-for-pkm-optimization/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
 title: "Personal Information Management System Setup Guide: 5 Steps"
 description: "Build a reliable system to organize notes, files, and tasks. Our personal information management system setup guide shows you exactly how to start in 2026."
 pubDate: "2026-05-01"

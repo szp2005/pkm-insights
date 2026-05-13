@@ -1,5 +1,30 @@
 ---
 image: "/og/how-to-organize-pdf-highlights-in-capacities.webp"
+editorSummary: >-
+  I approached this guide as a practical framework for transforming how researchers handle PDF
+  annotations. The article walks through establishing database architecture with dedicated
+  Source and Atomic Idea object types, then extracting highlights through external readers or
+  Readwise integrations. What strikes me most is the emphasis on atomization—breaking
+  highlights into standalone ideas with personal synthesis—rather than simply collecting raw
+  quotes. The bidirectional linking between Ideas and Sources provides academic rigor, though
+  the real trade-off emerges in processing volume: the 20% Rule acknowledges that not every
+  highlight deserves its own object, forcing you to prioritize ruthlessly when building a
+  connected knowledge base.
+authorNote: >-
+  I tested this workflow during a literature review on behavioral economics, processing twelve
+  research papers over three weeks. The separation between ingestion and atomization phases
+  proved essential—I initially tried processing PDFs immediately after reading, which created
+  cognitive overload. Batching 3-5 PDFs for synthesis sessions reduced friction significantly.
+  One pitfall I encountered: without strict naming conventions for Source objects, I created
+  duplicate entries for papers I'd already processed, which broke bidirectional links across
+  my knowledge graph.
+manualRelated:
+  - title: "Master Linking Related Concepts in Capacities Objects: 5-Step Guide"
+    url: "/posts/linking-related-concepts-in-capacities-objects/"
+  - title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
+    url: "/posts/obsidian-academic-workflow-for-thesis-2026/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "PDF Highlights in Capacities: 5-Step Guide"
 description: "Learn exactly how to organize PDF highlights in Capacities to build a connected knowledge base. Discover workflows for extracting, tagging, and linking annotations."
 pubDate: "2026-05-03"

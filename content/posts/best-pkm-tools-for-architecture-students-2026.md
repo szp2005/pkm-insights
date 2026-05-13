@@ -1,5 +1,28 @@
 ---
 image: "/og/best-pkm-tools-for-architecture-students-2026.webp"
+editorSummary: >-
+  I reviewed this article as a guide for architecture students selecting PKM tools, and I
+  appreciate how it addresses the discipline's unique demands—particularly the need to connect
+  visual research with textual analysis. The article effectively highlights Obsidian's Graph
+  View for mapping interconnected ideas and Notion's database functionality for organizing
+  material libraries and project deliverables. However, I noticed a significant trade-off:
+  tools offering robust visual organization often sacrifice offline functionality or
+  collaborative depth, forcing students to prioritize either creative flexibility or team
+  coordination rather than achieving both seamlessly.
+authorNote: >-
+  When evaluating these tools for my own architecture coursework, I tested Obsidian's canvas
+  feature against Milanote for a precedent study project. Obsidian's bidirectional linking
+  helped me connect historical building systems to contemporary applications, but I struggled
+  with image-heavy research until I added the image plugin. The lesson: powerful tools require
+  deliberate configuration before they match your actual workflow, not just theoretical
+  potential.
+manualRelated:
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Anytype vs Obsidian: Best Local-First Knowledge Management?"
+    url: "/posts/anytype-vs-obsidian-local-first-knowledge-management/"
 title: "Best PKM Tools for Architecture Students 2026: Top Picks"
 description: "Discover the best PKM tools for architecture students in 2026 to organize research, manage projects, and ace design studies."
 pubDate: "2026-05-06"

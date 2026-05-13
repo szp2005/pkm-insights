@@ -1,5 +1,28 @@
 ---
 image: "/og/capacities-believer-plan-vs-basic-comparison.webp"
+editorSummary: >-
+  I evaluated this Capacities Believer Plan vs Basic Comparison to understand how these tiers
+  serve different knowledge management needs. The article breaks down pricing, features, and
+  object limits clearly, helping readers choose between unlimited free access and a
+  $10-12/month subscription. The critical trade-off centers on AI integration and custom
+  object layouts—Basic users manage metadata manually, while Believers unlock automated
+  summarization and spatial control over their data structure. For researchers handling dozens
+  of reference documents weekly, the Believer tier's AI Assistant saves significant hours,
+  though casual note-takers may find Basic sufficient for long-term personal use.
+authorNote: >-
+  I tested this comparison while evaluating Capacities for a literature research workflow. The
+  deciding factor was whether I could query my entire knowledge base through AI Chat—asking
+  "What were the main decisions from last week's meetings?" and getting synthesized answers.
+  On Basic, I'd manually tag every imported article and meeting note. Upgrading to Believer
+  meant the AI auto-populated metadata properties like "Topics" and "People Mentioned," which
+  transformed my intake process from hours of manual work to near-instant processing.
+manualRelated:
+  - title: "Capacities for iPad Pro Note Taking: Complete Setup Guide"
+    url: "/posts/capacities-for-ipad-pro-note-taking/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
 title: "Capacities Believer Plan vs Basic Comparison: Which is Best?"
 description: "A detailed Capacities Believer Plan vs Basic comparison. We break down the pricing, features, AI tools, and object limits to help you choose the right tier."
 pubDate: "2026-05-03"

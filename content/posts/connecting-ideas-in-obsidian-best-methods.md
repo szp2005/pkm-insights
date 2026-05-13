@@ -1,5 +1,30 @@
 ---
 image: "/og/connecting-ideas-in-obsidian-best-methods.webp"
+editorSummary: >-
+  I approached this guide to connecting ideas in Obsidian by focusing on how bidirectional
+  wikilinks and Maps of Content work together to prevent vaults from becoming chaotic webs of
+  meaningless connections. The article emphasizes that having the capability to link
+  everything does not mean you should—a crucial trade-off when scaling your knowledge
+  management system. What struck me most was the distinction between using links for
+  conceptual relationships and tags for status tracking, paired with the minimalist approach
+  to folders that lets atomic note-taking flourish. The practical emphasis on moving from
+  fleeting notes to permanent notes grounds the entire framework in sustainable daily
+  workflows.
+authorNote: >-
+  I tested the Zettelkasten approach outlined here by forcing myself to search my vault before
+  saving any new permanent note, looking for at least one existing connection. This deliberate
+  friction felt cumbersome initially, but it revealed how easily ideas can slip in unmoored.
+  When I eventually stopped doing this search step during a busy period, my orphan notes
+  multiplied and my graph view became visually impressive but useless. The backward linking
+  habit—reviewing what already exists before writing something new—proved far more valuable
+  than the graph visualization itself.
+manualRelated:
+  - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
+    url: "/posts/digital-note-taking-strategies-for-productivity/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Best PDF Annotation Tools for Academic PKM in 2026"
+    url: "/posts/best-pdf-annotation-tools-for-academic-pkm/"
 title: "Connecting Ideas in Obsidian: Best Methods Complete Guide"
 description: "Discover the most effective workflows for connecting ideas in Obsidian. Master links, tags, and MOCs to build a powerful personal knowledge management system."
 pubDate: "2026-05-01"

@@ -1,5 +1,28 @@
 ---
 image: "/og/four-layer-stack-for-pkm-optimization.webp"
+editorSummary: >-
+  I approached this article as a framework for rethinking how knowledge flows through your
+  system. The four-layer stack—Capture, Organize, Distill, and Express—transforms PKM from
+  passive hoarding into active synthesis. What strikes me is the emphasis on actionability
+  over taxonomy; organizing by how you'll use information next, rather than rigid topic
+  folders, fundamentally changes retrieval speed. The trade-off worth noting: separating tools
+  across layers adds complexity initially, but the friction reduction for deep work justifies
+  the setup cost. Progressive summarization and atomic notes force genuine engagement with
+  material.
+authorNote: >-
+  I tested this stack when managing research for a long-form report. Using Drafts for quick
+  capture, Obsidian for organization with PARA structure, then distilling into evergreen notes
+  before writing in iA Writer revealed the real bottleneck: my old system skipped distillation
+  entirely, forcing me to re-read sources mid-writing. The separation of creation from
+  reference environments eliminated context-switching. The hardest part wasn't tool
+  selection—it was the Friday maintenance discipline needed to prevent inbox rot.
+manualRelated:
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain"
 description: "Discover the definitive four-layer stack for PKM optimization. Learn how to strategically capture, organize, distill, and express knowledge to boost deep work."
 pubDate: "2026-05-01"

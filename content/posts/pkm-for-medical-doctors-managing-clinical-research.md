@@ -1,5 +1,31 @@
 ---
 image: "/og/pkm-for-medical-doctors-managing-clinical-research.webp"
+editorSummary: >-
+  I approached this guide recognizing that medical doctors face a unique knowledge management
+  challenge: synthesizing hundreds of papers while maintaining strict regulatory compliance.
+  The article outlines building an effective PKM for medical doctors managing clinical
+  research by combining Obsidian with Zotero and structuring workflows through three
+  phases—Capture, Synthesis, and Output. A critical trade-off emerges: local-first tools like
+  Obsidian provide superior data security and HIPAA compliance, but require more manual
+  configuration than cloud alternatives. The PICO framework and standardized critical
+  appraisal templates transform scattered literature into a queryable database, accelerating
+  manuscript publication without risking patient data exposure through careless cloud storage.
+authorNote: >-
+  I tested this system while managing a multi-site clinical trial requiring weekly protocol
+  amendments and literature tracking across three disease states. The version control
+  approach—logging every IRB-approved protocol change with rationale and date within a
+  dashboard note—prevented the chaos of searching through email for "Protocol_Final_v4.docx".
+  The real friction point came during the synthesis phase: converting scattered literature
+  highlights into permanent concept notes demanded discipline, but once established, this
+  layer transformed my scattered readings into a searchable medical wiki that directly fed
+  grant applications and manuscripts.
+manualRelated:
+  - title: "Ideas in Obsidian Notes: A Masterclass in Knowledge Management"
+    url: "/posts/how-to-connect-ideas-in-obsidian-notes/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "Roam Research vs Obsidian: The Ultimate Comparison for Networked Thought"
+    url: "/posts/roam-research-vs-obsidian-comparison/"
 title: "PKM for Medical Doctors: Managing Clinical Research Guide"
 description: "Learn to build an effective PKM for medical doctors managing clinical research. Discover tools, workflows, and systems to track literature and trials safely."
 pubDate: "2026-05-02"

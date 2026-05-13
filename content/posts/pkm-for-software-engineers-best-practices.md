@@ -1,5 +1,29 @@
 ---
 image: "/og/pkm-for-software-engineers-best-practices.webp"
+editorSummary: >-
+  I found PKM transforms how software engineers manage the context that IDEs miss—the
+  architectural decisions and obscure API behaviors that resurface months later. This guide
+  emphasizes plain-text, local-first tools with flat structures and bi-directional linking,
+  using daily notes as command centers rather than elaborate hierarchies. A critical trade-off
+  emerges: while separation of work and personal vaults protects intellectual property, it
+  fragments your knowledge graph across machines. The ephemeral-versus-evergreen distinction
+  is particularly valuable, letting temporary debugging notes decay naturally while evergreen
+  principles compound into permanent reference material.
+authorNote: >-
+  When I implemented this approach, I discovered the daily note scratchpad prevented context
+  loss during debugging sessions. I paste raw stack traces and JSON responses directly into my
+  daily note without pausing to organize them, then extract reusable patterns into dedicated
+  snippet notes on Friday afternoons. The maintenance window never exceeds fifteen minutes
+  because entry happens inline during coding. This separation of capture from organization
+  proved essential—trying to perfectly file notes during deep focus killed my workflow
+  entirely.
+manualRelated:
+  - title: "PKM for Lawyers: Managing Case Research Effectively (Complete Guide)"
+    url: "/posts/pkm-for-lawyers-managing-case-research-effectively/"
+  - title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
+    url: "/posts/steps-to-building-a-second-brain/"
+  - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
+    url: "/posts/digital-note-taking-strategies-for-productivity/"
 title: "PKM for Software Engineers: Best Practices & Complete Guide"
 description: "Master personal knowledge management (PKM) for software engineers. Learn the best practices to organize code snippets, system designs, and technical research."
 pubDate: "2026-05-01"

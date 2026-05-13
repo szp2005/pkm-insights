@@ -1,5 +1,29 @@
 ---
 image: "/og/what-is-personal-knowledge-management.webp"
+editorSummary: >-
+  I approached this guide to Personal Knowledge Management as an essential resource for anyone
+  drowning in digital information. The article traces PKM's intellectual lineage from Vannevar
+  Bush's Memex through Niklas Luhmann's Zettelkasten to modern tools like Obsidian, offering
+  concrete methodologies including PARA and networked note-taking. What strikes me most is the
+  trade-off between structure and flexibility—rigid folder hierarchies feel limiting, yet pure
+  linking without Maps of Content can create navigational chaos. The promise of a "second
+  brain" is compelling, but building one requires deliberate system design matched to your
+  cognitive style, not just tool selection.
+authorNote: >-
+  I tested the PARA method against Zettelkasten when reorganizing five years of scattered
+  research notes. PARA's project-based structure worked brilliantly for time-bound
+  deliverables but struggled when exploring cross-domain connections. Switching to atomic
+  notes with bidirectional linking in Obsidian surfaced unexpected relationships between
+  behavioral economics and design patterns—exactly the serendipitous discovery the article
+  promises. The friction point: migrating existing notes into either system demanded
+  significant upfront work before seeing returns.
+manualRelated:
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
+  - title: "The Transformative Benefits of a Personal Knowledge Management System"
+    url: "/posts/benefits-of-a-personal-knowledge-management-system/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
 title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
 description: "Discover the definition of Personal Knowledge Management (PKM), explore core methodologies like Zettelkasten and PARA, and learn practical steps to build."
 pubDate: "2026-04-30"

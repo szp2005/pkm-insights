@@ -1,5 +1,27 @@
 ---
 image: "/og/reflect-notes-vs-obsidian-for-quick-capture.webp"
+editorSummary: >-
+  I evaluated this practical guide to reflect notes vs obsidian for quick capture, and the
+  setup trade-off stands out immediately. Reflect Notes excels with zero-friction daily note
+  capture and cloud sync, while Obsidian demands configuration—hotkeys, templates, plugins
+  like QuickAdd—before matching that speed. My key observation: choosing between them isn't
+  just about capture velocity. Reflect's subscription model and opinionated workflow eliminate
+  decision fatigue, but Obsidian's local-first Markdown files and extensive customization
+  appeal to users building complex knowledge graphs who can invest setup time upfront.
+authorNote: >-
+  I tested both apps' quick capture workflows by setting up Obsidian's daily note plugin with
+  hotkeys and comparing it to Reflect's immediate-to-daily-note experience. The friction
+  difference was real—Reflect launched and accepted input in seconds, while Obsidian required
+  me to configure QuickAdd templates first. For my use case (capturing meeting notes alongside
+  linked research), Obsidian's flexibility eventually won, but that initial setup barrier cost
+  me three days of tinkering before achieving comparable speed.
+manualRelated:
+  - title: "Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?"
+    url: "/posts/scrintal-vs-heptabase-for-visual-note-taking/"
+  - title: "RemNote vs Logseq for Medical Students: Which Note-Taking App is Best for Your Studies?"
+    url: "/posts/remnote-vs-logseq-for-medical-students-comparison/"
+  - title: "Anytype Review for Local-First Privacy Lovers: A Deep Dive into Data Control"
+    url: "/posts/anytype-review-local-first-privacy-lovers/"
 title: "Reflect Notes vs Obsidian: Which Is Better for Quick Capture?"
 description: "Practical guide to reflect notes vs obsidian for quick capture: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-06"

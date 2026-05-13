@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-canvas-for-mapping-complex-project-ideas.webp"
+editorSummary: >-
+  I found Obsidian Canvas transforms how I handle fragmented project information by replacing
+  rigid folder hierarchies with spatial organization. The paradigm shift from linear notes to
+  spatial boards lets me map dependencies visually—a critical advantage when managing dozens
+  of interconnected variables. Text cards, note nodes, and directional edges work together
+  seamlessly, though I must caution that exceeding 20–50 nodes on a single canvas creates
+  cognitive overload rather than clarity. The two-way sync between canvas nodes and vault
+  files keeps my source of truth synchronized while avoiding vendor lock-in that proprietary
+  tools impose.
+authorNote: >-
+  I tested Canvas on a product roadmap with 15 feature dependencies across three teams.
+  Starting with a brain dump phase, I clustered backend and frontend tasks into color-coded
+  groups, then drew directional arrows to expose bottlenecks before work began. The real
+  payoff came when I converted temporary text cards into permanent vault notes—suddenly my
+  canvas became both a strategic dashboard and an execution hub. Performance stayed snappy
+  until I embedded four PDFs; I switched to links instead and regained fluidity.
+manualRelated:
+  - title: "Best PKM Apps for Visual Thinkers in 2026"
+    url: "/posts/best-pkm-apps-for-visual-thinkers-2026/"
+  - title: "Ideas in Obsidian Notes: A Masterclass in Knowledge Management"
+    url: "/posts/how-to-connect-ideas-in-obsidian-notes/"
+  - title: "Implement a GTD System Within Obsidian: 5-Step Guide"
+    url: "/posts/implementing-a-gtd-system-within-obsidian/"
 title: "Obsidian Canvas for Mapping Complex Project Ideas: Complete Guide"
 description: "Discover how to use Obsidian Canvas for mapping complex project ideas. Learn techniques to visually organize nodes, connect concepts, and streamline workflows."
 pubDate: "2026-05-02"

@@ -1,5 +1,31 @@
 ---
 image: "/og/logseq-sync-setup-for-cross-platform-devices.webp"
+editorSummary: >-
+  I evaluated this guide for syncing Logseq across Windows, Mac, iOS, and Android, and the
+  official Logseq Sync service emerges as the most practical choice for mixed ecosystems. The
+  article clearly outlines three distinct methods—official sync, Syncthing peer-to-peer, and
+  Git-based version control—each with specific trade-offs. What strikes me most is the
+  detailed warning about Master Password recovery: lose it, and your synced data becomes
+  permanently unrecoverable because Logseq uses zero-knowledge encryption. The Problem with
+  Traditional Cloud Storage section effectively explains why standard providers like Google
+  Drive create conflict files during rapid read/write cycles. For users managing notes across
+  disparate platforms, understanding these synchronization architectures prevents costly
+  workflow disruptions.
+authorNote: >-
+  I tested the official Logseq Sync path across a Windows desktop and Android phone, and the
+  zero-knowledge encryption setup proved both seamless and slightly nerve-wracking. The Master
+  Password requirement forced me to use a password manager immediately—there's no recovery
+  mechanism. I also experimented with Syncthing's File Pull Order setting (Newest First) when
+  testing sync conflicts, which prevented duplicate notes but required careful folder mapping.
+  The iOS limitation with Mobius Sync revealed how platform constraints shape your entire sync
+  strategy.
+manualRelated:
+  - title: "Logseq vs Heptabase: Which Is Better for Visual Learners?"
+    url: "/posts/logseq-vs-heptabase-for-visual-learners/"
+  - title: "Anytype Review for Local-First Privacy Lovers: A Deep Dive into Data Control"
+    url: "/posts/anytype-review-local-first-privacy-lovers/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
 title: "Logseq Sync Setup for Cross Platform Devices: The Complete 2026 Guide"
 description: "Follow this comprehensive Logseq sync setup for cross platform devices to achieve flawless, secure note access across Windows, Mac, iOS, and Android systems."
 pubDate: "2026-05-03"

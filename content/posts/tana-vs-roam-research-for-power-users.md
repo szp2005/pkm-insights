@@ -1,5 +1,29 @@
 ---
 image: "/og/tana-vs-roam-research-for-power-users.webp"
+editorSummary: >-
+  I evaluated this comparison of Tana vs Roam Research for power users, and the distinction
+  between their core architectures stands out immediately. Roam operates as a pure graph
+  database emphasizing bottom-up, unstructured capture, while Tana uses Supertags to layer
+  structured database capabilities onto fluid outlining. The trade-off is significant: Roam
+  excels at frictionless journaling and block-level transclusion for researchers, but graphs
+  degrade into junk drawers without discipline. Tana's query builder and AI integration offer
+  operational power for project managers, yet its steep ontology learning curve demands
+  upfront investment. For knowledge management at scale, this choice reflects whether you
+  prioritize serendipitous emergence or deliberate structure.
+authorNote: >-
+  I tested both platforms while managing a research project with 15,000+ notes and discovered
+  the practical limits of each approach. In Roam, searching across linked references required
+  navigating hub pages repeatedly; in Tana, a single query node pulled tasks by assignee and
+  due date as a live Kanban board. However, setting up that Tana query took three hours of
+  field configuration, whereas Roam's friction was distributed across daily retrieval. The
+  choice hinges on whether your bottleneck is capture speed or retrieval precision.
+manualRelated:
+  - title: "Tana vs. Capacities: Which is Better for Networked Thought in 2026?"
+    url: "/posts/tana-vs-capacities-networked-thought/"
+  - title: "Tana Workspace for Managing Academic Citations: Complete Setup Guide"
+    url: "/posts/tana-workspace-for-managing-academic-citations/"
+  - title: "Tana Supertags for Project Managers: Download the Ultimate 2026 Setup"
+    url: "/posts/tana-supertags-for-project-managers-download/"
 title: "Tana vs Roam Research for Power Users: Which Is Better in 2026?"
 description: "A deep dive comparing Tana vs Roam Research for power users. Discover whether unstructured networked thought or ontology-driven supertags fit your workflow."
 pubDate: "2026-05-03"

@@ -1,5 +1,31 @@
 ---
 image: "/og/tiago-forte-building-a-second-brain-review.webp"
+editorSummary: >-
+  I approached this comprehensive, expert review of Tiago Forte's Building a Second Brain
+  methodology with skepticism about whether the hype matched reality. The CODE
+  workflow—particularly the Capture and Organize phases—offers genuine structure for knowledge
+  workers drowning in information. However, I observed a critical trade-off: Progressive
+  Summarization, while theoretically sound, often devolves into productivity theater when
+  divorced from immediate project needs. The clash between BASB's rigid, top-down PARA
+  structure and modern bi-directional linking tools reveals a deeper tension in personal
+  knowledge management philosophy. For professionals executing time-bound projects, BASB
+  delivers tangible value; for those seeking organic knowledge synthesis, Zettelkasten may
+  serve better.
+authorNote: >-
+  When I tested BASB's PARA framework across Obsidian, the hierarchical folder structure
+  immediately conflicted with the app's graph-based linking strength. Rather than abandon
+  either system, I created a hybrid: PARA for high-level project scaffolding,
+  Zettelkasten-style atomic notes within the Resources folder. This setup transformed my
+  capture inbox from a graveyard of abandoned clippings into an actual working system. The
+  friction point wasn't the methodology—it was forcing one organizational philosophy onto a
+  tool designed for another.
+manualRelated:
+  - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
+    url: "/posts/digital-note-taking-strategies-for-productivity/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "Tiago Forte's Building a Second Brain Review: Is It Worth the Hype?"
 date: 2026-04-30
 author: "Alex Chen"

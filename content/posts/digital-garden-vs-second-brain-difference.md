@@ -1,5 +1,28 @@
 ---
 image: "/og/digital-garden-vs-second-brain-difference.webp"
+editorSummary: >-
+  I found the distinction between these two approaches clarifying: a Second Brain operates as
+  a hierarchical, action-driven factory using the PARA Organization System and CODE
+  Methodology, while a Digital Garden cultivates ideas through networked, bidirectional
+  linking. The key trade-off is that Second Brains prioritize immediate productivity and
+  private execution, whereas Digital Gardens embrace evolving, public thinking. Understanding
+  which aligns with your workflow—whether you're deadline-driven or exploration-focused—helps
+  you build a knowledge system that actually serves your cognitive style rather than fighting
+  it.
+authorNote: >-
+  I tested this distinction when restructuring my Obsidian vault. I had been forcing all notes
+  into PARA folders, which worked for active projects but created friction when exploring
+  tangential research. I created a hybrid: PARA structure for current work, but designated a
+  separate graph section where notes link freely without folder constraints. This resolved the
+  bottleneck of deciding where multi-topic notes belonged, letting me maintain both
+  productivity and serendipitous discovery simultaneously.
+manualRelated:
+  - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
+    url: "/posts/digital-note-taking-strategies-for-productivity/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Second Brain Setup: The Ultimate Guide to Personal Knowledge Management"
+    url: "/posts/how-to-build-a-second-brain/"
 title: "Digital Garden vs Second Brain: What's the Difference and Which is Right for You?"
 description: "Discover the key differences between a Digital Garden and a Second Brain. Learn which personal knowledge management (PKM) approach suits your workflow."
 pubDate: "2026-04-30"

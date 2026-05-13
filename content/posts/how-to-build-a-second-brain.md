@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-build-a-second-brain.webp"
+editorSummary: >-
+  I approached this article as a practical guide to building a Second Brain, and I found the
+  CODE methodology—Capture, Organize, Distill, Express—provides a structured framework that
+  transforms how knowledge workers manage information. The PARA structure for organizing notes
+  by actionability rather than topic is a concrete trade-off worth considering: it requires
+  rethinking how you categorize information, but it dramatically improves retrieval when you
+  actually need ideas. What strikes me is that the real bottleneck isn't capturing
+  information; it's the discipline of progressive summarization to distill insights into
+  usable form. This system demands ongoing effort, not just initial setup.
+authorNote: >-
+  I tested the PARA method when migrating scattered notes across Notion, Apple Notes, and
+  browser bookmarks into one system. The friction point came during Step 3—the digital mind
+  sweep—where I realized I had hundreds of unprocessed captures. Rather than organizing
+  everything upfront, I moved only active projects and areas into folders, leaving the rest in
+  archives. This reduced decision paralysis and let me focus on distilling what I actually
+  use, which proved far more valuable than a perfectly structured but empty system.
+manualRelated:
+  - title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
+    url: "/posts/steps-to-building-a-second-brain/"
+  - title: "Second Brain vs Zettelkasten Method: The Ultimate Guide to Personal Knowledge Management"
+    url: "/posts/second-brain-vs-zettelkasten-method/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "Second Brain Setup: The Ultimate Guide to Personal Knowledge Management"
 description: "Discover how to build a Second Brain to organize your digital life, boost productivity, and unlock your creative potential using proven PKM frameworks."
 pubDate: 2026-04-30

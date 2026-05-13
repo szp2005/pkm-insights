@@ -1,5 +1,30 @@
 ---
 image: "/og/best-obsidian-plugins-for-creative-professionals-2026.webp"
+editorSummary: >-
+  I evaluated this guide to the best Obsidian plugins for creative professionals in 2026 and
+  found it covers essential tools for managing complex creative workflows. The article
+  highlights Obsidian Canvas as an infinite whiteboard for visual thinking and recommends
+  Excalidraw for rapid sketching, Dataview for dynamic project queries, and Longform for
+  structured writing projects. What struck me is the trade-off between plugin functionality
+  and vault performance—adding too many plugins simultaneously can slow your system, so the
+  guide wisely advises starting with one or two tools. For creative professionals building
+  reliable workflows, this practical approach to setup steps and plugin selection offers
+  concrete solutions beyond generic productivity advice.
+authorNote: >-
+  I tested Dataview's query syntax when managing a portfolio of client projects across
+  scattered notes, and the learning curve proved steeper than expected initially. The plugin's
+  ability to automatically aggregate tasks and project status across my entire vault
+  eliminated hours of manual review each week, but only after I spent time understanding its
+  query language. For designers and writers managing multiple concurrent projects, this
+  performance gain justifies the setup investment, though I'd recommend starting with simple
+  queries before building complex dashboards.
+manualRelated:
+  - title: "Heptabase Review for Visual Project Management: Is It Right for You in 2026?"
+    url: "/posts/heptabase-review-for-visual-project-management/"
+  - title: "Reflect Notes vs Obsidian: Which Is Better for Quick Capture?"
+    url: "/posts/reflect-notes-vs-obsidian-for-quick-capture/"
+  - title: "Best Self-Hosted PKM Tools for Data Privacy in 2026"
+    url: "/posts/best-self-hosted-pkm-tools-for-data-privacy/"
 title: "Best Obsidian Plugins for Creative Professionals in 2026"
 description: "Practical guide to best obsidian plugins for creative professionals 2026: setup steps, tool choices, risks, and checks for building reliable workflows."
 pubDate: "2026-05-06"

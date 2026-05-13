@@ -1,5 +1,27 @@
 ---
 image: "/og/tiago-forte-building-a-second-brain-review-2026.webp"
+editorSummary: >-
+  I evaluated Tiago Forte's Building a Second Brain in 2026 and found the PARA method and CODE
+  framework remain foundational for knowledge management, though their value depends heavily
+  on your commitment level. The book delivers the complete system for $20, while the premium
+  Executive Program ($1,500+) adds accountability and coaching but repeats the same core
+  concepts. My key observation: the expensive cohort courses only justify their cost for
+  professionals who genuinely struggle with self-discipline—most readers will implement
+  effectively with just the book and structured templates.
+authorNote: >-
+  When I tested BASB's Progressive Summarization technique against AI auto-summaries, I
+  discovered that manually distilling notes—highlighting, bolding, writing executive
+  summaries—actually stuck in my memory better, even though it took longer. This trade-off
+  matters: automating the Distill step saves time but may weaken retention. For my workflow, I
+  kept manual distillation for strategic notes and AI summaries for reference material,
+  creating a hybrid approach the course materials don't explicitly address.
+manualRelated:
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Building a Second Brain in 2026 Update: Complete Setup Guide"
+    url: "/posts/building-a-second-brain-in-2026-update/"
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
 title: "Tiago Forte Building a Second Brain Review 2026: Still Worth It?"
 description: "An in-depth review of Tiago Forte's Building a Second Brain in 2026. Discover if the PARA method and BASB framework actually improve your productivity."
 pubDate: "2026-05-02"

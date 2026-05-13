@@ -1,5 +1,29 @@
 ---
 image: "/og/capacities-review-for-personal-research-management.webp"
+editorSummary: >-
+  I evaluated Capacities as a research management tool and found its object-based architecture
+  genuinely addresses a real friction point: the inability of traditional note apps to handle
+  sources that relate to multiple projects simultaneously. Unlike Obsidian's flat-file
+  approach or Notion's rigid databases, Capacities lets you define typed objects—Papers,
+  Authors, Concepts—and link them fluidly through daily notes. The trade-off is significant:
+  it's entirely cloud-dependent, which will frustrate offline-first researchers. For academics
+  managing hundreds of PDFs and cross-disciplinary connections, this feels like a deliberate
+  design choice rather than a limitation.
+authorNote: >-
+  I tested Capacities by setting up a minimal object taxonomy: Source, Person, and Concept.
+  The real test came when I captured a research thought in my daily note, then extracted it
+  into a dedicated Concept object weeks later. This progressive formalization worked smoothly
+  without forcing me to pre-architect my entire taxonomy upfront. However, I quickly hit the
+  cloud-dependency wall when traveling without reliable internet—the app became sluggish and
+  unreliable, which wouldn't work for field researchers or those in low-connectivity
+  environments.
+manualRelated:
+  - title: "Tana vs. Capacities: Which is Better for Networked Thought in 2026?"
+    url: "/posts/tana-vs-capacities-networked-thought/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
 title: "Capacities Review for Personal Research Management in 2026"
 description: "An in-depth Capacities review for personal research management. Discover how its object-based system handles sources, notes, and academic workflows."
 pubDate: "2026-05-03"

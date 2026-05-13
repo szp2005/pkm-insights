@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-implement-map-of-content-in-obsidian.webp"
+editorSummary: >-
+  I approach note organization as a foundational problem in any growing vault, and this guide
+  convinced me that Map of Content in Obsidian solves a real pain point. The 5-step setup—from
+  identifying core themes through the root Home note to building topic-specific MOCs—addresses
+  the friction between rigid folder hierarchies and overwhelming flat link structures. What
+  struck me most is the caution about scale: an MOC exceeding 40 to 50 links demands
+  refactoring into sub-MOCs. This iterative refinement is essential, though it requires
+  discipline to maintain as your vault grows. The hybrid approach of minimal folders plus MOCs
+  reduces cognitive load without abandoning structure entirely.
+authorNote: >-
+  I tested this system after my Obsidian vault hit 300 notes and retrieval became painful. I
+  started with a Home note linking five domain MOCs, then added bottom-up links from atomic
+  notes pointing back to their parent MOC. Within two weeks, my Engineering MOC grew to 45
+  links and became cluttered, so I extracted a Languages MOC as a child. That extraction
+  moment—recognizing when a section needs its own hub—clarified how emergent the architecture
+  truly is. The system only works if you actually link notes to MOCs instead of filing them
+  away.
+manualRelated:
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten"
+    url: "/posts/atomic-notes-writing-guide/"
+  - title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
+    url: "/posts/steps-to-building-a-second-brain/"
 title: "Map of Content in Obsidian: 5-Step Setup Guide"
 description: "Learn how to implement a Map of Content (MOC) in Obsidian to organize your notes efficiently, improve knowledge retrieval, and build a scalable PKM system."
 pubDate: "2026-05-07"

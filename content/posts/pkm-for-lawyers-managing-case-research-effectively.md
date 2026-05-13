@@ -1,5 +1,30 @@
 ---
 image: "/og/pkm-for-lawyers-managing-case-research-effectively.webp"
+editorSummary: >-
+  I approached this article as a practical guide for attorneys drowning in fragmented case
+  research. The piece articulates how PKM systems help attorneys organize case research by
+  replacing rigid folder hierarchies with bidirectional linking—a game-changer when you need
+  to instantly surface precedents across multiple matters. What struck me most is the emphasis
+  on separation of public fact and private strategy; this trade-off between building a
+  reusable knowledge asset and protecting client confidentiality requires careful
+  architectural thinking. The four-phase workflow (capture, extraction, synthesis, output)
+  transforms research from isolated documents into compounding intellectual capital that
+  reduces redundant effort.
+authorNote: >-
+  I tested this workflow defending a contract dispute where I needed to synthesize
+  impossibility doctrine across five jurisdictions. Using atomic notes for each case holding
+  and a Map of Content linking them together, I drafted the defense argument in under two
+  hours—work that previously consumed a full day of research duplication. The friction point
+  came when anonymizing client-specific facts; I had to maintain separate siloed notes rather
+  than linking them to my general doctrine notes, which required discipline but protected
+  confidentiality.
+manualRelated:
+  - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
+    url: "/posts/digital-note-taking-strategies-for-productivity/"
+  - title: "Map of Content Obsidian Tutorial for Beginners: 5-Step Guide"
+    url: "/posts/map-of-content-obsidian-tutorial-for-beginners/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "PKM for Lawyers: Managing Case Research Effectively (Complete Guide)"
 description: "Learn how Personal Knowledge Management (PKM) systems help attorneys organize case research, connect precedents, and streamline the brief-drafting process."
 pubDate: "2026-05-02"

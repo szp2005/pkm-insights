@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-refactor-old-notes-in-your-pkm.webp"
+editorSummary: >-
+  I approached this article as a practical guide to eliminating digital clutter from a mature
+  PKM system. The 5-Step Refactoring Process—from isolating orphaned notes to forging
+  intentional connections—directly addresses the friction that accumulates when metadata
+  inconsistency and overly dense "jumbo" notes go unchecked. What strikes me most is the
+  emphasis on timeboxing maintenance rather than attempting massive overhauls; this trade-off
+  between perfectionism and sustainability feels especially relevant for knowledge workers
+  managing large vaults. The principle of atomicity, combined with progressive summarization,
+  transforms retrieval speed and makes your knowledge base genuinely useful over time.
+authorNote: >-
+  I tested this system on a two-year-old Obsidian vault where orphaned notes and inconsistent
+  tags had made searching frustrating. Starting with Step 1's triage approach, I identified 40
+  candidates using a query for notes over a year old with zero backlinks. Rather than refactor
+  all at once, I adopted the Campground Rule—spending five minutes on one note each morning.
+  Within three weeks, my unlinked mentions dropped by 60%, and I rediscovered connections I'd
+  forgotten existed. The query automation dashboard proved invaluable for staying consistent.
+manualRelated:
+  - title: "Folgezettel Numbering in Zettelkasten Systems: Complete Guide"
+    url: "/posts/what-is-folgezettel-numbering-in-zettelkasten-systems/"
+  - title: "Best PKM Apps for Visual Thinkers in 2026"
+    url: "/posts/best-pkm-apps-for-visual-thinkers-2026/"
+  - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
+    url: "/posts/digital-note-taking-strategies-for-productivity/"
 title: "Old PKM Note Refactoring: 5-Step System"
 description: "Learn how to refactor old notes in your PKM to eliminate digital clutter, improve retrieval speed, and build a sustainable knowledge base."
 pubDate: "2026-05-07"

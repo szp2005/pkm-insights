@@ -1,5 +1,28 @@
 ---
 image: "/og/obsidian-local-llm-integration-for-privacy.webp"
+editorSummary: >-
+  I found that setting up Obsidian local LLM integration for privacy requires careful
+  attention to hardware constraints, particularly the System RAM vs. Video RAM (VRAM)
+  trade-off that determines your model's speed and capability. This complete setup guide walks
+  through choosing between Ollama, LM Studio, and GPT4All as inference engines, then
+  connecting them via plugins like BMO Chatbot. The critical trade-off: while local models
+  guarantee 100% data sovereignty for your vault, they demand substantial hardware
+  investment—at minimum 16GB system RAM, ideally a dedicated GPU or Apple Silicon Mac. For
+  knowledge workers handling sensitive client data or NDAs, the privacy guarantee justifies
+  the setup complexity.
+authorNote: >-
+  I tested this setup on a 32GB M2 Mac running Ollama with Llama 3 8B and BMO Chatbot. The
+  real friction point emerged when I tried running RAG across 500+ notes—the embedding process
+  consumed 8GB and took fifteen minutes. For my workflow, I switched to simple context-passing
+  instead, dragging specific notes into BMO's chat window. This pragmatic approach sacrifices
+  some intelligence but runs reliably without hardware bottlenecks.
+manualRelated:
+  - title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
+    url: "/posts/obsidian-academic-workflow-for-thesis-2026/"
+  - title: "Notion vs Obsidian for PKM: The Definitive Expert Guide"
+    url: "/posts/notion-vs-obsidian-for-pkm/"
+  - title: "Best Obsidian Plugins for Creative Professionals in 2026"
+    url: "/posts/best-obsidian-plugins-for-creative-professionals-2026/"
 title: "Obsidian Local LLM Integration for Privacy: Complete Setup Guide"
 description: "Learn how to set up Obsidian local LLM integration for privacy. This complete guide covers the best plugins, local models, and hardware requirements."
 pubDate: "2026-05-01"

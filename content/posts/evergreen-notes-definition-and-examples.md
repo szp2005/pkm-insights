@@ -1,5 +1,29 @@
 ---
 image: "/og/evergreen-notes-definition-and-examples.webp"
+editorSummary: >-
+  I find evergreen notes essential for knowledge workers struggling with obsolete note
+  collections. This article explores the comprehensive definition of evergreen notes and their
+  core principles—particularly the atomicity requirement that each note captures one idea.
+  What strikes me is the trade-off: while atomic, concept-oriented notes create powerful
+  interconnected systems, they demand significant upfront synthesis work. The zettelkasten
+  framework shows how fleeting thoughts must transform into permanent notes through deliberate
+  linking and personal rewording, making evergreen notes a compounding investment in
+  intellectual capital rather than quick capture.
+authorNote: >-
+  I tested the atomicity principle when reorganizing scattered marketing notes. Instead of one
+  sprawling "Brand Strategy" note, I created separate atomic notes like "Brand positioning is
+  defined by what you choose NOT to do." The immediate benefit: linking became precise. When I
+  later wrote about feature prioritization, I could confidently reference the positioning note
+  without ambiguity. However, this granularity revealed the real pitfall—maintaining dense
+  linking across dozens of atomic notes requires consistent review and connection-seeking, not
+  just initial creation.
+manualRelated:
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Take Smart Notes: A Comprehensive Summary and Practical Guide"
+    url: "/posts/how-to-take-smart-notes-summary/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "Evergreen Notes: Definition, Principles, and Practical Examples"
 description: "Discover the comprehensive definition of evergreen notes, explore their core principles, and analyze practical examples that will revolutionize your."
 pubDate: "2026-04-30"

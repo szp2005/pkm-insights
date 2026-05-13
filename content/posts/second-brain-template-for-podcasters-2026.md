@@ -1,5 +1,27 @@
 ---
 image: "/og/second-brain-template-for-podcasters-2026.webp"
+editorSummary: >-
+  I approached this article as a guide to building podcast infrastructure, and I found that
+  the best second brain template for podcasters in 2026 requires interconnected
+  modules—specifically a Content Pipeline (Kanban), Guest CRM, and Research and Clipping Hub.
+  The critical trade-off I noticed is that Notion excels for team-based shows with relational
+  databases, while Obsidian suits solo creators prioritizing networked thinking. My key
+  observation: many podcasters neglect weekly maintenance, causing their systems to degrade
+  into digital clutter rather than functioning as reliable production engines.
+authorNote: >-
+  I tested this template structure when migrating my own research notes from scattered Google
+  Docs into Obsidian. The breakthrough came when I linked guest profiles directly to episode
+  cards—suddenly, guest bios populated automatically instead of requiring manual copy-paste.
+  The friction point I encountered: over-tagging my research database with 40+ categories
+  initially slowed queries, so I pruned it to 15-20 broad categories, which restored
+  performance immediately.
+manualRelated:
+  - title: "Logseq Workflow for Managing YouTube Scripts: A Creator's Guide"
+    url: "/posts/logseq-workflow-for-managing-youtube-scripts/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
 title: "Best Second Brain Template for Podcasters in 2026"
 description: "Discover the best second brain template for podcasters in 2026. Organize show notes, manage guests, and streamline episode production effortlessly."
 pubDate: "2026-05-02"

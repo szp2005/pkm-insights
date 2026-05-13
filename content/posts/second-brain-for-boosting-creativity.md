@@ -1,5 +1,30 @@
 ---
 image: "/og/second-brain-for-boosting-creativity.webp"
+editorSummary: >-
+  I approached this article as a practical resource for anyone struggling with blank page
+  syndrome. The Second Brain framework—particularly the CODE methodology of Capture, Organize,
+  Distill, and Express—offers a concrete way to transform your creative workflow. What strikes
+  me most is how the article reframes organization: instead of sorting by subject like a
+  library, you organize for actionability using the PARA method. This shift alone changes how
+  you'll retrieve ideas during creative sprints. The trade-off worth noting is that tool
+  choice matters significantly; Obsidian excels at engineering serendipity through
+  bidirectional linking, but that same feature can become a distraction if you're prone to
+  endless graph-tweaking instead of actual creation.
+authorNote: >-
+  I tested the Capture phase using a frictionless voice memo setup on my phone, then processed
+  those recordings into Obsidian using Progressive Summarization. The bottleneck I discovered
+  wasn't capturing ideas—it was the discipline to actually distill them into scannable
+  summaries. Skipping that step meant my Second Brain became a graveyard of unprocessed
+  highlights. The real unlock came when I tied captured ideas directly to active projects in
+  the PARA structure, forcing myself to ask "which project needs this?" instead of vaguely
+  filing things away.
+manualRelated:
+  - title: "Second Brain for Boosting Creativity in 2026: Complete Guide"
+    url: "/posts/second-brain-for-boosting-creativity-in-2026/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
 title: "The Ultimate Guide to Using a Second Brain for Boosting Creativity"
 description: "Discover how a Second Brain can transform your creative workflow. Learn practical strategies to capture ideas, connect concepts, and overcome the blank."
 pubDate: "2026-04-30"

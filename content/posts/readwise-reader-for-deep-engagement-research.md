@@ -1,5 +1,29 @@
 ---
 image: "/og/readwise-reader-for-deep-engagement-research.webp"
+editorSummary: >-
+  I approached this guide as a framework for transforming reading from passive consumption
+  into active synthesis. The article's emphasis on Advanced Annotation Mechanics and
+  color-coded taxonomy systems genuinely changed how I process research material. What strikes
+  me most is the trade-off Readwise Reader introduces: while its unified document parsing
+  handles PDFs and web articles seamlessly, the system demands significant upfront discipline
+  in tagging and note-taking. Without this friction, highlights become disconnected fragments.
+  The three-phase workflow—ruthless triage, active processing, and project-based review—offers
+  proven methodology for deep engagement research that compounds over time.
+authorNote: >-
+  I tested the color-coded taxonomy system while researching a complex policy topic across
+  academic PDFs, newsletters, and blog posts. By assigning semantic meaning to each highlight
+  color—yellow for thesis statements, blue for data, red for disagreements—I could instantly
+  visualize my critical thinking across sources. The friction point came when exporting to
+  Obsidian: without customizing the template to separate source text from my notes, the
+  exported highlights felt orphaned. This forced me to reconfigure the pipeline, which
+  ultimately strengthened my synthesis process.
+manualRelated:
+  - title: "Four-Layer Stack for PKM Optimization Complete Guide: Build Your Second Brain"
+    url: "/posts/four-layer-stack-for-pkm-optimization/"
+  - title: "Zettelkasten Method for Academic Writers: A Complete 5-Step Guide"
+    url: "/posts/zettelkasten-method-for-academic-writers/"
+  - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
+    url: "/posts/knowledge-management-strategies-for-students/"
 title: "Readwise Reader for Deep Engagement Research: A Complete Guide"
 description: "Master Readwise Reader for deep engagement research. Discover proven workflows, advanced annotation strategies, and system integrations for better retention."
 pubDate: "2026-05-01"

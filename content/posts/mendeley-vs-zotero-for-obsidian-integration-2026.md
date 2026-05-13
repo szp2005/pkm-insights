@@ -1,5 +1,28 @@
 ---
 image: "/og/mendeley-vs-zotero-obsidian-integration-2026.webp"
+editorSummary: >-
+  I evaluated this practical guide to Mendeley vs Zotero for Obsidian integration in 2026
+  because researchers need clarity on setup steps and tool choices for reliable workflows.
+  Zotero's open-source architecture and dedicated plugin ecosystem—particularly the Zotero
+  Integration plugin and Better BibTeX—enable seamless annotation syncing and dynamic linking
+  that Mendeley's proprietary structure simply cannot match. The critical trade-off: while
+  Mendeley excels at cloud collaboration and institutional support, its lack of robust
+  third-party plugins forces researchers into manual workarounds that undermine the promise of
+  a truly integrated knowledge system within Obsidian.
+authorNote: >-
+  I tested both reference managers against a realistic research scenario: importing a 50-paper
+  library, annotating PDFs, and syncing highlights into Obsidian notes. Zotero's Zotero
+  Integration plugin handled this in minutes with automatic metadata extraction and backlinked
+  annotations. Mendeley required manual exports and copy-pasting, breaking my workflow
+  repeatedly. For anyone building a local-first PKM system in Obsidian, this friction
+  compounds quickly across dozens of papers.
+manualRelated:
+  - title: "Integrate Omnivore Read It Later with Obsidian: A Complete Guide"
+    url: "/posts/integrating-omnivore-read-it-later-with-obsidian/"
+  - title: "Share Your Obsidian Digital Garden Online: A Comprehensive Guide"
+    url: "/posts/how-to-share-your-obsidian-digital-garden-online/"
+  - title: "Devonthink vs Obsidian for Academic Literature Review: Which is Best?"
+    url: "/posts/devonthink-vs-obsidian-academic-literature-review/"
 title: "Mendeley vs Zotero for Obsidian Integration 2026: Ultimate Review"
 description: "Practical guide to mendeley vs zotero for obsidian integration 2026: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"

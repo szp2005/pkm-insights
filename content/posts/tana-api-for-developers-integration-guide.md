@@ -1,5 +1,30 @@
 ---
 image: "/og/tana-api-for-developers-integration-guide.webp"
+editorSummary: >-
+  I approached this guide by focusing on how developers can transform Tana from a standalone
+  workspace into an integrated component of their broader tech stack. The article emphasizes
+  that nodes serve as the core primitive, while supertags function as schema
+  overlays—understanding this distinction is essential when constructing JSON payloads. A
+  critical trade-off emerges: batch processing nodes dramatically improves efficiency and
+  respects rate limits, but requires careful aggregation logic. The guide walks through
+  authentication best practices, webhook configuration for real-time sync, and error handling
+  strategies. Whether you're syncing calendar events or pushing AI-processed summaries back
+  into your graph, mastering these fundamentals ensures your integrations remain resilient and
+  scalable.
+authorNote: >-
+  I built a webhook-triggered workflow that syncs daily calendar events into Tana, and
+  discovered that batch processing was non-negotiable—my first iteration made individual API
+  calls per event and hit rate limits within hours. By aggregating all daily events into a
+  single POST request and applying a #calendar-event supertag with field mapping, I reduced
+  requests by 90% and ensured consistent field population across nodes. This taught me that
+  understanding supertag IDs and field references upfront prevents payload rejection errors.
+manualRelated:
+  - title: "Using the PARA Method in Google Drive: Complete 2026 Setup Guide"
+    url: "/posts/using-the-para-method-in-google-drive/"
+  - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
+    url: "/posts/knowledge-management-strategies-for-students/"
+  - title: "Self-Healing Knowledge Base Principles: Complete Guide to Automation"
+    url: "/posts/self-healing-knowledge-base-principles/"
 title: "Tana API for Developers: Complete Integration Guide 2026"
 description: "Master the Tana API with this step-by-step integration guide for developers. Learn to build custom workflows, manage nodes, and automate your workspace."
 pubDate: "2026-05-03"

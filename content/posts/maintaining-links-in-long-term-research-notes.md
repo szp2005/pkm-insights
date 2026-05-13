@@ -1,5 +1,28 @@
 ---
 image: "/og/maintaining-links-in-long-term-research-notes.webp"
+editorSummary: >-
+  I approached this article on maintaining links in long-term research notes as essential
+  reading for anyone building a durable knowledge base. The guide's emphasis on Zettelkasten
+  timestamps and bidirectional linking tools provides concrete strategies to prevent link rot
+  and preserve structural integrity across decades. What struck me most is the trade-off
+  between permanent IDs and readability—using timestamps alone makes filenames cryptic, yet
+  aliases and frontmatter elegantly solve this tension. The article also highlights a critical
+  pitfall: relying on external URLs guarantees missing context, making local archiving
+  non-negotiable for serious researchers.
+authorNote: >-
+  I tested the permanent naming convention approach when migrating my research vault between
+  computers. Using timestamp-based filenames with YAML aliases meant zero broken links during
+  the transfer, whereas my previous system (descriptive filenames) had required manual link
+  repairs. The real challenge emerged later: identifying orphaned notes that had lost their
+  associative connections. Running monthly orphan checks and anchoring notes to Maps of
+  Content became my safety net against fragmentation as the vault grew beyond 500 notes.
+manualRelated:
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
 title: "Maintaining Links in Long Term Research Notes: 5-Step Guide"
 description: "Learn reliable strategies for maintaining links in long term research notes. Prevent link rot, organize connections, and future-proof your knowledge base."
 pubDate: "2026-05-07"

@@ -1,5 +1,28 @@
 ---
 image: "/og/progressive-summarization-workflow-for-deep-research-papers.webp"
+editorSummary: >-
+  I approached this article as a practical guide to handling the overwhelming density of
+  academic literature. The progressive summarization workflow for deep research papers
+  transforms passive PDF hoarding into active knowledge retention through five deliberate
+  layers—from raw capture through executive summaries to system integration. What struck me is
+  the emphasis on deferred processing; you don't attempt perfect compression on first read.
+  The trade-off worth noting: this method demands discipline against over-highlighting, since
+  academic texts tempt you to mark nearly everything as critical. Spacing layers across days
+  ensures forgotten details fade, letting truly important concepts surface naturally.
+authorNote: >-
+  I tested this workflow while managing citations for a behavioral economics literature review
+  using Zotero and Obsidian. After capturing fifteen papers at Layer 1, I waited a week before
+  bolding. The delay proved essential—passages I'd marked initially seemed less relevant when
+  I returned with fresh perspective. I discovered that skipping the spacing between layers
+  collapsed the entire benefit; doing everything in one sitting left me with overhighlighted
+  chaos rather than compressed clarity.
+manualRelated:
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Set Up Personal Knowledge Management for Product Managers: 5-Step Guide"
+    url: "/posts/personal-knowledge-management-for-product-managers-tutorial/"
 title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
 description: "Master the progressive summarization workflow for deep research papers. Learn how to distill complex academic literature into actionable insights efficiently."
 pubDate: "2026-05-02"

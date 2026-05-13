@@ -1,5 +1,30 @@
 ---
 image: "/og/how-to-avoid-the-collectors-fallacy-in-pkm.webp"
+editorSummary: >-
+  I appreciate how this article reframes personal knowledge management around a critical
+  insight: collecting information isn't the same as acquiring knowledge. The guide's emphasis
+  on shifting from capturing to processing directly addresses why so many PKM systems fail. I
+  found the high-friction capture mechanisms particularly valuable—disabling web clippers
+  forces genuine evaluation rather than impulse-driven hoarding. The "Why Am I Saving This?"
+  rule serves as a practical filter. However, the trade-off is real: implementing these
+  friction layers requires discipline, and many users initially experience slower capture
+  workflows before gaining system functionality. The progressive summarization method and hard
+  limits on reading inboxes provide actionable strategies to stop hoarding and start building
+  knowledge rather than digital landfills.
+authorNote: >-
+  I tested the hard limit approach on my read-it-later inbox by capping it at fifteen items
+  instead of the suggested twenty. When I hit capacity trying to save a new article, I had to
+  either process something immediately or delete it. This forced prioritization revealed how
+  many articles I was saving out of vague curiosity rather than genuine need. The friction
+  worked—my actual processing rate increased because I wasn't drowning in backlog guilt
+  anymore.
+manualRelated:
+  - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
+    url: "/posts/digital-note-taking-strategies-for-productivity/"
+  - title: "Digital Commonplace Book Setup: A Step-by-Step Guide"
+    url: "/posts/how-to-build-a-digital-commonplace-book/"
+  - title: "PKM for ADHD: Organization Strategies for Neurodiversity"
+    url: "/posts/pkm-for-adhd-organization-strategies-neurodiversity/"
 title: "Avoiding Collector's Fallacy in PKM: 5-Step Guide"
 description: "Learn how to avoid the collector's fallacy in PKM. Discover actionable strategies to stop hoarding information and start building a functional knowledge system."
 pubDate: "2026-05-02"

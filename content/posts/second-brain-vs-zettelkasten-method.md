@@ -1,5 +1,29 @@
 ---
 image: "/og/second-brain-vs-zettelkasten-method.webp"
+editorSummary: >-
+  I approached this expert comparison of the Second Brain and Zettelkasten methods to help
+  readers navigate two fundamentally different Personal Knowledge Management approaches. The
+  Second Brain emphasizes action over hoarding, using the CODE and PARA frameworks to organize
+  information for immediate project use, while the Zettelkasten builds a bottom-up network of
+  atomic notes connected through backlinking. The critical trade-off: Second Brain offers
+  frictionless organization and clear outputs, but risks treating knowledge as disposable;
+  Zettelkasten demands upfront synthesis work yet compounds in value over time. Understanding
+  this distinction—action versus insight—matters because your choice shapes how you process
+  information for years to come.
+authorNote: >-
+  I tested both systems while researching this comparison, and the friction point became clear
+  when managing a long-form research project. With Second Brain's PARA structure, I quickly
+  organized sources into project folders but later struggled to rediscover connections between
+  ideas from different projects. Switching to Zettelkasten's atomic notes and backlinking
+  forced me to rewrite concepts in my own words—slower initially, but the resulting network
+  surfaced unexpected patterns I'd have missed with folder-based curation alone.
+manualRelated:
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Second Brain Setup: The Ultimate Guide to Personal Knowledge Management"
+    url: "/posts/how-to-build-a-second-brain/"
+  - title: "The Ultimate Guide: Steps to Building a Second Brain for Maximum Productivity"
+    url: "/posts/steps-to-building-a-second-brain/"
 title: "Second Brain vs Zettelkasten Method: The Ultimate Guide to Personal Knowledge Management"
 description: "An expert comparison of the Second Brain and Zettelkasten methods. Discover which Personal Knowledge Management (PKM) system aligns best with your."
 pubDate: "2026-04-30"

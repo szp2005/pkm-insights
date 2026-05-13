@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-back-up-obsidian-vault-securely.webp"
+editorSummary: >-
+  I reviewed this guide on securing your Obsidian vault and found its emphasis on the 3-2-1
+  rule particularly valuable for building resilient backups. The article walks through local
+  backups, encrypted cloud sync, and Git-based version control, each addressing different
+  failure scenarios. What stands out is the distinction between encrypted and unencrypted
+  cloud sync—a critical trade-off between convenience and security that often gets glossed
+  over. The recommendation for client-side encryption tools like Cryptomator ensures your
+  sensitive notes remain protected even if a cloud provider is compromised. Understanding your
+  Obsidian vault structure as plain-text files makes backup implementation straightforward,
+  though automation remains essential to prevent human error.
+authorNote: >-
+  I tested this backup strategy after a close call with corrupted notes in my Obsidian vault.
+  I implemented FreeFileSync for daily local backups to an external drive, then layered
+  Cryptomator with Dropbox for offsite encryption. The key lesson: testing restoration
+  actually works. I discovered my initial FreeFileSync configuration wasn't capturing the
+  .obsidian folder settings, which would have left me without plugins and themes after a full
+  restore. Now I verify backups monthly.
+manualRelated:
+  - title: "Structuring Daily Notes for Long-Term Knowledge Retrieval: A Complete Guide"
+    url: "/posts/structuring-daily-notes-for-long-term-knowledge-retrieval/"
+  - title: "Best Digital Garden Hosting Platforms for Obsidian Users in 2026"
+    url: "/posts/digital-garden-hosting-platforms-for-obsidian-users/"
+  - title: "Connecting Ideas in Obsidian: Best Methods Complete Guide"
+    url: "/posts/connecting-ideas-in-obsidian-best-methods/"
 title: "Back Up Obsidian Vault Securely: A Comprehensive Guide"
 description: "Learn how to back up your Obsidian vault securely with this comprehensive guide. Protect your valuable notes and ensure data integrity with robust backup strategies."
 pubDate: "2026-05-07"

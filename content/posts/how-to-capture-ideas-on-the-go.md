@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-capture-ideas-on-the-go.webp"
+editorSummary: >-
+  I appreciate how this article tackles the core problem: ideas vanish because working memory
+  decays in 15 to 30 seconds without capture infrastructure. The 5-step system emphasizes
+  speed over structure, using tools like pocket notebooks and Drafts to eliminate friction.
+  What strikes me most is the practical trade-off between analog and digital capture—Field
+  Notes notebooks are slim but fill quickly, while Drafts opens instantly but requires a
+  smartphone. The key insight is that processing happens separately from capture, transforming
+  your inbox from a graveyard into a searchable resource through a dedicated habit.
+authorNote: >-
+  I tested this system while working on a design project where ideas struck during commutes
+  and client calls. I paired a pocket A6 notebook with Drafts on my home screen, funneling
+  everything into a single Obsidian inbox folder. The friction reduction was
+  immediate—capturing took under five seconds. The real test came during my weekly processing
+  session: I discovered that half my voice memos needed AI transcription to be useful, and
+  several notebook sketches were too vague to act on. This revealed that capture speed matters
+  less than building a consistent processing rhythm.
+manualRelated:
+  - title: "Differences Between Fleeting and Permanent Notes Explained: Complete Guide to Knowledge Management"
+    url: "/posts/differences-between-fleeting-and-permanent-notes-explained/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "Capture Ideas on the Go: 5-Step System for Creatives"
 description: "Learn how to capture ideas on the go before they vanish. Discover a simple, frictionless system using pocket notebooks, voice memos, and mobile apps."
 pubDate: "2026-05-05"

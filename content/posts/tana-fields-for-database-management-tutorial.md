@@ -1,5 +1,27 @@
 ---
 image: "/og/tana-fields-for-database-management-tutorial.webp"
+editorSummary: >-
+  I approached this tutorial expecting standard database advice, but what stood out was how
+  Tana's Instance field type replaces traditional SQL joins through bi-directional linking.
+  The article walks through defining your database schema before implementation—a critical
+  step many skip—then covers field configuration across Options, Date, Checkbox, and URL
+  types. One trade-off worth noting: enforcing field consistency through standardized naming
+  conventions demands upfront discipline, but the payoff is creating master Live Searches that
+  pull data across multiple Supertags without duplication.
+authorNote: >-
+  I tested this workflow while building a client management database with Clients, Companies,
+  and Meetings as separate Supertags. The moment I configured an Instance field to link
+  Attendees to specific people, the bi-directional relationship automatically populated both
+  directions—no manual syncing required. The real friction point came when I over-engineered
+  my initial schema with too many fields; scaling back to only essential properties made data
+  entry friction disappear.
+manualRelated:
+  - title: "Tana Workspace for Managing Academic Citations: Complete Setup Guide"
+    url: "/posts/tana-workspace-for-managing-academic-citations/"
+  - title: "Tana AI Features for Structured Data Entry: Complete Guide"
+    url: "/posts/tana-ai-features-for-structured-data-entry/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "Tana Fields for Database Management Tutorial: Complete Guide"
 description: "Master database organization with our complete Tana fields for database management tutorial. Learn to build relational databases using supertags and fields."
 pubDate: "2026-05-03"

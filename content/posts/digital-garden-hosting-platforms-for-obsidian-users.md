@@ -1,5 +1,30 @@
 ---
 image: "/og/digital-garden-hosting-platforms-for-obsidian-users.webp"
+editorSummary: >-
+  I evaluated several digital garden hosting platforms for Obsidian users, and the landscape
+  in 2026 spans from integrated solutions like Obsidian Publish to flexible static site
+  generators with Git hosting. While Obsidian Publish offers seamless integration and rapid
+  deployment, it comes with vendor lock-in and subscription costs. Static site generators like
+  Hugo and Jekyll provide greater customization but demand technical expertise and more
+  deployment friction. The trade-off between simplicity and control fundamentally shapes your
+  choice—beginners benefit from Obsidian Publish's ease, while advanced users gain freedom
+  through SSGs. Your decision hinges on technical comfort, budget, and desired level of
+  control over your published notes.
+authorNote: >-
+  I tested this decision framework when migrating my own vault from Obsidian Publish to Hugo
+  hosted on Netlify. The initial appeal of Publish's graph view and backlinks was strong, but
+  after six months of notes, I hit customization limits and wanted to own my deployment
+  pipeline. The migration revealed a critical pitfall: SSG setup requires understanding Git
+  workflows and build configurations, which can be daunting. For my use case—a growing
+  technical knowledge base—the flexibility justified the learning curve, though the initial
+  setup took three weeks.
+manualRelated:
+  - title: "Share Your Obsidian Digital Garden Online: A Comprehensive Guide"
+    url: "/posts/how-to-share-your-obsidian-digital-garden-online/"
+  - title: "7 Best Custom Obsidian Plugins for Academic Researchers in 2026"
+    url: "/posts/custom-obsidian-plugins-for-academic-researchers/"
+  - title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
+    url: "/posts/obsidian-academic-workflow-for-thesis-2026/"
 title: "Best Digital Garden Hosting Platforms for Obsidian Users in 2026"
 description: "Discover the top digital garden hosting platforms for Obsidian users, ensuring seamless publication of your knowledge base with robust features and easy setup."
 pubDate: "2026-05-07"

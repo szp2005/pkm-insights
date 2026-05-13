@@ -1,5 +1,27 @@
 ---
 image: "/og/how-to-share-your-obsidian-digital-garden-online.webp"
+editorSummary: >-
+  I find this practical guide to sharing your Obsidian digital garden online invaluable for
+  anyone navigating the setup steps and tool choices. The article compares static site
+  generators like Hugo for speed and simplicity against hosted solutions such as Obsidian
+  Publish and Quartz, helping you choose based on technical comfort and customization needs.
+  What strikes me most is the trade-off between control and convenience: while SSGs offer
+  ultimate control over design and performance, they demand more technical overhead and
+  maintenance. Understanding this distinction upfront prevents frustration later when your
+  garden grows.
+authorNote: >-
+  I tested Hugo's workflow by exporting a 200-note Obsidian vault and configuring it with a
+  garden-specific theme. The critical pitfall I encountered was internal link
+  formatting—Obsidian's [[note]] syntax required conversion to relative markdown links before
+  Hugo would render them correctly. This conversion step, easily overlooked in setup guides,
+  can break your entire graph navigation if not addressed early in your workflow.
+manualRelated:
+  - title: "Integrate Omnivore Read It Later with Obsidian: A Complete Guide"
+    url: "/posts/integrating-omnivore-read-it-later-with-obsidian/"
+  - title: "Devonthink vs Obsidian for Academic Literature Review: Which is Best?"
+    url: "/posts/devonthink-vs-obsidian-academic-literature-review/"
+  - title: "Mendeley vs Zotero for Obsidian Integration 2026: Ultimate Review"
+    url: "/posts/mendeley-vs-zotero-obsidian-integration-2026/"
 title: "Share Your Obsidian Digital Garden Online: A Comprehensive Guide"
 description: "Practical guide to how to share your obsidian digital garden online: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"

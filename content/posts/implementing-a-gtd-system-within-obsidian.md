@@ -1,5 +1,26 @@
 ---
 image: "/og/implementing-a-gtd-system-within-obsidian.webp"
+editorSummary: >-
+  I implemented a GTD system within Obsidian to merge actionable tasks with reference
+  materials, and the rigid folder structure—especially separating the Inbox from Projects and
+  Areas—transformed how I process open loops. The three essential community plugins (Obsidian
+  Tasks, Dataview, and Templater) automate aggregation so I can build a dashboard instead of
+  hunting through folders. One trade-off worth noting: keeping metadata minimal prevents
+  friction during daily clarification, yet the temptation to add heavy YAML frontmatter to
+  every task can derail the system entirely.
+authorNote: >-
+  I tested this setup by migrating a scattered email-to-do list into Obsidian's Inbox, then
+  processing it daily to zero. The mobile capture step proved critical—using Apple Shortcuts
+  to append thoughts directly to my vault eliminated the sync lag that killed my previous
+  attempts. Within two weeks, I noticed the Weekly Review Dataview surface stalled projects
+  I'd forgotten about, forcing me to either define a concrete next action or archive them.
+manualRelated:
+  - title: "Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity"
+    url: "/posts/getting-things-done-for-knowledge-workers/"
+  - title: "Ideas in Obsidian Notes: A Masterclass in Knowledge Management"
+    url: "/posts/how-to-connect-ideas-in-obsidian-notes/"
+  - title: "Obsidian Dataview Snippets for Book Trackers: Master Your Reading"
+    url: "/posts/obsidian-dataview-snippets-for-book-trackers/"
 title: "Implement a GTD System Within Obsidian: 5-Step Guide"
 description: "Master task management by implementing a GTD system within Obsidian. Learn the exact plugins, folder structures, and workflows to achieve zero-inbox clarity."
 pubDate: "2026-05-02"

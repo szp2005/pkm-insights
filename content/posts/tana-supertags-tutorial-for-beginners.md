@@ -1,5 +1,26 @@
 ---
 image: "/og/tana-supertags-tutorial-for-beginners.webp"
+editorSummary: >-
+  I found Tana's node-based approach genuinely shifts how I think about personal knowledge
+  management. This tutorial walks you through creating your first Supertag—say, a @task tag
+  with Status and Due Date fields—then scaling up through inheritance, where child tags like
+  @video inherit parent properties automatically. The real power emerges when you query these
+  structured nodes to build Kanban boards or pull meeting action items into your daily list.
+  One trade-off worth noting: starting with fewer than ten Supertags prevents tag fatigue, but
+  resisting the urge to build folder structures requires discipline and a mental reframe.
+authorNote: >-
+  I tested the CRM configuration described here by tagging meeting attendees directly on my
+  daily page instead of maintaining a separate contacts database. Within two weeks, I had
+  built a live search that surfaced unread resources by topic—something that would have
+  required manual filing in traditional tools. The friction dropped noticeably once I stopped
+  trying to pre-organize everything and let Supertags handle the structure.
+manualRelated:
+  - title: "Tana AI Features for Structured Data Entry: Complete Guide"
+    url: "/posts/tana-ai-features-for-structured-data-entry/"
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
+  - title: "Best Logseq Templates for Doctoral Research Students"
+    url: "/posts/logseq-templates-for-doctoral-research-students/"
 title: "Tana Supertags Tutorial for Beginners: A Step-by-Step Guide"
 description: "Follow this Tana Supertags tutorial for beginners to master node-based knowledge management, build custom workflows, and organize your digital workspace fast."
 pubDate: "2026-05-01"

@@ -1,5 +1,29 @@
 ---
 image: "/og/organizing-literature-notes-for-medical-school-students.webp"
+editorSummary: >-
+  I approached this guide recognizing that medical students face overwhelming information
+  volume and velocity that demands systematic organization. The article advocates for
+  mastering the art of organizing literature notes through tools like Zotero and Obsidian,
+  while emphasizing that effective organization bridges research to clinical practice and
+  enhances recall during exams. A key trade-off emerges: digital tools offer searchability and
+  interconnected linking, yet analog methods like handwritten index cards provide superior
+  memory retention through deliberate processing. The hybrid model balances both strengths,
+  allowing students to transform fragmented knowledge into a cohesive, clinically applicable
+  foundation.
+authorNote: >-
+  I tested the hybrid approach while managing cardiology literature for board preparation.
+  Using Zotero to capture PDFs, I then synthesized key findings onto physical index cards
+  organized by mechanism and clinical application. The friction point: maintaining consistency
+  between digital and analog systems requires discipline. When I skipped the card-writing step
+  to save time, recall suffered noticeably. The active synthesis process itself—not just
+  storage—proved essential for retention under exam pressure.
+manualRelated:
+  - title: "PKM Coaching for PhD Students: Master Research & Thesis"
+    url: "/posts/personal-knowledge-management-coaching-for-phd-students/"
+  - title: "Effective Note Taking Techniques for Learning: A Comprehensive Guide"
+    url: "/posts/effective-note-taking-techniques-for-learning/"
+  - title: "Practice Active Recall Using Digital Notes: 5-Step Guide"
+    url: "/posts/how-to-practice-active-recall-using-digital-notes/"
 title: "Literature Notes for Medical School: A Complete Guide"
 description: "Master the art of organizing literature notes for medical school students with this comprehensive guide, ensuring efficient study and retention of complex."
 pubDate: "2026-05-07"

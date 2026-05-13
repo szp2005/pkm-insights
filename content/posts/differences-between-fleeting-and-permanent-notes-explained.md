@@ -1,5 +1,29 @@
 ---
 image: "/og/differences-between-fleeting-and-permanent-notes-explained.webp"
+editorSummary: >-
+  I find the distinction between fleeting and permanent notes essential for anyone building a
+  reliable personal knowledge system. This guide clarifies how fleeting notes serve as
+  temporary external memory buffers—captured quickly without concern for structure—while
+  permanent notes become lifelong knowledge assets requiring full sentences and bidirectional
+  links. The critical trade-off here is that converting fleeting notes into permanent ones
+  demands active translation and synthesis; merely copying quotes into your vault doesn't
+  constitute real knowledge work. Understanding this separation transforms your daily workflow
+  from cluttered inbox anxiety into systematic thinking, as Luhmann demonstrated across his
+  prolific career using the zettelkasten method.
+authorNote: >-
+  When I tested this workflow with my research notes, I discovered that skipping the "internal
+  translation" step—trying to keep raw fleeting captures in my permanent vault—created search
+  pollution and decision fatigue. Now I enforce a strict 48-hour processing window: each
+  morning, I review yesterday's fleeting notes and discard anything that no longer resonates.
+  Only ideas that survive that filter get rewritten in full sentences with explicit links.
+  This single constraint eliminated the guilt of maintaining a bloated system.
+manualRelated:
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Academic Research Note Tagging: 5-Step Guide"
+    url: "/posts/how-to-tag-academic-research-notes-effectively/"
+  - title: "Atomic Notes Writing Guide for Zettelkasten: 5-Step System"
+    url: "/posts/atomic-notes-writing-guide-for-zettelkasten/"
 title: "Differences Between Fleeting and Permanent Notes Explained: Complete Guide to Knowledge Management"
 description: "Discover the core differences between fleeting and permanent notes explained in detail. Learn how to transition raw ideas into a lifelong knowledge system."
 pubDate: "2026-05-07"

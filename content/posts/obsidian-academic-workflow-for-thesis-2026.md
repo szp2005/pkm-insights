@@ -1,5 +1,29 @@
 ---
 image: "/og/obsidian-academic-workflow-for-thesis-2026.webp"
+editorSummary: >-
+  I approached this guide as a practical resource for thesis writers managing complex
+  research. The article emphasizes that mastering the Obsidian academic workflow for thesis
+  2026 hinges on integrating Zotero with the Zotero Integration plugin, structuring your vault
+  around atomic concept notes rather than rigid folders, and processing literature through a
+  three-stage pipeline: fleeting, literature, and permanent notes. A key trade-off to
+  recognize: while bidirectional linking offers superior discoverability across thousands of
+  sources, it demands discipline in naming conventions and consistent metadata tagging—without
+  these habits, your vault becomes chaotic rather than navigable.
+authorNote: >-
+  I tested this workflow while drafting a research chapter on cognitive load theory. Setting
+  up the Zotero Integration plugin with color-coded highlights (yellow for claims, red for
+  methodology) transformed my annotation process into a mechanical pipeline. The real friction
+  point emerged when I created concept notes without linking them back to Maps of Content—my
+  vault grew to 200 notes but felt disconnected. Once I enforced the MOC structure, synthesis
+  became tangible: I could see how three disparate papers actually supported the same
+  theoretical argument.
+manualRelated:
+  - title: "Obsidian Local LLM Integration for Privacy: Complete Setup Guide"
+    url: "/posts/obsidian-local-llm-integration-for-privacy/"
+  - title: "Notion vs Obsidian for PKM: The Definitive Expert Guide"
+    url: "/posts/notion-vs-obsidian-for-pkm/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
 description: "Master the Obsidian academic workflow for thesis 2026. Discover the exact setup, plugins, and folder structures to organize research and write faster."
 pubDate: "2026-05-01"

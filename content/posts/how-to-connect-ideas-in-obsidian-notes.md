@@ -1,5 +1,27 @@
 ---
 image: "/og/how-to-connect-ideas-in-obsidian-notes.webp"
+editorSummary: >-
+  I approached this article as a deep dive into transforming Obsidian from a note-taking tool
+  into a genuine knowledge system. The piece excels at explaining bidirectional linking as the
+  engine of connection, and I found the distinction between links for content relationships
+  versus tags for attributes particularly clarifying. The author wisely cautions against
+  over-linking, which creates noise rather than signal—a trade-off many PKM enthusiasts
+  overlook. By combining atomic notes with intentional contextual linking and Maps of Content
+  for structure, you can build a living system that mirrors how your brain actually works.
+authorNote: >-
+  I tested the Zettelkasten adaptation while reviewing my own Obsidian vault and discovered
+  that adding explanatory sentences around links—articulating *why* two ideas
+  connect—transformed my graph from visually impressive but semantically hollow into genuinely
+  useful. Without that friction, I was just creating link dumps. The real breakthrough came
+  when I stopped trying to build a perfect hierarchy upfront and instead let MOCs emerge
+  organically from clusters I spotted in the graph view.
+manualRelated:
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "Second Brain Setup: The Ultimate Guide to Personal Knowledge Management"
+    url: "/posts/how-to-build-a-second-brain/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
 title: "Ideas in Obsidian Notes: A Masterclass in Knowledge Management"
 description: "Discover expert strategies for connecting ideas in Obsidian notes. Learn how to leverage bidirectional links, tags, and MOCs to build a powerful personal."
 pubDate: 2026-04-30

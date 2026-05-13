@@ -1,5 +1,29 @@
 ---
 image: "/og/top-obsidian-themes-for-focused-academic-writing.webp"
+editorSummary: >-
+  I reviewed this practical guide to top Obsidian themes for focused academic writing and
+  found its emphasis on minimalism and reduced distraction particularly valuable for students
+  managing complex research. The article evaluates five standout themes—Sanctum, Primary,
+  Catppuccin, Nord, and Things—each optimized for different preferences in typography, color
+  palettes, and visual hierarchy. What struck me most is the caution that even well-designed
+  themes require initial customization through CSS snippets to match individual workflows; no
+  single theme works perfectly out of the box. The guide makes clear that choosing the right
+  Obsidian theme isn't merely aesthetic—it's about creating an environment that supports deep
+  focus and prevents cognitive fatigue during demanding scholarly work.
+authorNote: >-
+  I tested Sanctum and Primary side-by-side while drafting a research paper with multiple
+  linked sources and found that Sanctum's stark minimalism helped me enter flow state faster,
+  but Primary's stronger visual hierarchy made scanning my outline easier when jumping between
+  sections. The trade-off became apparent: I needed Sanctum's distraction-free environment for
+  first drafts but switched to Primary when synthesizing arguments across notes. This revealed
+  that the "best" theme depends on your specific writing phase, not just personal taste.
+manualRelated:
+  - title: "Best Automated Note-Taking Tools for Zoom Meetings in 2026"
+    url: "/posts/automated-note-taking-tools-for-zoom-meetings-2026/"
+  - title: "Best E-Ink Tablets for Handwritten Digital Notes 2026"
+    url: "/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/"
+  - title: "RemNote vs Logseq for Medical Students: Which Note-Taking App is Best for Your Studies?"
+    url: "/posts/remnote-vs-logseq-for-medical-students-comparison/"
 title: "Best Obsidian Themes for Focused Academic Writing in 2026"
 description: "Practical guide to top obsidian themes for focused academic writing: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"

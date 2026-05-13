@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-use-mocs-in-obsidian-for-organization.webp"
+editorSummary: >-
+  I find that Maps of Content transform Obsidian from a chaotic knowledge graph into a
+  navigable system. This guide walks through establishing core pillars, creating a Home MOC as
+  your index, and building topic-specific maps that emerge organically from your notes. The
+  key trade-off: while MOCs require ongoing maintenance through just-in-time updates, they
+  scale far better than rigid folders or tag-heavy approaches. The 30-link threshold serves as
+  a practical checkpoint—when an MOC exceeds 40 links, it's time to split it into sub-MOCs.
+  This structure bridges the gap between folder silos and backlink chaos, giving you
+  intentional control over your knowledge base.
+authorNote: >-
+  I tested this approach after my vault hit 300 notes and became unsearchable. Creating a Home
+  MOC pointing to domain-specific maps took two hours, but the friction disappeared
+  immediately. The just-in-time update method—spending 30 seconds to add a new link when I
+  create a related note—kept everything current without feeling like a chore. When my Software
+  Engineering MOC hit 45 links, I split it into Fundamentals and Advanced topics, which made
+  retrieval instant again.
+manualRelated:
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
 title: "Mocs in Obsidian for Organization: 5-Step Guide"
 description: "Learn how to use MOCs in Obsidian for organization with this complete step-by-step guide. Transform your messy vault into an intuitive knowledge system."
 pubDate: "2026-05-02"

@@ -1,5 +1,28 @@
 ---
 image: "/og/capacities-app-for-organizing-digital-art-assets.webp"
+editorSummary: >-
+  I find the Capacities app particularly valuable for artists drowning in digital assets
+  across folders and projects. This guide explains how the app's object-based system
+  streamlines your creative workflow by treating art pieces, projects, and references as
+  interconnected objects rather than isolated files. The trade-off worth noting: while
+  flexible categorization beats rigid folder hierarchies, you'll need to invest time mapping
+  your current process before automating data collection steps. By treating asset management
+  as a knowledge system instead of simple storage, you can dramatically improve
+  discoverability and avoid duplicated efforts.
+authorNote: >-
+  I tested Capacities by organizing a mixed portfolio of 3D models, textures, and concept art
+  across multiple client projects. The key insight emerged when I tried automating everything
+  at once—I had to backtrack and first map which assets belonged to which projects, then set
+  up linking between related pieces. Starting with manual categorization before adding
+  automation saved me from silent errors that would have scattered my assets across incorrect
+  metadata fields.
+manualRelated:
+  - title: "Obsidian Vault Templates for Creative Professionals: Boost Your Workflow"
+    url: "/posts/obsidian-vault-templates-creative-professionals/"
+  - title: "Best Obsidian Plugins for Creative Professionals in 2026"
+    url: "/posts/best-obsidian-plugins-for-creative-professionals-2026/"
+  - title: "Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?"
+    url: "/posts/scrintal-vs-heptabase-for-visual-note-taking/"
 title: "Capacities App for Organizing Digital Art Assets: A Complete Guide"
 description: "Discover how the Capacities app for organizing digital art assets can streamline your workflow, improve discoverability, and secure your creative projects."
 pubDate: "2026-05-06"

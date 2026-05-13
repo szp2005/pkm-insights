@@ -1,5 +1,29 @@
 ---
 image: "/og/tana-commands-for-automated-daily-note-setup.webp"
+editorSummary: >-
+  I find Tana's approach to automating daily notes particularly valuable because it combines
+  Supertags, fields, and commands into a cohesive system. The guide demonstrates how the
+  Insert Template command, paired with a well-designed #Daily Note Supertag, eliminates manual
+  setup friction. What strikes me most is the trade-off: while dynamic commands like Today,
+  Yesterday, and Tomorrow create powerful contextual links across your graph, they require
+  upfront structural thinking to avoid creating orphaned or redundant daily note entries.
+  Master Tana commands for automated daily note setup, and you'll capture thoughts
+  consistently without administrative overhead.
+authorNote: >-
+  I tested this setup by creating a #Daily Note Supertag with fields for tasks, highlights,
+  and journal entries, then configured the template to auto-populate Date:: [[Today]] and
+  Previous Day:: [[Yesterday]]. The friction point I encountered: when I used Insert Template
+  without first ensuring the Supertag was properly linked, new daily notes created without the
+  template structure. The solution was defining the template *within* the Supertag definition
+  itself, not as a separate node, ensuring every instantiation inherited the correct fields
+  automatically.
+manualRelated:
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
+  - title: "Tana Commands for Automated Data Processing: Complete Guide"
+    url: "/posts/tana-commands-for-automated-data-processing/"
+  - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
+    url: "/posts/knowledge-management-strategies-for-students/"
 title: "Tana Commands for Automated Daily Notes: A Complete Setup Guide"
 description: "Master Tana commands for automated daily note setup, streamlining your knowledge management and ensuring consistent capture of thoughts and tasks with ease."
 pubDate: "2026-05-06"

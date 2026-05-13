@@ -1,5 +1,29 @@
 ---
 image: "/og/bi-directional-linking-for-creative-writing-workflows.webp"
+editorSummary: >-
+  I view bi-directional linking as essential for creative writing workflows because it
+  replaces rigid folder hierarchies with organic, interconnected notes. Rather than hunting
+  through chapter files when a character's backstory changes, you build a dynamic web where
+  backlinks automatically surface every mention of characters, locations, and plot threads.
+  The fractal outlining method and atomic notes keep your system modular—rearranging chapters
+  doesn't break connections. One trade-off worth noting: this approach requires discipline in
+  naming conventions and resisting the temptation to recreate complex folder structures, or
+  your system becomes as unwieldy as what you're trying to escape.
+authorNote: >-
+  I tested this system while revising a fantasy manuscript with multiple POV characters and
+  interconnected timelines. Using the flat folder structure with emoji-prefixed location
+  notes, I discovered continuity errors instantly by checking backlinks—a character's weapon
+  appeared in Chapter 4 before acquisition in Chapter 12. The aliases feature proved
+  invaluable; I could write naturally using nicknames while maintaining rigid database links.
+  Setting up atomic notes initially felt tedious, but during revisions, having granular
+  plot-thread notes made fact-checking against research sources remarkably efficient.
+manualRelated:
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "Bi-Directional Linking for Creative Writing Workflows: Complete Guide"
 description: "Discover how bi-directional linking for creative writing workflows can organize complex lore, connect plot threads, and eliminate writer's block for good."
 pubDate: "2026-05-05"

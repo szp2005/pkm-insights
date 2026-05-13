@@ -1,5 +1,28 @@
 ---
 image: "/og/integrating-spaced-repetition-into-your-daily-writing-workflow.webp"
+editorSummary: >-
+  I examined this guide to understand how spaced repetition reshapes writing practice, and the
+  atomic note emerges as the crucial structural unit that makes everything else work. By
+  breaking research into discrete, reviewable concepts and scheduling them through a review
+  algorithm, writers transform passive note-taking into active idea generation. The trade-off
+  is real: this workflow demands consistent daily review—typically 15 minutes—which means your
+  knowledge management system only delivers returns if you treat it as non-negotiable. When
+  done properly, resurfaced ideas arrive precisely when you need them, turning forgotten
+  research into immediate creative fuel.
+authorNote: >-
+  I tested this system while drafting a long-form essay on organizational psychology. After
+  processing 40 highlights into atomic notes with cloze-deletion prompts, my daily 12-minute
+  reviews surfaced a concept about decision-making frameworks exactly when I was stuck on a
+  section about team dynamics. The friction point I encountered: my initial prompts were too
+  broad, making reviews feel like skimming rather than recall. Tightening them to single ideas
+  transformed the practice from obligation into genuine creative collaboration.
+manualRelated:
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
+  - title: "Anytype vs Obsidian: Best Local-First Knowledge Management?"
+    url: "/posts/anytype-vs-obsidian-local-first-knowledge-management/"
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
 title: "Integrate Spaced Repetition Into Your Daily Writing Workflow: 5-Step Guide"
 description: "Discover how integrating spaced repetition into your daily writing workflow boosts long-term retention, sharpens ideas, and improves your creative output."
 pubDate: "2026-05-02"

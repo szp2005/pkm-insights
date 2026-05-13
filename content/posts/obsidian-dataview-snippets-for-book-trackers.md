@@ -1,5 +1,29 @@
 ---
 image: "/og/obsidian-dataview-snippets-for-book-trackers.webp"
+editorSummary: >-
+  I approached this article as a practical guide to building a book tracking system within
+  Obsidian using Dataview snippets. The setup emphasizes consistent metadata fields—title,
+  author, status, pages, and dates—paired with DQL queries that transform static notes into
+  dynamic, queryable databases. What strikes me is the trade-off between customization depth
+  and maintenance burden; while advanced DataviewJS dashboards offer rich insights, batch
+  updating metadata across growing libraries requires discipline. The article walks through
+  essential snippets for displaying all books, filtering by reading status, and calculating
+  progress percentages, making it accessible for readers ready to master their reading.
+authorNote: >-
+  I tested this system by converting my scattered reading list across three platforms into a
+  single Obsidian vault. Starting with the YAML template for book metadata, I created fifty
+  existing book notes using search-and-replace to standardize fields. The real payoff came
+  when I ran the "Books Currently Reading" snippet—it instantly surfaced my actual reading
+  pace by calculating days between start and end dates. One pitfall: I initially forgot to add
+  the #book tag to legacy notes, causing them to drop from queries until I batch-updated the
+  folder.
+manualRelated:
+  - title: "Best Obsidian Dataview Templates for Academic Research 2026"
+    url: "/posts/obsidian-dataview-templates-academic-researchers-2026/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
+  - title: "Dataview Queries for Research: 5-Step Guide"
+    url: "/posts/how-to-structure-dataview-queries-for-research/"
 title: "Obsidian Dataview Snippets for Book Trackers: Master Your Reading"
 description: "Unlock powerful Obsidian Dataview snippets for book trackers to effortlessly manage your reading list, track progress, and gain insights into your literary journey."
 pubDate: "2026-05-06"

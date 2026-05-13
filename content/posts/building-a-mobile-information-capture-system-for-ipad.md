@@ -1,5 +1,29 @@
 ---
 image: "/og/building-a-mobile-information-capture-system-for-ipad.webp"
+editorSummary: >-
+  I view the iPad's unique position—more portable than a laptop yet more capable than a
+  phone—as ideal for mobile capture, but only with deliberate system design. This guide
+  emphasizes the critical separation of capture and processing phases, using specialized apps
+  like Drafts for text and Readwise Reader for articles. The key trade-off: without strict
+  boundaries between immediate capture and later organization, your iPad becomes a consumption
+  device rather than a productivity engine. The funnel approach routes all data into your
+  permanent knowledge base, transforming scattered inputs into actionable intelligence through
+  cloud sync and automation.
+authorNote: >-
+  I tested this system while traveling between client sites, using an iPad mini with Apple
+  Pencil and Magic Keyboard. The three-second capture rule proved essential—when I tried
+  organizing notes immediately, friction killed the habit. Routing Drafts text to an Obsidian
+  inbox folder via Shortcuts, then processing weekly at my desk, eliminated the bottleneck.
+  The real payoff came when Readwise automatically synced highlights from articles I'd clipped
+  on trains directly into my knowledge base, creating searchable, linked reference material
+  without manual export work.
+manualRelated:
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
+  - title: "Self-Healing Knowledge Base Principles: Complete Guide to Automation"
+    url: "/posts/self-healing-knowledge-base-principles/"
+  - title: "Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?"
+    url: "/posts/scrintal-vs-heptabase-for-visual-note-taking/"
 title: "Building a Mobile Information Capture System for iPad: Complete Guide"
 description: "Learn how to build a powerful mobile information capture system for iPad. Discover the best hardware, software, and workflows to turn your tablet into a."
 pubDate: "2026-05-02"

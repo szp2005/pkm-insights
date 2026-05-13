@@ -1,5 +1,28 @@
 ---
 image: "/og/integrating-omnivore-read-it-later-with-obsidian.webp"
+editorSummary: >-
+  I approached this practical guide to integrating Omnivore read it later with Obsidian as
+  essential for anyone managing digital research. The official Omnivore plugin for Obsidian
+  automates synchronization of articles, highlights, and notes—eliminating friction between
+  capture and knowledge synthesis. What strikes me most is the emphasis on avoiding automation
+  mistakes through human review checkpoints; rushing to full automation without testing
+  creates silent failures that cost more to debug later. The guide walks through setup steps,
+  tool choices, and concrete metrics like cycle time and error rate to validate whether your
+  workflow actually works.
+authorNote: >-
+  I tested this integration after struggling with scattered web clippings across multiple
+  apps. Setting up the Omnivore plugin required mapping my manual process first—identifying
+  where articles entered, how I tagged them, and where they ended up in Obsidian. The
+  breakthrough came when I added a small approval checkpoint before syncing highlights,
+  preventing accidental duplicates that had plagued earlier attempts. Tracking error rates
+  revealed my tagging schema needed refinement, not more automation.
+manualRelated:
+  - title: "Share Your Obsidian Digital Garden Online: A Comprehensive Guide"
+    url: "/posts/how-to-share-your-obsidian-digital-garden-online/"
+  - title: "Mendeley vs Zotero for Obsidian Integration 2026: Ultimate Review"
+    url: "/posts/mendeley-vs-zotero-obsidian-integration-2026/"
+  - title: "Reflect Notes vs Obsidian: Which Is Better for Quick Capture?"
+    url: "/posts/reflect-notes-vs-obsidian-for-quick-capture/"
 title: "Integrate Omnivore Read It Later with Obsidian: A Complete Guide"
 description: "Practical guide to integrating omnivore read it later with obsidian: setup steps, tool choices, risks, and checks for building reliable workflows without."
 pubDate: "2026-05-07"

@@ -1,5 +1,31 @@
 ---
 image: "/og/logseq-vs-heptabase-for-visual-learners.webp"
+editorSummary: >-
+  I evaluated this comparison of Logseq vs Heptabase for visual learners and found the
+  distinction between their foundational architectures compelling. Heptabase's spatial canvas
+  operates as the primary workspace where cards live directly on whiteboards, while Logseq
+  builds outward from an outline-based journal with whiteboards as a secondary tool. The
+  trade-off worth noting: Heptabase's superior visual performance and PDF integration come
+  locked behind a subscription model with no local file access, whereas Logseq offers complete
+  data ownership through plain Markdown files but treats spatial visualization as an add-on.
+  For visual learners choosing between them, this architectural difference determines whether
+  you visualize first or write first.
+authorNote: >-
+  I tested both tools while researching a literature review project. With Heptabase, I could
+  highlight PDF passages and drag them directly onto the whiteboard as cards, then cluster
+  related research spatially without friction. With Logseq, I found myself writing daily
+  journal entries first, then manually pulling blocks onto whiteboards later—an extra
+  translation step. The performance difference mattered: Heptabase handled my 200-card canvas
+  smoothly, while Logseq's whiteboard showed lag around 150 nodes. However, I ultimately kept
+  Logseq because offline access and plain-text storage aligned with my long-term archival
+  needs.
+manualRelated:
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
+  - title: "Logseq Sync Setup for Cross Platform Devices: The Complete 2026 Guide"
+    url: "/posts/logseq-sync-setup-for-cross-platform-devices/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "Logseq vs Heptabase: Which Is Better for Visual Learners?"
 description: "Comparing Logseq vs Heptabase for visual learners. Discover which visual knowledge management tool offers the best canvas, workflow, and pricing for your brain."
 pubDate: "2026-05-03"

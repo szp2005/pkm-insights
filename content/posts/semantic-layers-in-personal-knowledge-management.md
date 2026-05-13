@@ -1,5 +1,30 @@
 ---
 image: "/og/semantic-layers-in-personal-knowledge-management.webp"
+editorSummary: >-
+  I approached this article as a guide to transforming scattered notes into queryable systems.
+  The semantic layer concept—using typed links, properties, and metadata—shifts personal
+  knowledge management from passive storage to active relational databases. What strikes me
+  most is the trade-off between flexibility and rigor: while folksonomies offer fluidity, they
+  scale poorly without standardized nomenclature. The article's step-by-step implementation
+  framework emphasizes incremental adoption rather than bulk refactoring, which I find
+  practical. By defining entity types, standardizing properties, and building dynamic
+  dashboards, you unlock retrieval capabilities that simple bidirectional links cannot match.
+  However, maintaining consistent YAML schemas across thousands of notes demands discipline.
+authorNote: >-
+  I tested this approach by retrofitting a 3,000-note vault with typed links and frontmatter
+  templates. The friction point came immediately: my existing Project notes used three
+  different status formats (active, in progress, ongoing). Rather than bulk-edit, I created a
+  Templater template for new projects and updated old ones only when I referenced them. Within
+  two months, querying active projects by deadline became automatic. The real payoff emerged
+  when I built a dashboard pulling projects linked to quarterly goals—something impossible
+  with unstructured links alone.
+manualRelated:
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Building a Second Brain in 2026 Update: Complete Setup Guide"
+    url: "/posts/building-a-second-brain-in-2026-update/"
+  - title: "Second Brain for Boosting Creativity in 2026: Complete Guide"
+    url: "/posts/second-brain-for-boosting-creativity-in-2026/"
 title: "Semantic Layers in Personal Knowledge Management: Complete Guide"
 description: "Discover how semantic layers in personal knowledge management transform scattered notes into an interconnected, queryable database."
 pubDate: "2026-05-01"

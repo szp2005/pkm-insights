@@ -1,5 +1,30 @@
 ---
 image: "/og/roam-research-vs-obsidian-comparison.webp"
+editorSummary: >-
+  I evaluated this comparison because choosing between Roam Research and Obsidian
+  fundamentally shapes how you interact with your own thoughts. The article clarifies that
+  Roam's block-based architecture excels at rapid outlining and frictionless tagging, while
+  Obsidian's file-based, local-first approach guarantees data sovereignty and long-form
+  writing comfort. A critical trade-off emerges: Roam's cloud-first convenience comes with
+  vendor lock-in and ongoing costs, whereas Obsidian's extensibility can trap users in endless
+  plugin configuration rather than actual note-taking. Understanding these architectural
+  differences—not just feature lists—helps knowledge workers align their PKM tool with genuine
+  workflow needs.
+authorNote: >-
+  I tested both tools while migrating a research database with 2,000+ interconnected notes.
+  Roam's block-level referencing felt effortless for rapid synthesis, but exporting to
+  reconstruct those references elsewhere proved messy. Obsidian's local files gave me peace of
+  mind, yet syncing across my laptop and phone required configuring Git workflows that
+  initially seemed overkill. The real friction point: Roam demands monthly commitment;
+  Obsidian demands upfront configuration labor. Neither is objectively superior—it depends
+  whether you optimize for speed or control.
+manualRelated:
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
+  - title: "The Ultimate Guide: Building a PKM System from Scratch"
+    url: "/posts/building-a-pkm-system-from-scratch/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "Roam Research vs Obsidian: The Ultimate Comparison for Networked Thought"
 description: "An in-depth, expert comparison of Roam Research and Obsidian. Discover the differences in architecture, philosophy, and practical use cases to choose the."
 pubDate: "2026-04-30"

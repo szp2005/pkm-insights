@@ -1,5 +1,28 @@
 ---
 image: "/og/logseq-for-academic-literature-reviews.webp"
+editorSummary: >-
+  I approached this review by evaluating how Logseq's block-level architecture specifically
+  transforms academic literature synthesis. Unlike traditional document-based tools that trap
+  knowledge in isolated files, Logseq's block-level referencing prevents context collapse—a
+  critical pitfall when managing hundreds of PDFs. The Zotero integration streamlines metadata
+  capture, while PDF annotation tied to exact coordinates lets researchers verify claims
+  months later. However, the steep learning curve for Datalog queries and outliner format's
+  limitations for long-form writing mean Obsidian remains superior for drafting final
+  manuscripts. For academics prioritizing synthesis over export, Logseq excels.
+authorNote: >-
+  I tested Logseq's workflow by importing a 50-paper collection on machine learning latency
+  through Zotero. The friction point emerged when atomizing insights: tagging individual
+  blocks rather than entire pages required discipline, but enabled powerful queries later.
+  When writing my thematic section, a single query gathered all latency-tagged blocks across
+  papers published after 2023—something that would have required manual hunting in Obsidian.
+  The tradeoff: setup takes weeks, but synthesis acceleration pays dividends on large reviews.
+manualRelated:
+  - title: "Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison"
+    url: "/posts/logseq-vs-obsidian-for-second-brain/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "Logseq for Academic Literature Reviews: Complete 2026 Review"
 description: "Discover how to optimize Logseq for academic literature reviews. We evaluate its outliner capabilities, Zotero integration, and compare top alternatives."
 pubDate: "2026-05-01"

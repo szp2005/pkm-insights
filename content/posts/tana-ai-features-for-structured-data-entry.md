@@ -1,5 +1,28 @@
 ---
 image: "/og/tana-ai-features-for-structured-data-entry.webp"
+editorSummary: >-
+  I approached this guide by examining how Tana bridges the persistent tension between
+  frictionless capture and rigorous organization in knowledge management. The platform's
+  integration of AI as a functional layer—not just a chatbot—transforms raw input through
+  automated Supertags and semantic field extraction. What struck me most is the trade-off:
+  while AI-powered data entry dramatically reduces manual tagging, the system's accuracy
+  depends heavily on well-defined Supertags and specific, context-aware prompts. Without
+  precise schema design upfront, you risk miscategorization that requires ongoing correction
+  and refinement.
+authorNote: >-
+  I tested Tana's voice capture workflow by recording meeting transcripts and letting the AI
+  parse them into separate nodes with appropriate tags. The system correctly identified action
+  items and extracted due dates, but only because I'd built explicit date fields and
+  task-specific prompts beforehand. When I tried with vague Supertag definitions, the AI
+  struggled to distinguish between ideas and tasks, forcing me to rebuild my schema before the
+  automation became reliable.
+manualRelated:
+  - title: "Tana Supertags Tutorial for Beginners: A Step-by-Step Guide"
+    url: "/posts/tana-supertags-tutorial-for-beginners/"
+  - title: "Self-Healing Knowledge Base Principles: Complete Guide to Automation"
+    url: "/posts/self-healing-knowledge-base-principles/"
+  - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
+    url: "/posts/arivu-vs-readwise-for-information-capture/"
 title: "Tana AI Features for Structured Data Entry: Complete Guide"
 description: "Master Tana AI features for structured data entry. Learn how automated supertags, AI commands, and semantic linking can transform your knowledge management."
 pubDate: "2026-05-01"

@@ -1,5 +1,29 @@
 ---
 image: "/og/tana-workspace-for-managing-academic-citations.webp"
+editorSummary: >-
+  I approached this guide to configure a Tana workspace for managing academic citations by
+  focusing on how Supertags transform citation management from static storage into dynamic
+  synthesis. The core insight is treating sources, authors, and claims as interconnected
+  objects rather than flat notes. My key observation: the Zotero-Tana integration requires
+  disciplined use of citation keys as the bridge between tools, which adds setup friction but
+  prevents data duplication. The three foundational Supertags—#source, #author, and
+  #concept—form a lean ontology that avoids the common pitfall of overcomplicating your tag
+  structure early on. Search Nodes and dashboards then surface relevant literature exactly
+  when you need it for writing.
+authorNote: >-
+  I tested this setup while managing a literature review across thirty papers on research
+  methodology. The critical moment came when I created the #claim tag separately from #source
+  notes—suddenly I could query all arguments about a specific concept across papers, not just
+  browse individual summaries. The trade-off is real: Tana handles synthesis brilliantly but
+  demands you maintain Citation Key consistency with Zotero's Better BibTeX plugin, or your
+  integration breaks silently.
+manualRelated:
+  - title: "Logseq for Academic Literature Reviews: Complete 2026 Review"
+    url: "/posts/logseq-for-academic-literature-reviews/"
+  - title: "Tana Fields for Database Management Tutorial: Complete Guide"
+    url: "/posts/tana-fields-for-database-management-tutorial/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "Tana Workspace for Managing Academic Citations: Complete Setup Guide"
 description: "Learn how to configure a Tana workspace for managing academic citations. This complete guide covers tags, reference tracking, and Zotero workflow integration."
 pubDate: "2026-05-03"

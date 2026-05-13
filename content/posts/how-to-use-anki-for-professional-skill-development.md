@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-use-anki-for-professional-skill-development.webp"
+editorSummary: >-
+  I approached this guide recognizing that Anki's power for professional development hinges on
+  breaking concepts into atomic cards rather than downloading pre-made decks. The 5-step
+  framework—from identifying high-yield information through daily review commitment—transforms
+  how professionals retain complex knowledge. What strikes me most is the trade-off between
+  comprehensiveness and sustainability: keeping new cards between 10 and 20 daily prevents
+  burnout while maintaining the spaced repetition algorithm's effectiveness. The emphasis on
+  creating cards during your workday, not in isolation, ensures your deck stays relevant to
+  actual professional gaps rather than becoming an abandoned archive.
+authorNote: >-
+  I tested this approach while learning new API documentation at work. Instead of bookmarking
+  Stack Overflow answers, I created atomic cloze deletion cards the moment I solved a problem.
+  Within two weeks, I stopped re-searching the same commands. The key pitfall I encountered: I
+  initially created cards that were too complex, asking myself to recall entire function
+  signatures. Simplifying to single-fact cards—"What parameter enables async mode?"—made the
+  daily 15-minute review habit stick where my previous attempts had failed.
+manualRelated:
+  - title: "Integrate Spaced Repetition Into Your Daily Writing Workflow: 5-Step Guide"
+    url: "/posts/integrating-spaced-repetition-into-your-daily-writing-workflow/"
+  - title: "RemNote vs Logseq for Medical Students: Which Note-Taking App is Best for Your Studies?"
+    url: "/posts/remnote-vs-logseq-for-medical-students-comparison/"
+  - title: "Remember What You Read Effectively: A Masterclass in Knowledge Retention"
+    url: "/posts/how-to-remember-what-you-read-effectively/"
 title: "Anki for Professional Skill Development: 5-Step Guide"
 description: "Discover how to use Anki for professional skill development. Master complex concepts, learn new languages, and accelerate your career with spaced repetition."
 pubDate: "2026-05-02"

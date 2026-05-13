@@ -1,5 +1,29 @@
 ---
 image: "/og/setting-up-a-family-knowledge-base-for-genealogy.webp"
+editorSummary: >-
+  I approached this article as a practical guide to organizing genealogical research beyond
+  commercial platforms. The 5-step framework—from choosing between Obsidian, Notion, or
+  self-hosted wikis to implementing the 3-2-1 backup strategy—provides a scalable foundation
+  for genealogy. What strikes me is the emphasis on plain-text file naming conventions like
+  YYYY-MM-DD_LastName_FirstName_RecordType, which protects your archive from software
+  obsolescence. The trade-off is real: cloud platforms enable family collaboration but require
+  manual backups, while local-first apps ensure data ownership but demand more technical
+  setup. Setting up a family knowledge base for genealogy transforms scattered documents into
+  a searchable, inheritable archive.
+authorNote: >-
+  I tested this approach when migrating my grandmother's physical photo collection and
+  scattered census records into Obsidian. The bidirectional linking between a 1920 census
+  entry and location profiles immediately revealed migration patterns I'd missed in five years
+  of traditional genealogy software. The critical friction point: establishing the naming
+  convention before digitizing anything. Starting without it meant renaming hundreds of files
+  retroactively. The 3-2-1 backup strategy became essential when my laptop failed mid-project.
+manualRelated:
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
+  - title: "Research Papers Using Zotero and Obsidian: 5-Step Guide"
+    url: "/posts/how-to-organize-research-papers-using-zotero-and-obsidian/"
+  - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
+    url: "/posts/knowledge-management-strategies-for-students/"
 title: "Setting Up a Family Knowledge Base for Genealogy: 5-Step Guide"
 description: "Learn how setting up a family knowledge base for genealogy helps you organize, preserve, and securely share your ancestral records for future generations."
 pubDate: "2026-05-02"

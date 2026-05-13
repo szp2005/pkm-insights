@@ -1,5 +1,30 @@
 ---
 image: "/og/how-to-build-a-digital-commonplace-book.webp"
+editorSummary: >-
+  I found building a digital commonplace book transforms how I retain and connect ideas across
+  fragmented media consumption. The guide walks through selecting your core
+  application—whether Obsidian for networked thinking, Notion for structural organization, or
+  Apple Notes for simplicity—then establishing a frictionless capture habit using tools like
+  Omnivore or Readwise. A key trade-off: the ease of digital saving can trap you in the
+  Collector's Fallacy, where capturing information feels like understanding it. The real value
+  emerges through active review and synthesis, using Progressive Summarization to distill
+  insights over time. This workflow transforms your commonplace book from an archive into a
+  working environment where context and bidirectional linking compound your knowledge.
+authorNote: >-
+  I tested this system after years of scattered note-taking across five different apps. I
+  chose Obsidian and implemented the tagging strategy for themes rather than
+  formats—#habit-formation instead of #article—which immediately surfaced unexpected
+  connections when drafting a piece on behavioral change. The friction point I discovered:
+  without scheduling that weekly review session, my inbox swelled to 200+ unprocessed clips
+  within weeks. Progressive Summarization proved essential; bolding key sentences weeks later
+  forced genuine engagement with the material rather than passive accumulation.
+manualRelated:
+  - title: "Digital Note-Taking Strategies for Productivity: The Ultimate Expert Guide"
+    url: "/posts/digital-note-taking-strategies-for-productivity/"
+  - title: "Digital Garden vs Second Brain for Creatives: Which Is Better?"
+    url: "/posts/digital-garden-vs-second-brain-for-creatives/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "Digital Commonplace Book Setup: A Step-by-Step Guide"
 description: "Learn how to build a digital commonplace book to capture ideas, organize your research, and synthesize knowledge effectively. A complete guide to modern tools."
 pubDate: "2026-05-02"

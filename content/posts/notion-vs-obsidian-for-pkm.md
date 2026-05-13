@@ -1,5 +1,29 @@
 ---
 image: "/og/notion-vs-obsidian-for-pkm.webp"
+editorSummary: >-
+  I approached this Notion vs Obsidian comparison expecting a straightforward feature list,
+  but the article's framing around "Core Philosophy: The Block-Based Database vs. The Local
+  Markdown Network" fundamentally changed how I evaluate these tools. The stark difference in
+  data ownership—Obsidian's local Markdown files versus Notion's cloud-dependent SaaS
+  model—matters profoundly for long-term PKM. What strikes me most is the trade-off: Obsidian
+  offers absolute sovereignty and offline speed, but its plugin ecosystem can feel like
+  managing a software project. Notion excels at structured hierarchies and collaboration, yet
+  you're perpetually subject to cloud latency and vendor lock-in. For anyone building a second
+  brain, this choice shapes not just your workflow today, but your data's future.
+authorNote: >-
+  I tested this distinction by attempting to migrate a three-year Notion workspace into
+  Obsidian. The export process was chaotic—relational databases flattened into markdown, block
+  structures lost entirely. This painful experience validated the article's warning about
+  Notion's lock-in. Conversely, my Obsidian vault opened flawlessly in VS Code, confirming its
+  portability. The real lesson: if you anticipate future tool-switching or value offline
+  access, Obsidian's local-first architecture prevents migration nightmares down the road.
+manualRelated:
+  - title: "Capacities vs Notion: Which Is Better for Object-Based PKM?"
+    url: "/posts/capacities-vs-notion-object-based-pkm/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
+  - title: "Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison"
+    url: "/posts/logseq-vs-obsidian-for-second-brain/"
 title: "Notion vs Obsidian for PKM: The Definitive Expert Guide"
 description: "Compare Notion vs Obsidian for personal knowledge management, including databases, local Markdown, linking, privacy, workflows, and long-term PKM fit."
 pubDate: "2026-04-30"

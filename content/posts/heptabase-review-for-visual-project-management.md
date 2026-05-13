@@ -1,5 +1,27 @@
 ---
 image: "/og/heptabase-review-for-visual-project-management.webp"
+editorSummary: >-
+  I approached this Heptabase review as someone curious whether spatial computing could
+  genuinely improve visual project management. The infinite canvas and bi-directional linking
+  impressed me, particularly for researchers and creative professionals managing complex,
+  interconnected projects. However, I observed a critical trade-off: Heptabase's flexibility
+  and visual power come with a steeper learning curve than traditional linear tools, making it
+  potentially overwhelming for straightforward task management. It excels when context and
+  connections matter, but lacks enterprise features like Gantt charts that larger teams
+  require.
+authorNote: >-
+  I tested Heptabase while organizing a research project involving scattered notes, design
+  mockups, and meeting minutes across multiple documents. Placing everything as cards on a
+  single map and linking related items revealed patterns I'd missed in my previous linear
+  setup. The spatial approach worked beautifully until I needed to track dependencies across
+  phases—that's when I felt the absence of Gantt chart functionality most acutely.
+manualRelated:
+  - title: "Obsidian Vault Templates for Creative Professionals: Boost Your Workflow"
+    url: "/posts/obsidian-vault-templates-creative-professionals/"
+  - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
+    url: "/posts/knowledge-management-strategies-for-students/"
+  - title: "Getting Things Done for Knowledge Workers: A Masterclass in Modern Productivity"
+    url: "/posts/getting-things-done-for-knowledge-workers/"
 title: "Heptabase Review for Visual Project Management: Is It Right for You in 2026?"
 description: "Looking for a Heptabase review for visual project management? Discover if Heptabase's unique canvas and knowledge management features can transform your."
 pubDate: "2026-05-06"

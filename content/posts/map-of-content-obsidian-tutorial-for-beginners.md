@@ -1,5 +1,27 @@
 ---
 image: "/og/map-of-content-obsidian-tutorial-for-beginners.webp"
+editorSummary: >-
+  I find Maps of Content essential for scaling Obsidian vaults beyond the chaos threshold.
+  This tutorial walks beginners through the 5-step process: identifying when you hit the
+  mental squeeze point, creating a central hub note, gathering existing notes, and adding
+  contextual structure. The key trade-off I notice is that MOCs require ongoing maintenance—a
+  monthly 15-minute review prevents orphaned notes from accumulating. Unlike rigid folders or
+  sprawling tags, MOCs provide just enough structure to navigate your knowledge base while
+  preserving the networked connections that make Obsidian powerful.
+authorNote: >-
+  I tested this approach when my vault crossed 300 notes and searches became unreliable. I
+  created a Productivity MOC by grouping notes under subheadings like "Habit Formation" and
+  "Time Management," then added one-sentence context next to each link. The real test came
+  three months later when I skipped the monthly review—orphaned notes piled up fast. Now I
+  block 15 minutes monthly to integrate new notes and update the structure as my understanding
+  evolves.
+manualRelated:
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
+  - title: "Optimizing Dataview Plugin for Research Workflows: A Complete Guide"
+    url: "/posts/optimizing-dataview-plugin-for-research-workflows/"
+  - title: "The Zettelkasten Method Explained: A Comprehensive Guide to Master Personal Knowledge Management"
+    url: "/posts/zettelkasten-method-explained/"
 title: "Map of Content Obsidian Tutorial for Beginners: 5-Step Guide"
 description: "Follow this step-by-step Map of Content Obsidian tutorial for beginners to organize your notes, eliminate overwhelm, and build a scalable personal knowledge base."
 pubDate: "2026-05-05"

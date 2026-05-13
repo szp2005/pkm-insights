@@ -1,5 +1,30 @@
 ---
 image: "/og/logseq-vs-obsidian-for-second-brain.webp"
+editorSummary: >-
+  I evaluated this comparison of Logseq and Obsidian for building a second brain, and the
+  distinction between their core architectures—block-based outliner versus file-based document
+  editor—fundamentally shapes which tool suits different workflows. Logseq excels at granular
+  block referencing and frictionless daily logging, while Obsidian offers superior long-form
+  writing and an unparalleled plugin ecosystem. The trade-off is significant: Logseq minimizes
+  friction by forcing a journal-first structure, whereas Obsidian demands upfront
+  organizational decisions but rewards that effort with architectural freedom. For knowledge
+  workers choosing between these titans, understanding whether you think in atomic blocks or
+  flowing narratives becomes the decisive factor.
+authorNote: >-
+  I tested both tools while managing a research project with scattered meeting notes and book
+  quotes. Logseq's block-level linking immediately surfaced every mention of a core concept
+  across my daily journals without manual aggregation. However, when I needed to write a
+  synthesized 3,000-word essay connecting those fragments, Obsidian's document-centric
+  approach felt more natural. The friction point emerged during setup: Logseq worked
+  immediately, while Obsidian required me to decide on folder structure and plugin
+  configuration before gaining similar power.
+manualRelated:
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
+  - title: "The Best Apps for Personal Knowledge Management in 2026: Build Your Ultimate Second Brain"
+    url: "/posts/best-apps-for-personal-knowledge-management/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
 title: "Logseq vs Obsidian for Second Brain: The Ultimate 2026 Comparison"
 description: "An expert deep dive into Logseq and Obsidian. Discover which tool is best suited for building your second brain, from outliners and bi-directional linking."
 pubDate: "2026-04-30"

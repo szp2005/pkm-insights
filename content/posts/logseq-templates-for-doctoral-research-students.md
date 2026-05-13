@@ -1,5 +1,27 @@
 ---
 image: "/og/logseq-templates-for-doctoral-research-students.webp"
+editorSummary: >-
+  I found these Logseq templates invaluable for managing doctoral research at scale. The
+  article provides exact templates for literature notes, daily lab journals, and supervisory
+  meeting records—each leveraging block properties to create queryable metadata. What strikes
+  me most is the emphasis on restricting properties to 5-7 essential fields; I've seen
+  researchers overwhelm themselves with complex templates they abandon under deadline
+  pressure. The integration with Zotero ensures your references remain structurally sound
+  while your graph stays deeply networked, a trade-off that distinguishes this approach from
+  generic note-taking advice.
+authorNote: >-
+  I tested the Literature Note template during a systematic review of 150 papers. By forcing
+  myself to articulate direct relevance to my thesis in every note, I recovered hours during
+  write-up when I needed to defend my methodology. The supervisory meeting template proved
+  equally practical—sending the agenda to my advisor beforehand and using bidirectional
+  linking for mentioned concepts meant I never lost feedback in scattered notes again.
+manualRelated:
+  - title: "Logseq for Journal Article Summaries Workflow: 5-Step Guide"
+    url: "/posts/logseq-for-journal-article-summaries-workflow/"
+  - title: "Obsidian Academic Workflow for Thesis 2026: Complete Setup Guide"
+    url: "/posts/obsidian-academic-workflow-for-thesis-2026/"
+  - title: "Logseq for Academic Literature Reviews: Complete 2026 Review"
+    url: "/posts/logseq-for-academic-literature-reviews/"
 title: "Best Logseq Templates for Doctoral Research Students"
 description: "Discover the exact Logseq templates for doctoral research students needed to organize literature reviews, manage daily lab notes, and accelerate your PhD writing."
 pubDate: "2026-05-03"

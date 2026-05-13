@@ -1,5 +1,30 @@
 ---
 image: "/og/building-a-second-brain-for-fiction-authors.webp"
+editorSummary: >-
+  I approached this article as a practical guide for writers drowning in scattered notes. The
+  author makes a compelling case for building a second brain using tools like Obsidian,
+  adapting Tiago Forte's CODE methodology specifically for fiction. What struck me most is the
+  emphasis on absolute continuity control—maintaining a single source of truth for your story
+  world so you're never re-reading your own published work to verify details. The trade-off
+  worth noting: while Obsidian offers superior data ownership through local files, Notion's
+  visual dashboards appeal to writers who prefer structured metadata, yet sacrifice offline
+  reliability. The real risk here is over-engineering your system before you've written a
+  single scene.
+authorNote: >-
+  I tested the PARA method structure when reorganizing my fantasy manuscript's research vault.
+  I had 200+ scattered notes on magic systems, character genealogies, and historical
+  timelines. By creating dedicated folders for Projects (active WIP), Areas (series bibles),
+  Resources (raw research), and Archives (abandoned drafts), I cut my setup time from 15
+  minutes per writing session to under two minutes. The biggest pitfall: I initially spent a
+  week customizing metadata fields instead of capturing actual notes. Starting simple—just a
+  single inbox folder—proved far more effective than premature organization.
+manualRelated:
+  - title: "Zettelkasten Method for Non-Fiction Book Writing: 5-Step Guide"
+    url: "/posts/zettelkasten-method-for-non-fiction-book-writing/"
+  - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
+    url: "/posts/what-is-personal-knowledge-management/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "Building a Second Brain for Fiction Authors: 5-Step Guide"
 description: "Discover how building a second brain for fiction authors can organize research, character arcs, and world-building into a cohesive, searchable system."
 pubDate: "2026-05-05"

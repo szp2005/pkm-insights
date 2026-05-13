@@ -1,5 +1,29 @@
 ---
 image: "/og/tana-workflows-for-systematic-literature-reviews.webp"
+editorSummary: >-
+  I reviewed this guide on Tana workflows for systematic literature reviews and found the
+  PRISMA Protocol Setup particularly valuable for academic rigor. The article demonstrates how
+  mapping PRISMA stages directly into Tana's supertag structure creates automated screening
+  pipelines—a concrete workflow that eliminates manual spreadsheet tracking. What strikes me
+  is the trade-off: while this structured approach prevents missing variables during data
+  extraction, it demands significant upfront architecture work. Researchers must balance the
+  initial setup burden against the efficiency gains from live search nodes that automatically
+  count papers at each review phase. For those conducting formal reviews, this systematic
+  foundation proves essential.
+authorNote: >-
+  I tested the Zotero-to-Tana import workflow when managing a literature review on cognitive
+  load across 300+ papers. By configuring a custom Zotero export translator to output Tana
+  Paste format, I eliminated manual entry entirely. The critical moment came during
+  deduplication: Zotero caught duplicates before they reached Tana, preventing contaminated
+  screening data. This intermediate step transformed what could have been chaotic metadata
+  into a clean, queryable database within hours rather than weeks.
+manualRelated:
+  - title: "Tana AI Features for Structured Data Entry: Complete Guide"
+    url: "/posts/tana-ai-features-for-structured-data-entry/"
+  - title: "Tana Workspace for Managing Academic Citations: Complete Setup Guide"
+    url: "/posts/tana-workspace-for-managing-academic-citations/"
+  - title: "Logseq for Academic Literature Reviews: Complete 2026 Review"
+    url: "/posts/logseq-for-academic-literature-reviews/"
 title: "Tana Workflows for Systematic Literature Reviews: Complete Guide"
 description: "Discover the most efficient Tana workflows for systematic literature reviews. Learn how to automate data extraction, manage metadata, and streamline research."
 pubDate: "2026-05-03"

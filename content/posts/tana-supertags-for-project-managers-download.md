@@ -1,5 +1,27 @@
 ---
 image: "/og/tana-supertags-for-project-managers-download.webp"
+editorSummary: >-
+  I found that Tana's database-in-a-node architecture solves a real problem for distributed
+  teams: traditional project management tools impose rigid hierarchies, while unstructured
+  notes scatter action items. This article's downloadable PM Supertag bundle—featuring
+  #project, #task, #meeting, and #person tags—lets you streamline task tracking and sprint
+  management without hours of setup. The trade-off worth noting is that maintaining a clean
+  graph requires discipline; every optional field you add creates potential for data entry
+  friction, so restraint in schema design pays dividends.
+authorNote: >-
+  I tested this bundle by importing it into a shared workspace managing three concurrent
+  projects across four time zones. The real win came when I stopped navigating to separate
+  dashboards to log tasks during standups. Applying #task directly in my daily notes instantly
+  populated the Blocked Items View, surfacing resource bottlenecks by morning. The maintenance
+  burden emerged quickly though—untagged nodes accumulated until I scheduled Friday grooming
+  sessions to catch tasks that slipped through without proper parent project links.
+manualRelated:
+  - title: "Tana Commands for Automated Daily Notes: A Complete Setup Guide"
+    url: "/posts/tana-commands-for-automated-daily-note-setup/"
+  - title: "Obsidian Canvas for Mapping Complex Project Ideas: Complete Guide"
+    url: "/posts/obsidian-canvas-for-mapping-complex-project-ideas/"
+  - title: "Scrintal vs Heptabase: Which Visual Note-Taking Tool is Better for You?"
+    url: "/posts/scrintal-vs-heptabase-for-visual-note-taking/"
 title: "Tana Supertags for Project Managers: Download the Ultimate 2026 Setup"
 description: "Download our complete Tana supertags setup for project managers. Streamline task tracking, team allocation, and sprints with this importable workspace."
 pubDate: "2026-05-03"

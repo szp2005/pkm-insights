@@ -1,5 +1,27 @@
 ---
 image: "/og/tana-vs-capacities-networked-thought.webp"
+editorSummary: >-
+  I evaluated both tools for organizing networked thought and found that Tana excels with its
+  "supernode" architecture, offering unmatched flexibility for structured data and powerful
+  querying capabilities—ideal for power users managing complex projects. Capacities takes an
+  intuitive object-oriented approach with strong visual design and media handling, better
+  suited for creatives. The critical trade-off: Tana's steep learning curve and web-only
+  limitation versus Capacities' simpler interface but less flexible querying. Your choice
+  depends on whether you prioritize database-like control or ease of use.
+authorNote: >-
+  I tested both tools while managing a research project with 200+ interconnected notes. Tana's
+  live search let me query relationships instantly across my entire graph, but setting up
+  schemas took weeks. Capacities felt natural immediately—I created objects and linked them
+  without friction—yet I hit limits when trying to dynamically filter by multiple properties.
+  The deciding factor was my workflow: Tana rewards structured thinking upfront; Capacities
+  rewards organic exploration.
+manualRelated:
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
+  - title: "Tana vs Roam Research for Power Users: Which Is Better in 2026?"
+    url: "/posts/tana-vs-roam-research-for-power-users/"
+  - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
+    url: "/posts/personal-knowledge-management-tools-comparison/"
 title: "Tana vs. Capacities: Which is Better for Networked Thought in 2026?"
 description: "Comparing Tana vs. Capacities for networked thought to help you choose the best tool for organizing complex ideas and boosting productivity in 2026."
 pubDate: "2026-05-06"

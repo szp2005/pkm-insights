@@ -1,5 +1,30 @@
 ---
 image: "/og/linking-your-thinking-vs-building-a-second-brain.webp"
+editorSummary: >-
+  I approached this comparison of Linking Your Thinking vs Building a Second Brain as two
+  fundamentally different knowledge management philosophies. BASB's PARA method excels for
+  goal-oriented professionals managing deliverables, while LYT's Maps of Content suit writers
+  and researchers cultivating original thought. The critical trade-off: BASB's rigid folder
+  hierarchies speed up capture but isolate related knowledge, whereas LYT's bottom-up linking
+  requires sustained cognitive effort upfront. My key observation is that choosing the wrong
+  system doesn't just waste time—it creates persistent friction that leads to abandoned
+  note-taking apps. Understanding your primary outcome—execution versus
+  sense-making—determines which framework actually serves your workflow.
+authorNote: >-
+  I tested this distinction when switching from Notion-based PARA to Obsidian with MOCs. A
+  psychology note I'd filed under "Marketing Resources" never surfaced for my personal essay
+  on relationships. With bidirectional linking, that same note now connects across three
+  different contexts simultaneously. The friction point: LYT demands you rewrite concepts in
+  your own words rather than clipping highlights, which feels slower initially but prevents
+  the common pitfall of accumulating unread, unprocessed highlights that never inform actual
+  work.
+manualRelated:
+  - title: "Knowledge Management Strategies for Students: A Comprehensive Guide to Academic Excellence"
+    url: "/posts/knowledge-management-strategies-for-students/"
+  - title: "Structural vs Organic Note Taking Methodologies: Which is Better for You?"
+    url: "/posts/structural-vs-organic-note-taking-methodologies/"
+  - title: "Progressive Summarization Workflow for Deep Research Papers: 5-Step Guide"
+    url: "/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "Linking Your Thinking vs Building a Second Brain: Which Is Better for You?"
 description: "Compare Linking Your Thinking (LYT) vs Building a Second Brain (BASB) to find the right personal knowledge management system for your workflow and goals."
 pubDate: "2026-05-05"
