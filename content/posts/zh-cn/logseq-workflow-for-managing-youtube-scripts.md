@@ -1,8 +1,3 @@
-Okay, I will translate the Markdown article into Simplified Chinese, adhering to all your requirements, including preserving frontmatter structure, translating specified fields, maintaining Markdown formatting, avoiding technical term translation, and remapping internal links.
-
-Here's the translated article:
-
-```markdown
 ---
 image: "/og/logseq-workflow-for-managing-youtube-scripts.webp"
 editorSummary: >-
@@ -268,4 +263,3 @@ Logseq 主要是一个基于文本的大纲工具，专注于内容和结构而�
 
 - [Logseq 高效专注深度工作主题：优化你的工作流](/zh-cn/posts/logseq-theme-for-high-focus-deep-work/)
 - [Logseq 中复杂研究项目的结构化：完整指南](/zh-cn/posts/structuring-complex-research-projects-in-logseq/)
-```

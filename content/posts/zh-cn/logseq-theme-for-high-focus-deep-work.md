@@ -1,5 +1,3 @@
-I will translate the Markdown article from English to Simplified Chinese (zh-cn) following all the specified requirements. This involves carefully translating specific fields in the frontmatter, preserving its structure, translating the main body while maintaining Markdown formatting, remapping internal links, and avoiding translation of technical terms.
-```markdown
 ---
 image: "/og/logseq-theme-for-high-focus-deep-work.webp"
 editorSummary: >-
@@ -78,4 +76,3 @@ Logseq 界面的视觉美学和功能布局对您保持专注的能力起着重�
 ## 相关阅读
 
 - [Logseq 管理 YouTube 脚本的工作流：创作者指南](/zh-cn/posts/logseq-workflow-for-managing-youtube-scripts/)
-```

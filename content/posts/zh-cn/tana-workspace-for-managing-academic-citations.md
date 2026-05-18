@@ -1,5 +1,3 @@
-Okay, I will translate the provided Markdown article from English to Simplified Chinese, adhering to all specified requirements. This includes preserving the frontmatter structure, translating only the 'title' and 'description' values, translating the main body content while maintaining Markdown formatting, avoiding translation of technical terms/product names, remapping internal links, and returning only the translated Markdown.
-```markdown
 ---
 image: "/og/tana-workspace-for-managing-academic-citations.webp"
 editorSummary: >-

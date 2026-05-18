@@ -1,5 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese. My plan involves preserving the exact frontmatter structure and keys, translating only the 'title' and 'description' values within the frontmatter, and translating the main body content while maintaining all Markdown formatting. I will ensure that technical terms and product names remain untranslated and all internal links are remapped from `/posts/slug` to `/zh-cn/posts/slug`. The final output will be the translated Markdown content only.
-```markdown
 ---
 image: "/og/notion-vs-obsidian-for-pkm.webp"
 editorSummary: >-
@@ -164,4 +162,3 @@ Notion是协作无可争议的赢家。它从头开始就为实时共同编辑�
 - [如何高效整理数字文件：终极专家指南](/zh-cn/posts/how-to-organize-digital-files-efficiently/)
 - [Logseq vs Obsidian：终极2026年第二大脑对比](/zh-cn/posts/logseq-vs-obsidian-for-second-brain/)
 - [PARA方法论：数字组织综合专家指南](/zh-cn/posts/para-method-for-digital-organization/)
-```

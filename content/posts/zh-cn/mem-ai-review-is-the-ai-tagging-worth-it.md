@@ -1,7 +1,3 @@
-The user wants me to translate a Markdown article from English to Simplified Chinese (zh-cn). I need to ensure the frontmatter structure and keys are preserved exactly, only translating the `title` and `description` values. All internal links from `/posts/slug` must be remapped to `/zh-cn/posts/slug`. I also need to translate the main body content while preserving Markdown formatting and avoiding translation of technical terms or product names.
-
-Here's the translated article:
-```markdown
 ---
 image: "/og/mem-ai-review-is-the-ai-tagging-worth-it.webp"
 editorSummary: >-
@@ -169,4 +165,3 @@ Mem 提供 Mem X for Teams，允许团队共享一个集体知识库。AI 可以
 
 - [Anytype vs Obsidian: Best Local-First Knowledge Management?](/zh-cn/posts/anytype-vs-obsidian-local-first-privacy-lovers/)
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
-```

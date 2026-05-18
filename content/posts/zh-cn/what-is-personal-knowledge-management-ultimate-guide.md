@@ -1,5 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese (zh-cn), ensuring all specified requirements are met, including preserving frontmatter structure, translating only specified fields, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links.
-```markdown
 ---
 image: "/og/what-is-personal-knowledge-management-ultimate-guide.webp"
 editorSummary: >-
@@ -171,4 +169,3 @@ PARA 非常有效，因为它适用于任何平台。您可以在 [笔记](/zh-c
 
 - [Arivu 与 Readwise 的信息捕获对比：哪个更好？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
 - [2026年个人知识管理最佳应用程序：构建您的终极第二大脑](/zh-cn/posts/best-apps-for-personal-knowledge-management/)
-```

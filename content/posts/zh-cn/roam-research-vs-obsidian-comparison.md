@@ -1,19 +1,3 @@
-I will translate the provided Markdown article into Simplified Chinese (zh-cn) while strictly adhering to all formatting and linking requirements. My plan is as follows:
-
-1.  Extract and translate the `title` and `description` fields within the frontmatter.
-2.  Translate the `editorSummary` and `authorNote` fields within the frontmatter.
-3.  Translate the main body of the article content.
-4.  Translate the "Frequently Asked Questions" section, including its questions and answers.
-5.  Translate the "Related Reading" section, including the titles of the linked articles.
-6.  Remap all internal links from `/posts/slug` to `/zh-cn/posts/slug` throughout the entire document.
-7.  Ensure all Markdown formatting is preserved and technical terms/product names remain untranslated.
-8.  Return only the translated Markdown content.
-Okay, I'll translate the frontmatter fields now.
-I've translated the `title`, `description`, `editorSummary`, `authorNote`, and `manualRelated` titles in the frontmatter, and updated `manualRelated` URLs with `/zh-cn/`. Now, I'll update the `write_todos`.
-Okay, I'm translating the article body now. I'll go section by section, focusing on text, Markdown, and link remapping.
-I've finished translating the article, FAQs, and Related Reading, remapping all internal links and preserving Markdown. Now I'll update the `write_todos` and output the final translated Markdown.
-Translation and remapping are done. Now, for the final translated Markdown output.
-```markdown
 ---
 image: "/og/roam-research-vs-obsidian-comparison.webp"
 editorSummary: >-
@@ -200,4 +184,3 @@ Roam Research 与 Obsidian 最适合那些希望在不增加不必要复杂性�
 - [个人知识管理工具比较：寻找你的终极第二大脑](/zh-cn/posts/personal-knowledge-management-tools-comparison/)
 - [终极指南：从零开始构建PKM系统](/zh-cn/posts/building-a-pkm-system-from-scratch/)
 - [Notion vs Obsidian for PKM：权威专家指南](/zh-cn/posts/notion-vs-obsidian-for-pkm/)
-```

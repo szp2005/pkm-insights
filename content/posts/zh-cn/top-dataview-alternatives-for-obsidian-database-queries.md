@@ -1,5 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese, ensuring all strict requirements are met, including preserving the YAML frontmatter structure and keys, translating specific fields, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links.
-```markdown
 ---
 image: "/og/top-dataview-alternatives-obsidian-database-queries.webp"
 evidenceImage:
@@ -199,4 +197,3 @@ Dataview仍然受到社区的大力支持和积极使用。然而，开发者对
 ## 相关阅读
 
 - [Zotero vs Mendeley：2026年Obsidian集成对比](/zh-cn/posts/zotero-vs-mendeley-for-obsidian-integration-comparison/)
-```

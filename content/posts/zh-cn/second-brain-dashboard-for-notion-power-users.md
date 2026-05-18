@@ -1,6 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese (zh-cn), ensuring to preserve the Frontmatter structure and keys, translate the 'title' and 'description' values, translate the main body content while keeping all Markdown formatting, avoid translating technical terms or product names, and remap all internal links from '/posts/slug' to '/zh-cn/posts/slug'. Finally, I will return only the translated Markdown content.
-I will now perform the translation of the article content, including the frontmatter, and then remap the internal links as per the instructions.
-```markdown
 ---
 image: "/og/second-brain-dashboard-for-notion-power-users.webp"
 editorSummary: >-

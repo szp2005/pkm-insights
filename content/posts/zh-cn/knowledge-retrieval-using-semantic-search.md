@@ -1,5 +1,3 @@
-I will translate the provided Markdown article into Simplified Chinese (zh-cn), ensuring all specified requirements are met, including preserving frontmatter structure, translating only designated fields, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links.
-```markdown
 ---
 image: "/og/knowledge-retrieval-using-semantic-search.webp"
 editorSummary: >-
@@ -196,4 +194,3 @@ type: "informational"
 
 - [如何记笔记：综合摘要与实用指南](/zh-cn/posts/how-to-take-smart-notes-summary/)
 - [如何构建第二大脑：个人知识管理终极指南](/zh-cn/posts/how-to-build-a-second-brain/)
-```

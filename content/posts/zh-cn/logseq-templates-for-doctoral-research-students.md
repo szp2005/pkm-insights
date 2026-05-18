@@ -1,26 +1,3 @@
-The user wants to translate a Markdown article from English to Simplified Chinese, preserving formatting, specific terms, and frontmatter structure, while remapping internal links. I will extract the frontmatter, translate the required fields, translate the body content carefully to meet all requirements, and then reassemble the article.
-
-Current Date and Time: 2026年5月16日星期六
-
-I will start by outlining the specific tasks in a todo list.
-Okay, I have successfully separated the frontmatter from the main body of the article.
-I have translated the `title` and `description` fields in the frontmatter and remapped the URLs in `manualRelated`. Now I will update the todo list.
-I have translated the main body content, preserving Markdown formatting, technical terms, and remapping internal links. I will now update the todo list.
-I have finished combining the translated frontmatter and body content. I will now update the todo list to mark the task as complete.
-Current Date and Time: 2026年5月16日星期六
-
-I have successfully translated the Markdown article from English to Simplified Chinese (zh-cn) following all the strict requirements.
-
-The translation includes:
-- Preservation of the Frontmatter (YAML) structure and keys.
-- Translation of the 'title' and 'description' values in the frontmatter.
-- Translation of the main body content while keeping all Markdown formatting.
-- Non-translation of technical terms or product names.
-- Remapping of all internal links from '/posts/slug' to '/zh-cn/posts/slug'.
-
-The final translated Markdown article is as follows:
-
-```markdown
 ---
 image: "/og/logseq-templates-for-doctoral-research-students.webp"
 editorSummary: >-
@@ -257,4 +234,3 @@ Logseq 的 settings 中内置了 native Zotero integration。转到 Settings > F
 
 <h3> 如果我的 Logseq graph 变得太大怎么办？ </h3>
 因为 Logseq 将所有内容存储为 plain text markdown files 在您的 local hard drive 上，所以它可以处理数千个 files，同时 performance degradation 最小。然而，cluttered graph 可能会在概念上变得 overwhelming。为防止这种情况，严格遵守您的 template properties 并使用 namespaces (例如，创建名为 `Literature/Smith2023` 而不是仅仅是 `Smith2023` 的 pages) 来在您的 multi-year program 中随着 database 的 scales 自然地 segment 您的 database。
-```

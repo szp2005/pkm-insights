@@ -1,6 +1,3 @@
-I will translate the Markdown article following all the strict requirements, including preserving the frontmatter structure, translating specific fields, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links. I will use `web_fetch` to get the translations for the `editorSummary`, `authorNote`, `manualRelated` titles, `title`, and `description` from an LLM. Then, I will process the main body of the article, translating the content and remapping internal links.
-I made an error using `web_fetch` for translation. I will now perform the translations myself. I will start by translating the frontmatter values and summary sections, then proceed to the main body, ensuring all requirements are met.
-```markdown
 ---
 image: "/og/personal-knowledge-asset-management-2026.webp"
 editorSummary: >-
@@ -134,4 +131,3 @@ type: "informational"
 
 - [Arivu与Readwise信息捕获对比：哪个更好？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
 - [2026年个人知识管理最佳应用：构建你的终极第二大脑](/zh-cn/posts/best-apps-for-personal-knowledge-management/)
-```

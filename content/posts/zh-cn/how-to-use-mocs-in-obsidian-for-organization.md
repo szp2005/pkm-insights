@@ -1,10 +1,3 @@
-Mocs in Obsidian for Organization: 5-Step Guide
-
-```
-MOCs in Obsidian for Organization: 5-Step Guide
-```
-My plan is to translate the provided Markdown article into Simplified Chinese. I will ensure all the strict requirements are met, especially preserving the frontmatter structure, translating specific fields, remapping internal links, and avoiding translation of technical terms. I will proceed section by section to ensure accuracy and adherence to the guidelines.
-```markdown
 ---
 image: "/og/how-to-use-mocs-in-obsidian-for-organization.webp"
 editorSummary: >-
@@ -218,4 +211,3 @@ MOC 代表 Map of Content。它是 Nick Milo 在 PKM 社区中普及的一个概
 
 - [Arivu 与 Readwise 的信息捕获比较：哪个更好？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
 - [2026 年最佳个人知识管理应用程序：构建你的终极第二大脑](/zh-cn/posts/best-apps-for-personal-knowledge-management/)
-```

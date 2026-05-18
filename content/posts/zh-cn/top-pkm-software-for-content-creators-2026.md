@@ -1,8 +1,3 @@
-I have corrected my mistake. The article content was provided directly in the prompt, not in a file. I will now proceed with the translation as per the initial plan.
-
-Here's the translated content:
-
-```markdown
 ---
 image: "/og/top-pkm-software-for-content-creators-2026.webp"
 editorSummary: >-

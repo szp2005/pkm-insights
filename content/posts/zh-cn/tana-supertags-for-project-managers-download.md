@@ -1,7 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese (zh-cn) by following all the strict requirements.
-
-Here's the translated article:
-```markdown
 ---
 image: "/og/tana-supertags-for-project-managers-download.webp"
 editorSummary: >-
@@ -169,4 +165,3 @@ Tana 允许您将数据结构导出为 JSON 或 clean Markdown。如果您需要
 
 ### 此设置是否支持 Gantt charts？
 截至 2026 年，Tana 的 native visualizations 专注于 lists、tables 和 Kanban boards。虽然您无法在 Tana 中直接生成 native Gantt chart，但您可以通过 API 将带有开始日期和截止日期的标记的 `#task` 数据导出到专用可视化工具。
-```

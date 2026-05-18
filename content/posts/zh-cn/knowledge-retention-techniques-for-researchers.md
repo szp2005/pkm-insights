@@ -1,4 +1,3 @@
-The user wants to translate a Markdown article into Simplified Chinese. I will focus on translating the 'title' and 'description' in the frontmatter, then systematically translate the main body```markdown
 ---
 image: "/og/knowledge-retention-techniques-for-researchers.webp"
 editorSummary: >-
@@ -149,4 +148,3 @@ type: "informational"
 
 - [Arivu vs Readwise for Information Capture: 哪个更好？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
 - [2026年个人知识管理最佳应用：构建你的终极第二大脑](/zh-cn/posts/best-apps-for-personal-knowledge-management/)
-```

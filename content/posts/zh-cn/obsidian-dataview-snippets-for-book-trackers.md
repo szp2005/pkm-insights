@@ -1,7 +1,3 @@
-The translation of the Markdown article from English to Simplified Chinese is complete.
-The file `translated_obsidian_dataview_snippets_for_book_trackers.md` now contains the translated content with all specified requirements met.
-
-```markdown
 ---
 image: "/og/obsidian-dataview-snippets-for-book-trackers.webp"
 editorSummary: >-
@@ -408,4 +404,3 @@ Dataview 是一个 Obsidian 插件，可以将您的笔记转换为可查询的�
 - [2026 年最佳 Obsidian Dataview 学术研究模板](/zh-cn/posts/obsidian-dataview-templates-academic-researchers-2026/)
 
 - [Tana 命令自动化每日笔记：完整设置指南](/zh-cn/posts/tana-commands-for-automated-daily-note-setup/)
-```

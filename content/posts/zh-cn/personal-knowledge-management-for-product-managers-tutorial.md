@@ -1,5 +1,3 @@
-I will now translate the provided Markdown article following all the specified requirements. This involves carefully translating the `title` and `description` in the frontmatter, preserving the YAML structure, translating the main body while maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links.
-```markdown
 ---
 image: "/og/personal-knowledge-management-for-product-managers-tutorial.webp"
 editorSummary: >-

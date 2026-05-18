@@ -1,11 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese, adhering to all specified requirements including preserving frontmatter structure, translating specific fields, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links.
-Successfully extracted the frontmatter and body content.
-Translated the `title` and `description` fields in the frontmatter.
-I have completed the translation of the main body content, ensuring that Markdown formatting is preserved, technical terms are not translated, and all internal links are remapped to `/zh-cn/posts/slug`.
-All translation and link remapping tasks are complete. I am now combining the translated frontmatter and body content.
-The translated Markdown article is as follows:
-
-```markdown
 ---
 image: "/og/logseq-for-journal-article-summaries-workflow.webp"
 editorSummary: >-
@@ -171,4 +163,3 @@ Logseq 不是参考文献管理器，不应被用于格式化您的最终参考�
 - [RemNote 与 Logseq：哪款笔记应用最适合医学生学习？](/zh-cn/posts/remnote-vs-logseq-for-medical-students-comparison/)
 
 - [2026 年提高科研效率的最佳 Logseq 插件](/zh-cn/posts/logseq-plugins-for-scientific-research-efficiency/)
-```

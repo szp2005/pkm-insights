@@ -1,11 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese (zh-cn).
-
-My plan is to:
-1.  **Extract Frontmatter**: Separate the YAML frontmatter from the article body.
-2.  **Translate Frontmatter**: Translate the 'title' and 'description' fields within the frontmatter while preserving its structure and other keys.
-3.  **Translate Body Content**: Translate the main body of the article, ensuring all Markdown formatting is maintained, technical terms and product names (e.g., 'Obsidian', 'n8n', 'Git') are not translated, and all internal links are remapped from `/posts/slug` to `/zh-cn/posts/slug`.
-4.  **Reconstruct Article**: Combine the translated frontmatter and body content to produce the final translated Markdown.
-```markdown
 ---
 image: "/og/second-brain-for-boosting-creativity-in-2026.webp"
 editorSummary: >-
@@ -192,4 +184,3 @@ type: "informational"
 
 - [Arivu与Readwise：信息捕获哪个更好？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
 - [2026年最佳个人知识管理应用程序：构建您的终极第二大脑](/zh-cn/posts/best-apps-for-personal-knowledge-management/)
-```

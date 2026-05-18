@@ -1,8 +1,3 @@
-Okay, I will translate the provided Markdown article from English to Simplified Chinese (zh-cn) while strictly adhering to all your specified requirements. I will focus on preserving the exact frontmatter structure, translating only the `title` and `description` fields, maintaining all Markdown formatting in the body, leaving technical terms untranslated, and remapping internal links to include `/zh-cn/`.
-I have completed the translation process, adhering to all the specified requirements. I've translated the frontmatter's `title`, `description`, `editorSummary`, and `authorNote`, remapped all internal links to `/zh-cn/posts/slug`, and translated the main body, FAQ, and related reading sections while preserving Markdown formatting and leaving technical terms untranslated.
-
-Here is the translated Markdown content:
-```markdown
 ---
 image: "/og/pkm-for-adhd-organization-strategies-neurodiversity.webp"
 editorSummary: >-
@@ -139,4 +134,3 @@ Instead of topical tags (like `#marketing` or `#coding`), use status or context 
 
 - [提高生产力的数字笔记策略：终极专家指南](/zh-cn/posts/digital-note-taking-strategies-for-productivity/)
 - [PKM 中避免收藏家谬误：五步指南](/zh-cn/posts/how-to-avoid-the-collectors-fallacy-in-pkm/)
-```
