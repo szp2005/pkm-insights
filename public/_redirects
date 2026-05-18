@@ -1,1 +1,30 @@
+# Retire URLs exposed by earlier blanket hreflang generation.
+/404 / 301
+/404/ / 301
+/zh-cn/404 / 301
+/zh-cn/404/ / 301
+/zh-cn/search /search/ 301
+/zh-cn/search/ /search/ 301
+/zh-cn/terms /terms/ 301
+/zh-cn/terms/ /terms/ 301
+/zh-cn/affiliate-disclosure /affiliate-disclosure/ 301
+/zh-cn/affiliate-disclosure/ /affiliate-disclosure/ 301
+/zh-cn/editorial-policy /editorial-policy/ 301
+/zh-cn/editorial-policy/ /editorial-policy/ 301
+/zh-cn/tags /tags/ 301
+/zh-cn/tags/ /tags/ 301
+/zh-cn/tags/* /tags/:splat 301
+/zh-cn/author /author/ 301
+/zh-cn/author/ /author/ 301
+/zh-cn/author/* /author/:splat 301
+
+# Retire a few stale internal URLs that were already discoverable.
+/zh-cn/posts/best-e-ink-tablts-for-handwritten-digital-notes-2026/ /zh-cn/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/ 301
+/zh-cn/posts/best-e-ink-tabl-ets-for-handwritten-digital-notes-2026/ /zh-cn/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/ 301
+/zh-cn/posts/best-e-ink-tablests-for-handwritten-digital-notes-2026/ /zh-cn/posts/best-e-ink-tablets-for-handwritten-digital-notes-2026/ 301
+/zh-cn/posts/best-obsidian-plugins-for-creative-professional-2026/ /zh-cn/posts/best-obsidian-plugins-for-creative-professionals-2026/ 301
+/posts/how-to-remember-what-to-read-effectively/ /posts/how-to-remember-what-you-read-effectively/ 301
+/zh-cn/posts/how-to-remember-what-to-read-effectively/ /zh-cn/posts/how-to-remember-what-you-read-effectively/ 301
+/zh-cn/posts/anytype-vs-obsidian-local-first-privacy-lovers/ /zh-cn/posts/anytype-vs-obsidian-local-first-knowledge-management/ 301
+
 # Cloudflare Pages serves /404.html automatically for missing static routes.
