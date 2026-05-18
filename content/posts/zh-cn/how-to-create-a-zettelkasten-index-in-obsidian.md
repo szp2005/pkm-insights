@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/how-to-create-a-zettelkasten-index-in-obsidian.webp"
 evidenceImage:
   src: "/media/adsense-phase2/sticky-workflow.jpg"

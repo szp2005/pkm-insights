@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:45:46+08:00
 image: "/og/top-obsidian-themes-for-focused-academic-writing.webp"
 editorSummary: >-
   Themes focused on academic writing require careful attention to minimalism and reduced

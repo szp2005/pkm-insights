@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:55:04-07:00
 image: "/og/personal-information-management-system-setup.webp"
 editorSummary: >-
   Personal Information Management System setup demands a methodical four-phase approach:

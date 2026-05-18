@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:37:45+08:00
 image: "/og/personal-knowledge-management-for-product-managers-tutorial.webp"
 editorSummary: >-
   Management Product Managers Tutorial frameworks like the PARA method transform how PMs

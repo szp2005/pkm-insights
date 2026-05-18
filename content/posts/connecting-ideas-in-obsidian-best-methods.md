@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T23:51:11+08:00
 image: "/og/connecting-ideas-in-obsidian-best-methods.webp"
 editorSummary: >-
   Connecting Ideas in Obsidian Methods reveals a fundamental tension: bidirectional wikilinks

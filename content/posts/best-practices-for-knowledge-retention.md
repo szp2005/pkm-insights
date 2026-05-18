@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:53:46-07:00
 image: "/og/best-practices-for-knowledge-retention.webp"
 editorSummary: >-
   Practices Knowledge Retention through spaced repetition and active recall—two evidence-based

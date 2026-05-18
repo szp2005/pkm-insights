@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:11:00-07:00
 image: "/og/how-to-remember-what-you-read-effectively.webp"
 editorSummary: >-
   What You Read Effectively hinges on understanding the Ebbinghaus Forgetting Curve and the

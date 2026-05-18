@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tana-workspace-for-managing-academic-citations.webp"
 editorSummary: >-
   Workspace Managing Academic Citations relies on configuring Tana's Supertags—#source,

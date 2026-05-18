@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T18:04:02-07:00
 image: "/og/tiago-forte-building-a-second-brain-review.webp"
 editorSummary: >-
   Tiago Forte Building Second Brain methodology addresses cognitive overload through the CODE

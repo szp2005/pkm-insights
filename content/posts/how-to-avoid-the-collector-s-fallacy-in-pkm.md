@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:03:03+08:00
 image: "/og/how-to-avoid-the-collectors-fallacy-in-pkm.webp"
 editorSummary: >-
   Avoid Collectors Fallacy Pkm by shifting focus from capturing information to processing it—a

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T19:57:40+08:00
 image: "/og/citation-management-software-for-zettelkasten-systems.webp"
 editorSummary: >-
   Management Software Zettelkasten Systems hinges on a critical disconnect: standard citation

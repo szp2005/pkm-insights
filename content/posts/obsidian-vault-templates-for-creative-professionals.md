@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:22:43+08:00
 image: "/og/obsidian-vault-templates-creative-professionals.webp"
 editorSummary: >-
   Vault Templates Creative Professionals streamline workflows by pre-defining note structures

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:26+08:00
 image: "/og/best-markdown-editors-for-academic-research-writing.webp"
 title: "2026年适合学术研究写作的最佳Markdown编辑器"
 description: "探索适合学术研究写作的最佳Markdown编辑器。比较其功能、引文支持和导出选项，以简化您的学术工作流。"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:05:33-07:00
 image: "/og/what-is-personal-knowledge-management.webp"
 editorSummary: >-
   What Personal Knowledge Management systems offer is a structured approach to capturing and

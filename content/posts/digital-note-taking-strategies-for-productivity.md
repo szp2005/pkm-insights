@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:17:29-07:00
 image: "/og/digital-note-taking-strategies-for-productivity.webp"
 editorSummary: >-
   Note Taking Strategies Productivity demands mastering the PARA method and progressive

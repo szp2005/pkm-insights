@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/supernotes-vs-obsidian-for-collaborative-knowledge-sharing.webp"
 editorSummary: >-
   Obsidian 协作知识共享需要在实时同步和数据主权之间进行权衡。我评估了两个平台的核心架构——Supernotes 的卡片式云模型与 Obsidian 的本地优先 Markdown 方法——发现设置复杂性和维护揭示了根本区别。Supernotes 提供无摩擦、即时的多人编辑，无需管理开销，非常适合多样化的团队。Obsidian 需要深思熟虑的基础设施选择：Sync 用于加密异步工作流，或者 Git 用于管理大型文档系统的技术团队。这里的关键矛盾在于，Obsidian 无与伦比的隐私和本地优先数据所有权，是以更陡峭的上手曲线和缺失原生实时同步编辑功能为代价的。你的选择取决于团队是优先考虑协作速度还是绝对数据控制。

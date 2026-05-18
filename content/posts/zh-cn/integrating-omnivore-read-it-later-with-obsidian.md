@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/integrating-omnivore-read-it-later-with-obsidian.webp"
 editorSummary: >-
   通过官方 Omnivore 插件实现 Read It Later Obsidian 集成，可以自动将文章、高亮和笔记同步到您的知识库中。我发现，在自动化之前先映射您当前的手动流程——确定哪些步骤重复，哪些需要判断——可以避免后期调试成本高昂的无声故障。这份实用指南涵盖了设置步骤、工具选择以及避免自动化错误的 L关键检查。一个关键的权衡出现了：虽然工作流程节省了时间，但过度简化 Omnivore 和 Obsidian 之间的交接可能会造成混淆，因此在全面推广之前，用小样本进行测试至关重要。

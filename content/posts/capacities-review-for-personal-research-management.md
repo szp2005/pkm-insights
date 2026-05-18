@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:56:21+08:00
 image: "/og/capacities-review-for-personal-research-management.webp"
 editorSummary: >-
   Capacities Personal Research Management excels through its object-based architecture, which

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T16:34:02+08:00
 image: "/og/custom-obsidian-plugins-for-academic-researchers.webp"
 editorSummary: >-
   Obsidian Plugins Academic Researchers need to streamline citation management, PDF

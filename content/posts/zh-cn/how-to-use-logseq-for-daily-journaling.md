@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/how-to-use-logseq-for-daily-journaling.webp"
 editorSummary: >-
   Use Logseq Daily Journaling to transform your daily entries into a friction-free inbox that

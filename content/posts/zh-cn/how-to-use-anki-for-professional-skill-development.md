@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/how-to-use-anki-for-professional-skill-development.webp"
 editorSummary: >-
   Anki Professional Skill Development uses spaced repetition to embed high-yield information

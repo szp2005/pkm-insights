@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/reflect-notes-vs-obsidian-for-quick-capture.webp"
 editorSummary: >-
   Reflect Notes 和 Obsidian 的快速捕捉工作流在速度和摩擦方面存在显著差异。Reflect Notes 凭借其以日记为中心的设计和云优先同步，让您几乎可以在所有设备上即时捕捉想法，表现出色。Obsidian 需要前期配置——设置快捷键、模板和 QuickAdd 等插件——但这种投入会带来无与伦比的定制和本地优先控制。我发现关键的权衡引人注目：Reflect 优先考虑即时无摩擦捕捉，而 Obsidian 需要设置时间，但让您完全拥有自己的知识图谱。对于那些重视快速记录想法的人来说，Reflect 固执己见的工作流消除了决策疲劳。对于愿意投入设置的超级用户来说，Obsidian 的灵活性最终会胜出。

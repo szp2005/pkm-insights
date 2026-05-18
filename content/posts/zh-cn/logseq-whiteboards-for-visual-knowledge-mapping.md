@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/logseq-whiteboards-for-visual-knowledge-mapping.webp"
 editorSummary: >-
   Whiteboards Visual Knowledge Mapping transforms how you synthesize complex research by

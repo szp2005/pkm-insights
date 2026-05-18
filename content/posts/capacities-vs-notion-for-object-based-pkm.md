@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T08:21:46+08:00
 image: "/og/capacities-vs-notion-object-based-pkm.webp"
 editorSummary: >-
   Notion Object-Based PKM requires you to manually architect databases and relations, whereas

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:06:28+08:00
 image: "/og/how-to-organize-research-papers-using-zotero-and-obsidian.webp"
 editorSummary: >-
   Papers Using Zotero Obsidian requires bridging two fundamentally different tools: Zotero as

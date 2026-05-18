@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/best-tools-for-thought-for-academic-synthesis.webp"
 editorSummary: >-
   在 Obsidian、Logseq 和 Heptabase 之间进行块级引用的比较，揭示了学者在综合研究时的一个基本权衡。我评估了这些思维工具，以了解哪种工具能最好地将碎片化的高亮内容转化为有凝聚力的论点。Obsidian 通过其 Zotero Integration 插件在长篇手稿起草方面表现出色，而 Logseq 的原生 PDF 批注完全消除了上下文切换的摩擦。Heptabase 的视觉白板方法通过空间推理独特地暴露了文献综述中的空白。一个关键的警告：基于认知风格进行选择比功能列表更重要。一个习惯以文档为中心的写作者，如果被迫使用大纲工具工作流，无论其技术能力如何，都会在几周内放弃该工具。

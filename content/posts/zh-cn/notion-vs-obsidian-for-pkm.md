@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/notion-vs-obsidian-for-pkm.webp"
 editorSummary: >-
   Notion Obsidian PKM：块状数据库与本地Markdown网络代表了知识工作者的基本架构分裂。我已审视了Notion的关系型数据库如何通过可自定义的仪表板和看板奖励结构化思维，而Obsidian的双向链接则支持自下而上自然生长的涌现网络。关键的权衡在于数据所有权：Obsidian将纯文本文件本地存储，实现绝对主权，而Notion依赖云的便利性带来了锁定风险和延迟。对于长期PKM系统而言，这种区别意义深远——跨平台迁移数千条笔记是一项艰巨的任务。理解这些核心理念有助于您根据优先选择层级组织还是偶然发现来做出选择。

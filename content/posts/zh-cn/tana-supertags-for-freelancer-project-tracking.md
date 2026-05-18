@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tana-supertags-for-freelancer-project-tracking.webp"
 editorSummary: >-
   Tana 中的 Supertags 自由职业者项目追踪将零散的笔记转化为一个为独立运营者量身定制的动态、互联数据库。

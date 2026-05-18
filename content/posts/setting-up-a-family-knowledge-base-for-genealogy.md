@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:04:33+08:00
 image: "/og/setting-up-a-family-knowledge-base-for-genealogy.webp"
 editorSummary: >-
   Family Knowledge Base Genealogy requires selecting a flexible platform—whether local-first

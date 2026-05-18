@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:46:27+08:00
 image: "/og/notion-vs-obsidian-managing-research-grants.webp"
 editorSummary: >-
   Obsidian Managing Research Grants presents a fundamental tension: local-first data storage

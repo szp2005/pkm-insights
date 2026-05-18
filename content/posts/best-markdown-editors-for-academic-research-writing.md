@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T15:37:17+08:00
 image: "/og/best-markdown-editors-for-academic-research-writing.webp"
 editorSummary: >-
   Editors Academic Research Writing demand more than basic syntax highlighting—they must

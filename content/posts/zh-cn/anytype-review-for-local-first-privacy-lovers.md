@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:26+08:00
 image: "/og/anytype-review-local-first-privacy-lovers.webp"
 title: "面向本地优先隐私爱好者的 Anytype 测评：深入探讨数据控制"
 description: "面向本地优先隐私爱好者的 Anytype 测评实用指南：设置步骤、工具选择、风险以及构建可靠工作流的检查。"

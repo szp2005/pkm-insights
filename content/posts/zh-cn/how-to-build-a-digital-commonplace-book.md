@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T16:37:33+08:00
 image: "/og/how-to-build-a-digital-commonplace-book.webp"
 editorSummary: >-
   Build Digital Commonplace Book systems around the principle of "Capture Over Perfection"

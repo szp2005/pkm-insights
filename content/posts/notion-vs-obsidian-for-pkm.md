@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:56:58-07:00
 image: "/og/notion-vs-obsidian-for-pkm.webp"
 editorSummary: >-
   Notion Obsidian PKM: The Block-Based Database vs. The Local Markdown Network represents a

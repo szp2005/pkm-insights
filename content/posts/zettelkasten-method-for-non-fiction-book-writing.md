@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:50:13+08:00
 image: "/og/zettelkasten-method-for-non-fiction-book-writing.webp"
 editorSummary: >-
   Non-fiction book writing demands managing complex information across scattered research, and

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/roam-research-vs-obsidian-comparison.webp"
 editorSummary: >-
   Roam Research 和 Obsidian 代表了两种截然不同的联网思维方式：一种是基于块且云托管，

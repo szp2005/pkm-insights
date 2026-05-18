@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:39:38-07:00
 image: "/og/benefits-of-a-personal-knowledge-management-system.webp"
 editorSummary: >-
   I often find myself overwhelmed by the digital firehose, and this article perfectly captures

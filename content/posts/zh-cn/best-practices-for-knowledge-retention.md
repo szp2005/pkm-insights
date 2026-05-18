@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-10T10:04:57+08:00
 image: "/og/best-practices-for-knowledge-retention.webp"
 title: "掌握记忆：知识保留的最佳实践"
 description: "探索经过验证的技巧和实用的框架，以显著提高知识保留率，克服遗忘曲线的影响，并为终身学习构建持久且高效的个人知识管理系统。"

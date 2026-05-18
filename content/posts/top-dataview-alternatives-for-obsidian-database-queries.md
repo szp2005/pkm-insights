@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T15:41:00+08:00
 image: "/og/top-dataview-alternatives-obsidian-database-queries.webp"
 evidenceImage:
   src: "/media/adsense-phase2/code-laptop.jpg"

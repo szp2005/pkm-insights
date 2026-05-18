@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:14:40-07:00
 image: "/og/best-apps-for-personal-knowledge-management.webp"
 editorSummary: >-
   I have spent far too much time migrating notes between apps, which is why I appreciate this

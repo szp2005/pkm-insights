@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/heptabase-vs-scrintal-visual-sense-making-comparison.webp"
 editorSummary: >-
   视觉化意义构建（Visual Sense Making）工具擅长将零散的想法转化为连贯的叙述，然而在 Heptabase 和 Scrintal 之间做选择，取决于你主要的痛点。我评估了这两个空间画布平台的核心工作流——研究提取、综合和输出，发现 Heptabase 在 PDF 批注和嵌套白板方面占据优势，非常适合深度研究人员；而 Scrintal 则以其直观的界面以及从视觉看板到线性大纲的无缝转换而大放异彩。关键的权衡在于：Heptabase 需要学习更密集的功能集，但离线工作表现完美；而 Scrintal 优先考虑无摩擦的映射思维，但依赖于互联网连接。你的选择取决于你是花更多时间消化复杂的来源，还是进行规划和写作。

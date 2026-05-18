@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/best-voice-to-text-apps-capturing-thoughts.webp"
 editorSummary: >-
   在捕捉稍纵即逝的灵感时，无感启动是区分顶尖语音转文字应用与其他平庸应用的关键。我从转录准确率、离线功能和 AI 格式化等方面评估了 Whisper Memos、Drafts 和 Otter.ai 等工具，旨在帮你找到理想的听写工作流。其中一个关键的权衡是：那些擅长在三秒内瞬间捕捉（如锁屏小组件、映射 Action Button）的应用，通常缺乏 Otter.ai 所提供的那种适合长篇头脑风暴的能力。我发现，无缝导出以及与你的 PKM 系统整合，其重要性与转录质量不相上下——如果完美捕捉的想法被困在孤立的应用中，那就完全失去了意义。

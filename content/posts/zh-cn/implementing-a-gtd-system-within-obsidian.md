@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/implementing-a-gtd-system-within-obsidian.webp"
 editorSummary: >-
   在 Obsidian 中实施 GTD 系统需要建立严格的文件夹边界，并配置 Obsidian Tasks 和 Dataview 等基本社区插件，

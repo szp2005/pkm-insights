@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T17:59:17+08:00
 image: "/og/personal-knowledge-asset-management-2026.webp"
 editorSummary: >-
   Personal Knowledge Asset Management in 2026 demands treating notes as compounding digital

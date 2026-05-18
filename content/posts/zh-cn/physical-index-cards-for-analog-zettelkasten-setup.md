@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T20:10:28+08:00
 image: "/og/physical-index-cards-analog-zettelkasten-setup.webp"
 editorSummary: >-
   卡片模拟 Zettelkasten 设置需要慎重选择纸张质量、尺寸和存储基础设施，这些都直接影响您的知识网络功能。我发现选择 200-250 GSM 的无酸卡片和 Sakura Pigma Micron 等档案级钢笔可以防止长期劣化——这对于构建旨在保存智力工作数十年的系统来说，是一个关键的权衡。实体索引卡的实用指南强调建立独特的识别系统和与 Luhmann 方法一致的原子笔记，但真正的挑战在于保持材料之间的一致性。一旦您选择 3x5 或 A6 尺寸，您必须在整个 Zettelkasten 中保持该标准，否则您的存储和空间记忆将受到严重影响。

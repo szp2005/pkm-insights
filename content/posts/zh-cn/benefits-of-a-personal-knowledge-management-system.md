@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:26+08:00
 image: "/og/benefits-of-a-personal-knowledge-management-system.webp"
 title: "个人知识管理系统的变革性优势"
 description: "探索建立个人知识管理（PKM）系统的深远优势。了解它如何提升生产力、增强创造力并减少信息过载。"

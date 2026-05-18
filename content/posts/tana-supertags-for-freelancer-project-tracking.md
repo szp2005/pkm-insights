@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:24:32+08:00
 image: "/og/tana-supertags-for-freelancer-project-tracking.webp"
 editorSummary: >-
   Supertags Freelancer Project Tracking in Tana transforms scattered notes into a dynamic,

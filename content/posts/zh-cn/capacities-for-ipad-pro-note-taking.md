@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/capacities-for-ipad-pro-note-taking.webp"
 editorSummary: >-
   iPad Pro 上的笔记体验在将 Capacities 与 Magic Keyboard 结合后发生了质的改变，它从一个多媒体平板电脑转变为一个结构化的、基于对象的知识中心。我发现斜杠命令工作流和 Daily Note 的自定义功能极大地减少了在移动设备上进行研究和项目管理的阻力。基于对象的方法——即问“这属于什么类型的对象？”而不是“我应该把它归档在哪里？”——在 iPad 的触摸界面上感觉非常直观。然而，这种取舍也是显而易见的：Capacities 更倾向于键盘输入而非 Apple Pencil 墨迹书写，这使得它不太适合重度依赖手写的工作流。对于在移动中进行网络化、基于数据库的笔记记录，这套配置表现出色。

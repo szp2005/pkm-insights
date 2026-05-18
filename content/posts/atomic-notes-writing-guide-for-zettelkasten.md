@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T23:50:25+08:00
 image: "/og/atomic-notes-writing-guide-for-zettelkasten.webp"
 editorSummary: >-
   I’ve frequently fallen victim to the "collector's fallacy," amassing highlights that never

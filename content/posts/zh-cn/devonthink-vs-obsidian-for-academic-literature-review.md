@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/devonthink-vs-obsidian-academic-literature-review.webp"
 editorSummary: >-
   Devonthink 和 Obsidian 在学术文献综述方面展示了截然不同的研究组织方法。Devonthink 作为一个以文档为中心的系统，凭借 AI 驱动的搜索、强大的 PDF 索引和用于自动归档的智能规则而脱颖而出——非常适合管理数千篇论文。Obsidian 则通过双向链接和图谱视图优先考虑知识整合，为相互关联的构思提供无与伦比的灵活性。关键的权衡在于：Devonthink 的专有数据库感觉安全，但会锁定你的数据；Obsidian 的纯文本 Markdown 确保了便携性，但需要手动处理 PDF 和集成文献管理工具。我认为研究人员必须在文档管理主导权或概念链接能力之间做出选择。

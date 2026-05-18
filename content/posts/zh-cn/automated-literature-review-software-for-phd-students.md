@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:26+08:00
 image: "/og/automated-literature-review-software-for-phd-students.webp"
 title: "2026年适合博士生的最佳自动化文献综述软件"
 description: "发现适合博士生的顶级自动化文献综述软件，以简化研究、绘制引用网络，并更快地撰写您的学位论文。"

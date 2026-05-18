@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:44:46-07:00
 image: "/og/effective-note-taking-techniques-for-learning.webp"
 editorSummary: >-
   Note Taking Techniques Learning demands understanding that the Cornell Method, Outline

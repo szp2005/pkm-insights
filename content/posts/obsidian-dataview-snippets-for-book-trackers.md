@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:26:09+08:00
 image: "/og/obsidian-dataview-snippets-for-book-trackers.webp"
 editorSummary: >-
   Dataview Snippets Book Trackers transform Obsidian into a dynamic reading management system

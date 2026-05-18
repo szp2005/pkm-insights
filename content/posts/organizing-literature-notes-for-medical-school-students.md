@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:40:18+08:00
 image: "/og/organizing-literature-notes-for-medical-school-students.webp"
 editorSummary: >-
   Notes Medical School Students must manage staggering information volume and velocity, making

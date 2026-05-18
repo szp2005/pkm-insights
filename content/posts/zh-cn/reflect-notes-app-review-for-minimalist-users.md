@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/reflect-notes-app-review-for-minimalist-users.webp"
 editorSummary: >-
   寻求无摩擦日常记录的笔记应用极简主义用户会发现Reflect精简的界面极具吸引力。

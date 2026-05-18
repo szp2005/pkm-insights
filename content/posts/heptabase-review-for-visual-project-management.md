@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:17:38+08:00
 image: "/og/heptabase-review-for-visual-project-management.webp"
 editorSummary: >-
   Heptabase Visual Project Management tools excel for spatial thinkers who reject linear task

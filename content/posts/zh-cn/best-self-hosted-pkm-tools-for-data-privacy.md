@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/best-self-hosted-pkm-tools-for-data-privacy.webp"
 editorSummary: >-
   托管PKM的数据隐私取决于在本地Markdown文件、加密数据库和wiki风格系统之间的选择——每种都有不同的权衡。我评估了Obsidian、Logseq、Joplin和TiddlyWiki等工具的自托管功能，发现虽然本地优先的存储消除了对云的依赖，但跨设备同步仍需要仔细的基础设施决策。我的主要观察结果：通过任何外部服务（甚至像Nextcloud这样的自托管服务）同步时，端到端加密变得至关重要。这篇实用指南涵盖了设置步骤和工具选择，但用户应该认识到，真正的数据主权需要对备份、加密和服务器维护承担持续的责任——用牺牲便利性来换取控制权。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:39:04+08:00
 image: "/og/building-a-second-brain-in-2026-update.webp"
 editorSummary: >-
   Building a Second Brain in 2026 shifts from manual curation to AI-assisted knowledge

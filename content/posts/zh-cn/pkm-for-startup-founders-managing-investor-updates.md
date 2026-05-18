@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/pkm-for-startup-founders-managing-investor-updates.webp"
 editorSummary: >-
   Founders Managing Investor Updates through a Personal Knowledge Management system transforms

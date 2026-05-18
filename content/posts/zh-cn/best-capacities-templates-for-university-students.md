@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:51+08:00
 image: "/og/best-capacities-templates-for-university-students.webp"
 title: "2026年适合大学生的 7 个最佳 Capacities 模板"
 description: "探索适合大学生的最佳 Capacities 模板，以组织笔记、跟踪作业、管理研究并提高学术生产力。"

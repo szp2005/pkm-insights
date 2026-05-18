@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:21:32+08:00
 image: "/og/scrintal-vs-heptabase-for-visual-note-taking.webp"
 editorSummary: >-
   Heptabase Visual Note Taking tools demand careful trade-offs between structure and

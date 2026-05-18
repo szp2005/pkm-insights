@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:00:58+08:00
 image: "/og/second-brain-template-for-podcasters-2026.webp"
 editorSummary: >-
   Second Brain Template Podcasters need integrates guest management, show notes, and research

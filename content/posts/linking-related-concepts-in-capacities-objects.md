@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:49:16+08:00
 image: "/og/linking-related-concepts-in-capacities-objects.webp"
 editorSummary: >-
   Related Concepts Capacities Objects transform isolated notes into a semantic web when you

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:42+08:00
 image: "/og/arivu-vs-readwise-for-information-capture.webp"
 title: "Arivu 与 Readwise 信息收集对比：哪个更好？"
 description: "比较 Arivu 和 Readwise 的信息收集功能。了解哪款第二大脑工具在处理高亮、AI 总结和知识管理方面表现最佳。"

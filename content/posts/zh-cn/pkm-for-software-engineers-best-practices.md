@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/pkm-for-software-engineers-best-practices.webp"
 editorSummary: >-
   PKM Software Engineers Practices demands a fundamentally different approach than generic

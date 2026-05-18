@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:15:42-07:00
 image: "/og/second-brain-vs-zettelkasten-method.webp"
 editorSummary: >-
   Second Brain Zettelkasten Method represents two fundamentally different approaches to

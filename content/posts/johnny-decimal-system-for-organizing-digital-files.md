@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:44:12+08:00
 image: "/og/johnny-decimal-system-for-organizing-digital-files.webp"
 editorSummary: >-
   System Organizing Digital Files using numeric codes like 12.03 eliminates folder chaos by

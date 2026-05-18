@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:48:54+08:00
 image: "/og/personal-knowledge-management-for-independent-researchers.webp"
 editorSummary: >-
   Knowledge Management Independent Researchers requires a deliberate three-phase system

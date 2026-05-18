@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tana-commands-for-automated-data-processing.webp"
 editorSummary: >-
   Commands for Automated Data Processing transform how I manage structured information in

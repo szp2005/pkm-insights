@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:19:38+08:00
 image: "/og/remnote-vs-logseq-for-medical-students-comparison.webp"
 editorSummary: >-
   Remnote Logseq Medical Students differ fundamentally in how they handle spaced repetition

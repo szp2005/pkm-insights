@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T16:08:27+08:00
 image: "/og/devonthink-vs-obsidian-for-document-management-workflows.webp"
 editorSummary: >-
   Obsidian Document Management Workflows reveal a fundamental trade-off: while DEVONthink

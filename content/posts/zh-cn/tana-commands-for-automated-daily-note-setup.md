@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tana-commands-for-automated-daily-note-setup.webp"
 editorSummary: >-
   Tana 中的自动化日记设置通过 Supertags 和 Insert Template 命令简化了知识捕获，消除了手动创建结构的需要。我发现将动态日期命令——Today、Yesterday、Tomorrow——与预填充字段结合使用，创建了一个无摩擦的日常工作流。值得注意的是，虽然这种自动化减少了认知开销，但它需要前期投入来定义您的 Supertag 模式和模板结构。然而，一旦配置完成，每个新的日记都将继承任务、亮点和反思的一致字段，确保没有关键信息遗漏。

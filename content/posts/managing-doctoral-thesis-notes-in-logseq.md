@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:43:39+08:00
 image: "/og/managing-doctoral-thesis-notes-in-logseq.webp"
 editorSummary: >-
   Doctoral Thesis Notes Logseq systems transform academic research by operating at the block

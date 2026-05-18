@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T13:18:27+08:00
 image: "/og/how-to-implement-map-of-content-in-obsidian.webp"
 editorSummary: >-
   Implement Map of Content in Obsidian by creating a central Home note that routes to 5–10

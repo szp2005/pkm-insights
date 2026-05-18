@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:38:31+08:00
 image: "/og/how-to-migrate-from-evernote-to-obsidian-2026.webp"
 editorSummary: >-
   Migrate Evernote Obsidian using the official Importer plugin to convert ENEX files into

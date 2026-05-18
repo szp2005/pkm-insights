@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:59:59+08:00
 image: "/og/tana-ai-for-researchers-premium-features.webp"
 editorSummary: >-
   Tana Researchers Premium Features unlock unbounded AI commands for automated literature

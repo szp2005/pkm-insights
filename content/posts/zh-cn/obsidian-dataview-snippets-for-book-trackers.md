@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/obsidian-dataview-snippets-for-book-trackers.webp"
 editorSummary: >-
   Dataview Snippets Book Trackers 将 Obsidian 转化为一个动态的阅读管理系统，通过查询嵌入在书籍笔记中的元数据来实现。我发现创建一个具有一致 YAML Frontmatter 字段（标题、作者、状态、页数、进度）的专用文件夹结构，能够启用强大的自动化表格和仪表板。真正的权衡在于扩展性：虽然基本的 DQL 查询能够高效处理简单的列表，但要使用 DataviewJS 进行阅读时长或阅读百分比等计算，则需要熟悉 JavaScript 逻辑。预先设置必要的元数据字段可以避免在整个库中进行昂贵的追溯性批量更新。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:02:49+08:00
 image: "/og/how-to-use-mocs-in-obsidian-for-organization.webp"
 editorSummary: >-
   Use Mocs Obsidian Organization to transform a chaotic vault into a navigable knowledge

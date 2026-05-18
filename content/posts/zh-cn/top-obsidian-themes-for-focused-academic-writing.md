@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/top-obsidian-themes-for-focused-academic-writing.webp"
 editorSummary: >-
   专注于学术写作的主题需要特别注意极简主义和减少干扰——视觉环境塑造了你在高强度脑力工作中保持深度专注的能力。我评估了五个顶级的 Obsidian 主题（Sanctum、Primary、Catppuccin、Nord 和 Things），它们优先考虑简洁美学、出色的排版和舒缓的调色板。每个主题都有其独特的权衡：Sanctum 擅长去除杂乱，而 Catppuccin 的柔和调色板在减少眼睛疲劳方面表现出色，但代价是显得不那么严肃。本实用指南涵盖了 STEM 学科的语法高亮和暗模式的稳健性等基本功能。一个注意事项是：通过 CSS 片段过度定制主题可能会破坏其原始的无干扰设计，因此克制很重要。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:43:33+08:00
 image: "/og/devonthink-vs-obsidian-academic-literature-review.webp"
 editorSummary: >-
   Devonthink Obsidian Academic Literature Review present fundamentally different approaches to

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T12:31:43+08:00
 image: "/og/maintaining-links-in-long-term-research-notes.webp"
 editorSummary: >-
   Long Term Research Notes require deliberate architectural choices to prevent link rot and

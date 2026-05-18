@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tana-vs-roam-research-for-power-users.webp"
 editorSummary: >-
   Roam Research高级用户经常面临一个关键的权衡：无摩擦的日常捕获与大规模结构化检索。这项深入比较Tana与Roam Research针对高级用户的文章揭示，Roam擅长块级引用和非结构化Zettelkasten工作流，而Tana的Supertags系统将随意笔记转化为可查询的数据库记录。我发现，当知识库增长到数万个节点以上时，如果缺乏严格的纪律，Roam的图会退化为无法导航的杂物抽屉，而Tana的查询构建器可以同时按多个字段过滤——这对于运营工作来说是一个巨大的优势。需要注意的是：Tana陡峭的本体学习曲线需要前期进行结构化思考，而许多研究人员对此有所抵触。

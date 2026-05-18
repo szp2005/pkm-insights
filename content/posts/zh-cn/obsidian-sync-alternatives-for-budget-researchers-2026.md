@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/obsidian-sync-alternatives-budget-researchers-2026.webp"
 editorSummary: >-
   对于预算有限的研究人员来说，Obsidian 同步替代方案经常会忽略云存储服务作为在不支付 Obsidian Sync 高级订阅费用的情况下同步 Obsidian 库的实用解决方案。Google Drive 和 OneDrive 提供慷慨的免费存储空间和简单的设置——只需将您的库文件夹移动到云同步目录中——这使得它们成为预算紧张的研究人员易于上手的起点。然而，我必须提醒，移动同步可能会不一致，尤其是在 iOS 上，而且这些服务默认缺乏端到端加密，如果您的研究包含敏感数据，这一点很重要。理解成本节约与安全性之间的这种权衡有助于您决定是采用 DIY 方法还是技术性的自托管解决方案更适合您的工作流程。

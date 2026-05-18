@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T11:01:31+08:00
 image: "/og/capacities-believer-plan-vs-basic-comparison.webp"
 editorSummary: >-
   Capacities Believer Plan versus Basic represents a fundamental choice between learning the

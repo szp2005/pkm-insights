@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/building-a-mobile-information-capture-system-for-ipad.webp"
 editorSummary: >-
   Information Capture System iPad requires separating capture from processing—a principle I

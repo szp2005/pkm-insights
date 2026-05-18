@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/para-method-vs-zettelkasten-for-students.webp"
 editorSummary: >-
   PARA Method Zettelkasten 学生在组织学术笔记时面临一个关键选择：是倾向于可操作性还是长期知识综合。我通过审视这两种系统的核心理念和在不同专业领域的实际应用进行了比较。PARA 方法擅长基于项目的任务管理，并能保持工作区整洁，但它将笔记隔离在旧文件夹中，导致日后难以检索。Zettelkasten 建立了一个永久的、相互关联的知识网络，随着时间的推移价值倍增——非常适合研究密集型工作——但它要求严格的纪律和日常维护。取舍显而易见：如果面临紧迫的截止日期和学期课程，选择 PARA；如果你的学术价值在于综合思想和撰写复杂论文，则投资 Zettelkasten。

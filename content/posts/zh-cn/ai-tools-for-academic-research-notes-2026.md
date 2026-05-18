@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:26+08:00
 image: "/og/ai-tools-for-academic-research-notes-2026.webp"
 title: "2026年最佳学术研究笔记AI工具"
 description: "探索2026年顶级学术研究笔记AI工具。比较功能、定价和工作流，以简化您的文献综述和综合过程。"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:57:10+08:00
 image: "/og/logseq-plugins-for-scientific-research-efficiency.webp"
 editorSummary: >-
   Plugins Scientific Research Efficiency in 2026 transform Logseq from a blank canvas into a

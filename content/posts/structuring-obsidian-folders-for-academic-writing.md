@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T12:32:46+08:00
 image: "/og/structuring-obsidian-folders-for-academic-writing.webp"
 evidenceImage:
   src: "/media/adsense-phase2/notes-laptop.jpg"

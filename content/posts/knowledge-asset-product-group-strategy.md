@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:00:02+08:00
 image: "/og/knowledge-asset-product-group-strategy.webp"
 editorSummary: >-
   Asset Product Group Strategy transforms how organizations monetize intellectual property by

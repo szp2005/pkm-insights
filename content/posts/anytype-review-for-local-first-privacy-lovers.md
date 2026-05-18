@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:20:17+08:00
 image: "/og/anytype-review-local-first-privacy-lovers.webp"
 editorSummary: >-
   I have explored many note-taking tools, but this Anytype Review for Local-First Privacy

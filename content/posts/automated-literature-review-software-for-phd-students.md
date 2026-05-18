@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T16:26:42+08:00
 image: "/og/automated-literature-review-software-for-phd-students.webp"
 editorSummary: >-
   Managing the sheer volume of academic papers during my doctoral journey felt like an uphill

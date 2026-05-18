@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:00:34+08:00
 image: "/og/reflect-notes-app-review-for-minimalist-users.webp"
 editorSummary: >-
   Notes App Minimalist Users seeking frictionless daily capture will find Reflect's

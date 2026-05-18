@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T16:25:16+08:00
 image: "/og/premium-obsidian-academic-workflow-templates-2026.webp"
 editorSummary: >-
   Obsidian Academic Workflow Templates in 2026 offer pre-engineered productivity environments

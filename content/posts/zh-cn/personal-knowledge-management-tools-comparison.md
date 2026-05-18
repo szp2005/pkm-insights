@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T20:10:28+08:00
 image: "/og/personal-knowledge-management-tools-comparison.webp"
 editorSummary: >-
   个人知识管理工具涵盖了截然不同的架构——从 Obsidian 的本地优先 Markdown 方法，到 Notion 的基于云的关系型数据库，再到 Logseq 的开源大纲式管理。我评估了每个平台如何处理网络化思维与结构化数据之间的核心矛盾，发现工具选择的关键不在于功能丰富性，而在于认知契合度。Obsidian 擅长为注重隐私的架构师构建可扩展系统，而 Notion 则服务于习惯于表格和仪表板的“图书管理员”。关键的权衡在于：优先考虑无摩擦捕获的工具（如 Roam 和 Logseq）通常会牺牲 Notion 原生提供的美学和团队协作。理解你是一个网络化思考者还是一个分层组织者，决定了哪个“第二大脑”真正能被你所用。

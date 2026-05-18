@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/capacities-vs-notion-object-based-pkm.webp"
 editorSummary: >-
   基于对象的 Notion PKM 需要你手动构建数据库和关联，而 Capacities 则内置了原生的对象结构。我在日常工作流、链接功能和性能方面对这些工具进行了比较，以帮助你做出选择。Capacities 通过其每日笔记和 WhatsApp 集成在无缝捕获方面表现出色，无需后端设置即可自动生成知识图谱。Notion 提供最大的定制化和团队协作功能，但需要大量的预先配置和维护。关键的权衡在于：Capacities 以牺牲灵活性为代价优先考虑即时实用性，而 Notion 则要求架构开销以换取无与伦比的可扩展性。你的选择取决于你更愿意花时间输入知识还是构建系统本身。

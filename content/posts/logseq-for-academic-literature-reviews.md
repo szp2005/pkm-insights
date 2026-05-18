@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T08:19:41+08:00
 image: "/og/logseq-for-academic-literature-reviews.webp"
 editorSummary: >-
   Logseq Academic Literature Reviews offer block-level synthesis that fundamentally transforms

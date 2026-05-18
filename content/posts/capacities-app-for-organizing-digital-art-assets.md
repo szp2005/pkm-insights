@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:25:24+08:00
 image: "/og/capacities-app-for-organizing-digital-art-assets.webp"
 editorSummary: >-
   Organizing Digital Art Assets through Capacities' object-based system transforms how

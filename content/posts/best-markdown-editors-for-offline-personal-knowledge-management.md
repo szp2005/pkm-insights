@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:42:44+08:00
 image: "/og/best-markdown-editors-for-offline-personal-knowledge-management.webp"
 editorSummary: >-
   Offline Personal Knowledge Management demands editors that prioritize local storage and

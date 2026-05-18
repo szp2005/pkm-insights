@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:19:53-07:00
 image: "/og/how-to-organize-digital-files-efficiently.webp"
 editorSummary: >-
   Organize Digital Files Efficiently using shallow folder structures and strict naming

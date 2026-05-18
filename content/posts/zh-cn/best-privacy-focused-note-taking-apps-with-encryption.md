@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/best-privacy-focused-note-taking-apps-with-encryption.webp"
 editorSummary: >-
   Note Taking Apps Encryption requires understanding two distinct security architectures:

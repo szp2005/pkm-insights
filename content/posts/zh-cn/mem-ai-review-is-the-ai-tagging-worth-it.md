@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/mem-ai-review-is-the-ai-tagging-worth-it.webp"
 editorSummary: >-
   Mem Tagging Worth It? The self-organizing workspace hinges on whether you trust semantic

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:49:05+08:00
 image: "/og/physical-index-cards-analog-zettelkasten-setup.webp"
 editorSummary: >-
   Cards Analog Zettelkasten Setup requires deliberate choices about paper quality, dimensions,

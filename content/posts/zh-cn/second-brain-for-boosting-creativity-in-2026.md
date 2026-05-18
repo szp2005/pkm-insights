@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/second-brain-for-boosting-creativity-in-2026.webp"
 editorSummary: >-
   Second Brain Boosting Creativity in 2026 moves beyond rigid folder hierarchies toward

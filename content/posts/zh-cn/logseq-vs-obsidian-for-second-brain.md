@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/logseq-vs-obsidian-for-second-brain.webp"
 editorSummary: >-
   Logseq 和 Obsidian 这两款“第二大脑”工具在架构方法上存在根本分歧：

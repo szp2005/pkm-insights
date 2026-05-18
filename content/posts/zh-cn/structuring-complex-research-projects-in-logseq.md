@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/structuring-complex-research-projects-in-logseq.webp"
 editorSummary: >-
   Complex Research Projects Logseq demand moving beyond daily journal logging to avoid burying

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:50:01+08:00
 image: "/og/obsidian-sync-alternatives-budget-researchers-2026.webp"
 editorSummary: >-
   Sync Alternatives Budget Researchers often overlook cloud storage services as practical

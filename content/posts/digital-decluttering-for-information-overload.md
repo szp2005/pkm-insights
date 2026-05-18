@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:45:52-07:00
 image: "/og/digital-decluttering-for-information-overload.webp"
 editorSummary: >-
   Digital Decluttering Information Overload demands we recognize the context switching penalty

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/building-a-second-brain-in-2026-update.webp"
 title: "2026年构建第二大脑更新：完整设置指南"
 description: "探索2026年更新中构建第二大脑的最新策略与工具。借助本地AI、空间思维等技术，彻底掌握知识管理。"

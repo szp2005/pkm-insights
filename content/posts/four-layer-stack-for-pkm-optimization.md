@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:38:16+08:00
 image: "/og/four-layer-stack-for-pkm-optimization.webp"
 editorSummary: >-
   Layer Stack Pkm Optimization separates knowledge work into four distinct phases—Capture,

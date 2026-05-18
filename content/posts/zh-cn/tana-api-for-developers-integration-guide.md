@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tana-api-for-developers-integration-guide.webp"
 editorSummary: >-
   Tana API 开发者集成指南通过 nodes 作为核心基元来构建数据，通过 RESTful 端点实现编程工作空间控制。我发现理解 supertags（作为 schema 覆盖层运行）对于通过 JSON payloads 创建结构化数据至关重要。本指南涵盖了通过 Bearer tokens 进行认证、为提高效率进行的批量处理以及基于 webhooks 的双向同步。在扩展时会出现一个关键权衡：虽然批量操作减少了 rate-limit 消耗，但它们需要仔细的聚合逻辑来维护数据一致性。环境变量管理和针对 429 错误的指数退避是生产部署中不可协商的要求。

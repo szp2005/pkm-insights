@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:37:31-07:00
 image: "/og/personal-knowledge-management-tools-comparison.webp"
 editorSummary: >-
   Personal Knowledge Management tools span vastly different architectures—from Obsidian's

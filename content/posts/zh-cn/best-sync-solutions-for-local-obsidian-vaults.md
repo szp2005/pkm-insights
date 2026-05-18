@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/best-sync-solutions-for-local-obsidian-vaults.webp"
 editorSummary: >-
   本地 Obsidian 库的同步方案需要在便利性与控制权之间进行仔细权衡。我评估了五种主要方法——Obsidian Sync、Syncthing、通过 Obsidian Git 插件使用 Git、iCloud Drive 以及 Remotely Save——每种方法都适用于不同的技术熟练度和生态系统。我的核心发现是：同时混合使用多家云服务提供商会导致文件冲突和重复，这是破坏许多设置的常见陷阱。Obsidian Sync 为大多数用户提供了无摩擦的端到端加密体验；而 Syncthing 则吸引了那些愿意管理点对点同步复杂性以换取隐私的用户。我得出的关键结论是，真正的离线优先架构需要主动配置同步，而不是依赖隐形的“云魔法”。

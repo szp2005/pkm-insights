@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tana-supertags-tutorial-for-beginners.webp"
 editorSummary: >-
   Tana Supertags Tutorial Beginners transforms how you structure nodes by applying

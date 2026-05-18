@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:57:59+08:00
 image: "/og/best-tools-for-thought-for-academic-synthesis.webp"
 editorSummary: >-
   Block-level referencing across Obsidian, Logseq, and Heptabase reveals a fundamental

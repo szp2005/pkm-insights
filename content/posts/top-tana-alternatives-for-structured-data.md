@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:55:33+08:00
 image: "/og/top-tana-alternatives-for-structured-data.webp"
 editorSummary: >-
   Tana Alternatives Structured Data comparison reveals that Capacities, Anytype, and Fibery

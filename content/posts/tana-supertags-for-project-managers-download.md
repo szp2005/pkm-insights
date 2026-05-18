@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T11:03:08+08:00
 image: "/og/tana-supertags-for-project-managers-download.webp"
 editorSummary: >-
   Supertags Project Managers Download provides a pre-configured workspace that eliminates

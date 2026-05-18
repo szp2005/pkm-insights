@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:51+08:00
 image: "/og/best-e-ink-tablets-for-handwritten-digital-notes-2026.webp"
 title: "2026年最佳手写数字笔记电子墨水屏平板电脑推荐"
 description: "比较2026年最佳的手写数字笔记电子墨水屏平板电脑。探索适合学生和专业人士的reMarkable、Boox、Supernote和Amazon顶级精选。"

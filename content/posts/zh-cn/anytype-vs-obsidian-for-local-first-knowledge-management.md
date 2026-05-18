@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:42+08:00
 image: "/og/anytype-vs-obsidian-local-first-knowledge-management.webp"
 title: "Anytype vs Obsidian：最佳的本地优先知识管理工具？"
 description: "对比 Anytype 和 Obsidian 在本地优先知识管理方面的表现。了解哪款主打离线和隐私保护的笔记应用最能保障你的工作流与数据安全。"

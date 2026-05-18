@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:45:05+08:00
 image: "/og/mendeley-vs-zotero-obsidian-integration-2026.webp"
 editorSummary: >-
   Mendeley Zotero Obsidian Integration choices hinge on a fundamental architectural trade-off:

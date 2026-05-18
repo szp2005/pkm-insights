@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T10:25:18+08:00
 image: "/og/heptabase-vs-scrintal-visual-sense-making-comparison.webp"
 editorSummary: >-
   Scrintal Visual Sense Making tools excel at transforming scattered thoughts into cohesive

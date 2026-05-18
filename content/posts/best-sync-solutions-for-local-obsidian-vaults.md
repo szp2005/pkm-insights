@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T16:04:27+08:00
 image: "/og/best-sync-solutions-for-local-obsidian-vaults.webp"
 editorSummary: >-
   Solutions Local Obsidian Vaults require careful evaluation of trade-offs between convenience

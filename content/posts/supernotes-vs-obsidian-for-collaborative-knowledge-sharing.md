@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:08:40+08:00
 image: "/og/supernotes-vs-obsidian-for-collaborative-knowledge-sharing.webp"
 editorSummary: >-
   Obsidian Collaborative Knowledge Sharing demands a trade-off between real-time

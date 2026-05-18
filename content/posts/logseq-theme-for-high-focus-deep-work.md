@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:59:04+08:00
 image: "/og/logseq-theme-for-high-focus-deep-work.webp"
 editorSummary: >-
   High Focus Deep Work themes in Logseq demand minimalism and decluttering to reduce cognitive

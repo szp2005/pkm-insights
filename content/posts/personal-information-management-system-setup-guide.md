@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T19:10:44+08:00
 image: "/og/personal-information-management-system-setup-guide.webp"
 editorSummary: >-
   Information Management System Setup requires choosing between fluid and rigid

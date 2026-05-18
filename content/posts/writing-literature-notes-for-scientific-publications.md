@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T15:33:26+08:00
 image: "/og/writing-literature-notes-for-scientific-publications.webp"
 evidenceImage:
   src: "/media/adsense-phase2/notebook-writing.jpg"

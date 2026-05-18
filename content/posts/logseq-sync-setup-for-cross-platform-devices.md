@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T11:02:22+08:00
 image: "/og/logseq-sync-setup-for-cross-platform-devices.webp"
 editorSummary: >-
   Setup Cross Platform Devices with Official Logseq Sync to avoid the file conflicts that

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T17:58:08+08:00
 image: "/og/semantic-layers-in-personal-knowledge-management.webp"
 editorSummary: >-
   Semantic Layers in Personal Knowledge Management transform scattered notes into an

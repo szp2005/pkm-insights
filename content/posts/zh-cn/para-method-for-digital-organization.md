@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/para-method-for-digital-organization.webp"
 editorSummary: >-
   Para Method Digital Organization shifts how I think about managing digital files by

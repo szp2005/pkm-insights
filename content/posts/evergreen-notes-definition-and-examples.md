@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:35:04-07:00
 image: "/og/evergreen-notes-definition-and-examples.webp"
 editorSummary: >-
   Evergreen Notes Definition Examples reveal why atomic, concept-oriented notes matter far

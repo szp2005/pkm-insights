@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/how-to-refactor-old-notes-in-your-pkm.webp"
 editorSummary: >-
   Old Notes Your Pkm system accumulate structural debt over time—orphaned files, inconsistent

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/how-to-practice-active-recall-using-digital-notes.webp"
 editorSummary: >-
   Recall Using Digital Notes transforms passive note-taking into active learning by

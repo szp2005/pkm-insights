@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/what-is-personal-knowledge-management-ultimate-guide.webp"
 editorSummary: >-
   Personal Knowledge Management Ultimate Guide addresses a critical workflow problem: we

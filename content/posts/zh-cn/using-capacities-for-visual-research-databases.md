@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/using-capacities-for-visual-research-databases.webp"
 editorSummary: >-
   Capacities Visual Research Databases transform scattered image folders into interconnected

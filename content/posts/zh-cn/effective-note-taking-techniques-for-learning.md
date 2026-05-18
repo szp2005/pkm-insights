@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/effective-note-taking-techniques-for-learning.webp"
 editorSummary: >-
   学习的笔记技巧要求我们理解 Cornell Method、Outline Method、Mind Mapping、Charting Method 和 Zettelkasten 根据你的学科内容和认知风格各自服务于不同的目的。我观察到，将综合优于单纯的转录——主动重构意义而不是逐字记录——从根本上将消极的吸收转化为深度的理解。一个值得注意的权衡是：在学习期间手写笔记可以增强初始的认知处理，而数字工具则在后期的组织和检索方面表现出众。掌握这些基于 Generation Effect 和 Cognitive Load Theory 的研究支持方法论，能让学生、专业人士和终身学习者通过结构化复习和 Spaced Repetition，将知识深深嵌入长期记忆中。

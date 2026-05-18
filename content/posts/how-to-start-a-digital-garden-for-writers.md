@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:45:10+08:00
 image: "/og/how-to-start-a-digital-garden-for-writers.webp"
 editorSummary: >-
   Start Digital Garden Writers by choosing networked note-taking software like Obsidian or

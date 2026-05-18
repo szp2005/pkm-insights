@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tiago-forte-building-a-second-brain-review-2026.webp"
 editorSummary: >-
   2026年，Forte的第二大脑构建方法论（Building Second Brain methodology）依然是一个强大的框架，通过CODE工作流——捕捉（Capture）、组织（Organize）、提炼（Distill）、表达（Express）——结合PARA方法，有效管理信息过载，实现可操作的文件组织。我发现这本书本身在15-25美元的价格区间提供了卓越的价值，它提供了完整的蓝图，没有设置任何付费墙，尽管1500美元以上的行政项目（Executive Program）假设你需要强制性的责任感才能真正实施。关键的权衡在于：BASB的核心概念自2022年以来没有根本性变化，但生态系统现在跨越多个价格层级，针对不同的投入水平。对于愿意付出努力的自学者，这本书足够了；对于陷入数字混乱的专业人士，结构化课程可能通过完成保证和同行支持来证明其成本的合理性。

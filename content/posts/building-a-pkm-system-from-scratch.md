@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T18:01:57-07:00
 image: "/og/building-a-pkm-system-from-scratch.webp"
 editorSummary: >-
   Building a PKM system from scratch requires resisting the trap of adopting someone else's

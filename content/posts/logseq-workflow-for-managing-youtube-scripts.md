@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:57:19+08:00
 image: "/og/logseq-workflow-for-managing-youtube-scripts.webp"
 editorSummary: >-
   Workflow Managing Youtube Scripts in Logseq transforms content creation from scattered notes
