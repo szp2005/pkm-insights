@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:26+08:00
 image: "/og/best-logseq-themes-for-long-form-writing.webp"
 title: "2026年适合长篇写作的7款最佳Logseq主题"
 description: "探索适合长篇写作的最佳Logseq主题。我们评测了旨在提高专注力、排版和写作持久力的顶级无干扰主题。"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T15:35:59+08:00
 image: "/og/how-to-tag-academic-research-notes-effectively.webp"
 editorSummary: >-
   Academic Research Notes Effectively requires moving beyond impulsive tagging toward a

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:47:22+08:00
 image: "/og/obsidian-dataview-templates-academic-researchers-2026.webp"
 editorSummary: >-
   Dataview Templates Academic Researchers transform static note collections into queryable

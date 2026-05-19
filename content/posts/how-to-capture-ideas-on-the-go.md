@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:50:51+08:00
 image: "/og/how-to-capture-ideas-on-the-go.webp"
 editorSummary: >-
   Capture Ideas on the Go requires eliminating friction at the moment of inspiration. I've

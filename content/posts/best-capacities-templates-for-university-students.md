@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:53:41+08:00
 image: "/og/best-capacities-templates-for-university-students.webp"
 editorSummary: >-
   I appreciate how Capacities’ object-based architecture maps to the reality of university

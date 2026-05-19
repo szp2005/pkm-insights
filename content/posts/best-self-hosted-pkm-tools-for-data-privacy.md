@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:44:20+08:00
 image: "/og/best-self-hosted-pkm-tools-for-data-privacy.webp"
 editorSummary: >-
   Hosted PKM data privacy hinges on choosing between local Markdown files, encrypted

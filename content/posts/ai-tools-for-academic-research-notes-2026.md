@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T19:56:51+08:00
 image: "/og/ai-tools-for-academic-research-notes-2026.webp"
 editorSummary: >-
   Finding a balance between automated literature mapping and actual cognitive synthesis is my

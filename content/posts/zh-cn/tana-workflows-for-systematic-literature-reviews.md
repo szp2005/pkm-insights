@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:48:46+08:00
 image: "/og/tana-workflows-for-systematic-literature-reviews.webp"
 editorSummary: >-
   Workflows Systematic Literature Reviews demand rigorous architecture before importing

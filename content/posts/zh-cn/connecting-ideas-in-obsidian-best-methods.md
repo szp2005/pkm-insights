@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/connecting-ideas-in-obsidian-best-methods.webp"
 editorSummary: >-
   《在 Obsidian 中连接想法的方法》揭示了一个基本的矛盾：双向 wikilinks 和 Maps of Content (MOCs) 实现了强大的基于网络的架构，然而如果没有深思熟虑的策略，你的 vault 很可能会退化为混乱、毫无意义的连接。我发现最有效的工作流是平衡用于概念关系的链接与专门用于状态跟踪的 tags，同时 Zettelkasten 方法——要求每条 permanent note 至少链接到一个现有想法——强制执行了防止 orphan notes 产生的自律性摩擦。Block references 和 Dataview 插件为知识综合提供了精确性，但它们需要前期的元数据约束。真正的挑战不在于掌握这些工具，而在于养成一致的日常习惯，确保你的系统有机地增长，而不是分裂成孤立的信息孤岛。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:08:21+08:00
 image: "/og/best-pdf-annotation-tools-for-academic-pkm.webp"
 editorSummary: >-
   PDF annotation academic PKM requires balancing reading features with export capabilities—a

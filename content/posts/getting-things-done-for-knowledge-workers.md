@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:42:22-07:00
 image: "/og/getting-things-done-for-knowledge-workers.webp"
 editorSummary: >-
   Things Done Knowledge Workers face information exhaustion from endless Slack messages,

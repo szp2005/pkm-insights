@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:52:15-07:00
 image: "/og/managing-digital-information-overload-tips.webp"
 editorSummary: >-
   Digital Information Overload Tips require shifting from reactive consumption to intentional

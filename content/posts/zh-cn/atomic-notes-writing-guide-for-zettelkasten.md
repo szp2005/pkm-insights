@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:42+08:00
 image: "/og/atomic-notes-writing-guide-for-zettelkasten.webp"
 title: "卡片盒笔记法原子笔记写作指南：五步系统"
 description: "通过我们完整的卡片盒笔记法原子笔记写作指南，掌握个人知识管理。学习如何为您的第二大脑撰写专注且可链接的笔记。"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:18:53+08:00
 image: "/og/best-pkm-tools-for-architecture-students-2026.webp"
 editorSummary: >-
   PKM Architecture Students need tools that balance visual thinking with rigorous research

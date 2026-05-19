@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:16:19+08:00
 image: "/og/tana-vs-capacities-networked-thought.webp"
 editorSummary: >-
   Tana Capacities Networked Thought comparison reveals two fundamentally different approaches

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T18:00:44-07:00
 image: "/og/how-to-take-smart-notes-summary.webp"
 editorSummary: >-
   Take Smart Notes Summary explores how the Zettelkasten method transforms knowledge work by

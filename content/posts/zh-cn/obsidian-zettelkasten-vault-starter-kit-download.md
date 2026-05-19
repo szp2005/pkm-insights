@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/obsidian-zettelkasten-vault-starter-kit-download.webp"
 editorSummary: >-
   Vault Starter Kit Download eliminates the friction of building an Obsidian Zettelkasten from

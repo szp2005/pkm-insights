@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:51+08:00
 image: "/og/best-apps-for-personal-knowledge-management.webp"
 title: "2026年最佳个人知识管理应用：构建你的终极第二大脑"
 description: "一份关于最佳个人知识管理（PKM）应用的专家级深入指南。探索 Obsidian、Notion 和 Logseq 等工具如何改变你的工作方式。"

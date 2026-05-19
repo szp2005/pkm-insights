@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T13:05:15+08:00
 image: "/og/second-brain-dashboard-for-notion-power-users.webp"
 editorSummary: >-
   Dashboard Notion Power Users need more than templates—they need a living system tailored to

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/pkm-for-lawyers-managing-case-research-effectively.webp"
 editorSummary: >-
   有效管理案件研究需要超越将法律知识隔离在静态文件中的传统基于文件夹的系统。

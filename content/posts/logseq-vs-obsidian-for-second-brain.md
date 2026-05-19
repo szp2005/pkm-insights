@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:58:04-07:00
 image: "/og/logseq-vs-obsidian-for-second-brain.webp"
 editorSummary: >-
   Logseq Obsidian Second Brain tools diverge fundamentally in their architectural approach:

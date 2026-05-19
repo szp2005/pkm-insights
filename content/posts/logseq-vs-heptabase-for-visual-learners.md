@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:54:40+08:00
 image: "/og/logseq-vs-heptabase-for-visual-learners.webp"
 editorSummary: >-
   Logseq Heptabase Visual Learners differ fundamentally in their foundational architecture:

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T11:07:04+08:00
 image: "/og/capacities-for-ipad-pro-note-taking.webp"
 editorSummary: >-
   iPad Pro Note Taking transforms when you pair Capacities with a Magic Keyboard, shifting

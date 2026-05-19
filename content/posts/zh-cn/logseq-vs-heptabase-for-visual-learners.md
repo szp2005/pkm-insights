@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/logseq-vs-heptabase-for-visual-learners.webp"
 editorSummary: >-
   Logseq 和 Heptabase 在其基础架构上存在根本性差异：Heptabase 将空间白板作为主要操作系统，而 Logseq 则从基于大纲的日志向外构建，白板是次要工具。我发现 Heptabase 的白板优先工作流消除了视觉思考者的障碍——你先可视化，而不是之后再将项目符号列表转换为空间结构。然而，权衡是显著的：Heptabase 需要付费订阅，没有免费层级，而 Logseq 提供完全的本地优先数据所有权和开源自由。对于处理 PDF 的研究人员来说，Heptabase 直接将高亮拖放到画布上的能力是无与伦比的。最终的选择取决于你是优先选择无摩擦的视觉流程还是数据隐私和成本。

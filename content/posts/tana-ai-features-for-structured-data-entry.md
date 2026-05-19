@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:33:55+08:00
 image: "/og/tana-ai-features-for-structured-data-entry.webp"
 editorSummary: >-
   Features Structured Data Entry: Tana's approach fundamentally shifts how you bridge

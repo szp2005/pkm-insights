@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T20:40:50+08:00
 editorSummary: >-
   Content Pipeline Second Brain systems separate information capture from processing, a
   distinction I find essential for consistent publishing. The PARA method and progressive

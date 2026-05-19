@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:04:06+08:00
 image: "/og/pkm-for-lawyers-managing-case-research-effectively.webp"
 editorSummary: >-
   Managing Case Research Effectively requires moving beyond traditional folder-based systems

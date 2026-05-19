@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:52:00+08:00
 image: "/og/capacities-vs-anytype-for-local-first-notes.webp"
 editorSummary: >-
   Anytype Local First Notes offer true end-to-end encryption and peer-to-peer syncing, making

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T07:12:35+08:00
 image: "/og/tiago-forte-building-a-second-brain-review-2026.webp"
 editorSummary: >-
   Forte Building Second Brain methodology remains a powerful framework in 2026 for managing

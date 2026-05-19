@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T23:51:50+08:00
 image: "/og/steps-to-building-a-second-brain-for-productivity.webp"
 editorSummary: >-
   Building Second Brain Productivity requires establishing a reliable capture system before

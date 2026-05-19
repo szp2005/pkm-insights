@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:03:50+08:00
 image: "/og/best-voice-to-text-apps-capturing-thoughts.webp"
 editorSummary: >-
   Frictionless activation separates the best voice-to-text apps from the rest when capturing

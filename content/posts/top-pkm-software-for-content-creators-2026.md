@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:20:57+08:00
 image: "/og/top-pkm-software-for-content-creators-2026.webp"
 editorSummary: >-
   PKM Software Content Creators need in 2026 demands tools that balance flexible capture with

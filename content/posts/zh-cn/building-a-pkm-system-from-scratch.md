@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/building-a-pkm-system-from-scratch.webp"
 title: "终极指南：从零开始构建个人知识管理（PKM）系统"
 description: "探索如何从零开始构建一个强大的个人知识管理（PKM）系统。学习专家方法论，选择合适的工具并进行组织。"

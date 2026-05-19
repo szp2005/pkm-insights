@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T11:06:16+08:00
 image: "/og/tana-api-for-developers-integration-guide.webp"
 editorSummary: >-
   Tana Api Developers Integration Guide structures data through nodes as the core primitive,

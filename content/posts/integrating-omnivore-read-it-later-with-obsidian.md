@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:42:02+08:00
 image: "/og/integrating-omnivore-read-it-later-with-obsidian.webp"
 editorSummary: >-
   Read It Later Obsidian integration through the official Omnivore plugin automates

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:32:37+08:00
 image: "/og/arivu-vs-readwise-for-information-capture.webp"
 editorSummary: >-
   Arivu Readwise Information Capture philosophies split into two distinct methodologies:

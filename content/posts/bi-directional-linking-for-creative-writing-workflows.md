@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:46:48+08:00
 image: "/og/bi-directional-linking-for-creative-writing-workflows.webp"
 editorSummary: >-
   Linking Creative Writing Workflows through bi-directional connections solves the "where does

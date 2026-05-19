@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:58:10+08:00
 image: "/og/setup-guide-for-obsidian-sync-on-android.webp"
 editorSummary: >-
   Setup Obsidian Sync Android requires an active subscription and careful preparation to

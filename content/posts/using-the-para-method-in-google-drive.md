@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:49:32+08:00
 image: "/og/using-the-para-method-in-google-drive.webp"
 editorSummary: >-
   Para Method Google Drive organizes your digital workspace by actionability rather than

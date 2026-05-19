@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/mendeley-vs-zotero-obsidian-integration-2026.webp"
 editorSummary: >-
   Mendeley 和 Zotero 在 Obsidian 集成中的选择，取决于一个基本的架构权衡：Zotero 的开源设计和强大的插件生态系统，通过 Zotero Integration 插件和 Better BibTeX 等专用工具，实现了与 Obsidian 的深度自动化工作流；而 Mendeley 的专有结构限制了第三方连接，并强制通过手动方式解决注释同步问题。我发现 Zotero 能够将 PDF 标注直接提取到 Obsidian 笔记中，并带有双向链接，从而显著提高了研究效率，但这完全取决于社区插件的维护。对于构建可靠工作流的研究人员来说，Zotero 的本地优先数据控制与 Obsidian 的理念相符，尽管 Mendeley 的云协作功能对于团队项目仍然很有价值。

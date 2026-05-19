@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/capacities-believer-plan-vs-basic-comparison.webp"
 editorSummary: >-
   Capacities Believer 计划与 Basic 计划代表了在学习工具和优化个人知识管理系统之间的一个根本选择。两种订阅层级的基于对象的架构保持完全一致，但 Believer 计划解锁了用于自动打标签和摘要的 AI 助手、用于空间控制的自定义对象布局，以及全面的任务管理集成。我发现轻度用户可以从 Basic 的免费无限量对象中获益，而每周处理复杂数据库或数十份参考文档的重度用户则可以通过节省的时间来收回每月 10–12 美元的订阅成本。权衡之处在于：Believer 的 AI 查询功能包含合理使用上限，因此极高强度的自动化需求可能需要进行策略性规划。

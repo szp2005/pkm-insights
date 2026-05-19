@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:51+08:00
 image: "/og/best-pkm-apps-for-visual-thinkers-2026.webp"
 title: "2026年适合视觉思考者的最佳PKM应用"
 description: "探索2026年适合视觉思考者的最佳PKM应用。比较Obsidian、Heptabase和Scrintal等顶级工具，整理思路并提升生产力。"

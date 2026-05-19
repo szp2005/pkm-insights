@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:51:09+08:00
 image: "/og/best-logseq-themes-for-long-form-writing.webp"
 editorSummary: >-
   Themes Long Form Writing in Logseq require careful curation to transform the software from a

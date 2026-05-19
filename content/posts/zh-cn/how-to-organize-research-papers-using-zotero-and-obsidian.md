@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/how-to-organize-research-papers-using-zotero-and-obsidian.webp"
 editorSummary: >-
   使用 Zotero 和 Obsidian 整理研究论文需要连接两个根本不同的工具：Zotero

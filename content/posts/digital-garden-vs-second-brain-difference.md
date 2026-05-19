@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T18:02:57-07:00
 image: "/og/digital-garden-vs-second-brain-difference.webp"
 editorSummary: >-
   Garden Second Brain Difference hinges on a fundamental trade-off: hierarchical execution

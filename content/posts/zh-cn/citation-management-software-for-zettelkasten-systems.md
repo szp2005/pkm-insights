@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/citation-management-software-for-zettelkasten-systems.webp"
 editorSummary: >-
   Zettelkasten 系统与文献管理软件之间的结合点在于一个关键的脱节：标准的文献工具优先考虑最终阶段的参考书目格式化，而不是研究人员所需的输入管道。我评估了 Zotero 的 Better BibTeX 插件、纯文本注释提取以及自动化的 citekey 生成是如何在阅读和知识捕获之间创建无摩擦的工作流的。权衡是真实的——虽然 Zotero 仍然是 Obsidian 和 Logseq 集成的最强选择，但其过时的界面和云存储限制需要仔细配置。JabRef 通过原生的 BibTeX 编辑提供了透明度，但需要外部的 PDF 注释器。对于构建可持续 Zettelkasten 系统的知识工作者来说，在数据可移植性和用户体验之间做出选择仍然是核心的矛盾。

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:09:01+08:00
 image: "/og/implementing-a-gtd-system-within-obsidian.webp"
 editorSummary: >-
   GTD System Within Obsidian requires establishing rigid folder boundaries and configuring

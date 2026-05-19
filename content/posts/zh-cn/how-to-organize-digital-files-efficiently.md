@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/how-to-organize-digital-files-efficiently.webp"
 editorSummary: >-
   使用扁平文件夹结构和严格的命名约定高效组织数字文件——避免深度嵌套造成的摩擦。PARA 方法提供了一个直观的框架，使您的数字工作区与实际生活优先级保持一致，而 3-2-1 备份规则确保了可靠性。我发现采用标准化文件名（如 YYYY-MM-DD_ProjectName_Description_v#）可以将搜索从令人沮丧变为即时。权衡在于纪律：您必须首先彻底整理并承诺对所有文件保持一致性。Hazel 等自动化工具可以处理日常分类，将精力从无休止的文件夹导航中解放出来，投入到深度工作中。

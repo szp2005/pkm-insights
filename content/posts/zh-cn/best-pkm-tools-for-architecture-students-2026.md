@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:26+08:00
 image: "/og/best-pkm-tools-for-architecture-students-2026.webp"
 title: "2026年建筑学子最佳个人知识管理(PKM)工具：首选推荐"
 description: "探索2026年适合建筑系学生的最佳个人知识管理(PKM)工具，帮助组织研究、管理项目并在设计学习中脱颖而出。"

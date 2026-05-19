@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:15:42+08:00
 image: "/og/best-obsidian-plugins-for-creative-professionals-2026.webp"
 editorSummary: >-
   Obsidian Plugins Creative Professionals deliver tangible solutions for visual thinking and

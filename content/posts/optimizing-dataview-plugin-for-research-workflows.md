@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T13:21:06+08:00
 image: "/og/optimizing-dataview-plugin-for-research-workflows.webp"
 editorSummary: >-
   Dataview Plugin Research Workflows demand a holistic architecture that extends far beyond

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T17:57:12+08:00
 image: "/og/self-healing-knowledge-base-principles.webp"
 editorSummary: >-
   Healing Knowledge Base Principles require treating documentation as active infrastructure

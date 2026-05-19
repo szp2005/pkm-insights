@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:44:31+08:00
 image: "/og/how-to-organize-pdf-highlights-in-capacities.webp"
 editorSummary: >-
   Organize PDF Highlights in Capacities by establishing dedicated object types for sources and

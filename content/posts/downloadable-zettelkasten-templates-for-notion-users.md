@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:48:05+08:00
 image: "/og/downloadable-zettelkasten-templates-for-notion-users.webp"
 editorSummary: >-
   Zettelkasten Templates Notion Users can jumpstart knowledge management by leveraging

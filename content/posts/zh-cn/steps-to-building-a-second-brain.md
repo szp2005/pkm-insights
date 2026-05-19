@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/steps-to-building-a-second-brain.webp"
 editorSummary: >-
   构建第二大脑的步骤要求掌握 C.O.D.E. 框架——捕捉、组织、提炼和表达——将信息过载转化为可操作的知识。我

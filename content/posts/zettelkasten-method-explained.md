@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:08:08-07:00
 image: "/og/zettelkasten-method-explained.webp"
 editorSummary: >-
   Atomic notes and relentless linking form the foundation of Zettelkasten practice,

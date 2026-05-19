@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T10:22:56+08:00
 image: "/og/integrating-spaced-repetition-into-your-daily-writing-workflow.webp"
 editorSummary: >-
   Your Daily Writing Workflow needs atomic notes and a review algorithm to combat the

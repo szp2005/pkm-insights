@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:33:23+08:00
 image: "/og/readwise-reader-for-deep-engagement-research.webp"
 editorSummary: >-
   Reader Deep Engagement Research transforms passive scrolling into active synthesis through

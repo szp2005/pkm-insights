@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:05:35+08:00
 image: "/og/automated-note-taking-tools-for-zoom-meetings-2026.webp"
 editorSummary: >-
   I find that my productivity hinges on how well I capture meeting outcomes, so I regularly

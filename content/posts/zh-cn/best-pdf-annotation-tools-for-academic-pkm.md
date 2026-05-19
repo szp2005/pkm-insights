@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T06:56:51+08:00
 image: "/og/best-pdf-annotation-tools-for-academic-pkm.webp"
 title: "2026年最适合学术PKM的PDF批注工具"
 description: "探索最适合学术PKM的PDF批注工具。对比顶级应用程序，以简化研究流程、连接笔记并构建强大的知识系统。"

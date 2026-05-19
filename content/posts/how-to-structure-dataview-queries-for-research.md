@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T19:58:41+08:00
 image: "/og/how-to-structure-dataview-queries-for-research.webp"
 editorSummary: >-
   Structure Dataview Queries Research in Obsidian by mastering the five-step workflow: define

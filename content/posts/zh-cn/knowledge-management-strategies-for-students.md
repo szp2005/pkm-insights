@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/knowledge-management-strategies-for-students.webp"
 editorSummary: >-
   Knowledge Management Strategies Students face a critical challenge: traditional study

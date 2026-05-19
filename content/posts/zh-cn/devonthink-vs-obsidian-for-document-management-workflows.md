@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/devonthink-vs-obsidian-for-document-management-workflows.webp"
 editorSummary: >-
   Obsidian 文档管理工作流揭示了一个根本性的权衡：虽然 DEVONthink 凭借人工智能驱动的搜索和跨越海量 PDF 归档的 OCR 技术在被动检索方面表现出色，但 Obsidian 则通过双向链接和纯文本的面向未来特性优先考虑主动综合。我对这些工具进行了比较，以帮助专业人士根据他们的主要任务是处理外部文档（法庭笔录、电子邮件、网络存档）还是通过写作和深思熟虑的关联来生成内部知识，从而做出选择。DEVONthink 的“See Also”功能能够自主地发现隐藏的联系，但它仍然是 macOS 独占的。Obsidian 拥有超过 1500 个插件的生态系统，支持跨 Windows、macOS 和 Linux 进行定制。混合方法——使用 DEVONthink 作为参考资源库，使用 Obsidian 进行主动笔记——汲取了这两种工具的优势，而无需做出非此即彼的决定。

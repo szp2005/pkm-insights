@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/template-for-organizing-digital-assets-in-notion.webp"
 editorSummary: >-
   Organizing Digital Assets Notion requires a master repository database paired with

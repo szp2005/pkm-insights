@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:59:08+08:00
 image: "/og/logseq-templates-for-doctoral-research-students.webp"
 editorSummary: >-
   Templates Doctoral Research Students need must balance standardized structure with

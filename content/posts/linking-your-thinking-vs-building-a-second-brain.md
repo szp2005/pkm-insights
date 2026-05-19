@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:46:11+08:00
 image: "/og/linking-your-thinking-vs-building-a-second-brain.webp"
 editorSummary: >-
   Thinking Building Second Brain reveals a fundamental divide in personal knowledge management

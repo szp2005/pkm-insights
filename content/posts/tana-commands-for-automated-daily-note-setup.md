@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:59:48+08:00
 image: "/og/tana-commands-for-automated-daily-note-setup.webp"
 editorSummary: >-
   Automated Daily Note Setup in Tana streamlines knowledge capture through Supertags and the

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T19:59:46+08:00
 image: "/og/what-is-folgezettel-numbering-in-zettelkasten-systems.webp"
 editorSummary: >-
   Folgezettel Numbering Zettelkasten Systems uses an alphanumeric branching ID method (like

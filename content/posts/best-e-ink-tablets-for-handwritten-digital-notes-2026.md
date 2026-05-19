@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T10:24:32+08:00
 image: "/og/best-e-ink-tablets-for-handwritten-digital-notes-2026.webp"
 editorSummary: >-
   Finding a device that balances tactile satisfaction with digital utility is a constant

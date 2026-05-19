@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:36:22-07:00
 image: "/og/atomic-notes-writing-guide.webp"
 editorSummary: >-
   I’ve often seen my digital notebook become a graveyard for information, but this breakdown

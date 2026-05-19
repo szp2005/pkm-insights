@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:47:11-07:00
 image: "/og/second-brain-for-boosting-creativity.webp"
 editorSummary: >-
   Brain Boosting Creativity requires separating divergent and convergent thinking phases, a

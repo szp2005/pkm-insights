@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:52:53+08:00
 image: "/og/tana-vs-roam-research-for-power-users.webp"
 editorSummary: >-
   Roam Research Power Users often face a critical trade-off: frictionless daily capture versus

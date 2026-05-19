@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/digital-garden-hosting-platforms-for-obsidian-users.webp"
 editorSummary: >-
   Obsidian 用户选择的托管平台多种多样，既有简单集成的 Obsidian Publish，也有像 Hugo 或 Jekyll 搭配 Netlify 这样灵活的静态站点生成器。我评估了每种方法如何处理核心的数字花园工作流——发布具有双向链接和图谱可视化的互联笔记——并发现易用性和可定制性之间的权衡决定了每一个选择。Obsidian Publish 不需要任何技术设置，但会让你受限于订阅模式；而 SSG 则需要 Git 知识，但能提供完全的设计控制。自托管提供了最大的灵活性，但需要具备服务器维护专业知识。你的选择最终取决于在部署阻力与长期维护期望之间找到平衡，因为错误的平台可能会破坏原本蓬勃发展的知识分享实践。

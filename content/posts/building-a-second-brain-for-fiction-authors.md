@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:47:28+08:00
 image: "/og/building-a-second-brain-for-fiction-authors.webp"
 editorSummary: >-
   Second Brain Fiction Authors requires adapting the CODE methodology—Capture, Organize,

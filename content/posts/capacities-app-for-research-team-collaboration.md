@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T11:04:22+08:00
 image: "/og/capacities-app-for-research-team-collaboration.webp"
 editorSummary: >-
   App Research Team Collaboration requires abandoning folder hierarchies for object-based

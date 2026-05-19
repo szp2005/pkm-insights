@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:41:57+08:00
 image: "/og/best-pkm-apps-for-visual-thinkers-2026.webp"
 editorSummary: >-
   PKM apps visual thinkers need balance free-form spatial layouts with structured retrieval—a

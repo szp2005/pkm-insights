@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T17:56:30+08:00
 image: "/og/obsidian-academic-workflow-for-thesis-2026.webp"
 editorSummary: >-
   Obsidian Academic Workflow Thesis 2026 relies on the Zotero Integration plugin to bridge

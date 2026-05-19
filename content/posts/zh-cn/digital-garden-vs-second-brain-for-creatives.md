@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/digital-garden-vs-second-brain-for-creatives.webp"
 editorSummary: >-
   Garden Second Brain Creatives demand different knowledge management approaches depending on

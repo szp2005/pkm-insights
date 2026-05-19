@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T10:42:10+08:00
 image: "/og/building-research-ontologies-in-capacities-app.webp"
 editorSummary: >-
   Research Ontologies Capacities App shift from folder-based hierarchies to object-based

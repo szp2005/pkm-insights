@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:50:52+08:00
 image: "/og/personal-knowledge-management-coaching-for-phd-students.webp"
 editorSummary: >-
   Management Coaching PhD Students transforms how doctoral researchers handle the overwhelming

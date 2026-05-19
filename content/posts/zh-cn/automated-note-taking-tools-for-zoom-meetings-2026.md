@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:42+08:00
 image: "/og/automated-note-taking-tools-for-zoom-meetings-2026.webp"
 title: "2026年最佳Zoom会议自动做笔记工具"
 description: "探索2026年最佳的Zoom会议自动做笔记工具。比较各种AI助手，了解它们如何简化工作流程、捕捉待办事项并节省时间。"

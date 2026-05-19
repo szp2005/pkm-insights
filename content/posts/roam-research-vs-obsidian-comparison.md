@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:59:10-07:00
 image: "/og/roam-research-vs-obsidian-comparison.webp"
 editorSummary: >-
   Roam Research and Obsidian represent fundamentally different approaches to networked

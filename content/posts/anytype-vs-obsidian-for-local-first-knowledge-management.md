@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T14:04:51+08:00
 image: "/og/anytype-vs-obsidian-local-first-knowledge-management.webp"
 editorSummary: >-
   I spent several days testing "Anytype vs Obsidian: Best Local-First Knowledge Management?"

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:39:44+08:00
 image: "/og/zettelkasten-method-for-academic-writers.webp"
 editorSummary: >-
   Zettelkasten Method Academic Writers relies on atomic notes—single ideas captured

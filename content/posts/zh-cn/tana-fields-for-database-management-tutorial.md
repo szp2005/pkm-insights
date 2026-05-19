@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tana-fields-for-database-management-tutorial.webp"
 editorSummary: >-
   Fields Database Management Tutorial transforms unstructured notes into queryable databases

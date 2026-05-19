@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T20:41:54+08:00
 editorSummary: >-
   Note Taking Video Creators need specialized systems that bridge unstructured inputs—voice
   memos, interview footage, research documents—with structured outputs like scripts and

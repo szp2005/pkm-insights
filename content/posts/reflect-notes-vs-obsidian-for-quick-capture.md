@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-06T12:16:54+08:00
 image: "/og/reflect-notes-vs-obsidian-for-quick-capture.webp"
 editorSummary: >-
   Notes Obsidian Quick Capture workflows diverge sharply in their approach to speed and

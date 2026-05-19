@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/how-to-build-a-second-brain.webp"
 editorSummary: >-
   Build Second Brain using the CODE methodology—Capture, Organize, Distill, Express—to

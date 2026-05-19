@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T19:08:05+08:00
 image: "/og/knowledge-retrieval-using-semantic-search.webp"
 editorSummary: >-
   Retrieval Using Semantic Search transforms knowledge discovery by mapping text into vector

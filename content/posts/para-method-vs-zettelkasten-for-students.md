@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:41:15+08:00
 image: "/og/para-method-vs-zettelkasten-for-students.webp"
 editorSummary: >-
   PARA Method Zettelkasten Students face a critical fork when organizing academic notes:

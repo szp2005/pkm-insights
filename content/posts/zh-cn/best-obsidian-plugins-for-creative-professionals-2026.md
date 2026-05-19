@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:26+08:00
 image: "/og/best-obsidian-plugins-for-creative-professionals-2026.webp"
 title: "2026年适合创意专业人士的最佳Obsidian插件"
 description: "2026年创意专业人士最佳Obsidian插件实用指南：设置步骤、工具选择、风险以及构建可靠工作流的检查。"

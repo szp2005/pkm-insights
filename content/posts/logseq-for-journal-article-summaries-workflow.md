@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T11:05:32+08:00
 image: "/og/logseq-for-journal-article-summaries-workflow.webp"
 editorSummary: >-
   Journal Article Summaries Workflow in Logseq combines Zotero integration with the platform's

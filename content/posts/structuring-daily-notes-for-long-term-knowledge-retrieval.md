@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:38:27+08:00
 image: "/og/structuring-daily-notes-for-long-term-knowledge-retrieval.webp"
 editorSummary: >-
   Long-term knowledge retrieval demands more than chronological capture—it requires layering

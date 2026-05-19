@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T15:05:36+08:00
 image: "/og/pkm-for-medical-doctors-managing-clinical-research.webp"
 editorSummary: >-
   Doctors Managing Clinical Research requires integrating reference managers like Zotero with

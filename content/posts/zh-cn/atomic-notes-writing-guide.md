@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-03T21:17:42+08:00
 image: "/og/atomic-notes-writing-guide.webp"
 title: "终极原子笔记写作指南：精通 PKM 与 Zettelkasten"
 description: "探索构建完美原子笔记的专业框架。学习如何提炼复杂思想、建立 Zettelkasten，并解锁复利效应。"

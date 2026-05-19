@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/scrintal-vs-heptabase-for-visual-note-taking.webp"
 editorSummary: >-
   Heptabase 可视化笔记工具需要在结构和灵活性之间进行仔细权衡。在这份关于 Scrintal 与 Heptabase

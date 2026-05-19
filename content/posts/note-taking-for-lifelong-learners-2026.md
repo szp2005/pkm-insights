@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T19:09:40+08:00
 image: "/og/note-taking-for-lifelong-learners-2026.webp"
 editorSummary: >-
   Note Taking Lifelong Learners demands more than passive transcription—it requires building

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/custom-obsidian-plugins-for-academic-researchers.webp"
 editorSummary: >-
   学术研究人员需要能够简化引用管理、PDF 注释和动态笔记工作流的 Obsidian 插件。我评估了七款核心的自定义插件——Zotero Integration、Dataview、PDF++、Templater、Omnisearch、Smart Connections 和 Linter——它们将 Obsidian 从一个基础的 Markdown 编辑器转变为专为学术研究打造的知识图谱。Zotero Integration 在您的文献数据库和知识库之间创建了一条直接通道，而 Dataview 则允许您对数百篇论文执行类似 SQL 的查询。关键的权衡在于：安装插件只是第一步；将它们配置成一个连贯的系统需要极强的纪律性，从而避免陷入“伪生产力”，将精力集中在真正的阅读和写作上。

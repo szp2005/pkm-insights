@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/how-to-take-smart-notes-summary.webp"
 editorSummary: >-
   《卡片笔记法》总结探讨了Zettelkasten方法如何通过用网络化、互联互通的理念取代层级文件夹系统，

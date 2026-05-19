@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-11T18:25:26+08:00
 image: "/og/best-markdown-editors-for-offline-personal-knowledge-management.webp"
 title: "2026年适合离线个人知识管理的最佳Markdown编辑器"
 description: "探索最适合离线个人知识管理（PKM）的Markdown编辑器。在没有互联网连接的情况下安全地组织您的想法、笔记和创意。"

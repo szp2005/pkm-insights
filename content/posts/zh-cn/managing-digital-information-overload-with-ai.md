@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T18:04:58+08:00
 image: "/og/managing-digital-information-overload-with-ai.webp"
 editorSummary: >-
   Managing Digital Information Overload with AI reduces context switching and decision fatigue

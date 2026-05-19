@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:38:37-07:00
 image: "/og/how-to-connect-ideas-in-obsidian-notes.webp"
 editorSummary: >-
   Connect Ideas Obsidian Notes through bidirectional linking, the engine that transforms

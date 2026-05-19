@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/structural-vs-organic-note-taking-methodologies.webp"
 editorSummary: >-
   Organic Note Taking Methodologies emphasize flexibility and emergent structure, contrasting

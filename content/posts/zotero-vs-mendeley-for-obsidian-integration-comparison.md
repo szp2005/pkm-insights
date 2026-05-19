@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T16:02:04+08:00
 image: "/og/zotero-vs-mendeley-for-obsidian-integration-comparison.webp"
 evidenceImage:
   src: "/media/adsense-phase2/notebook-writing.jpg"

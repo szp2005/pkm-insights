@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T19:11:33+08:00
 image: "/og/knowledge-retention-techniques-for-researchers.webp"
 editorSummary: >-
   Knowledge Retention Techniques Researchers use must combat the Ebbinghaus Forgetting Curve,

@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-16T19:52:21+08:00
 image: "/og/tana-supertags-for-project-managers-download.webp"
 editorSummary: >-
   Supertags Project Managers Download 提供了一个预配置的工作区，省去了数小时的 schema 设置。

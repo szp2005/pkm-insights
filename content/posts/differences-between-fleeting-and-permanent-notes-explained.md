@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T13:20:06+08:00
 image: "/og/differences-between-fleeting-and-permanent-notes-explained.webp"
 editorSummary: >-
   Fleeting and Permanent Notes Explained represent two distinct phases in the zettelkasten

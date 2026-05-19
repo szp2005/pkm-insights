@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-01T18:37:40+08:00
 image: "/og/obsidian-local-llm-integration-for-privacy.webp"
 editorSummary: >-
   Local LLM Integration Privacy demands careful attention to hardware

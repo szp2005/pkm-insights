@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-05T20:48:08+08:00
 image: "/og/map-of-content-obsidian-tutorial-for-beginners.webp"
 editorSummary: >-
   Content Obsidian Tutorial Beginners addresses a critical scaling problem: as your vault

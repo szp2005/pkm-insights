@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T15:39:53+08:00
 image: "/og/obsidian-vs-joplin-offline-knowledge-management.webp"
 editorSummary: >-
   Joplin Offline Knowledge Management excels at secure, decentralized syncing with built-in

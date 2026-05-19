@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-07T20:41:05+08:00
 image: "/og/how-to-back-up-obsidian-vault-securely.webp"
 editorSummary: >-
   Up Obsidian Vault Securely with a multi-layered strategy combining local backups, encrypted

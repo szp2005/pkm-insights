@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-04-29T17:13:37-07:00
 image: "/og/steps-to-building-a-second-brain.webp"
 editorSummary: >-
   Steps building a second brain demand mastery of the C.O.D.E. framework—Capture, Organize,

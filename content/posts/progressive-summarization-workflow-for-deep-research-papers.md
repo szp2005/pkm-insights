@@ -1,4 +1,5 @@
 ---
+publishedAt: 2026-05-02T13:35:36+08:00
 image: "/og/progressive-summarization-workflow-for-deep-research-papers.webp"
 editorSummary: >-
   Workflow Deep Research Papers demands a disciplined five-layer approach that transforms
