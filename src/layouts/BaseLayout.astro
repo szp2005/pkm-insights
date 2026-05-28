@@ -1,4 +1,10 @@
 ---
+// Global styles imported (not <link href="/styles/global.css">) so Astro
+// bundles them. The old absolute-path <link> 404'd — src/styles/ isn't
+// served at /styles/, only public/ is — leaving the site unstyled.
+// Fixed 2026-05-28 (same bug as notes-automate + home-office-gear).
+import "../styles/global.css";
+
 interface Props {
   title?: string;
   description?: string;
@@ -148,7 +154,6 @@ const ga4MeasurementId = import.meta.env.PUBLIC_GA4_MEASUREMENT_ID;
       })} />
     )}
 
-    <link rel="stylesheet" href="/styles/global.css" />
     {hasCloudflareWebAnalyticsToken && (
       <script
         is:inline
