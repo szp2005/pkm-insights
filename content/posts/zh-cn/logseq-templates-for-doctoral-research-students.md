@@ -45,7 +45,7 @@ type: "informational"
 
 Logseq 的 outliner structure、[local-first](/zh-cn/posts/anytype-review-local-first-privacy-lovers/) privacy 和 bidirectional linking 使其独特地适用于博士工作的严谨和长期需求。与标准基于文件夹的 apps 不同，Logseq 允许您在 block level 连接想法，这意味着关于特定 methodology 的单个 paragraph 可以直接链接到您的 daily lab notes、特定作者的 paper 和更广泛的 concept note。
 
-然而，每天早上从空白的 daily note 开始是摩擦的主要来源。为了充分利用[networked thought](/zh-cn/posts/tana-vs-capacities-for-networked-thought/)的全部力量，而不屈服于组织疲劳，您需要标准化的起点。使用结构化 templates 可确保每篇 literature、实验结果和每条 feedback 都被一致地 tag，使您可以使用 queries 稍后检索 exact information。
+然而，每天早上从空白的 daily note 开始是摩擦的主要来源。为了充分利用[networked thought](/zh-cn/posts/tana-vs-capacities-networked-thought/)的全部力量，而不屈服于组织疲劳，您需要标准化的起点。使用结构化 templates 可确保每篇 literature、实验结果和每条 feedback 都被一致地 tag，使您可以使用 queries 稍后检索 exact information。
 
 本指南提供了一套全面的 Logseq 模板，专为博士研究生设计，旨在将您的 graph 转换为自动化的研究助手。
 
