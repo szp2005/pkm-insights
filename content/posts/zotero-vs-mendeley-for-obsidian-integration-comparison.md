@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T16:02:04+08:00
 image: "/og/zotero-vs-mendeley-for-obsidian-integration-comparison.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/notebook-writing.jpg"
+  src: "/media/article-media/notebook-writing.jpg"
   alt: "Research notes and paper review setup"
   caption: "Handwritten notes at a working desk, used to illustrate research note-taking and review habits."
   credit: "cottonbro studio / Pexels"

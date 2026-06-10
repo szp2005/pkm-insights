@@ -2,7 +2,7 @@
 publishedAt: 2026-05-16T14:57:18+08:00
 image: "/og/how-to-create-a-zettelkasten-index-in-obsidian.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/sticky-workflow.jpg"
+  src: "/media/article-media/sticky-workflow.jpg"
   alt: "Index and link planning represented by sticky-note organization"
   caption: "A planning desk with sticky notes, used to represent workflow mapping and hand-picked editorial links."
   credit: "Anastasia Shuraeva / Pexels"

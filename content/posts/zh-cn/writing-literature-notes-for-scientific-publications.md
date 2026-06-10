@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T15:33:26+08:00
 image: "/og/writing-literature-notes-for-scientific-publications.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/notebook-writing.jpg"
+  src: "/media/article-media/notebook-writing.jpg"
   alt: "Handwritten literature note-taking setup"
   caption: "Handwritten notes at a working desk, used to illustrate research note-taking and review habits."
   credit: "cottonbro studio / Pexels"

@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T15:41:00+08:00
 image: "/og/top-dataview-alternatives-obsidian-database-queries.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/code-laptop.jpg"
+  src: "/media/article-media/code-laptop.jpg"
   alt: "Database-query workflow represented by a code laptop"
   caption: "A development laptop screen, used to ground the database-query workflow examples."
   credit: "Christina Morillo / Pexels"

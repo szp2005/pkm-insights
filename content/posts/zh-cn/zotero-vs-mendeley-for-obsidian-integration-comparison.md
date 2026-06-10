@@ -132,7 +132,7 @@ I will now update the todo list.
 ---
 image: "/og/zotero-vs-mendeley-for-obsidian-integration-comparison.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/notebook-writing.jpg"
+  src: "/media/article-media/notebook-writing.jpg"
   alt: "研究笔记和论文审阅设置"
   caption: "工作桌上的手写笔记，用于说明研究笔记记录和审阅习惯。"
   credit: "cottonbro studio / Pexels"

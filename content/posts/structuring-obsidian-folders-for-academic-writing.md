@@ -2,7 +2,7 @@
 publishedAt: 2026-05-07T12:32:46+08:00
 image: "/og/structuring-obsidian-folders-for-academic-writing.webp"
 evidenceImage:
-  src: "/media/adsense-phase2/notes-laptop.jpg"
+  src: "/media/article-media/notes-laptop.jpg"
   alt: "Academic folder and note planning represented by laptop and paper notes"
   caption: "Notebook and laptop planning setup, used to illustrate manual review and workflow documentation."
   credit: "RDNE Stock project / Pexels"
