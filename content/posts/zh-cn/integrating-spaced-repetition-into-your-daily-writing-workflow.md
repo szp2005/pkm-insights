@@ -1,13 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese. My plan involves:
-1.  **Extracting and Translating Frontmatter:** I will identify and translate the `title` and `description` fields, along with `editorSummary` and `authorNote`, while strictly preserving the YAML structure and other keys.
-2.  **Translating `manualRelated` links:** I will translate the titles and remap the URLs to `/zh-cn/posts/slug`.
-3.  **Translating Main Body:** I will go through the article section by section, translating paragraphs, headings, and lists.
-4.  **Remapping Internal Links:** Throughout the main body, I will remap all internal links from `/posts/slug` to `/zh-cn/posts/slug`.
-5.  **Translating FAQs:** I will translate the "Frequently Asked Questions" section.
-6.  **Preserving Formatting:** I will ensure all Markdown formatting, such as headings, bold text, italics, code blocks, and lists, is preserved.
-7.  **Maintaining Technical Terms:** I will not translate any specified technical terms or product names (e.g., 'Obsidian', 'Anki', 'Logseq', 'RemNote', 'Kindle', 'YAML').
-
-My goal is to return only the translated Markdown content, adhering to all strict requirements.
 ---
 image: "/og/integrating-spaced-repetition-into-your-daily-writing-workflow.webp"
 editorSummary: >-

@@ -1,9 +1,3 @@
-Okay, I will translate the provided Markdown article from English to Simplified Chinese (zh-cn) while strictly adhering to all your requirements: preserving the YAML frontmatter structure and keys, translating only the specified fields (`title`, `description`, `editorSummary`, `authorNote`, `manualRelated` titles), keeping all Markdown formatting, *not* translating technical terms, and remapping all internal links from `/posts/slug` to `/zh-cn/posts/slug`.
-
-I will now proceed with the translation.
-Okay, I understand the mistake. I will use the article content directly provided in the prompt for translation, rather than attempting to read a file from the file system. My apologies for the misunderstanding.
-
-I will now proceed with the translation of the provided article content.
 ---
 image: "/og/four-layer-stack-for-pkm-optimization.webp"
 editorSummary: >-

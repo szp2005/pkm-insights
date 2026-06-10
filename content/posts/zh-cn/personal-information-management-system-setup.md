@@ -27,7 +27,7 @@ manualRelated:
   - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
     url: "/zh-cn/posts/what-is-personal-knowledge-management/"
 title: "个人信息管理系统搭建终极指南"
-description: "了解如何设计、实施和优化适合您工作流程的个人信息管理（PIM）系统。"
+description: "了解如何设计、实施并持续优化适合自己工作流程的个人信息管理（PIM）系统，从工具选择到维护习惯的完整搭建指南。"
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["productivity", "knowledge-management", "PIM", "organization"]

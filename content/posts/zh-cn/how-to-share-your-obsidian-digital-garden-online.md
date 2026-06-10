@@ -1,5 +1,3 @@
-Here is the translated article following all your strict requirements:
-
 ---
 image: "/og/how-to-share-your-obsidian-digital-garden-online.webp"
 editorSummary: >-

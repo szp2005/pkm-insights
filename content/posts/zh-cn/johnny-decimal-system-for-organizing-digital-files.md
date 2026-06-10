@@ -1,4 +1,3 @@
-Okay, I will translate the provided Markdown article to Simplified Chinese (zh-cn), ensuring all specified requirements are met, including preserving frontmatter structure, translating specific fields, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links.
 ---
 image: "/og/johnny-decimal-system-for-organizing-digital-files.webp"
 editorSummary: >-

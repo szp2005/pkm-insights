@@ -1,8 +1,3 @@
-I will now proceed with translating the Markdown article from English to Simplified Chinese, ensuring all specified requirements are met. This includes preserving the frontmatter structure, translating specific fields, remapping internal links, and maintaining Markdown formatting while carefully handling technical terms.
-The article content has been read. I will now proceed to translate the frontmatter fields (`title`, `description`, `editorSummary`, `authorNote`, `manualRelated` titles), the main body, and remap the internal links.
-I am now translating the content and remapping the links, then I will output the final translated Markdown.
-My apologies; I'll fix the `write_todos` call. I'll condense the translation and link remapping into one "process translation and remapping" task.
-Translation and link remapping are done. Updating `write_todos` then outputting the markdown.
 ---
 image: "/og/top-tana-alternatives-for-structured-data.webp"
 editorSummary: >-

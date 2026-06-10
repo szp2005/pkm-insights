@@ -27,8 +27,8 @@ manualRelated:
     url: "/posts/tana-workspace-for-managing-academic-citations/"
   - title: "Logseq for Academic Literature Reviews: Complete 2026 Review"
     url: "/posts/logseq-for-academic-literature-reviews/"
-title: "Tana Workflows for Systematic Literature Reviews: Complete Guide"
-description: "Discover the most efficient Tana workflows for systematic literature reviews. Learn how to automate data extraction, manage metadata, and streamline research."
+title: "Tana 系统性文献综述工作流：完整指南"
+description: "探索用 Tana 开展系统性文献综述的高效工作流：学习自动化数据提取、管理文献元数据，并全面简化你的研究流程。"
 pubDate: "2026-05-03"
 author: "Alex Chen"
 tags: ["tana", "systematic literature reviews", "research workflows", "academics"]

@@ -13,7 +13,7 @@ manualRelated:
   - title: "研究人员的知识保留技巧：7步指南"
     url: "/zh-cn/posts/knowledge-retention-techniques-for-researchers/"
 title: "博士生 PKM 辅导：掌握研究与论文"
-description: "了解博士生的个人知识管理辅导如何改变您的研究过程，减轻压力，并加速论文完成。"
+description: "了解面向博士生的个人知识管理辅导如何改变研究流程、减轻文献过载压力，并显著加速论文写作与毕业进度。"
 pubDate: "2026-05-07"
 author: "Alex Chen"
 tags: ["PKM Coaching", "PhD Students", "Research Productivity", "Academic Coaching"]

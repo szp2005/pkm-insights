@@ -27,7 +27,7 @@ manualRelated:
   - title: "Arivu vs Readwise for Information Capture: Which Is Better?"
     url: "/posts/arivu-vs-readwise-for-information-capture/"
 title: "个人知识管理：终极指南 (2026)"
-description: "探索个人知识管理是什么，以及如何构建一个组织您的想法、消除信息过载并提升专注力的系统。"
+description: "全面了解什么是个人知识管理（PKM）：学习构建一套组织想法、消除信息过载并提升专注力的系统，附工具与方法选型指南。"
 pubDate: "2026-05-02"
 author: "Alex Chen"
 tags: ["personal knowledge management", "pkm", "productivity", "second brain"]

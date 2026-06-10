@@ -1,4 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese, adhering to all specified requirements, including preserving frontmatter structure, translating specific fields, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links.
 ---
 image: "/og/second-brain-template-for-podcasters-2026.webp"
 editorSummary: >-
@@ -13,7 +12,7 @@ manualRelated:
   - title: "Arivu vs Readwise：信息捕获工具哪个更好？"
     url: "/zh-cn/posts/arivu-vs-readwise-for-information-capture/"
 title: "2026年播客最佳第二大脑模板"
-description: "探索2026年播客的最佳第二大脑模板。轻松组织节目笔记、管理嘉宾并简化剧集制作流程。"
+description: "探索 2026 年播客创作者的最佳第二大脑模板：轻松组织节目笔记、管理嘉宾资料，并将剧集制作流程标准化、自动化。"
 pubDate: "2026-05-02"
 author: "Alex Chen"
 tags: ["播客组织", "第二大脑", "生产力", "内容创作"]

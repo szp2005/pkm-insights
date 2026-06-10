@@ -18,7 +18,7 @@ manualRelated:
   - title: "Zettelkasten 方法解析：掌握个人知识管理的综合指南"
     url: "/zh-cn/posts/zettelkasten-method-explained/"
 title: "律师的PKM：有效管理案件研究（完整指南）"
-description: "了解个人知识管理（PKM）系统如何帮助律师组织案件研究、连接先例并简化简报起草过程。"
+description: "了解个人知识管理（PKM）系统如何帮助律师高效组织案件研究、关联判例先例，并大幅简化法律简报的起草与复用流程。"
 pubDate: "2026-05-02"
 author: "Alex Chen"
 tags: ["PKM", "legal tech", "case research", "productivity"]

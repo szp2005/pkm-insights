@@ -13,7 +13,7 @@ manualRelated:
   - title: "学生知识管理策略：全面提升学术表现指南"
     url: "/zh-cn/posts/knowledge-management-strategies-for-students/"
 title: "建立家谱家庭知识库：5步指南"
-description: "了解如何建立家谱家庭知识库，帮助您整理、保存和安全地分享祖先记录，以供后代使用。"
+description: "了解如何用 5 个步骤建立家谱家庭知识库，系统整理、长期保存并安全分享家族祖先记录，把口述历史传给后代。"
 pubDate: "2026-05-02"
 author: "Alex Chen"
 tags: ["genealogy", "knowledge management", "family history", "organization"]

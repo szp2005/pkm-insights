@@ -13,7 +13,7 @@ manualRelated:
   - title: "终极指南：从零开始构建 PKM 系统"
     url: "/zh-cn/posts/building-a-pkm-system-from-scratch/"
 title: "高效管理数字文件：终极专家指南"
-description: "通过专家指南掌握数字整理，高效组织数字文件，清晰命名文档，并构建可搜索的文件夹系统。"
+description: "通过专家指南掌握数字整理：高效组织数字文件、规范文档命名，并构建可搜索的文件夹系统，让每个文件三秒内可被找到。"
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["productivity", "digital minimalism", "file management", "organization"]

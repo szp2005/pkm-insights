@@ -13,7 +13,7 @@ manualRelated:
   - title: "终极指南：构建第二大脑以实现最大生产力的步骤"
     url: "/zh-cn/posts/steps-to-building-a-second-brain/"
 title: "第二大脑与卡片盒笔记法：个人知识管理终极指南"
-description: "第二大脑与卡片盒笔记法的专家对比。探索哪种个人知识管理 (PKM) 系统最符合您的需求。"
+description: "第二大脑与卡片盒笔记法（Zettelkasten）的专家级对比：从理念、工作流到适用场景，帮你找到最契合需求的 PKM 系统。"
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["second-brain", "zettelkasten", "pkm", "productivity", "knowledge-management"]

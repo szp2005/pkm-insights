@@ -13,7 +13,7 @@ manualRelated:
   - title: "Zettelkasten 原子笔记写作指南：5步系统"
     url: "/zh-cn/posts/atomic-notes-writing-guide-for-zettelkasten/"
 title: "闪念笔记与永久笔记的区别详解：知识管理完整指南"
-description: "详细了解闪念笔记与永久笔记之间的核心区别。学习如何将原始想法转化为终身知识系统。"
+description: "详细了解闪念笔记与永久笔记在 Zettelkasten 工作流中的核心区别，学习如何在 48 小时内将原始想法转化为可长期复用的终身知识系统。"
 pubDate: "2026-05-07"
 author: "Alex Chen"
 tags: ["zettelkasten", "personal knowledge management", "note-taking", "productivity"]

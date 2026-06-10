@@ -30,7 +30,7 @@ type: "informational"
 
 # Tana Supertags for Project Managers: 下载终极2026设置
 
-> **快速答案：** 优化 Tana 以进行 [项目管理](/zh-cn/posts/obsidian-canvas-for-mapping-complex-project-ideas/) 最快的方法是导入一个预配置的工作区。我们可下载的 PM Supertag 捆绑包包括 `#project`、`#task`、`#meeting` 和 `#person` 标签，并附带了继承的 status、priority 和 deadlines 字段，可立即将您的日常节点结构转换为功能性的项目管理仪表板。
+> **快速解答：** 优化 Tana 以进行 [项目管理](/zh-cn/posts/obsidian-canvas-for-mapping-complex-project-ideas/) 最快的方法是导入一个预配置的工作区。我们可下载的 PM Supertag 捆绑包包括 `#project`、`#task`、`#meeting` 和 `#person` 标签，并附带了继承的 status、priority 和 deadlines 字段，可立即将您的日常节点结构转换为功能性的项目管理仪表板。
 
 管理分布式团队中的多个项目需要一个能够处理粒度任务细节和高层级投资组合概览的系统。传统的项目管理 [工具](/zh-cn/posts/personal-knowledge-management-tools-comparison/) 通常会强迫您进入僵化的层级结构，而无结构的 [笔记](/zh-cn/posts/zettelkasten-method-explained/) 应用程序则让您寻找丢失的行动项。Tana 通过其独特的数据库内节点架构弥合了这一差距，尤其受到 Supertags 的驱动。
 

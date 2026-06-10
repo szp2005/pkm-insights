@@ -27,7 +27,7 @@ manualRelated:
   - title: "Personal Knowledge Management (PKM): The Ultimate Guide to Building Your Second Brain"
     url: "/zh-cn/posts/what-is-personal-knowledge-management/"
 title: "为产品经理设置个人知识管理：5步指南"
-description: "通过本分步教程掌握产品经理的个人知识管理。构建可扩展的系统来组织研究、规范和路线图。"
+description: "通过本分步教程掌握产品经理的个人知识管理，构建可扩展的系统来组织用户研究、需求规范与产品路线图，告别信息散落。"
 pubDate: "2026-05-02"
 author: "Alex Chen"
 tags: ["pkm", "product management", "productivity", "workflows"]

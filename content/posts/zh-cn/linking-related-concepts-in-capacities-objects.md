@@ -1,4 +1,3 @@
-I have completed the remapping of links in the body content. Now I will update the todo list to reflect this.
 ---
 image: "/og/linking-related-concepts-in-capacities-objects.webp"
 editorSummary: >-

@@ -27,7 +27,7 @@ manualRelated:
   - title: "终极指南：构建第二大脑以实现最大生产力的步骤"
     url: "/zh-cn/posts/steps-to-building-a-second-brain/"
 title: "独立研究者的个人知识管理指南"
-description: "探索如何为独立研究者建立高效的个人知识管理。学习工作流、工具和系统来组织你的研究数据。"
+description: "探索独立研究者如何建立高效的个人知识管理系统：学习实用工作流、工具选择与组织方法，长期管理你的研究数据与文献。"
 pubDate: "2026-05-05"
 author: "Alex Chen"
 tags: ["personal knowledge management", "independent researchers", "research workflows", "productivity"]

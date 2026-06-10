@@ -1,25 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese, ensuring all specified requirements are met, including preserving the frontmatter structure, translating only designated fields, maintaining Markdown formatting, remapping internal links, and not translating technical terms.---
-image: "/og/managing-doctoral-thesis-notes-in-logseq.webp"
-editorSummary: >-
-  博士论文笔记的 Logseq 系统通过块级而非文档级的操作，改变了学术研究，使您能够将特定证据直接嵌入到综合段落中，并自动
-I need to create the `temp_translated_article.md` file first before I can modify it. I'll write the original article content to this temporary file.
-`temp_translated_article.md` is ready. Time to replace.
-Okay, `title` and `description` are translated. Updating `todos`.
-Translated `editorSummary` and `authorNote`. Updating `todos`.
-I'll translate and remap the internal links within `manualRelated` in the frontmatter, including translating the titles themselves.
-Okay, `manualRelated` links remapped. Updating `todos`.
-I'll translate and remap the initial section of the main body, replacing the original content with the Simplified Chinese version, including updated internal links. This is the first step in a multi-stage process for the main content.
-I've translated the first main body section and remapped its links. Now, I'll move on to the next section, translating its content and ensuring all internal links are properly remapped.
-Translated "The Block-Level Advantage for Academic Research" and remapped links. Moving to next section.
-"Integrating Logseq with Reference Managers" translated, links remapped. Next section.
-Translated "Designing Your Thesis Knowledge Architecture," remapped links. Next section.
-Translated "Advanced Querying for Literature Synthesis," remapped links. Next section.
-Translated "Practical Advice: Daily Workflow and Maintenance" and remapped its links. Moving to the next section.
-Translated "Transitioning from Notes to the Final Draft," remapped links. Now, to "Frequently Asked Questions."
-Okay, translated main body and remapped links. Updating `todos`.
-Translation and remapping done. Reading `temp_translated_article.md` and returning the final Markdown.
-Article translated, links remapped. Deleting `temp_translated_article.md`.
-Temporary file deleted. All tasks done.
 ---
 image: "/og/managing-doctoral-thesis-notes-in-logseq.webp"
 editorSummary: >-

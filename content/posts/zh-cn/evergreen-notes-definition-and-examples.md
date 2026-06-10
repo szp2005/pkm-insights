@@ -13,7 +13,7 @@ manualRelated:
   - title: "个人知识管理（PKM）：构建你的第二大脑的终极指南"
     url: "/zh-cn/posts/what-is-personal-knowledge-management/"
 title: "常青笔记：定义、原则与实践案例"
-description: "了解常青笔记的全面定义，探索其核心原则，并分析将彻底改变您的实践案例。"
+description: "全面了解常青笔记（Evergreen Notes）的定义与核心原则，并通过实践案例学习如何把零散笔记沉淀为可持续生长的知识体系。"
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["pkm", "evergreen notes", "zettelkasten", "note-taking", "productivity"]

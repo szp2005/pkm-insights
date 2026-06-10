@@ -13,7 +13,7 @@ manualRelated:
   - title: "2026年第二大脑：提升创造力的完整指南"
     url: "/zh-cn/posts/second-brain-for-boosting-creativity-in-2026/"
 title: "个人知识管理中的语义层：完整指南"
-description: "了解个人知识管理中的语义层如何将分散的笔记转化为相互连接、可查询的数据库。"
+description: "了解个人知识管理中的语义层如何把分散笔记转化为相互连接、可查询的知识数据库，并学习落地所需的工具与建模步骤。"
 pubDate: "2026-05-01"
 author: "Alex Chen"
 tags: ["pkm", "knowledge management", "semantic web", "productivity"]

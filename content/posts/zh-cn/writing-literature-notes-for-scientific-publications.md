@@ -19,7 +19,7 @@ manualRelated:
   - title: "Obsidian学术写作文件夹结构：5步系统"
     url: "/zh-cn/posts/structuring-obsidian-folders-for-academic-writing/"
 title: "撰写科学出版物文献笔记：5步系统"
-description: "掌握为科学出版物撰写文献笔记的艺术。学习提取关键数据、综合研究并加速您的学术写作。"
+description: "掌握为科学出版物撰写文献笔记的艺术：学习提取关键数据、综合多篇研究并加速学术写作的 5 步系统与实用模板。"
 pubDate: "2026-05-07"
 author: "Alex Chen"
 tags: ["literature review", "academic writing", "research workflow", "PKM"]

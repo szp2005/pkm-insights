@@ -25,7 +25,7 @@ manualRelated:
   - title: "学生的知识管理策略：学术卓越综合指南"
     url: "/zh-cn/posts/knowledge-management-strategies-for-students/"
 title: "使用数字笔记实践主动回忆：5步指南"
-description: "学习如何使用数字笔记实践主动回忆，显著提高记忆力和学习效率。一个完整的5步框架。"
+description: "学习如何使用数字笔记实践主动回忆（Active Recall），通过完整的 5 步框架显著提高记忆保持率和学习效率。"
 pubDate: "2026-05-02"
 author: "Alex Chen"
 tags: ["active recall", "digital notes", "study techniques", "students"]

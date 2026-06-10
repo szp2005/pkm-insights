@@ -1,4 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese (zh-cn), ensuring all specified requirements are met. My plan involves: extracting and translating the frontmatter's 'title' and 'description', translating the main body while preserving Markdown and technical terms, remapping internal links, and finally reassembling the document.
 ---
 image: "/og/how-to-structure-dataview-queries-for-research.webp"
 editorSummary: >-

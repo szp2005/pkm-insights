@@ -22,7 +22,7 @@ manualRelated:
   - title: "Zettelkasten原子笔记写作指南：5步系统"
     url: "/zh-cn/posts/atomic-notes-writing-guide-for-zettelkasten/"
 title: "卡片笔记法：综合总结与实用指南"
-description: "通过我们对《如何高效学习》的深入总结，掌握卡片笔记法。学习更优知识管理和写作的实用技巧。"
+description: "通过我们对《如何高效学习》（How to Take Smart Notes）的深入总结掌握卡片笔记法，学习改进知识管理与写作的实用技巧。"
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["PKM", "Zettelkasten", "Note-Taking", "Productivity", "Book Summary"]

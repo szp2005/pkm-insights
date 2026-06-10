@@ -1,4 +1,3 @@
-Now that I have translated the entire article and updated the links, I will mark the remaining tasks as complete and provide the final translated Markdown.
 ---
 image: "/og/second-brain-for-boosting-creativity.webp"
 editorSummary: >-
@@ -13,7 +12,7 @@ manualRelated:
   - title: "Personal Knowledge Management Tools Comparison: Finding Your Ultimate Second Brain"
     url: "/zh-cn/posts/personal-knowledge-management-tools-comparison/"
 title: "使用第二大脑提升创造力的终极指南"
-description: "探索第二大脑如何改变你的创意工作流程。学习捕捉想法、连接概念和克服空白页的实用策略。"
+description: "探索第二大脑如何改变你的创意工作流：学习捕捉灵感、连接概念的实用策略，彻底克服面对空白页的创作焦虑。"
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["PKM", "Second Brain", "Creativity", "Productivity"]

@@ -1,4 +1,3 @@
-I am starting the translation of the Markdown article to Simplified Chinese. I will ensure all strict requirements are met, including preserving frontmatter structure, translating specific fields, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links.I will now translate the provided Markdown article from English to Simplified Chinese (zh-cn), ensuring all specified requirements are met. This includes preserving the YAML frontmatter structure, translating the 'title' and 'description' fields, translating the main body while retaining Markdown formatting, not translating technical terms, and remapping internal links.
 ---
 image: "/og/what-is-folgezettel-numbering-in-zettelkasten-systems.webp"
 editorSummary: >-

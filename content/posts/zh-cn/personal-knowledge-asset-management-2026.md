@@ -13,7 +13,7 @@ manualRelated:
   - title: "深度研究论文的渐进式总结工作流：5步指南"
     url: "/zh-cn/posts/progressive-summarization-workflow-for-deep-research-papers/"
 title: "2026年个人知识资产管理：完整指南"
-description: "掌握2026年的个人知识资产管理。探索有效组织、连接和检索数字信息的实用系统。"
+description: "掌握 2026 年的个人知识资产管理：探索高效组织、连接和检索数字信息的实用系统，把零散笔记变成可复利的知识资产。"
 pubDate: "2026-05-01"
 author: "Alex Chen"
 tags: ["knowledge management", "pkm", "productivity", "digital assets"]

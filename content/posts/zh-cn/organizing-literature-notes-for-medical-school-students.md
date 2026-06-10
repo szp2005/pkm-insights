@@ -28,7 +28,7 @@ manualRelated:
   - title: "Practice Active Recall Using Digital Notes: 5-Step Guide"
     url: "/zh-cn/posts/how-to-practice-active-recall-using-digital-notes/"
 title: "医学院文献笔记：完整指南"
-description: "通过这份综合指南，掌握医学院学生组织文献笔记的艺术，确保高效学习和复杂知识的保留。"
+description: "通过这份综合指南掌握医学院学生组织文献笔记的方法，建立高效的学习流程，确保复杂医学知识的长期保留与快速检索。"
 pubDate: "2026-05-07"
 author: "Alex Chen"
 tags: ["medical school study", "literature notes", "study techniques", "medical students"]

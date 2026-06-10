@@ -13,7 +13,7 @@ manualRelated:
   - title: "Arivu vs Readwise for Information Capture: 哪个更好？"
     url: "/zh-cn/posts/arivu-vs-readwise-for-information-capture/"
 title: "研究人员的知识留存技术：7步指南"
-description: "掌握研究人员的知识留存技术。学习如何处理文献、克服遗忘曲线并建立可靠的个人知识库。"
+description: "掌握面向研究人员的知识留存技术：学习如何高效处理文献、克服遗忘曲线，并建立可靠、可检索的个人知识库支撑长期研究。"
 pubDate: "2026-05-01"
 author: "Alex Chen"
 tags: ["knowledge management", "research methods", "productivity", "academic writing"]

@@ -1,4 +1,3 @@
-I will now translate the `editorSummary`, `authorNote`, `title`, and `description` in the frontmatter, and remap the URLs in `manualRelated`. I'll start by building the new frontmatter.```yaml
 ---
 image: "/og/heptabase-review-for-visual-project-management.webp"
 editorSummary: >-

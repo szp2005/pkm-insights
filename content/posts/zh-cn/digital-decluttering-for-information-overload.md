@@ -13,7 +13,7 @@ manualRelated:
   - title: "个人信息管理系统设置终极指南"
     url: "/zh-cn/posts/personal-information-management-system-setup/"
 title: "信息过载时代的数字极简：重新找回专注力的全面指南"
-description: "通过数字极简的专家策略，对抗认知疲劳并夺回你的生产力。学习如何系统性地克服信息过载。"
+description: "通过数字极简与数字断舍离的专家策略，对抗认知疲劳并夺回你的生产力，学习用系统化流程克服信息过载、重建长期专注力。"
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["数字极简", "信息过载", "生产力", "个人知识管理", "专注力"]

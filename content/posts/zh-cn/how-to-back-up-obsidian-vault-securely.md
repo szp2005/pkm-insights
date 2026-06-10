@@ -1,4 +1,3 @@
-Okay, I will translate the provided Markdown article from English to Simplified Chinese, adhering to all your specified requirements. I will ensure the frontmatter structure and keys are preserved, only 'title' and 'description' values are translated, all Markdown formatting is maintained in the body content, technical terms like 'Obsidian' are not translated, and internal links are remapped to `/zh-cn/posts/slug`.
 ---
 image: "/og/how-to-back-up-obsidian-vault-securely.webp"
 editorSummary: >-

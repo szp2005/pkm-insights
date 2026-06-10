@@ -13,7 +13,7 @@ manualRelated:
   - title: "为产品经理设置个人知识管理：5步指南"
     url: "/zh-cn/posts/personal-knowledge-management-for-product-managers-tutorial/"
 title: "深度研究论文的渐进式摘要工作流：5步指南"
-description: "掌握深度研究论文的渐进式摘要工作流。学习如何高效地将复杂的学术文献提炼为可操作的见解。"
+description: "掌握深度研究论文的渐进式摘要工作流：学习分层高亮与提炼技巧，高效将复杂学术文献转化为可直接引用的可操作见解。"
 pubDate: "2026-05-02"
 author: "Alex Chen"
 tags: ["productivity", "research", "pkm", "knowledge management"]

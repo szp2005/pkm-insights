@@ -1,6 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese (zh-cn), ensuring all specified requirements are met, including preserving frontmatter structure, translating specific fields, maintaining Markdown formatting, remapping internal links, and avoiding translation of technical terms.
-I will now proceed with the translation of the article. My initial focus will be on the frontmatter, where I will precisely copy non-translatable fields, translate the `title` and `description` values, and update `manualRelated` titles while adjusting their URLs. Following this, I will tackle the main body content and the related reading section, ensuring all other translation rules are meticulously applied.
-YAML frontmatter is done. Translating title/description now. Generating full translated markdown.
 ---
 image: "/og/pkm-for-medical-doctors-managing-clinical-research.webp"
 editorSummary: >-

@@ -1,7 +1,3 @@
-I will translate the provided Markdown article from English to Simplified Chinese (zh-cn) following all specified requirements, including preserving the frontmatter structure, translating specific fields, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links.
-The first step is to translate the frontmatter fields in the provided article content. I will translate `editorSummary`, `authorNote`, `title`, `description`, and the `title` and `url` within `manualRelated` while keeping other frontmatter fields as they are. Afterwards, I will proceed with translating the main body.
-I have translated the frontmatter fields, including `editorSummary`, `authorNote`, `manualRelated` titles, `title`, and `description`, while preserving other keys and updating internal URLs to `/zh-cn/posts/slug`. I have also translated the main body, ensuring Markdown formatting is kept intact and technical terms are not translated, and all internal links are remapped. I will now update the todo list.
-All translation and remapping are complete. Now, I will assemble the translated frontmatter and main body into the final Markdown content and present it.
 ---
 image: "/og/obsidian-local-llm-integration-for-privacy.webp"
 editorSummary: >-

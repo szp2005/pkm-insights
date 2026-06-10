@@ -27,7 +27,7 @@ manualRelated:
   - title: "Zettelkasten 方法解析：掌握个人知识管理的全面指南"
     url: "/zh-cn/posts/zettelkasten-method-explained/"
 title: "数字通用手册设置：分步指南"
-description: "了解如何构建数字通用手册以捕捉想法、组织研究并有效整合知识。现代工具的完整指南。"
+description: "了解如何构建数字通用手册（Commonplace Book），系统捕捉想法、组织研究并高效整合知识，附现代工具的完整搭建指南。"
 pubDate: "2026-05-02"
 author: "Alex Chen"
 tags: ["knowledge management", "productivity", "note-taking", "personal development"]

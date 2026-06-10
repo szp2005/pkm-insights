@@ -13,7 +13,7 @@ manualRelated:
   - title: "学生知识管理策略：学术卓越综合指南"
     url: "/zh-cn/posts/knowledge-management-strategies-for-students/"
 title: "Tana 自动化日记命令：完整设置指南"
-description: "掌握 Tana 自动化日记设置命令，简化您的知识管理，确保轻松一致地捕获想法和任务。"
+description: "掌握 Tana 自动化日记设置的核心命令：用模板与 supertag 简化知识管理流程，确保想法和任务被轻松、一致地捕获。"
 pubDate: "2026-05-06"
 author: "Alex Chen"
 tags: ["Tana", "Daily Notes", "Automation", "Productivity"]

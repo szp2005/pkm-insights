@@ -13,7 +13,7 @@ manualRelated:
   - title: "提升生产力的数字笔记策略：终极专家指南"
     url: "/zh-cn/posts/digital-note-taking-strategies-for-productivity/"
 title: "高效学习笔记技巧：全面指南"
-description: "掌握高效学习笔记技巧的艺术。探索经过验证的方法、专家策略和提升记忆力的最佳框架。"
+description: "掌握高效学习笔记技巧的艺术：探索经过验证的笔记方法、专家策略与最佳框架，全面提升记忆保持率和学习效率。"
 pubDate: "2026-04-30"
 author: "Alex Chen"
 tags: ["note taking", "learning", "PKM", "study techniques", "productivity"]

@@ -1,4 +1,3 @@
-Okay, I understand the task. I need to translate the provided Markdown article from English to Simplified Chinese (zh-cn), adhering to all the specified formatting, preservation, and remapping rules. I will focus on accurate translation while maintaining the technical integrity of the content.
 ---
 image: "/og/knowledge-asset-product-group-strategy.webp"
 editorSummary: >-
