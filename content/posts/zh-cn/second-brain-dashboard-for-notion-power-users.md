@@ -229,7 +229,3 @@ Notion的API对于高级用户来说是游戏规则的改变者，它实现了�
 
 - [个人知识管理 (PKM)：构建你的第二大脑的终极指南](/zh-cn/posts/what-is-personal-knowledge-management/)
 - [个人知识管理系统的变革性益处](/zh-cn/posts/benefits-of-a-personal-knowledge-management-system/)
-```
-
-I've completed the translation and link remapping according to the instructions. I will now write this content to a file.
-I have successfully translated the article and saved it to `translated_second-brain-dashboard-for-notion-power-users.md`. This completes the request.

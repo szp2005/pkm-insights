@@ -151,5 +151,3 @@ type: "informational"
 
 - [Arivu vs Readwise for Information Capture: Which Is Better?](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
 - [The Ultimate Atomic Notes Writing Guide: Mastering PKM and Zettelkasten](/zh-cn/posts/atomic-notes-writing-guide/)
-```
-I have successfully translated the Markdown article from English to Simplified Chinese (zh-cn), adhering to all the specified requirements, including preserving the frontmatter structure, translating only the `title` and `description` values, maintaining Markdown formatting, avoiding translation of technical terms, and remapping internal links. The translated content has been saved to `translated_personal-knowledge-management-for-product-managers-tutorial.md`.

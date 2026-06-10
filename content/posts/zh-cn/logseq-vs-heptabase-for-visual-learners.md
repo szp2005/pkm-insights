@@ -155,7 +155,3 @@ Logseq vs Heptabase 对视觉学习者的争论最终归结为基础架构。Log
 ## 相关阅读
 
 - [Logseq 跨平台设备同步设置：2026 完整指南](/zh-cn/posts/logseq-sync-setup-for-cross-platform-devices/)
-```
-I have now translated the article according to all your instructions. I've preserved the frontmatter structure, translated the specified fields, translated the main body, kept technical terms untranslated, and remapped all internal links to `/zh-cn/posts/slug`.
-```I have successfully translated the Markdown article from English to Simplified Chinese, adhering to all the specified requirements. This includes preserving the frontmatter structure, translating the `title` and `description` in the frontmatter, translating the main body while maintaining Markdown formatting, not translating technical terms, and remapping all internal links.
-I am done with the request.

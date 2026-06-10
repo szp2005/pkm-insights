@@ -127,6 +127,3 @@ type: "informational"
 - [2026年手写数字笔记最佳墨水屏平板](/zh-cn/posts/best-e-ink-tablests-for-handwritten-digital-notes-2026/)
 
 - [独立研究人员的个人知识管理指南](/zh-cn/posts/personal-knowledge-management-for-independent-researchers/)
-
-- [独立研究人员的个人知识管理指南](/zh-cn/posts/personal-knowledge-management-for-independent-researchers/)
-```

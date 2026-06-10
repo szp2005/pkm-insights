@@ -204,5 +204,3 @@ Tana 允许您导出数据，通常为 JSON 格式。由于您的笔记是使用
 ## 相关阅读
 
 - [Tana Fields for Database Management Tutorial: Complete Guide](/zh-cn/posts/tana-fields-for-database-management-tutorial/)
-```
-I have successfully translated the Markdown article from English to Simplified Chinese, saved it to `translated_tana_workspace_for_managing_academic_citations.md`, and ensured all requirements were met, including preserving the frontmatter, selective translation of title and description, maintaining Markdown formatting, retaining technical terms, and remapping internal links.

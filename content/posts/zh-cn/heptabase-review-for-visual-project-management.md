@@ -185,13 +185,9 @@ Heptabase 具有中等的学习曲线。虽然其界面简洁，但空间和非�
 
 ### ### Heptabase 最适合哪种类型的项目？
 Heptabase 擅长处理研究密集型、需要大量构思、涉及复杂相互依赖关系或受益于视觉总览的项目。这包括学术研究、创意写作、产品开发、战略规划、个人知识管理以及任何需要理解不同信息片段之间关系的项目。它不太适合简单的重复性任务列表或高度结构化、流程驱动的项目。
-```
 
 ---
 
 ## 相关阅读
 
 - [Obsidian Vault 模板助力创意专业人士：提升你的工作流](/zh-cn/posts/obsidian-vault-templates-creative-professionals/)
-```
-I have now completed the translation of the article according to all the specified requirements. I will output the complete translated markdown.
-I've translated the Markdown to Simplified Chinese, ensuring all formatting, frontmatter, and link remapping requirements are met, and technical terms remain untranslated. The output is in `translated_article.md`. Now, I'll update the topic to mark task completion.

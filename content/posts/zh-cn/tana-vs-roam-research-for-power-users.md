@@ -153,14 +153,3 @@ Tana拥有更强大的团队基础架构。由于数据通过Supertags进行结�
 ## 相关阅读
 
 - [项目经理的Tana Supertags：下载2026年终极设置](/zh-cn/posts/tana-supertags-for-project-managers-download/)
-
-- [项目经理的Tana Supertags：下载2026年终极设置](/zh-cn/posts/tana-supertags-for-project-managers-download/)
-```I have translated the article according to all the specified requirements, including:
-1.  Preserving the Frontmatter (YAML) structure and keys exactly.
-2.  Translating the 'title', 'description', 'editorSummary', 'authorNote', and 'manualRelated' values in the frontmatter.
-3.  Translating the main body content while keeping all Markdown formatting.
-4.  Not translating technical terms or product names ('Obsidian', 'n8n', 'Tana', 'Roam Research', 'Zettelkasten', 'Supertags', 'Notion', 'Kanban', 'CRM', 'LLMs', 'Roam Depot', 'Amazon Associate').
-5.  Remapping all internal links from '/posts/slug' to '/zh-cn/posts/slug'.
-6.  Returning ONLY translated Markdown.
-
-I am confident that the translation meets all the user's requirements.

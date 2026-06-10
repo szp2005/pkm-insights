@@ -170,11 +170,3 @@ Logseq 作为任务管理器功能异常强大，主要是因为任务可以精�
 
 ### 如果我停止使用 Logseq，我的日记会怎么样？
 Logseq 非常重视防止数据锁定。你的所有日常日记条目都保存为标准 `.md`（Markdown）文本文件，格式为项目符号列表。如果你离开该应用程序，你可以在任何文本编辑器中打开你的整个日记历史记录，或将其直接导入其他基于 Markdown 的系统，如 [Obsidian](/zh-cn/posts/what-is-personal-knowledge-management/) 或 Bear。
-```
-The translation is complete, adhering to all the specified requirements.
-- Frontmatter structure and keys are preserved.
-- 'title' and 'description' are translated.
-- Main body content is translated, Markdown formatting is kept.
-- Technical terms are not translated.
-- Internal links are remapped to `/zh-cn/posts/slug`.
-- Only the translated Markdown is returned.

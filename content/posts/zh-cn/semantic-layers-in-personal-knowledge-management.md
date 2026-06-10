@@ -141,6 +141,3 @@ type: "informational"
 
 - [Arivu 与 Readwise 的信息捕获对比：哪个更好？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
 - [2026年最佳个人知识管理应用程序：构建你的终极第二大脑](/zh-cn/posts/best-apps-for-personal-knowledge-management/)
-```
-```
-I have successfully translated the Markdown article from English to Simplified Chinese (zh-cn) according to all the specified requirements. The frontmatter structure and keys are preserved, 'title', 'description', 'editorSummary', and 'authorNote' values are translated, and 'manualRelated' titles are translated with remapped URLs. The main body content is translated, Markdown formatting is maintained, technical terms are untranslated, and all internal links are remapped from '/posts/slug' to '/zh-cn/posts/slug'. I have returned only the translated Markdown.

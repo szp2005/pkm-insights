@@ -164,4 +164,3 @@ Logseq 和 RemNote 都是内置原生间隔重复功能的提纲工具。每个�
 
 - [Anytype vs Obsidian：哪款是最佳本地优先知识管理工具？](/zh-cn/posts/anytype-vs-obsidian-local-first-knowledge-management/)
 - [Arivu vs Readwise 进行信息捕捉：哪个更好？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
-I have successfully translated the Markdown article from English to Simplified Chinese, adhering to all specified requirements regarding frontmatter preservation, content translation, Markdown formatting, technical term exclusion, and internal link remapping. The translated content has been saved to `translated_integrating_spaced_repetition_into_your_daily_writing_workflow.md`.

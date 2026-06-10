@@ -189,4 +189,3 @@ Luhmann 的规则是将其放置在撰写时最相关的序列之后。为了将
 - [如何在 PKM 中重构旧笔记：5 步系统](/zh-cn/posts/how-to-refactor-old-notes-in-your-pkm/)
 
 - [2026 年大学生最佳 Capacities 模板](/zh-cn/posts/best-capacities-templates-for-university-students/)
-I have successfully translated the Markdown article from English to Simplified Chinese (zh-cn) and saved it as `translated_what_is_folgezettel_numbering_in_zettelkasten_systems.md`. All specified requirements, including preserving the frontmatter, translating specific fields, remapping internal links, and maintaining Markdown formatting, have been met.

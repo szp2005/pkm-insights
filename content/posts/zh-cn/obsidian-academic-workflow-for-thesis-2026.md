@@ -140,13 +140,3 @@ Obsidian 可以轻松处理数千个文本文件。但是，将数千个大型 P
 
 - [Notion 与 Obsidian 在 PKM 上的对比：权威专家指南](/zh-cn/posts/notion-vs-obsidian-for-pkm/)
 - [Obsidian 本地 LLM 集成以保护隐私：完整设置指南](/zh-cn/posts/obsidian-local-llm-integration-for-privacy/)
-```
-I have completed the translation of the Markdown article from English to Simplified Chinese, adhering to all the specified strict requirements.
-
-This includes:
-1.  Preserving the Frontmatter (YAML) structure and keys exactly.
-2.  Translating the 'title' and 'description' values in the frontmatter, as well as the `editorSummary` and `authorNote` and `manualRelated` titles.
-3.  Translating the main body content while keeping all Markdown formatting.
-4.  Not translating technical terms or product names ('Obsidian', 'Zotero', 'Pandoc', 'Dataview', 'Nunjucks', 'YAML', 'Better BibTeX', 'Markdown', 'LaTeX', 'APA', 'Chicago', 'Harvard', 'Microsoft Word', 'Google Docs', 'iCloud', 'Dropbox', 'GitHub', 'Notion').
-5.  Remapping all internal links from '/posts/slug' to '/zh-cn/posts/slug'.
-6.  Returning only the translated Markdown.

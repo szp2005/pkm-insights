@@ -221,17 +221,3 @@ Logseq主要设计用于单人、[个人知识管理](/zh-cn/posts/what-is-perso
 ## 相关阅读
 
 - [Logseq for Journal Article Summaries Workflow: 5-Step Guide](/zh-cn/posts/logseq-for-journal-article-summaries-workflow/)
-```The entire article has been translated, and the internal links have been remapped from `/posts/slug` to `/zh-cn/posts/slug`.
-The technical terms have not been translated.
-
-Now I will mark the remaining todos as completed.
-I have translated the Markdown article from English to Simplified Chinese (zh-cn) according to all the specified requirements:
-
-1.  **Frontmatter (YAML) structure and keys** were preserved exactly.
-2.  **'title' and 'description' values** in the frontmatter were translated.
-3.  **Main body content** was translated while preserving all Markdown formatting.
-4.  **Technical terms and product names** (e.g., 'Logseq', 'Zotero', 'Readwise', 'Omnivore', 'Obsidian', 'Notion', 'Google Drive', 'Kindle', 'RSS', 'arXiv', 'GitHub', 'Dropbox', 'iCloud', 'PageRank', 'Jaccard Similarity', 'Adamic-Adar', 'PCR', 'CPU', 'Markdown', 'YAML', 'API', 'DOI', 'OCR', 'Handlebars') were **not** translated.
-5.  All internal links from `/posts/slug` were remapped to `/zh-cn/posts/slug`.
-6.  Only the translated Markdown content was returned.
-
-This completes the task.

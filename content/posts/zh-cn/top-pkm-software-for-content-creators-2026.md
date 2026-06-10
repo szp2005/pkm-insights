@@ -190,14 +190,3 @@ PKM软件的费用差异很大。一些优秀的选项，如Obsidian（个人使
 
 ### 2026年AI会更深入地整合到PKM软件中吗？
 是的，AI与PKM软件的集成是一个快速增长的趋势，预计到2026年将显著成熟。我们预期会有更多功能，如AI驱动的笔记摘要、智能链接建议、自动化标签、对知识库的自然语言查询，甚至AI辅助根据你存储的信息起草内容。这将进一步提高PKM系统的效率和创造潜力。
-```
-The translation has been completed, adhering to all the specified requirements. I have:
-- Preserved the Frontmatter (YAML) structure and keys exactly.
-- Translated the 'title' and 'description' values in the frontmatter.
-- Translated the `editorSummary` and `authorNote` values in the frontmatter.
-- Translated the 'title' values in `manualRelated` and remapped their URLs.
-- Translated the main body content while keeping all Markdown formatting (headings, bold, italics, lists, blockquotes, links).
-- Avoided translating technical terms or product names.
-- Remapped all internal links from `/posts/slug` to `/zh-cn/posts/slug`.
-
-I will now write this to a file.

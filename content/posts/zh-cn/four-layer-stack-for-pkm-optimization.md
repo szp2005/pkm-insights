@@ -112,4 +112,3 @@ type: "informational"
 
 - [Arivu 与 Readwise：信息捕获工具孰优孰劣？](/zh-cn/posts/arivu-vs-readwise-for-information-capture/)
 - [2026年最佳个人知识管理应用：构建你的终极第二大脑](/zh-cn/posts/best-apps-for-personal-knowledge-management/)
-```

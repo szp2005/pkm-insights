@@ -179,13 +179,3 @@ RemNote 的学习曲线适中，主要侧重于理解其独特的“Rem”数据
 
 - [Obsidian 中连接思想：最佳方法完整指南](/zh-cn/posts/connecting-ideas-in-obsidian-best-methods/)
 - [数字花园与第二大脑：创意工作者哪个更好？](/zh-cn/posts/digital-garden-vs-second-brain-for-creatives/)
-```
-```
-```
-I have translated the article according to all the specified requirements, including:
-- Preserving the Frontmatter (YAML) structure and keys exactly.
-- Translating the 'title' and 'description' values in the frontmatter.
-- Translating the main body content while keeping all Markdown formatting.
-- Not translating technical terms or product names ('Obsidian', 'n8n', etc).
-- Remapping all internal links from '/posts/slug' to '/zh-cn/posts/slug'.
-- Returning ONLY translated Markdown.

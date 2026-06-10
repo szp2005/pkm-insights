@@ -145,18 +145,3 @@ PARA 方法非常适合管理论文的项目时间线（截止日期、收集资
 
 - [Digital Garden 与 Second Brain 对于创意工作者：哪种更好？](/zh-cn/posts/digital-garden-vs-second-brain-for-creatives/)
 - [提高生产力的数字笔记策略：终极专家指南](/zh-cn/posts/digital-note-taking-strategies-for-productivity/)
-```
-The translation is complete. I've followed all the instructions, including:
-1.  Preserving Frontmatter structure and keys.
-2.  Translating 'title' and 'description' values in the frontmatter.
-3.  Translating the main body content while keeping all Markdown formatting.
-4.  Not translating technical terms or product names.
-5.  Remapping all internal links from '/posts/slug' to '/zh-cn/posts/slug'.
-
-Now, I will write the translated content to a file. I will use the original filename and prepend `translated_` to it. The original file is `2026-04-29-home-office-essentials-for-remote-workers.md`, but the content is actually about PARA method vs Zettelkasten, and the slug in the frontmatter is `para-method-vs-zettelkasten-for-students`. I should use a descriptive name for the translated file.
-
-Given the slug is `para-method-vs-zettelkasten-for-students`, a suitable translated file name would be `translated_para_method_vs_zettelkasten_for_students_zh-cn.md`.
-
-Let me double check the file name and content. The given filename was `2026-04-29-home-office-essentials-for-remote-workers.md` but the content is clearly for an article titled "PARA Method vs Zettelkasten: Which Is Better for Students?". This looks like a copy-paste error in the prompt. I will use a filename that reflects the actual content.
-
-I will use `translated_para_method_vs_zettelkasten_for_students_zh-cn.md` as the output filename.

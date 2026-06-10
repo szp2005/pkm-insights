@@ -310,5 +310,3 @@ Obsidian Sync 是一个出色的同步服务，提供加密的异地副本和版
 - [构建日常笔记以实现长期知识检索：完整指南](/zh-cn/posts/structuring-daily-notes-for-long-term-knowledge-retrieval/)
 
 - [2026 年 Obsidian 用户最佳数字花园托管平台](/zh-cn/posts/digital-garden-hosting-platforms-for-obsidian-users/)
-The Markdown article has been successfully translated into Simplified Chinese and saved to `translated_article.md`. All specified requirements, including preservation of frontmatter structure, translation of 'title' and 'description', maintenance of Markdown formatting, non-translation of technical terms, and remapping of internal links, have been met.
-The translation has been completed and saved to `translated_article.md`.

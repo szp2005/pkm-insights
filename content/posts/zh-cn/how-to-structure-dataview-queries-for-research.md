@@ -282,4 +282,3 @@ Dataview 主要查询元数据（frontmatter 和内联字段）和笔记属性�
 - [2026 年最佳手写数字笔记电子墨水平板](/zh-cn/posts/best-e-ink-tablests-for-handwritten-digital-notes-2026/)
 
 - [2026 年最佳 Zoom 会议自动化笔记工具](/zh-cn/posts/automated-note-taking-tools-for-zoom-meetings-2026/)
-The translation is complete and saved to `translated_article.md`.
